@@ -1,0 +1,140 @@
+{
+  "native_feeds": [
+    {
+      "name": "Piauí",
+      "url": "https://piaui.uol.com.br/feed/",
+      "notes": "native"
+    },
+    {
+      "name": "Noize",
+      "url": "https://feeds.feedburner.com/noize",
+      "notes": "native"
+    },
+    {
+      "name": "Ugly Things",
+      "url": "https://ugly-things.com/feed/",
+      "notes": "native"
+    },
+    {
+      "name": "Panenka",
+      "url": "https://www.panenka.org/feed/",
+      "notes": "native (main covers all sections)"
+    },
+    {
+      "name": "Treblezine",
+      "url": "https://www.treblezine.com/feed/",
+      "notes": "native"
+    },
+    {
+      "name": "Folha Ilustrada",
+      "url": "https://feeds.folha.uol.com.br/ilustrada/rss091.xml",
+      "notes": "native approximate for jazz/críticas/show topics"
+    },
+    {
+      "name": "Guia Folha site-wide",
+      "url": "https://guia.folha.uol.com.br/rss.xml",
+      "notes": "native site-wide"
+    },
+    {
+      "name": "Estadão Cultura",
+      "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/cultura/?body=%7B%22layout%22:%22google-news%22%7D",
+      "notes": "native section feed (not author-specific)"
+    },
+    {
+      "name": "Veja SP site-wide",
+      "url": "https://vejasp.abril.com.br/feed/",
+      "notes": "native site-wide (not column)"
+    },
+    {
+      "name": "Correio site-wide",
+      "url": "https://www.correiobraziliense.com.br/feed/",
+      "notes": "native site-wide (not author)"
+    },
+    {
+      "name": "Anthropic News (RSSHub)",
+      "url": "https://rsshub.bestblogs.dev/anthropic/news",
+      "notes": "closest to Claude via RSSHub, unofficial"
+    }
+  ],
+  "scraped_feeds": [
+    {
+      "name": "folha-jazz",
+      "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
+      "output": "out/folha-jazz.xml"
+    },
+    {
+      "name": "folha-criticas-de-musica",
+      "source_url": "https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/",
+      "output": "out/folha-criticas-de-musica.xml"
+    },
+    {
+      "name": "folha-show",
+      "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
+      "output": "out/folha-show.xml"
+    },
+    {
+      "name": "guia-restaurantes",
+      "source_url": "https://guia.folha.uol.com.br/restaurantes/",
+      "output": "out/guia-restaurantes.xml"
+    },
+    {
+      "name": "guia-shows",
+      "source_url": "https://guia.folha.uol.com.br/shows/",
+      "output": "out/guia-shows.xml"
+    },
+    {
+      "name": "estadao-sergio-martins",
+      "source_url": "https://www.estadao.com.br/cultura/sergio-martins/",
+      "output": "out/estadao-sergio-martins.xml"
+    },
+    {
+      "name": "vejasp-tudo-de-som",
+      "source_url": "https://vejasp.abril.com.br/coluna/tudo-de-som/",
+      "output": "out/vejasp-tudo-de-som.xml"
+    },
+    {
+      "name": "correio-irlam-rocha-lima",
+      "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
+      "output": "out/correio-irlam-rocha-lima.xml"
+    },
+    {
+      "name": "billboard-br-sergio-martins",
+      "source_url": "https://billboard.com.br/author/sergio-martins/",
+      "output": "out/billboard-br-sergio-martins.xml"
+    },
+    {
+      "name": "asil-insights",
+      "source_url": "https://asil.org/insights/",
+      "output": "out/asil-insights.xml"
+    },
+    {
+      "name": "xai-news",
+      "source_url": "https://x.ai/news",
+      "output": "out/xai-news.xml"
+    },
+    {
+      "name": "claude-blog",
+      "source_url": "https://claude.com/blog",
+      "output": "out/claude-blog.xml"
+    }
+  ],
+  "combined_feeds": [
+    {
+      "name": "folha-musica-topicos",
+      "parts": [
+        "folha-jazz",
+        "folha-criticas-de-musica",
+        "folha-show"
+      ],
+      "output": "out/folha-musica-topicos.xml"
+    },
+    {
+      "name": "guia-folha-restaurantes-shows",
+      "parts": [
+        "guia-restaurantes",
+        "guia-shows"
+      ],
+      "output": "out/guia-folha-restaurantes-shows.xml"
+    }
+  ]
+}

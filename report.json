@@ -1,0 +1,114 @@
+[
+  {
+    "name": "folha-jazz",
+    "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
+    "output": "out/folha-jazz.xml",
+    "items": 86,
+    "ok": true,
+    "notes": "scraped 86 items"
+  },
+  {
+    "name": "folha-criticas-de-musica",
+    "source_url": "https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/",
+    "output": "out/folha-criticas-de-musica.xml",
+    "items": 46,
+    "ok": true,
+    "notes": "scraped 46 items"
+  },
+  {
+    "name": "folha-show",
+    "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
+    "output": "out/folha-show.xml",
+    "items": 52,
+    "ok": true,
+    "notes": "scraped 52 items"
+  },
+  {
+    "name": "guia-restaurantes",
+    "source_url": "https://guia.folha.uol.com.br/restaurantes/",
+    "output": "out/guia-restaurantes.xml",
+    "items": 78,
+    "ok": true,
+    "notes": "scraped 78 items"
+  },
+  {
+    "name": "guia-shows",
+    "source_url": "https://guia.folha.uol.com.br/shows/",
+    "output": "out/guia-shows.xml",
+    "items": 96,
+    "ok": true,
+    "notes": "scraped 96 items"
+  },
+  {
+    "name": "estadao-sergio-martins",
+    "source_url": "https://www.estadao.com.br/cultura/sergio-martins/",
+    "output": "out/estadao-sergio-martins.xml",
+    "items": 5,
+    "ok": true,
+    "notes": "scraped 5 items"
+  },
+  {
+    "name": "vejasp-tudo-de-som",
+    "source_url": "https://vejasp.abril.com.br/coluna/tudo-de-som/",
+    "output": "out/vejasp-tudo-de-som.xml",
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 items"
+  },
+  {
+    "name": "correio-irlam-rocha-lima",
+    "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
+    "output": "out/correio-irlam-rocha-lima.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
+  },
+  {
+    "name": "billboard-br-sergio-martins",
+    "source_url": "https://billboard.com.br/author/sergio-martins/",
+    "output": "out/billboard-br-sergio-martins.xml",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 items"
+  },
+  {
+    "name": "asil-insights",
+    "source_url": "https://asil.org/insights/",
+    "output": "out/asil-insights.xml",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 items"
+  },
+  {
+    "name": "xai-news",
+    "source_url": "https://x.ai/news",
+    "output": "out/xai-news.xml",
+    "items": 81,
+    "ok": true,
+    "notes": "scraped 81 items"
+  },
+  {
+    "name": "claude-blog",
+    "source_url": "https://claude.com/blog",
+    "output": "out/claude-blog.xml",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 items"
+  },
+  {
+    "name": "folha-musica-topicos",
+    "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
+    "output": "out/folha-musica-topicos.xml",
+    "items": 183,
+    "ok": true,
+    "notes": "merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+  },
+  {
+    "name": "guia-folha-restaurantes-shows",
+    "source_url": "https://guia.folha.uol.com.br/",
+    "output": "out/guia-folha-restaurantes-shows.xml",
+    "items": 174,
+    "ok": true,
+    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
+  }
+]
