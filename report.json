@@ -75,17 +75,17 @@
     "name": "asil-insights",
     "source_url": "https://asil.org/insights/",
     "output": "out/asil-insights.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 items"
   },
   {
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 81,
+    "items": 82,
     "ok": true,
-    "notes": "scraped 81 items"
+    "notes": "scraped 82 items"
   },
   {
     "name": "claude-blog",
@@ -94,6 +94,14 @@
     "items": 15,
     "ok": true,
     "notes": "scraped 15 items"
+  },
+  {
+    "name": "espaco-unimed-agenda",
+    "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
+    "output": "out/espaco-unimed-agenda.xml",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "name": "folha-musica-topicos",
@@ -110,13 +118,5 @@
     "items": 174,
     "ok": true,
     "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
-  },
-  {
-    "name": "espaco-unimed-agenda",
-    "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
-    "output": "feeds/espaco-unimed-agenda.xml",
-    "items": 24,
-    "ok": true,
-    "notes": "scraped 24 items"
   }
 ]

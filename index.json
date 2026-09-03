@@ -120,7 +120,7 @@
     {
       "name": "espaco-unimed-agenda",
       "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
-      "output": "feeds/espaco-unimed-agenda.xml"
+      "output": "out/espaco-unimed-agenda.xml"
     }
   ],
   "combined_feeds": [

@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-03 13:20 UTC
+Generated: 2026-09-03 21:01 UTC
 
 ## Native feeds (not scraped)
 
@@ -36,15 +36,14 @@ Generated: 2026-09-03 13:20 UTC
   notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
-- **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **xai-news** [OK] items=81 → `out/xai-news.xml`  source: https://x.ai/news  
-  notes: scraped 81 items
+- **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
+  notes: scraped 20 items
+- **xai-news** [OK] items=82 → `out/xai-news.xml`  source: https://x.ai/news  
+  notes: scraped 82 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
-
-- **espaco-unimed-agenda** [OK] items=24 → `feeds/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 24 items
+- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Combined feeds
 
