@@ -116,6 +116,11 @@
       "name": "claude-blog",
       "source_url": "https://claude.com/blog",
       "output": "out/claude-blog.xml"
+    },
+    {
+      "name": "espaco-unimed-agenda",
+      "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
+      "output": "feeds/espaco-unimed-agenda.xml"
     }
   ],
   "combined_feeds": [

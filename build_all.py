@@ -270,6 +270,113 @@ def item(
 
 # ---------------- scrapers ----------------
 
+
+def scrape_espaco_unimed(html: str, base: str) -> List[Dict[str, Any]]:
+    """One RSS item per show card on the Espaço Unimed agenda."""
+    from zoneinfo import ZoneInfo
+
+    months = {
+        "jan": 1, "fev": 2, "mar": 3, "abr": 4, "mai": 5, "jun": 6,
+        "jul": 7, "ago": 8, "set": 9, "out": 10, "nov": 11, "dez": 12,
+    }
+    tz = ZoneInfo("America/Sao_Paulo")
+    now = datetime.now(tz)
+    year = now.year
+    last_month: Optional[int] = None
+
+    mlist = re.search(r'<ul class="clean shows">(.*?)</ul>', html, re.S | re.I)
+    block = mlist.group(1) if mlist else html
+    cards = re.findall(r"<li\b[^>]*>(.*?)</li>", block, re.S | re.I)
+    items: List[Dict[str, Any]] = []
+    for card in cards:
+        hm = re.search(
+            r'<h3>\s*<a href="(https://www\.espacounimed\.com\.br/show/[^"]+)"[^>]*>(.*?)</a>',
+            card,
+            re.S | re.I,
+        )
+        if not hm:
+            continue
+        link = hm.group(1).strip()
+        title = strip_tags(hm.group(2))
+        if not title:
+            continue
+
+        def _cls(name: str) -> str:
+            mm = re.search(rf'class="{name}">(.*?)</p>', card, re.S | re.I)
+            return strip_tags(mm.group(1)) if mm else ""
+
+        day_s, month_s, weekday = _cls("day-of-month"), _cls("month"), _cls("day-of-week")
+        sm = re.search(r'class="subtitle">(.*?)</span>', card, re.S | re.I)
+        subtitle = strip_tags(sm.group(1)) if sm else ""
+        tm = re.search(r"<article>.*?<p>(\d{1,2}:\d{2})</p>", card, re.S | re.I)
+        time_s = tm.group(1) if tm else ""
+        tickets = ""
+        tkm = re.search(r"""ticketButton\(\d*\s*,\s*['\"](https?://[^'\"]+)['\"]""", card)
+        if tkm:
+            tickets = tkm.group(1)
+        statuses = []
+        for lab in re.findall(r"<label class='[^']+'>\s*<i></i>\s*<span>([^<]+)</span>", card):
+            lab = strip_tags(lab)
+            if lab:
+                statuses.append(lab)
+
+        month_i = months.get(month_s.lower()[:3])
+        try:
+            day_i = int(day_s)
+        except ValueError:
+            day_i = 1
+        dt: Optional[datetime] = None
+        if month_i:
+            if last_month is None:
+                trial = datetime(year, month_i, min(day_i, 28), tzinfo=tz)
+                if (now - trial).days > 45:
+                    year += 1
+            elif month_i < last_month:
+                year += 1
+            last_month = month_i
+            hh, mm = 12, 0
+            if time_s:
+                try:
+                    hh, mm = [int(x) for x in time_s.split(":")[:2]]
+                except ValueError:
+                    pass
+            try:
+                dt = datetime(year, month_i, day_i, hh, mm, tzinfo=tz)
+            except ValueError:
+                dt = None
+
+        date_label = f"{day_s} {month_s}".strip()
+        if dt:
+            date_label = dt.strftime("%d/%m/%Y")
+        title_full = title
+        extra = " ".join(x for x in (date_label, time_s) if x).strip()
+        if extra:
+            title_full = f"{title} — {extra}"
+
+        desc_bits = []
+        if subtitle:
+            desc_bits.append(subtitle)
+        when = "Espaço Unimed"
+        if weekday:
+            when += f", {weekday}"
+        if date_label:
+            when += f" {date_label}"
+        if time_s:
+            when += f" às {time_s}"
+        desc_bits.append(when)
+        desc_bits.extend(statuses)
+        if tickets:
+            desc_bits.append(f"Ingressos: {tickets}")
+
+        it = item(title_full, link, " · ".join(desc_bits), None)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+
 def scrape_folha_topico(html: str, base: str) -> List[Dict[str, Any]]:
     items = []
     # Prefer headline URL + title + standfirst + datetime nearby
@@ -728,6 +835,15 @@ SCRAPE_TARGETS = [
         "description": "Claude / Anthropic blog posts (scraped)",
         "language": "en",
         "scraper": scrape_claude_blog,
+    },
+{
+        "name": "espaco-unimed-agenda",
+        "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
+        "output": "espaco-unimed-agenda.xml",
+        "title": "Espaço Unimed — Agenda de shows",
+        "description": "Cada show da agenda do Espaço Unimed (São Paulo). Shows novos entram como itens novos.",
+        "language": "pt-BR",
+        "scraper": scrape_espaco_unimed,
     },
 ]
 

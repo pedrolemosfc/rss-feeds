@@ -110,5 +110,13 @@
     "items": 174,
     "ok": true,
     "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
+  },
+  {
+    "name": "espaco-unimed-agenda",
+    "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
+    "output": "feeds/espaco-unimed-agenda.xml",
+    "items": 24,
+    "ok": true,
+    "notes": "scraped 24 items"
   }
 ]

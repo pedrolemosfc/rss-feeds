@@ -43,6 +43,9 @@ Generated: 2026-09-03 13:20 UTC
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
 
+- **espaco-unimed-agenda** [OK] items=24 → `feeds/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: scraped 24 items
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=183 → `out/folha-musica-topicos.xml`  

@@ -15,6 +15,7 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 | ASIL Insights | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/asil-insights.xml |
 | xAI News | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/xai-news.xml |
 | Claude Blog | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/claude-blog.xml |
+| Espaço Unimed — Agenda de shows | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/espaco-unimed-agenda.xml |
 
 ### Também disponíveis (seções individuais)
 
