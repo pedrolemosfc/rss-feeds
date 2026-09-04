@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-03 21:01 UTC
+Generated: 2026-09-04 04:31 UTC
 
 ## Native feeds (not scraped)
 
@@ -38,8 +38,8 @@ Generated: 2026-09-03 21:01 UTC
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
   notes: scraped 20 items
-- **xai-news** [OK] items=82 → `out/xai-news.xml`  source: https://x.ai/news  
-  notes: scraped 82 items
+- **xai-news** [OK] items=83 → `out/xai-news.xml`  source: https://x.ai/news  
+  notes: scraped 83 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
 - **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  

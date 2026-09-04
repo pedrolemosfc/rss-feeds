@@ -83,9 +83,9 @@
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 82,
+    "items": 83,
     "ok": true,
-    "notes": "scraped 82 items"
+    "notes": "scraped 83 items"
   },
   {
     "name": "claude-blog",
