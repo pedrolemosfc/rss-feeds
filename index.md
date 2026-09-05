@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-04 20:44 UTC
+Generated: 2026-09-05 04:26 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,12 +22,12 @@ Generated: 2026-09-04 20:44 UTC
   notes: scraped 86 items
 - **folha-criticas-de-musica** [OK] items=46 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 46 items
-- **folha-show** [OK] items=52 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 52 items
+- **folha-show** [OK] items=53 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 53 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
-- **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
-  notes: scraped 96 items
+- **guia-shows** [OK] items=97 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
+  notes: scraped 97 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
@@ -47,7 +47,7 @@ Generated: 2026-09-04 20:44 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=183 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])
