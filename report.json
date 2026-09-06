@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 24,
-    "ok": true,
-    "notes": "scraped 24 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
     "name": "folha-musica-topicos",

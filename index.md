@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-06 10:55 UTC
+Generated: 2026-09-06 15:28 UTC
 
 ## Native feeds (not scraped)
 
@@ -42,8 +42,8 @@ Generated: 2026-09-06 10:55 UTC
   notes: scraped 84 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
-- **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 24 items
+- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
 
 ## Combined feeds
 
