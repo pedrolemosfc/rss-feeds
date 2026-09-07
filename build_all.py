@@ -918,6 +918,60 @@ def scrape_treblezine(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_estado_da_arte(html: str, base: str) -> List[Dict[str, Any]]:
+    """Estado da Arte (Estadão) — WP REST posts API (all sections; native /feed/ is limited)."""
+    items: List[Dict[str, Any]] = []
+    max_posts = 100
+    per_page = 50
+    page = 1
+    while len(items) < max_posts:
+        api = (
+            "https://estadodaarte.estadao.com.br/wp-json/wp/v2/posts"
+            f"?per_page={per_page}&page={page}&_embed=1"
+        )
+        body, err = fetch(api)
+        if err or not body:
+            break
+        try:
+            posts = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(posts, list) or not posts:
+            break
+        for p in posts:
+            title = (p.get("title") or {}).get("rendered") or ""
+            link = (p.get("link") or "").strip()
+            excerpt = (p.get("excerpt") or {}).get("rendered") or ""
+            date = p.get("date_gmt") or p.get("date")
+            if not link or not title:
+                continue
+            cats: List[str] = []
+            emb = p.get("_embedded") or {}
+            for group in emb.get("wp:term") or []:
+                if not isinstance(group, list):
+                    continue
+                for t in group:
+                    if isinstance(t, dict) and t.get("taxonomy") == "category":
+                        name = t.get("name")
+                        if name:
+                            cats.append(str(name))
+            desc = excerpt
+            if cats:
+                cat_s = ", ".join(cats)
+                desc = f"[{cat_s}] {strip_tags(excerpt)}".strip()
+            items.append(item(title, link, desc, date))
+            if len(items) >= max_posts:
+                break
+        if len(posts) < per_page:
+            break
+        page += 1
+        if page > 4:
+            break
+        time.sleep(0.3)
+    return sort_items(dedupe_items(items))
+
+
 def scrape_musicalidade(html: str, base: str) -> List[Dict[str, Any]]:
     """Musicalidade — WP REST API (native RSS disabled). Site-wide posts."""
     items: List[Dict[str, Any]] = []
@@ -1209,6 +1263,15 @@ SCRAPE_TARGETS = [
         "description": "Posts do Treblezine via WP REST API (nativo unreliable no Reader; all sections)",
         "language": "en",
         "scraper": scrape_treblezine,
+    },
+    {
+        "name": "estado-da-arte",
+        "source_url": "https://estadodaarte.estadao.com.br/",
+        "output": "estado-da-arte.xml",
+        "title": "Estado da Arte | Estadão",
+        "description": "Posts do Estado da Arte (Estadão) via WP REST — todas as seções; nativo /feed/ limitado",
+        "language": "pt-BR",
+        "scraper": scrape_estado_da_arte,
     },
 ]
 

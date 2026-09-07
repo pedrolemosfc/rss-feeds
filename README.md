@@ -23,6 +23,7 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 | Qobuz Magazine BR | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/qobuz-magazine-br.xml |
 | NOIZE | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/noize.xml |
 | Treblezine | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/treblezine.xml |
+| Estado da Arte (Estadão) — todas as seções | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/estado-da-arte.xml |
 
 ### Também disponíveis (seções individuais)
 
@@ -50,6 +51,8 @@ Sites com RSS nativo usable — **não** são scrapados neste repo; use direto:
 - **ISMO** (Ghost principal cobre as seções): https://www.ismo.mov/rss/
 
 > **Nota:** feeds nativos de **NOIZE** (Feedburner / site) e **Treblezine** (`/feed/`) eram unreliable no Readwise Reader — agora há scrapes via WP REST na tabela acima (jsDelivr).
+
+> **Nota:** o nativo `https://estadodaarte.estadao.com.br/feed/` existe mas traz só ~10 itens; o scrape via WP REST na tabela acima cobre todas as seções (jsDelivr).
 
 ## CDN (jsDelivr)
 

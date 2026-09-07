@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-07 16:58 UTC
+Generated: 2026-09-07 17:07 UTC
 
 ## Native feeds (not scraped)
 
@@ -53,6 +53,8 @@ Generated: 2026-09-07 16:58 UTC
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
 - **treblezine** [OK] items=100 → `out/treblezine.xml`  source: https://www.treblezine.com/  
+  notes: scraped 100 items
+- **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
   notes: scraped 100 items
 
 ## Combined feeds

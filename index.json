@@ -146,6 +146,11 @@
       "name": "treblezine",
       "source_url": "https://www.treblezine.com/",
       "output": "out/treblezine.xml"
+    },
+    {
+      "name": "estado-da-arte",
+      "source_url": "https://estadodaarte.estadao.com.br/",
+      "output": "out/estado-da-arte.xml"
     }
   ],
   "combined_feeds": [

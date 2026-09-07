@@ -144,6 +144,14 @@
     "notes": "scraped 100 items"
   },
   {
+    "name": "estado-da-arte",
+    "source_url": "https://estadodaarte.estadao.com.br/",
+    "output": "out/estado-da-arte.xml",
+    "items": 100,
+    "ok": true,
+    "notes": "scraped 100 items"
+  },
+  {
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
