@@ -137,6 +137,9 @@ Generated: 2026-09-07 18:27 UTC
 - **tldb-livesets** [OK] items=80 → `feeds/tldb-livesets.xml`  source: https://tldb.co/  
   notes: homepage livesets scrape
 
+- **bona-eventim-venue** [OK] items=10 → `feeds/bona-eventim-venue.xml`  source: https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/  
+  notes: browser seed page1/28; Actions may timeout
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  

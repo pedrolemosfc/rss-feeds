@@ -1329,30 +1329,49 @@ def scrape_bona_eventim_venue(html: str, base: str) -> List[Dict[str, Any]]:
     items: List[Dict[str, Any]] = []
     seen = set()
     for m in re.finditer(
-        r'href="((?:https://www\.eventim\.com\.br)?/event[^"\s]*|/artist/bona[^"\s]+)"',
+        r'href="((?:https://www\.eventim\.com\.br)?/event/([a-z0-9\-]+)/?)"',
         html,
         re.I,
     ):
-        path = m.group(1)
+        path, slug = m.group(1), m.group(2)
+        if "allevents" in slug:
+            continue
         link = path if path.startswith("http") else abs_url("https://www.eventim.com.br", path)
-        link = link.split("?")[0]
-        if link in seen or "bona-89347" in link:
+        if not link.endswith("/"):
+            link = link + "/"
+        if link in seen:
             continue
         seen.add(link)
-        title = slug_title(link.rstrip("/").split("/")[-1])
-        items.append(item(title, link, "Bona Casa de Música (Eventim venue)", None))
-    # Also product cards with data attributes / titles nearby
-    if not items:
-        for m in re.finditer(
-            r'href="(https://www\.eventim\.com\.br/[^"]+)"[^>]*>[\s\S]{0,400}?<[^>]*class="[^"]*product[^"]*"[^>]*>',
-            html,
+        pos = m.start()
+        window = html[max(0, pos - 500) : pos + 800]
+        tm = re.search(
+            r'(?:product-list-headline|pc-list-product-name|event-list-item)[^>]*>\s*([^<]{3,120})',
+            window,
             re.I,
-        ):
-            link = m.group(1).split("?")[0]
-            if link in seen:
-                continue
-            seen.add(link)
-            items.append(item(slug_title(link.rstrip("/").split("/")[-1]), link, "Bona Casa de Música (Eventim venue)", None))
+        )
+        title = strip_tags(tm.group(1)) if tm else ""
+        if not title:
+            title = slug_title(re.sub(r"-bona-casa-de-musica-\d+$", "", slug))
+        dm = re.search(
+            r'(\d{1,2})\s+(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)\.?\s+(\d{4}).{0,20}?(\d{1,2}):(\d{2})',
+            window,
+            re.I,
+        )
+        date_raw = None
+        dt = None
+        if dm:
+            date_raw = dm.group(0)
+            dt = parse_pt_day_month(dm.group(1), dm.group(2), int(dm.group(3)))
+            if dt:
+                try:
+                    dt = dt.replace(hour=int(dm.group(4)), minute=int(dm.group(5)))
+                except Exception:
+                    pass
+        it = item(title, link, "Bona Casa de Música (Eventim venue)", date_raw)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
     return sort_items(dedupe_items(items))
 
 
