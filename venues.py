@@ -1136,12 +1136,122 @@ def scrape_itau_cultural_agenda(html: str, base: str) -> List[Dict[str, Any]]:
 
 
 
+
+def scrape_cine_joia(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Cine Joia via WP REST Modern Events Calendar (bypasses HTML browser wall)."""
+    items: List[Dict[str, Any]] = []
+    page = 1
+    while page <= 1:
+        url = (
+            "https://www.cinejoia.com.br/wp-json/wp/v2/mec-events"
+            f"?per_page=50&page={page}&orderby=date&order=desc"  # recent announcements ≈ upcoming
+        )
+        body, err = fetch_raw(url, headers={"Accept": "application/json"})
+        if err or not body:
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(data, list) or not data:
+            break
+        for ev in data:
+            if not isinstance(ev, dict):
+                continue
+            title_obj = ev.get("title") or {}
+            title = title_obj.get("rendered") if isinstance(title_obj, dict) else str(title_obj or "")
+            title = html_lib.unescape(strip_tags(title or ""))
+            link = (ev.get("link") or "").split("?")[0]
+            if not title or not link:
+                continue
+            # Event start dates live in MEC tables, not exposed on public REST;
+            # use post date as weak pubDate so Reader still sorts somehow.
+            date_raw = ev.get("date") or ev.get("modified") or ""
+            items.append(item(title, link, "Cine Joia", date_raw))
+        if len(data) < 50:
+            break
+        page += 1
+        time.sleep(0.2)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_porta_shotgun(html: str, base: str) -> List[Dict[str, Any]]:
+    """PORTA on Shotgun — only works when HTML is not Vercel 429."""
+    if not html or len(html) < 20000:
+        return []
+    low = html.lower()
+    if "security checkpoint" in low or ("just a moment" in low and "/pt-br/events/" not in html):
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # SSR cards: href="/pt-br/events/slug" ... alt="Title"
+    for m in re.finditer(
+        r'href="((?:https://shotgun\.live)?/pt-br/events/([a-z0-9\-]+))"([\s\S]{0,900}?)(?:alt="([^"]+)"|</a>)',
+        html,
+        re.I,
+    ):
+        path, slug = m.group(1), m.group(2)
+        link = path if path.startswith("http") else f"https://shotgun.live{path}"
+        link = link.split("?")[0]
+        if link in seen:
+            continue
+        seen.add(link)
+        alt = m.group(4)
+        title = html_lib.unescape(alt).strip() if alt else ""
+        if not title:
+            am = re.search(r'alt="([^"]+)"', m.group(3) or "")
+            title = html_lib.unescape(am.group(1)).strip() if am else slug_title(slug)
+        if title.lower() in ("shotgun", "blur background", "opens in a new window", "p o r t a"):
+            continue
+        items.append(item(title, link, "PORTA (Shotgun)", None))
+    return sort_items(dedupe_items(items))
+
+
+def scrape_cultura_artistica(html: str, base: str) -> List[Dict[str, Any]]:
+    """Cultura Artística eventos — needs Cloudflare cleared HTML."""
+    if not html or "sgcaptcha" in (html or "").lower() or len(html) < 2000:
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'href="(https://culturaartistica\.org/evento/[^"#?]+|/evento/[^"#?]+)"[^>]*>([\s\S]{0,300}?)</a>',
+        html,
+        re.I,
+    ):
+        path = m.group(1)
+        link = abs_url("https://culturaartistica.org", path)
+        if link in seen:
+            continue
+        seen.add(link)
+        title = strip_tags(m.group(2))
+        if not title or len(title) < 2:
+            title = slug_title(link.rstrip("/").split("/")[-1])
+        items.append(item(title, link, "Cultura Artística", None))
+    return sort_items(dedupe_items(items))
+
+
+def scrape_bona_eventim(html: str, base: str) -> List[Dict[str, Any]]:
+    """Bona Casa de Música on Eventim artist page (often blocked)."""
+    if not html or "Access Denied" in html or len(html) < 5000:
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'href="(https://www\.eventim\.com\.br/artist/bona-casa-musica/([^"/?#]+)-\d+/)"',
+        html,
+        re.I,
+    ):
+        link = m.group(1)
+        if link in seen:
+            continue
+        seen.add(link)
+        title = slug_title(re.sub(r"-\d+$", "", m.group(2)))
+        items.append(item(title, link, "Bona Casa de Música (Eventim)", None))
+    return sort_items(dedupe_items(items))
+
+
 VENUE_IMPOSSIBLE = [
-    {"name": "PORTA (Shotgun)", "reason": "Shotgun Cloudflare/Vercel 429; sem API pública"},
-    {"name": "Bona Casa de Música (Eventim)", "reason": "Eventim timeout / Access Denied na API"},
-    {"name": "Cultura Artística", "reason": "SiteShield sgcaptcha"},
-    {"name": "Cine Joia", "reason": "Wall 'Verifying your browser'"},
-    {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API pública; use agenda Itaú Cultural"},
+    {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
 
 
@@ -1355,6 +1465,40 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "description": "Agenda cultural do Itaú Cultural (substitui Inti para listagem pública)",
         "scraper": scrape_itau_cultural_agenda,
     },
+    {
+        "name": "cine-joia",
+        "source_url": "https://www.cinejoia.com.br/agenda/",
+        "output": "cine-joia.xml",
+        "title": "Cine Joia — Agenda",
+        "description": "Shows do Cine Joia (WP REST mec-events; datas = publish date)",
+        "scraper": scrape_cine_joia,
+        "skip_fetch": True,
+    },
+    {
+        "name": "porta-shotgun",
+        "source_url": "https://shotgun.live/pt-br/venues/p-o-r-t-a",
+        "output": "porta-shotgun.xml",
+        "title": "PORTA (Shotgun) — Agenda",
+        "description": "Shows no PORTA via Shotgun (pode falhar com 429 no Actions)",
+        "scraper": scrape_porta_shotgun,
+    },
+    {
+        "name": "cultura-artistica",
+        "source_url": "https://culturaartistica.org/eventos/",
+        "output": "cultura-artistica.xml",
+        "title": "Cultura Artística — Eventos",
+        "description": "Eventos Cultura Artística (pode falhar com captcha no Actions)",
+        "scraper": scrape_cultura_artistica,
+    },
+    {
+        "name": "bona-casa-musica",
+        "source_url": "https://www.eventim.com.br/artist/bona-casa-musica/",
+        "output": "bona-casa-musica.xml",
+        "title": "Bona Casa de Música (Eventim)",
+        "description": "Agenda Bona via Eventim (timeouts/Access Denied frequentes)",
+        "scraper": scrape_bona_eventim,
+        "timeout": 15,
+    },
 ]
 
 
@@ -1376,7 +1520,11 @@ def run_venue_scrape(target: Dict[str, Any]) -> Dict[str, Any]:
     if not target.get("skip_fetch"):
         headers = target.get("fetch_headers") or {}
         # Always use fetch_raw (handles gzip, e.g. Sala São Paulo)
-        html, err = fetch_raw(source, headers=headers or None)
+        html, err = fetch_raw(
+            source,
+            headers=headers or None,
+            timeout=int(target.get("timeout") or 40),
+        )
         if err or not html:
             report["notes"] = f"fetch failed: {err or 'empty body'}"
             return report

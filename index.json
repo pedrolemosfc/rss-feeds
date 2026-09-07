@@ -339,28 +339,32 @@
       "name": "itau-cultural-agenda",
       "source_url": "https://www.itaucultural.org.br/agenda",
       "output": "feeds/itau-cultural-agenda.xml"
+    },
+    {
+      "name": "cine-joia",
+      "source_url": "https://www.cinejoia.com.br/agenda/",
+      "output": "feeds/cine-joia.xml"
+    },
+    {
+      "name": "porta-shotgun",
+      "source_url": "https://shotgun.live/pt-br/venues/p-o-r-t-a",
+      "output": "feeds/porta-shotgun.xml"
+    },
+    {
+      "name": "cultura-artistica",
+      "source_url": "https://culturaartistica.org/eventos/",
+      "output": "feeds/cultura-artistica.xml"
+    },
+    {
+      "name": "bona-casa-musica",
+      "source_url": "https://www.eventim.com.br/artist/bona-casa-musica/",
+      "output": "feeds/bona-casa-musica.xml"
     }
   ],
   "venue_impossible": [
     {
-      "name": "PORTA (Shotgun)",
-      "reason": "Shotgun Cloudflare/Vercel 429; sem API pública"
-    },
-    {
-      "name": "Bona Casa de Música (Eventim)",
-      "reason": "Eventim timeout / Access Denied na API"
-    },
-    {
-      "name": "Cultura Artística",
-      "reason": "SiteShield sgcaptcha"
-    },
-    {
-      "name": "Cine Joia",
-      "reason": "Wall 'Verifying your browser'"
-    },
-    {
       "name": "Itaú Cultural (Inti tickets)",
-      "reason": "SPA byInti sem API pública; use agenda Itaú Cultural"
+      "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"
     }
   ]
 }

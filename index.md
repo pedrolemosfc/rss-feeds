@@ -123,6 +123,15 @@ Generated: 2026-09-07 18:27 UTC
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 
+- **cine-joia** [OK] items=31 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
+  notes: WP REST mec-events (browser-seeded dates)
+- **porta-shotgun** [OK] items=5 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
+  notes: browser seed; Actions may hit 429
+- **cultura-artistica** [OK] items=32 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
+  notes: browser seed; Actions may hit captcha
+- **bona-casa-musica** [OK] items=10 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
+  notes: browser seed partial (10/27); Eventim wall
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  
