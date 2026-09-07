@@ -17,6 +17,8 @@ from datetime import datetime, timezone
 from typing import Any, Callable, Dict, List, Optional, Tuple
 from xml.sax.saxutils import escape
 
+import venues as venues_mod
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "feeds")
 UA = (
@@ -1481,7 +1483,44 @@ def main() -> int:
     with open(report_path, "w", encoding="utf-8") as f:
         json.dump(all_reports, f, ensure_ascii=False, indent=2)
 
+    # Venue feeds (native mirrors + scrapers)
+    venues_mod._bind_helpers(sys.modules[__name__])
+    venue_reports = venues_mod.run_all_venues()
+    for r in venue_reports:
+        rr = dict(r)
+        rr.pop("_items", None)
+        all_reports.append(rr)
+
+    # Refresh index.json with venue catalog
+    try:
+        with open(os.path.join(ROOT, "index.json"), encoding="utf-8") as f:
+            idx = json.load(f)
+    except Exception:
+        idx = {}
+    idx["venue_native_mirrors"] = [
+        {
+            "name": s["out_name"].replace(".xml", ""),
+            "source_url": s["source_url"],
+            "output": f"feeds/{s['out_name']}",
+        }
+        for s in venues_mod.VENUE_NATIVE_MIRRORS
+    ]
+    idx["venue_scraped_feeds"] = [
+        {
+            "name": t["name"],
+            "source_url": t["source_url"],
+            "output": f"feeds/{t['output']}",
+        }
+        for t in venues_mod.VENUE_SCRAPE_TARGETS
+    ]
+    idx["venue_impossible"] = venues_mod.VENUE_IMPOSSIBLE
+    with open(os.path.join(ROOT, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(idx, f, ensure_ascii=False, indent=2)
+
     write_index_md(NATIVE_FEEDS, all_reports)
+
+    with open(report_path, "w", encoding="utf-8") as f:
+        json.dump(all_reports, f, ensure_ascii=False, indent=2)
 
     # Summary
     print("\n===== REPORT SUMMARY =====")

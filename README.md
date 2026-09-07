@@ -54,6 +54,56 @@ Sites com RSS nativo usable — **não** são scrapados neste repo; use direto:
 
 > **Nota:** o nativo `https://estadodaarte.estadao.com.br/feed/` existe mas traz só ~10 itens; o scrape via WP REST na tabela acima cobre todas as seções (jsDelivr).
 
+
+## Casas de show / venues (jsDelivr)
+
+Um item RSS por show/evento anunciado. Espelhos nativos e scrapes; Content-Type `application/xml` via jsDelivr.
+
+| Venue | Feed |
+|------|------|
+| Nubank Parque — Shows (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/nubank-parque-shows.xml |
+| Terra SP (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/terra-sp.xml |
+| MIS-SP — Eventos (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/mis-sp.xml |
+| Teatro B32 (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/teatro-b32.xml |
+| Tokio Marine Hall (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/tokio-marine-hall.xml |
+| Casa Natura Musical — Eventos (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/casa-natura-musical.xml |
+| Guarulhos Cultural (nativo espelhado) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/guarulhos-cultural.xml |
+| Concerto revista (nativo espelhado; não é calendário de venue) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/concerto.xml |
+| Teatro Bradesco | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/teatro-bradesco.xml |
+| Vibra São Paulo | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/vibra-sp.xml |
+| Theatro Municipal | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/theatro-municipal.xml |
+| Multi Arena Campinas | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/multi-arena-campinas.xml |
+| Suhai Music Hall | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/suhai-music-hall.xml |
+| Blue Note SP | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/blue-note-sp.xml |
+| Arena B3 | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/arena-b3.xml |
+| Bourbon Street | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/bourbon-street.xml |
+| Mercado Livre Arena Pacaembu (Songkick) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/songkick-pacaembu.xml |
+| Fabrique Club (Bandsintown) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/fabrique-club.xml |
+| Estádio Morumbis (Live Nation) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/morumbis-live-nation.xml |
+| Carioca Club | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/carioca-club.xml |
+| Juventus — Eventos | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/juventus-eventos.xml |
+| Komplexo Tempo | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/komplexo-tempo.xml |
+| BTG Pactual Hall | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/btg-pactual-hall.xml |
+| Sala São Paulo | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/sala-sao-paulo.xml |
+| Audio SP | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/audio-sp.xml |
+| Teatro das Artes SP | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/teatro-das-artes-sp.xml |
+| Casa de Francisca | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/casa-de-francisca.xml |
+| Jazz B | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/jazz-b.xml |
+
+## Não foi possível
+
+Venues sem fonte pública estável o bastante para um feed confiável (documentado a partir do probe):
+
+- **PORTA (Shotgun)** — Shotgun; sem listagem scrapeável estável
+- **The Cavern Club SP** — Sem feed/listagem pública útil
+- **Multiplan Hall SC (Ticketmaster)** — Ticketmaster; bloqueios/JS
+- **Manifesto Bar** — Sem fonte pública estável
+- **Rockambole (Meaple)** — Meaple; sem scrape estável
+- **Bona Casa de Música (Eventim)** — Eventim; sem listagem estável
+- **Cultura Artística** — Sem fonte pública scrapeável
+- **Cine Joia** — Sem listagem pública estável
+- **Itaú Cultural (Inti)** — Inti; sem scrape estável
+
 ## CDN (jsDelivr)
 
 Além do raw do GitHub, os XML em `feeds/` também podem ser servidos via jsDelivr, por exemplo:
