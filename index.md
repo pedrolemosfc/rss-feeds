@@ -137,6 +137,9 @@ Generated: 2026-09-07 21:33 UTC
 - **bona-eventim-venue** [FAIL] items=0 → `feeds/bona-eventim-venue.xml`  source: https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/  
   notes: fetch failed: TimeoutError: The read operation timed out
 
+- **cafe-brasil-premium** [OK] items=80 → `feeds/cafe-brasil-premium.xml`  source: https://www.cafebrasilpremium.com.br/app  
+  notes: Inertia /app/busca, top by published_at (paywall no áudio)
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  

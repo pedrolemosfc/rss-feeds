@@ -1375,6 +1375,81 @@ def scrape_bona_eventim_venue(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
+    headers = {
+        "Accept": "text/html, application/xhtml+xml",
+        "X-Inertia": "true",
+        "X-Requested-With": "XMLHttpRequest",
+    }
+    collected: List[Dict[str, Any]] = []
+    max_pages = 12  # 12*30 ≈ 360 items, then take newest 80
+    for page in range(1, max_pages + 1):
+        url = f"https://www.cafebrasilpremium.com.br/app/busca?page={page}"
+        body, err = fetch_raw(url, headers=headers, timeout=45)
+        if err or not body:
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        pag = (
+            (data.get("props") or {})
+            .get("contents", {})
+            .get("data")
+            or {}
+        )
+        rows = pag.get("data") if isinstance(pag, dict) else None
+        if not isinstance(rows, list) or not rows:
+            break
+        collected.extend(rows)
+        last = pag.get("last_page") or page
+        if page >= last:
+            break
+        time.sleep(0.25)
+
+    def _pub(ev: Dict[str, Any]) -> str:
+        return ev.get("published_at") or ev.get("created_at") or ""
+
+    collected.sort(key=_pub, reverse=True)
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for ev in collected:
+        if not isinstance(ev, dict):
+            continue
+        eid = ev.get("id")
+        if eid in seen:
+            continue
+        seen.add(eid)
+        title = (ev.get("title") or "").strip()
+        if not title:
+            continue
+        full = ev.get("content_full_url") or ""
+        if full:
+            link = abs_url("https://www.cafebrasilpremium.com.br", full)
+        else:
+            cat = (ev.get("category") or {}).get("slug") or "conteudo"
+            slug = ev.get("slug") or ""
+            if not slug:
+                continue
+            link = f"https://www.cafebrasilpremium.com.br/app/{cat}/{slug}"
+        summary = strip_tags(ev.get("summary") or "")
+        cat_title = (ev.get("category") or {}).get("title") or ""
+        typ = ev.get("type") or ""
+        desc = " · ".join(x for x in (cat_title, typ, summary) if x)
+        pub = _pub(ev)
+        it = item(title, link, desc or "Café Brasil Premium", pub)
+        dt = parse_date(pub)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+        if len(items) >= 80:
+            break
+    return sort_items(dedupe_items(items))
+
+
 VENUE_IMPOSSIBLE = [
     {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
@@ -1653,6 +1728,15 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "description": "Agenda Bona via página de venue Eventim (pode falhar com wall)",
         "scraper": scrape_bona_eventim_venue,
         "timeout": 20,
+    },
+    {
+        "name": "cafe-brasil-premium",
+        "source_url": "https://www.cafebrasilpremium.com.br/app",
+        "output": "cafe-brasil-premium.xml",
+        "title": "Café Brasil Premium — Conteúdos",
+        "description": "Novidades do app Café Brasil Premium (busca Inertia; paywall no player)",
+        "scraper": scrape_cafe_brasil_premium,
+        "skip_fetch": True,
     },
 ]
 

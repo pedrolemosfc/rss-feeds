@@ -374,6 +374,11 @@
       "name": "bona-eventim-venue",
       "source_url": "https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/",
       "output": "feeds/bona-eventim-venue.xml"
+    },
+    {
+      "name": "cafe-brasil-premium",
+      "source_url": "https://www.cafebrasilpremium.com.br/app",
+      "output": "feeds/cafe-brasil-premium.xml"
     }
   ],
   "venue_impossible": [
