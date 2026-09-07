@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-07 04:39 UTC
+Generated: 2026-09-07 12:30 UTC
 
 ## Native feeds (not scraped)
 
@@ -20,8 +20,8 @@ Generated: 2026-09-07 04:39 UTC
 
 - **folha-jazz** [OK] items=86 → `out/folha-jazz.xml`  source: https://www1.folha.uol.com.br/folha-topicos/jazz/  
   notes: scraped 86 items
-- **folha-criticas-de-musica** [OK] items=46 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
-  notes: scraped 46 items
+- **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
+  notes: scraped 47 items
 - **folha-show** [OK] items=52 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 52 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
@@ -32,8 +32,8 @@ Generated: 2026-09-07 04:39 UTC
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
   notes: scraped 30 items
-- **correio-irlam-rocha-lima** [FAIL] items=0 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
-  notes: fetch failed: TimeoutError: The read operation timed out
+- **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
+  notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
@@ -47,7 +47,7 @@ Generated: 2026-09-07 04:39 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=183 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])
