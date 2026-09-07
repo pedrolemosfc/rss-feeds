@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -139,9 +139,9 @@
     "name": "treblezine",
     "source_url": "https://www.treblezine.com/",
     "output": "out/treblezine.xml",
-    "items": 100,
-    "ok": true,
-    "notes": "scraped 100 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "name": "estado-da-arte",
@@ -270,9 +270,9 @@
     "name": "multi-arena-campinas",
     "source_url": "https://multiarenacampinas.com.br/programacao/",
     "output": "feeds/multi-arena-campinas.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -297,9 +297,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 4,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -324,9 +324,9 @@
     "name": "fabrique-club",
     "source_url": "https://www.bandsintown.com/pt/v/10077222-fabrique-club",
     "output": "feeds/fabrique-club.xml",
-    "items": 4,
-    "ok": true,
-    "notes": "scraped 4 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -441,9 +441,9 @@
     "name": "multiplan-hall-sc",
     "source_url": "https://www.ticketmaster.com.br/venue/multiplan-hall-sc",
     "output": "feeds/multiplan-hall-sc.xml",
-    "items": 1,
-    "ok": true,
-    "notes": "scraped 1 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -462,6 +462,69 @@
     "items": 50,
     "ok": true,
     "notes": "scraped 50 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cine-joia",
+    "source_url": "https://www.cinejoia.com.br/agenda/",
+    "output": "feeds/cine-joia.xml",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "porta-shotgun",
+    "source_url": "https://shotgun.live/pt-br/venues/p-o-r-t-a",
+    "output": "feeds/porta-shotgun.xml",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 429: Too Many Requests",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cultura-artistica",
+    "source_url": "https://culturaartistica.org/eventos/",
+    "output": "feeds/cultura-artistica.xml",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "bona-casa-musica",
+    "source_url": "https://www.eventim.com.br/artist/bona-casa-musica/",
+    "output": "feeds/bona-casa-musica.xml",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "farol-conde-arena",
+    "source_url": "https://farmacondearena.com.br/agenda",
+    "output": "feeds/farol-conde-arena.xml",
+    "items": 6,
+    "ok": true,
+    "notes": "scraped 6 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "tldb-livesets",
+    "source_url": "https://tldb.co/",
+    "output": "feeds/tldb-livesets.xml",
+    "items": 80,
+    "ok": true,
+    "notes": "scraped 80 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "bona-eventim-venue",
+    "source_url": "https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/",
+    "output": "feeds/bona-eventim-venue.xml",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out",
     "kind": "venue-scrape"
   }
 ]

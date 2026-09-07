@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 07 Sep 2026 18:27:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:31:51 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyMiIsImRpc2xpa2VzIjoiMCJ9?token=waCYSK98C9nhvtrVVPYxoQEBugSJSLRgkSHutyAGkqk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyMiIsImRpc2xpa2VzIjoiMCJ9?token=qfiaBPhzW365eqiv_IlQUjvaowKgYNdIxURcChAmZ3o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;522&lt;/span&gt;
@@ -88,7 +88,7 @@
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Apresentações em São Paulo acontecem dias depois de seu retorno histórico à Hungria, onde não tocava desde a ascensão ao poder de Viktor Orbán&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O pianista András Schiff faz dois recitais esta semana no Teatro Cultura Artística. Nos dias 8 e 10, ele vai apresentar obras de Bach, Haydn, Beethoven e Schubert – mas, como tem sido prática em suas apresentações, ele só vai revelar as obras no palco.&lt;/p&gt;
-&lt;p&gt;“Faço isso porque é algo que deixa a vida muito mais interessante e menos previsível. Falar com o público cria uma conexão mais imediata, rompe as barreiras entre nós”, explicou ele em entrevista à Revista CONCERTO de setembro [leia &lt;strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/node/282560" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/strong&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
+&lt;p&gt;“Faço isso porque é algo que deixa a vida muito mais interessante e menos previsível. Falar com o público cria uma conexão mais imediata, rompe as barreiras entre nós”, explicou ele em entrevista à Revista CONCERTO de setembro [leia &lt;u&gt;&lt;a href="https://concerto.com.br/node/282560" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
 &lt;p&gt;Na entrevista, ele falou também da importância de Bach em seu repertório. “Bach para mim é como um pai, até mais; ele representa Deus, o divino. Sendo um homem devoto, sua música sempre é altamente espiritual. Ele também é muito humilde e desprovido de ego. Bach não ligava para sua própria reputação ou fama, estava escrevendo para a comunidade. Enxergo todos os demais compositores posteriores através da influência de Bach. Estão todos relacionados a ele”. &lt;/p&gt;
 &lt;p&gt;As apresentações de Schiff no Brasil se dão dias após um momento histórico na trajetória do pianista: depois de 16 anos sem se apresentar na Hungria, ele fez, nos dias 3 e 4, dois recitais em Budapeste. A decisão de se ausentar nos palcos do país foi motivada pela ascensão do primeiro-ministro de extrema-direita Viktor Orbán, que chegou ao poder em 2010 e foi derrotado nas últimas eleições.&lt;/p&gt;
 &lt;p&gt;Na passagem por Budapeste, Schiff recebeu o título de doutor honoris causa na Academia Franz Liszt. “Não se deve ser ingênuo. Sou apenas um grão de areia no oceano. Não sei que impacto terão aquilo que defendo ou o que digo, e certamente não mudarei o mundo. Mas minha consciência precisa estar tranquila. Quando alguém se levanta de manhã, vai ao banheiro e se olha no espelho, não deveria sentir vontade de cuspir nele. E isso já é alguma coisa”, disse ele na cerimônia.&lt;/p&gt;
@@ -140,10 +140,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=T2Qt_OzQna1W6vm0id9hdApVK2Hn_2WJHD1hKsvSKa4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=VIhNxYwGvDZAaDNRxf-4MLT0XhL60JwU-THi2XBlKPU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -225,10 +225,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=_UOn33g0sCZRcuijCLy7GNiw5H8Vg2-2WjGyiqj2hD4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=6_3MQrNRLB3wl92DATZ50HRBlD_MjsDB6WMZNpWd3c8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -304,10 +304,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Bl3F-I_JJLl4IKtVCIxlJ_fr9H3_c0_SmC60JXyjCq8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kZ7EYxTpoOQaWwSYA7X26MybleTgMHJK9rL3X1_dH1Y?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -386,7 +386,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=4TeHbj75zgX0YwgPSng018SjOO1pXjJkPCZlT21yfRs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=rbAl5ou3p6kh8Ut_L8z45Iy3YGkTGSoWOAuzuwj1Vo8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;

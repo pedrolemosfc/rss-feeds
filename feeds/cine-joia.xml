@@ -1,226 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Cine Joia — Agenda</title>
-    <link>https://www.cinejoia.com.br/agenda/</link>
-    <description>Shows do Cine Joia</description>
-    <language>pt-BR</language>
-    <item>
-      <title>TOUCHÉ AMORÉ (EUA)</title>
-      <link>https://www.cinejoia.com.br/eventos/touche-amore-eua/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/touche-amore-eua/</guid>
-      <description>Cine Joia · 2026-09-12 18:00</description>
-      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOULIDIFIED – WHAT’S YOUR NAME” WORLD TOUR 2026</title>
-      <link>https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</guid>
-      <description>Cine Joia · 2026-09-13 19:00</description>
-      <pubDate>Sun, 13 Sep 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TOE</title>
-      <link>https://www.cinejoia.com.br/eventos/toe/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/toe/</guid>
-      <description>Cine Joia · 2026-09-17 20:00</description>
-      <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TOE – DATA EXTRA</title>
-      <link>https://www.cinejoia.com.br/eventos/toe-515/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/toe-515/</guid>
-      <description>Cine Joia · 2026-09-18 20:00</description>
-      <pubDate>Fri, 18 Sep 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LAUREN JAUREGUI – SESSÃO EXTRA</title>
-      <link>https://www.cinejoia.com.br/eventos/lauren-jauregui-457/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lauren-jauregui-457/</guid>
-      <description>Cine Joia · 2026-09-19 16:00</description>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LAUREN JAUREGUI</title>
-      <link>https://www.cinejoia.com.br/eventos/lauren-jauregui/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lauren-jauregui/</guid>
-      <description>Cine Joia · 2026-09-19 20:00</description>
-      <pubDate>Sat, 19 Sep 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGLORE – FLUXO NATURAL</title>
-      <link>https://www.cinejoia.com.br/eventos/maglore-fluxo-natural/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maglore-fluxo-natural/</guid>
-      <description>Cine Joia · 2026-09-25 20:30</description>
-      <pubDate>Fri, 25 Sep 2026 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MÃEANA CANTA JG</title>
-      <link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</guid>
-      <description>Cine Joia · 2026-09-26 20:00</description>
-      <pubDate>Sat, 26 Sep 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MÃEANA CANTA JG – DATA EXTRA</title>
-      <link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</guid>
-      <description>Cine Joia · 2026-09-27 17:00</description>
-      <pubDate>Sun, 27 Sep 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SUDAN ARCHIVES</title>
-      <link>https://www.cinejoia.com.br/eventos/sudan-archives/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/sudan-archives/</guid>
-      <description>Cine Joia · 2026-09-28 20:00</description>
-      <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CHAPTERHOUSE E TERRAPLANA</title>
-      <link>https://www.cinejoia.com.br/eventos/chapterhouse-e-terraplana/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/chapterhouse-e-terraplana/</guid>
-      <description>Cine Joia · 2026-09-29 19:00</description>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2ZDINIZZ</title>
-      <link>https://www.cinejoia.com.br/eventos/2zdinizz/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/2zdinizz/</guid>
-      <description>Cine Joia · 2026-10-02 20:00</description>
-      <pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LBR APRESENTA: CURUMIN CANTA CASSIANO // 50 ANOS DE “CUBAN SOUL: 18 KILATES” COM HYLDON</title>
-      <link>https://www.cinejoia.com.br/eventos/lbr-apresenta-curumin-canta-cassiano-50-anos-de-cuban-soul-18-kilates-com-hyldon/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lbr-apresenta-curumin-canta-cassiano-50-anos-de-cuban-soul-18-kilates-com-hyldon/</guid>
-      <description>Cine Joia · 2026-10-03 20:00</description>
-      <pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A FLOCK OF SEAGULLS</title>
-      <link>https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</guid>
-      <description>Cine Joia · 2026-10-07 19:00</description>
-      <pubDate>Wed, 07 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISEO &amp; DODOSOUND</title>
-      <link>https://www.cinejoia.com.br/eventos/iseo-dodosound/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/iseo-dodosound/</guid>
-      <description>Cine Joia · 2026-10-09 20:00</description>
-      <pubDate>Fri, 09 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TIGERS JAW</title>
-      <link>https://www.cinejoia.com.br/eventos/tigers-jaw/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tigers-jaw/</guid>
-      <description>Cine Joia · 2026-10-10 18:00</description>
-      <pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EL MATO A UN POLICIA MOTORIZADO</title>
-      <link>https://www.cinejoia.com.br/eventos/el-mato-a-un-policia-motorizado/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/el-mato-a-un-policia-motorizado/</guid>
-      <description>Cine Joia · 2026-10-11 18:00</description>
-      <pubDate>Sun, 11 Oct 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VENERE VAI VENUS: HALLOVVVEEN</title>
-      <link>https://www.cinejoia.com.br/eventos/venere-vai-venus-hallovvveen-no-cine-joia/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/venere-vai-venus-hallovvveen-no-cine-joia/</guid>
-      <description>Cine Joia · 2026-10-16 20:00</description>
-      <pubDate>Fri, 16 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LUV(SIC) HEXALOGY LATIN AMERICA TOUR 2026</title>
-      <link>https://www.cinejoia.com.br/eventos/luvsic-hexalogy-latin-america-tour-2026/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/luvsic-hexalogy-latin-america-tour-2026/</guid>
-      <description>Cine Joia · 2026-10-17 20:00</description>
-      <pubDate>Sat, 17 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KNEECAP</title>
-      <link>https://www.cinejoia.com.br/eventos/kneecap/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/kneecap/</guid>
-      <description>Cine Joia · 2026-10-23 20:00</description>
-      <pubDate>Fri, 23 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JOVEM DIONÍSIO</title>
-      <link>https://www.cinejoia.com.br/eventos/jovem-dionisio/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/jovem-dionisio/</guid>
-      <description>Cine Joia · 2026-10-24 20:00</description>
-      <pubDate>Sat, 24 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LOS MIRLOS</title>
-      <link>https://www.cinejoia.com.br/eventos/los-mirlos/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-mirlos/</guid>
-      <description>Cine Joia · 2026-10-30 20:00</description>
-      <pubDate>Fri, 30 Oct 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DEAD MOON NIGHT</title>
-      <link>https://www.cinejoia.com.br/eventos/dead-moon-night/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/dead-moon-night/</guid>
-      <description>Cine Joia · 2026-10-31 19:00</description>
-      <pubDate>Sat, 31 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TR/ST</title>
-      <link>https://www.cinejoia.com.br/eventos/tr-st/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tr-st/</guid>
-      <description>Cine Joia · 2026-11-01 19:00</description>
-      <pubDate>Sun, 01 Nov 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JMSN</title>
-      <link>https://www.cinejoia.com.br/eventos/jmsn/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/jmsn/</guid>
-      <description>Cine Joia · 2026-11-14 20:00</description>
-      <pubDate>Sat, 14 Nov 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIX SEX APRESENTA: ULTRA</title>
-      <link>https://www.cinejoia.com.br/eventos/six-sex-apresenta-ultra/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/six-sex-apresenta-ultra/</guid>
-      <description>Cine Joia · 2026-11-21 21:00</description>
-      <pubDate>Sat, 21 Nov 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TRICKY</title>
-      <link>https://www.cinejoia.com.br/eventos/tricky/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tricky/</guid>
-      <description>Cine Joia · 2026-11-26 23:00</description>
-      <pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATERCIOPELADOS</title>
-      <link>https://www.cinejoia.com.br/eventos/aterciopelados/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/aterciopelados/</guid>
-      <description>Cine Joia · 2026-11-29 17:00</description>
-      <pubDate>Sun, 29 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YAIMA</title>
-      <link>https://www.cinejoia.com.br/eventos/yaima/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/yaima/</guid>
-      <description>Cine Joia · 2026-12-19 20:30</description>
-      <pubDate>Sat, 19 Dec 2026 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IRMA</title>
-      <link>https://www.cinejoia.com.br/eventos/irma/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/irma/</guid>
-      <description>Cine Joia · 2027-01-08 20:00</description>
-      <pubDate>Fri, 08 Jan 2027 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BUFFALO TOM</title>
-      <link>https://www.cinejoia.com.br/eventos/buffalo-tom/</link>
-      <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/buffalo-tom/</guid>
-      <description>Cine Joia · 2027-02-27 18:00</description>
-      <pubDate>Sat, 27 Feb 2027 18:00:00 +0000</pubDate>
-    </item>
-  </channel>
+<channel>
+<title>Cine Joia — Agenda</title>
+<link>https://www.cinejoia.com.br/agenda/</link>
+<description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
+<language>pt-BR</language>
+<lastBuildDate>Mon, 07 Sep 2026 21:32:40 +0000</lastBuildDate>
+<item>
+<title>2zdinizz</title>
+<link>https://www.cinejoia.com.br/eventos/2zdinizz/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/2zdinizz/</guid>
+<pubDate>Wed, 02 Sep 2026 12:02:52 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Venere Vai Venus: Hallovvveen</title>
+<link>https://www.cinejoia.com.br/eventos/venere-vai-venus-hallovvveen-no-cine-joia/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/venere-vai-venus-hallovvveen-no-cine-joia/</guid>
+<pubDate>Mon, 31 Aug 2026 18:05:16 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>TRICKY</title>
+<link>https://www.cinejoia.com.br/eventos/tricky/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tricky/</guid>
+<pubDate>Wed, 26 Aug 2026 12:33:11 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LBR apresenta: Curumin canta Cassiano // 50 Anos de “Cuban Soul: 18 Kilates” com Hyldon</title>
+<link>https://www.cinejoia.com.br/eventos/lbr-apresenta-curumin-canta-cassiano-50-anos-de-cuban-soul-18-kilates-com-hyldon/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lbr-apresenta-curumin-canta-cassiano-50-anos-de-cuban-soul-18-kilates-com-hyldon/</guid>
+<pubDate>Tue, 25 Aug 2026 12:24:26 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Sudan Archives</title>
+<link>https://www.cinejoia.com.br/eventos/sudan-archives/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/sudan-archives/</guid>
+<pubDate>Tue, 25 Aug 2026 12:00:12 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>JMSN</title>
+<link>https://www.cinejoia.com.br/eventos/jmsn/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/jmsn/</guid>
+<pubDate>Tue, 25 Aug 2026 10:49:47 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LAUREN JAUREGUI – SESSÃO EXTRA</title>
+<link>https://www.cinejoia.com.br/eventos/lauren-jauregui-457/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lauren-jauregui-457/</guid>
+<pubDate>Mon, 17 Aug 2026 12:48:52 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>SIX SEX Apresenta: Ultra</title>
+<link>https://www.cinejoia.com.br/eventos/six-sex-apresenta-ultra/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/six-sex-apresenta-ultra/</guid>
+<pubDate>Wed, 12 Aug 2026 18:39:20 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>MAGLORE – FLUXO NATURAL</title>
+<link>https://www.cinejoia.com.br/eventos/maglore-fluxo-natural/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maglore-fluxo-natural/</guid>
+<pubDate>Mon, 10 Aug 2026 15:27:59 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LAUREN JAUREGUI</title>
+<link>https://www.cinejoia.com.br/eventos/lauren-jauregui/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lauren-jauregui/</guid>
+<pubDate>Mon, 03 Aug 2026 20:45:54 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Luv(Sic) Hexalogy Latin America Tour 2026</title>
+<link>https://www.cinejoia.com.br/eventos/luvsic-hexalogy-latin-america-tour-2026/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/luvsic-hexalogy-latin-america-tour-2026/</guid>
+<pubDate>Wed, 29 Jul 2026 14:09:00 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LOS CAFRES</title>
+<link>https://www.cinejoia.com.br/eventos/los-cafres-2/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-cafres-2/</guid>
+<pubDate>Wed, 29 Jul 2026 13:57:14 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>KNEECAP</title>
+<link>https://www.cinejoia.com.br/eventos/kneecap/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/kneecap/</guid>
+<pubDate>Wed, 22 Jul 2026 10:08:01 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Fafá 50 Anos</title>
+<link>https://www.cinejoia.com.br/eventos/fafa-50-anos/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/fafa-50-anos/</guid>
+<pubDate>Mon, 20 Jul 2026 18:13:18 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>OTTO – 25 ANOS DE Condom BLACK</title>
+<link>https://www.cinejoia.com.br/eventos/otto-25-anos-de-codom-black/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/otto-25-anos-de-codom-black/</guid>
+<pubDate>Thu, 16 Jul 2026 17:36:16 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Black Pantera</title>
+<link>https://www.cinejoia.com.br/eventos/black-pantera/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/black-pantera/</guid>
+<pubDate>Wed, 15 Jul 2026 17:55:24 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Jovem Dionísio</title>
+<link>https://www.cinejoia.com.br/eventos/jovem-dionisio/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/jovem-dionisio/</guid>
+<pubDate>Wed, 15 Jul 2026 17:45:07 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Nova Twins</title>
+<link>https://www.cinejoia.com.br/eventos/nova-twins/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/nova-twins/</guid>
+<pubDate>Wed, 15 Jul 2026 12:12:17 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Bogotá + Candela</title>
+<link>https://www.cinejoia.com.br/eventos/bogota-candela/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/bogota-candela/</guid>
+<pubDate>Fri, 03 Jul 2026 12:44:34 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>irma</title>
+<link>https://www.cinejoia.com.br/eventos/irma/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/irma/</guid>
+<pubDate>Thu, 02 Jul 2026 14:12:12 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Aterciopelados</title>
+<link>https://www.cinejoia.com.br/eventos/aterciopelados/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/aterciopelados/</guid>
+<pubDate>Thu, 02 Jul 2026 12:45:08 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Ryu, The Runner Apresenta: Adulto Ideal Vol.2</title>
+<link>https://www.cinejoia.com.br/eventos/ryu-the-runner-apresenta-adulto-ideal-vol-2/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/ryu-the-runner-apresenta-adulto-ideal-vol-2/</guid>
+<pubDate>Tue, 30 Jun 2026 15:46:53 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Mãeana Canta Jg – data extra</title>
+<link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</guid>
+<pubDate>Tue, 30 Jun 2026 11:55:25 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Mãeana Canta Jg</title>
+<link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</guid>
+<pubDate>Fri, 26 Jun 2026 11:48:03 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LOS MIRLOS</title>
+<link>https://www.cinejoia.com.br/eventos/los-mirlos/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-mirlos/</guid>
+<pubDate>Thu, 25 Jun 2026 18:00:04 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>ISEO &amp; DODOSOUND</title>
+<link>https://www.cinejoia.com.br/eventos/iseo-dodosound/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/iseo-dodosound/</guid>
+<pubDate>Mon, 22 Jun 2026 15:36:30 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>LOS CAFRES</title>
+<link>https://www.cinejoia.com.br/eventos/los-cafres/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-cafres/</guid>
+<pubDate>Mon, 22 Jun 2026 15:33:58 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Pra Sempre Cringe</title>
+<link>https://www.cinejoia.com.br/eventos/pra-sempre-cringe-2/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/pra-sempre-cringe-2/</guid>
+<pubDate>Mon, 22 Jun 2026 15:29:10 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>MV Bill e banda + KMILA CDD</title>
+<link>https://www.cinejoia.com.br/eventos/mv-bill-e-banda-kmila-cdd/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/mv-bill-e-banda-kmila-cdd/</guid>
+<pubDate>Mon, 15 Jun 2026 18:19:00 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Kamaitachi acústico</title>
+<link>https://www.cinejoia.com.br/eventos/kamaitachi-acustico/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/kamaitachi-acustico/</guid>
+<pubDate>Mon, 15 Jun 2026 17:32:33 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>The Slackers</title>
+<link>https://www.cinejoia.com.br/eventos/the-slackers/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/the-slackers/</guid>
+<pubDate>Mon, 15 Jun 2026 11:58:37 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>TR/ST</title>
+<link>https://www.cinejoia.com.br/eventos/tr-st/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tr-st/</guid>
+<pubDate>Mon, 15 Jun 2026 10:31:52 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>SPIM – BAD LUV – METADE DE MIM – BUDANG – Chococorn and the Sugarcanes</title>
+<link>https://www.cinejoia.com.br/eventos/spim-bad-luv-metade-de-mim-budang-chococorn-and-the-sugarcanes/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/spim-bad-luv-metade-de-mim-budang-chococorn-and-the-sugarcanes/</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:41 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Budah</title>
+<link>https://www.cinejoia.com.br/eventos/budah/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/budah/</guid>
+<pubDate>Wed, 10 Jun 2026 20:00:32 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>El Mato a un Policia Motorizado</title>
+<link>https://www.cinejoia.com.br/eventos/el-mato-a-un-policia-motorizado/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/el-mato-a-un-policia-motorizado/</guid>
+<pubDate>Wed, 10 Jun 2026 12:03:44 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>SOULIDIFIED – WHAT’S YOUR NAME” World Tour 2026</title>
+<link>https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</guid>
+<pubDate>Tue, 09 Jun 2026 12:55:50 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>DEAD MOON NIGHT</title>
+<link>https://www.cinejoia.com.br/eventos/dead-moon-night/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/dead-moon-night/</guid>
+<pubDate>Tue, 09 Jun 2026 12:50:39 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>KL Jay + DJ Cia convidam</title>
+<link>https://www.cinejoia.com.br/eventos/kl-jay-dj-cia-convidam/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/kl-jay-dj-cia-convidam/</guid>
+<pubDate>Mon, 08 Jun 2026 18:19:10 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Boaventura</title>
+<link>https://www.cinejoia.com.br/eventos/boaventura/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/boaventura/</guid>
+<pubDate>Fri, 29 May 2026 15:48:56 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>TIGERS JAW</title>
+<link>https://www.cinejoia.com.br/eventos/tigers-jaw/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tigers-jaw/</guid>
+<pubDate>Fri, 29 May 2026 15:41:39 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Vhs Pride 2026</title>
+<link>https://www.cinejoia.com.br/eventos/vhs-pride-2026/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/vhs-pride-2026/</guid>
+<pubDate>Wed, 20 May 2026 13:19:44 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Alma Djem</title>
+<link>https://www.cinejoia.com.br/eventos/alma-djem-2/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/alma-djem-2/</guid>
+<pubDate>Fri, 15 May 2026 12:31:52 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>A Flock Of Seagulls</title>
+<link>https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</guid>
+<pubDate>Tue, 12 May 2026 18:55:02 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Shawn James</title>
+<link>https://www.cinejoia.com.br/eventos/shawn-james/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/shawn-james/</guid>
+<pubDate>Tue, 12 May 2026 17:37:56 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>lamparina</title>
+<link>https://www.cinejoia.com.br/eventos/lamparina-2/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lamparina-2/</guid>
+<pubDate>Fri, 08 May 2026 15:22:25 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Só Os Loucos Sabem</title>
+<link>https://www.cinejoia.com.br/eventos/so-os-loucos-sabem/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/so-os-loucos-sabem/</guid>
+<pubDate>Mon, 27 Apr 2026 18:22:34 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Vhs Latina – Watch Party Shakira</title>
+<link>https://www.cinejoia.com.br/eventos/vhs-latina-watch-party-shakira/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/vhs-latina-watch-party-shakira/</guid>
+<pubDate>Mon, 27 Apr 2026 13:54:02 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>In-Edit – Fernanda Abreu – Da Lata 30 Anos!</title>
+<link>https://www.cinejoia.com.br/eventos/in-edit-fernanda-abreu-da-lata-30-anos/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/in-edit-fernanda-abreu-da-lata-30-anos/</guid>
+<pubDate>Fri, 24 Apr 2026 17:08:49 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Protoje + Alborosie</title>
+<link>https://www.cinejoia.com.br/eventos/protoje-alborosie/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/protoje-alborosie/</guid>
+<pubDate>Fri, 24 Apr 2026 17:07:02 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>ONE OR EIGHT</title>
+<link>https://www.cinejoia.com.br/eventos/one-or-eight/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/one-or-eight/</guid>
+<pubDate>Mon, 20 Apr 2026 16:58:10 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+</channel>
 </rss>

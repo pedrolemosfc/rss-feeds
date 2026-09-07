@@ -5,7 +5,7 @@
 <link>https://site.bileto.sympla.com.br/arenab3/</link>
 <description>Eventos Arena B3 via iframe Sympla/Bileto</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 07 Sep 2026 18:27:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:32:05 +0000</lastBuildDate>
 <item>
 <title>Evento 125163</title>
 <link>https://bileto.sympla.com.br/event/125163</link>
@@ -28,6 +28,12 @@
 <title>FTSP - QUANDO EU ERA MULHER</title>
 <link>https://bileto.sympla.com.br/event/124579</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/124579</guid>
+<description>Arena B3</description>
+</item>
+<item>
+<title>FTSP - EM BUSCA DE JUDITH</title>
+<link>https://bileto.sympla.com.br/event/126691</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/126691</guid>
 <description>Arena B3</description>
 </item>
 </channel>
