@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 53,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 53 items"
+    "notes": "scraped 52 items"
   },
   {
     "name": "guia-restaurantes",
@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -107,9 +107,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 184,
+    "items": 183,
     "ok": true,
-    "notes": "merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
