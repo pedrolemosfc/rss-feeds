@@ -28,6 +28,16 @@ UA = (
 NATIVE_FEEDS = [
     {"name": "Piauí", "url": "https://piaui.uol.com.br/feed/", "notes": "native"},
     {"name": "Noize", "url": "https://feeds.feedburner.com/noize", "notes": "native"},
+    {
+        "name": "TIME",
+        "url": "https://time.com/feed/",
+        "notes": "native (one feed covers all sections)",
+    },
+    {
+        "name": "ISMO",
+        "url": "https://www.ismo.mov/rss/",
+        "notes": "native Ghost main (covers sections)",
+    },
     {"name": "Ugly Things", "url": "https://ugly-things.com/feed/", "notes": "native"},
     {
         "name": "Panenka",
@@ -727,6 +737,201 @@ def scrape_claude_blog(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_page9_artes(html: str, base: str) -> List[Dict[str, Any]]:
+    """Page9 /artes — prefer Nuxt SSR payload, fall back to HTML cards."""
+    items: List[Dict[str, Any]] = []
+    # Nuxt payload: list of {title, excerpt, url, author, ...}
+    m = re.search(
+        r'<script[^>]*id="__NUXT_DATA__"[^>]*>(.*?)</script>',
+        html,
+        re.S | re.I,
+    )
+    if m:
+        try:
+            data = json.loads(m.group(1))
+            if isinstance(data, list):
+                for obj in data:
+                    if not isinstance(obj, dict):
+                        continue
+                    if not {"title", "url", "excerpt"}.issubset(obj.keys()):
+                        continue
+
+                    def resolve(ref: Any) -> Any:
+                        if isinstance(ref, int) and 0 <= ref < len(data):
+                            return data[ref]
+                        return ref
+
+                    url = resolve(obj.get("url"))
+                    title = resolve(obj.get("title"))
+                    excerpt = resolve(obj.get("excerpt")) or ""
+                    author = resolve(obj.get("author")) or ""
+                    if not isinstance(url, str) or not url.startswith("/artes/"):
+                        continue
+                    if url.rstrip("/") == "/artes":
+                        continue
+                    if not isinstance(title, str) or not title.strip():
+                        continue
+                    link = abs_url("https://page9.com", url)
+                    desc = excerpt if isinstance(excerpt, str) else ""
+                    if isinstance(author, str) and author.strip():
+                        desc = (desc + " — " + author.strip()).strip(" —")
+                    items.append(item(title, link, desc, None))
+        except (json.JSONDecodeError, TypeError, ValueError):
+            pass
+
+    if not items:
+        # HTML: anchors to /artes/slug with img alt / h2 / p
+        for m in re.finditer(
+            r'<a href="(/artes/[a-z0-9\-]+)"[^>]*>(.*?)</a>',
+            html,
+            re.S | re.I,
+        ):
+            path, inner = m.group(1), m.group(2)
+            if path.rstrip("/") == "/artes":
+                continue
+            link = abs_url("https://page9.com", path)
+            hm = re.search(r"<h[1-6][^>]*>(.*?)</h[1-6]>", inner, re.S | re.I)
+            am = re.search(r'alt="([^"]+)"', inner)
+            title = strip_tags(hm.group(1)) if hm else (am.group(1).strip() if am else "")
+            if not title:
+                title = path.rsplit("/", 1)[-1].replace("-", " ")
+            pm = re.search(r"<p[^>]*>(.*?)</p>", inner, re.S | re.I)
+            desc = strip_tags(pm.group(1)) if pm else ""
+            items.append(item(title, link, desc, None))
+
+    return sort_items(dedupe_items(items))
+
+
+def scrape_musicalidade(html: str, base: str) -> List[Dict[str, Any]]:
+    """Musicalidade — WP REST API (native RSS disabled). Site-wide posts."""
+    items: List[Dict[str, Any]] = []
+    max_posts = 100
+    per_page = 50
+    page = 1
+    while len(items) < max_posts:
+        api = (
+            "https://musicalidade.com/wp-json/wp/v2/posts"
+            f"?per_page={per_page}&page={page}&_embed=1"
+        )
+        body, err = fetch(api)
+        if err or not body:
+            break
+        try:
+            posts = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(posts, list) or not posts:
+            break
+        for p in posts:
+            title = (p.get("title") or {}).get("rendered") or ""
+            link = p.get("link") or ""
+            excerpt = (p.get("excerpt") or {}).get("rendered") or ""
+            date = p.get("date_gmt") or p.get("date")
+            if not link or not title:
+                continue
+            cats: List[str] = []
+            emb = p.get("_embedded") or {}
+            for group in emb.get("wp:term") or []:
+                if not isinstance(group, list):
+                    continue
+                for t in group:
+                    if isinstance(t, dict) and t.get("taxonomy") == "category":
+                        name = t.get("name")
+                        if name:
+                            cats.append(str(name))
+            desc = excerpt
+            if cats:
+                cat_s = ", ".join(cats)
+                desc = f"[{cat_s}] {strip_tags(excerpt)}".strip()
+            items.append(item(title, link, desc, date))
+            if len(items) >= max_posts:
+                break
+        if len(posts) < per_page:
+            break
+        page += 1
+        if page > 4:
+            break
+        time.sleep(0.3)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_qobuz_magazine_br(html: str, base: str) -> List[Dict[str, Any]]:
+    """Qobuz Magazine BR — hub + section pages, one merged feed."""
+    from zoneinfo import ZoneInfo
+
+    tz = ZoneInfo("America/Sao_Paulo")
+    section_paths = [
+        "/br-pt/magazine/section/news",
+        "/br-pt/magazine/section/panoramas",
+        "/br-pt/magazine/section/interviews",
+    ]
+    # Discover extra top-level sections from hub HTML
+    for path in re.findall(r'href="(/br-pt/magazine/section/[a-z0-9\-]+)"', html, re.I):
+        if path not in section_paths and path.count("/") == 4:
+            section_paths.append(path)
+
+    pages: List[Tuple[str, str]] = [("hub", html)]
+    for path in section_paths:
+        url = abs_url("https://www.qobuz.com", path)
+        body, err = fetch(url)
+        if body and not err:
+            pages.append((path, body))
+        time.sleep(0.35)
+
+    items: List[Dict[str, Any]] = []
+    story_re = re.compile(
+        r'href="((?:https://www\.qobuz\.com)?/br-pt/magazine/story/'
+        r'(\d{4})/(\d{2})/(\d{2})/([^"/]+)/?)"',
+        re.I,
+    )
+    title_re = re.compile(
+        r'href="((?:https://www\.qobuz\.com)?/br-pt/magazine/story/'
+        r'\d{4}/\d{2}/\d{2}/[^"]+/?)"[^>]*>\s*'
+        r'<h[1-6][^>]*(?:title="([^"]*)")?[^>]*>(.*?)</h[1-6]>',
+        re.S | re.I,
+    )
+
+    for _label, page_html in pages:
+        titles_by_path: Dict[str, str] = {}
+        for m in title_re.finditer(page_html):
+            href = m.group(1)
+            path_only = urllib.parse.urlparse(abs_url("https://www.qobuz.com", href)).path
+            t = (m.group(2) or "").strip() or strip_tags(m.group(3))
+            if t:
+                titles_by_path[path_only.rstrip("/") + "/"] = t
+
+        for m in story_re.finditer(page_html):
+            href, y, mo, d, slug = m.groups()
+            link = abs_url("https://www.qobuz.com", href)
+            if not link.endswith("/"):
+                link += "/"
+            path_key = urllib.parse.urlparse(link).path
+            if not path_key.endswith("/"):
+                path_key += "/"
+            title = titles_by_path.get(path_key) or slug.replace("-", " ").strip()
+            # description: nearby tag label if present
+            idx = m.start()
+            chunk = page_html[max(0, idx - 400) : idx + 600]
+            tag_m = re.search(
+                r'class="section-cards-tag"[^>]*>(.*?)</a>',
+                chunk,
+                re.S | re.I,
+            )
+            desc = strip_tags(tag_m.group(1)) if tag_m else ""
+            try:
+                dt = datetime(int(y), int(mo), int(d), 12, 0, tzinfo=tz)
+            except ValueError:
+                dt = None
+            it = item(title, link, desc, None)
+            if dt:
+                it["_dt"] = dt
+                it["pubDate"] = rfc822(dt)
+            items.append(it)
+
+    return sort_items(dedupe_items(items))
+
+
 SCRAPE_TARGETS = [
     {
         "name": "folha-jazz",
@@ -844,6 +1049,33 @@ SCRAPE_TARGETS = [
         "description": "Cada show da agenda do Espaço Unimed (São Paulo). Shows novos entram como itens novos.",
         "language": "pt-BR",
         "scraper": scrape_espaco_unimed,
+    },
+    {
+        "name": "page9-artes",
+        "source_url": "https://page9.com/artes",
+        "output": "page9-artes.xml",
+        "title": "Page9 — Artes",
+        "description": "Artigos da seção Artes no Page9 (scraped)",
+        "language": "pt-BR",
+        "scraper": scrape_page9_artes,
+    },
+    {
+        "name": "musicalidade",
+        "source_url": "https://musicalidade.com/",
+        "output": "musicalidade.xml",
+        "title": "Musicalidade",
+        "description": "Posts do Musicalidade via WP REST API (RSS nativo desativado)",
+        "language": "pt-BR",
+        "scraper": scrape_musicalidade,
+    },
+    {
+        "name": "qobuz-magazine-br",
+        "source_url": "https://www.qobuz.com/br-pt/magazine",
+        "output": "qobuz-magazine-br.xml",
+        "title": "Qobuz Magazine BR",
+        "description": "Qobuz Magazine (BR-PT): news, panoramas, interviews e demais seções (scraped, deduped)",
+        "language": "pt-BR",
+        "scraper": scrape_qobuz_magazine_br,
     },
 ]
 

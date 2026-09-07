@@ -16,6 +16,9 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 | xAI News | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/xai-news.xml |
 | Claude Blog | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/claude-blog.xml |
 | Espaço Unimed — Agenda de shows | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/espaco-unimed-agenda.xml |
+| Page9 — Artes | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/page9-artes.xml |
+| Musicalidade | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/musicalidade.xml |
+| Qobuz Magazine BR | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/qobuz-magazine-br.xml |
 
 ### Também disponíveis (seções individuais)
 
@@ -35,6 +38,23 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 - Panenka: https://www.panenka.org/feed/
 - Treblezine: https://www.treblezine.com/feed/
 - good-music.kiev.ua (junto): https://www.rssrssrssrss.com/api/merge?url=http%3A%2F%2Fgood-music.kiev.ua%2Fnews%2Frss%2F&url=http%3A%2F%2Fgood-music.kiev.ua%2Fload%2Frss%2F&url=http%3A%2F%2Fgood-music.kiev.ua%2Fpubl%2Frss%2F
+
+
+## Nativos deste lote
+
+Sites com RSS nativo usable — **não** são scrapados neste repo; use direto:
+
+- **TIME** (todas as seções num feed): https://time.com/feed/
+- **NOIZE**: https://feeds.feedburner.com/noize
+- **ISMO** (Ghost principal cobre as seções): https://www.ismo.mov/rss/
+
+## CDN (jsDelivr)
+
+Além do raw do GitHub, os XML em `feeds/` também podem ser servidos via jsDelivr, por exemplo:
+
+`https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/page9-artes.xml`
+
+(substitua o nome do arquivo conforme a tabela acima).
 
 ## Atualização
 

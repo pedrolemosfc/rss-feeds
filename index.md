@@ -1,11 +1,13 @@
 # RSS feeds index
 
-Generated: 2026-09-07 12:30 UTC
+Generated: 2026-09-07 16:23 UTC
 
 ## Native feeds (not scraped)
 
 - **Piauí**: https://piaui.uol.com.br/feed/ — native
 - **Noize**: https://feeds.feedburner.com/noize — native
+- **TIME**: https://time.com/feed/ — native (one feed covers all sections)
+- **ISMO**: https://www.ismo.mov/rss/ — native Ghost main (covers sections)
 - **Ugly Things**: https://ugly-things.com/feed/ — native
 - **Panenka**: https://www.panenka.org/feed/ — native (main covers all sections)
 - **Treblezine**: https://www.treblezine.com/feed/ — native
@@ -44,6 +46,12 @@ Generated: 2026-09-07 12:30 UTC
   notes: scraped 15 items
 - **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
   notes: scraped 24 items
+- **page9-artes** [OK] items=18 → `out/page9-artes.xml`  source: https://page9.com/artes  
+  notes: scraped 18 items
+- **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
+  notes: scraped 100 items
+- **qobuz-magazine-br** [OK] items=30 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
+  notes: scraped 30 items
 
 ## Combined feeds
 

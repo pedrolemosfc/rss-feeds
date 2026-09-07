@@ -104,6 +104,30 @@
     "notes": "scraped 24 items"
   },
   {
+    "name": "page9-artes",
+    "source_url": "https://page9.com/artes",
+    "output": "out/page9-artes.xml",
+    "items": 18,
+    "ok": true,
+    "notes": "scraped 18 items"
+  },
+  {
+    "name": "musicalidade",
+    "source_url": "https://musicalidade.com/",
+    "output": "out/musicalidade.xml",
+    "items": 100,
+    "ok": true,
+    "notes": "scraped 100 items"
+  },
+  {
+    "name": "qobuz-magazine-br",
+    "source_url": "https://www.qobuz.com/br-pt/magazine",
+    "output": "out/qobuz-magazine-br.xml",
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 items"
+  },
+  {
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",

@@ -11,6 +11,16 @@
       "notes": "native"
     },
     {
+      "name": "TIME",
+      "url": "https://time.com/feed/",
+      "notes": "native (one feed covers all sections)"
+    },
+    {
+      "name": "ISMO",
+      "url": "https://www.ismo.mov/rss/",
+      "notes": "native Ghost main (covers sections)"
+    },
+    {
       "name": "Ugly Things",
       "url": "https://ugly-things.com/feed/",
       "notes": "native"
@@ -121,6 +131,21 @@
       "name": "espaco-unimed-agenda",
       "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
       "output": "out/espaco-unimed-agenda.xml"
+    },
+    {
+      "name": "page9-artes",
+      "source_url": "https://page9.com/artes",
+      "output": "out/page9-artes.xml"
+    },
+    {
+      "name": "musicalidade",
+      "source_url": "https://musicalidade.com/",
+      "output": "out/musicalidade.xml"
+    },
+    {
+      "name": "qobuz-magazine-br",
+      "source_url": "https://www.qobuz.com/br-pt/magazine",
+      "output": "out/qobuz-magazine-br.xml"
     }
   ],
   "combined_feeds": [
