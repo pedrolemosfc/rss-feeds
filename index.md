@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-07 17:07 UTC
+Generated: 2026-09-07 18:27 UTC
 
 ## Native feeds (not scraped)
 
@@ -56,6 +56,72 @@ Generated: 2026-09-07 17:07 UTC
   notes: scraped 100 items
 - **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
   notes: scraped 100 items
+- **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
+  notes: mirrored 10 native items
+- **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
+  notes: mirrored 10 native items
+- **mis-sp** [OK] items=24 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 24 native items
+- **teatro-b32** [OK] items=10 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
+  notes: mirrored 10 native items
+- **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
+  notes: mirrored 10 native items
+- **casa-natura-musical** [OK] items=10 → `feeds/casa-natura-musical.xml`  source: https://casanaturamusical.com.br/eventos/feed/  
+  notes: mirrored 10 native items
+- **guarulhos-cultural** [OK] items=10 → `feeds/guarulhos-cultural.xml`  source: https://guarulhoscultural.com.br/feed/  
+  notes: mirrored 10 native items
+- **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
+  notes: mirrored 10 native items
+- **teatro-bradesco** [OK] items=54 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 54 events
+- **vibra-sp** [OK] items=25 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
+  notes: scraped 25 events
+- **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
+  notes: scraped 8 events
+- **multi-arena-campinas** [OK] items=10 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
+  notes: scraped 10 events
+- **suhai-music-hall** [OK] items=12 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: scraped 12 events
+- **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
+  notes: scraped 50 events
+- **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
+  notes: scraped 4 events
+- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 26 events
+- **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
+  notes: scraped 8 events
+- **fabrique-club** [OK] items=4 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
+  notes: scraped 4 events
+- **morumbis-live-nation** [OK] items=4 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
+  notes: scraped 4 events
+- **carioca-club** [OK] items=23 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 23 events
+- **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
+  notes: scraped 12 events
+- **komplexo-tempo** [OK] items=18 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: scraped 18 events
+- **btg-pactual-hall** [OK] items=23 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
+  notes: scraped 23 events
+- **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
+  notes: scraped 40 events
+- **audio-sp** [OK] items=38 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 38 events
+- **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
+  notes: scraped 11 events
+- **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 50 events
+- **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 11 events
+- **cavern-club-sp** [OK] items=28 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 28 events
+- **manifesto-bar** [OK] items=16 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
+  notes: scraped 16 events
+- **multiplan-hall-sc** [OK] items=1 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
+  notes: scraped 1 events
+- **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 17 events
+- **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
+  notes: scraped 50 events
 
 ## Combined feeds
 

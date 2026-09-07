@@ -909,16 +909,239 @@ VENUE_NATIVE_MIRRORS = [
 ]
 
 
+
+def scrape_cavern_club(html: str, base: str) -> List[Dict[str, Any]]:
+    """Agenda cards on thecavernclubsp.com.br/agenda/ (Elementor articles)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(r"<article[^>]*>([\s\S]*?)</article>", html, re.I):
+        block = m.group(1)
+        lm = re.search(r'href="(https?://thecavernclubsp\.com\.br/[^"]+/)"', block)
+        if not lm:
+            lm = re.search(r'href="(https?://thecavernclubsp\.com\.br/[^"]+)"', block)
+        if not lm:
+            continue
+        link = lm.group(1).split("?")[0]
+        if link.rstrip("/") in (
+            "https://thecavernclubsp.com.br",
+            "https://thecavernclubsp.com.br/agenda",
+            "https://thecavernclubsp.com.br/eventos",
+        ):
+            continue
+        if link in seen:
+            continue
+        seen.add(link)
+        title = strip_tags(block)
+        title = re.sub(r"\s+", " ", title).strip()
+        if not title or len(title) < 2:
+            title = slug_title(link.rstrip("/").split("/")[-1])
+        # date hints in slug: 11set, 15-set, 26setembro
+        slug = link.rstrip("/").split("/")[-1]
+        date_raw = None
+        dm = re.search(
+            r"(\d{1,2})-?(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)[a-z]*-?(\d{2,4})?",
+            slug,
+            re.I,
+        )
+        dt = None
+        if dm:
+            year = None
+            if dm.group(3):
+                y = int(dm.group(3))
+                year = y if y > 99 else 2000 + y
+            dt = parse_pt_day_month(dm.group(1), dm.group(2), year)
+            date_raw = dm.group(0)
+        it = item(title, link, "The Cavern Club SP", date_raw)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_manifesto_bar(html: str, base: str) -> List[Dict[str, Any]]:
+    """Programação Manifesto: posters linking to Clube do Ingresso."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'<a[^>]+href="(https://www\.clubedoingresso\.com/evento/[^"]+)"[^>]*>([\s\S]*?)</a>',
+        html,
+        re.I,
+    ):
+        link = m.group(1).split("?")[0]
+        if link in seen:
+            continue
+        seen.add(link)
+        block = m.group(2)
+        img = re.search(r'src="([^"]+)"', block)
+        alt = re.search(r'alt="([^"]*)"', block)
+        title = html_lib.unescape(alt.group(1)).strip() if alt and alt.group(1).strip() else ""
+        if not title:
+            title = slug_title(link.rstrip("/").split("/")[-1])
+        date_raw = None
+        dt = None
+        if img:
+            # filenames like 11-09instagram-... or 02-10instagram
+            dm = re.search(r"/(\d{2})-(\d{2})(?:instagram|/)", img.group(1))
+            if dm:
+                day, month = int(dm.group(1)), int(dm.group(2))
+                year = datetime.now(timezone.utc).year
+                try:
+                    dt = datetime(year, month, day, 12, 0, tzinfo=timezone.utc)
+                    now = datetime.now(timezone.utc)
+                    if (now - dt).days > 60:
+                        dt = datetime(year + 1, month, day, 12, 0, tzinfo=timezone.utc)
+                    date_raw = f"{day:02d}/{month:02d}/{dt.year}"
+                except ValueError:
+                    dt = None
+        it = item(title, link, "Manifesto Bar", date_raw)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_ticketmaster_multiplan(html: str, base: str) -> List[Dict[str, Any]]:
+    """Ticketmaster BR venue page for Multiplan Hall SC."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # TM BR uses single-quoted attrs in the event_list cards
+    for m in re.finditer(
+        r"href=(['\"])((?:\.\./)?event/([^'\"?#]+))\1[^>]*>([\s\S]*?)</a>",
+        html,
+        re.I,
+    ):
+        slug, inner = m.group(3), m.group(4)
+        link = f"https://www.ticketmaster.com.br/event/{slug}"
+        if link in seen:
+            continue
+        seen.add(link)
+        alt = re.search(r"alt=(['\"])(.*?)\1", inner)
+        h3 = re.search(r"<h3[^>]*>(.*?)</h3>", inner, re.S | re.I)
+        title = ""
+        if alt:
+            title = html_lib.unescape(alt.group(2)).strip()
+        if not title and h3:
+            title = strip_tags(h3.group(1))
+        if not title:
+            title = strip_tags(inner)
+        title = re.sub(r"\s+", " ", title).strip()
+        if not title or len(title) < 3:
+            title = slug_title(slug)
+        date_raw = None
+        dt = None
+        dm = re.search(r"(\d{1,2}/\d{1,2}/\d{4})", title)
+        if dm:
+            date_raw = dm.group(1)
+            dt = parse_br_date(date_raw)
+        else:
+            dm2 = re.search(
+                r"(\d{1,2})\s+e\s+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
+                title,
+                re.I,
+            )
+            if dm2:
+                dt = parse_pt_day_month(dm2.group(1), dm2.group(3), int(dm2.group(4)))
+                date_raw = dm2.group(0)
+            else:
+                dm3 = re.search(
+                    r"(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
+                    title,
+                    re.I,
+                )
+                if dm3:
+                    dt = parse_pt_day_month(dm3.group(1), dm3.group(2), int(dm3.group(3)))
+                    date_raw = dm3.group(0)
+        it = item(title, link, "Multiplan Hall SC (Ticketmaster)", date_raw)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_rockambole_meaple(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Casa Rockambole via Meaple channel API (+ hardcoded Fastix extras in page JS ignored here)."""
+    channel_id = "cly3c6lbd0317o0290komzimt"
+    url = f"https://api.meaple.com.br/v1/channels/{channel_id}/events?type=FUTURE"
+    body, err = fetch_raw(url, headers={"Accept": "application/json"})
+    if err or not body:
+        return []
+    try:
+        data = json.loads(body)
+    except json.JSONDecodeError:
+        return []
+    items: List[Dict[str, Any]] = []
+    for ev in data.get("events") or []:
+        if not isinstance(ev, dict):
+            continue
+        name = ev.get("name") or ""
+        slug = ev.get("slug") or ""
+        ch = (ev.get("channel") or {}).get("slug") or "rockambole"
+        if not name or not slug:
+            continue
+        link = f"https://meaple.com.br/{ch}/{slug}"
+        starts = ev.get("startsAt") or ev.get("opensAt") or ""
+        desc = "Casa Rockambole (Meaple)"
+        it = item(name, link, desc, starts)
+        dt = parse_date(starts)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    # Also include static Fastix promotions listed on the Meaple page bundle when present
+    # (fetch current rockambole page chunk is fragile; leave API as source of truth)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_itau_cultural_agenda(html: str, base: str) -> List[Dict[str, Any]]:
+    """Itaú Cultural agenda from Next.js __NEXT_DATA__ (replaces Inti SPA)."""
+    m = re.search(
+        r'<script[^>]+id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>',
+        html,
+        re.S | re.I,
+    )
+    if not m:
+        return []
+    try:
+        data = json.loads(m.group(1))
+    except json.JSONDecodeError:
+        return []
+    schedules = (
+        data.get("props", {})
+        .get("pageProps", {})
+        .get("schedules")
+        or []
+    )
+    items: List[Dict[str, Any]] = []
+    for ev in schedules:
+        if not isinstance(ev, dict):
+            continue
+        title = ev.get("title") or ""
+        slug = ev.get("slug") or ""
+        if not title or not slug:
+            continue
+        link = f"https://www.itaucultural.org.br/secoes/agenda/{slug}"
+        start = ev.get("startDate") or ev.get("initDate") or ev.get("publishedAt") or ""
+        short = ev.get("shortDescription") or ""
+        desc = f"Itaú Cultural — {short}".strip(" —")
+        it = item(title, link, desc, start)
+        dt = parse_date(start)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+
 VENUE_IMPOSSIBLE = [
-    {"name": "PORTA (Shotgun)", "reason": "Shotgun; sem listagem scrapeável estável"},
-    {"name": "The Cavern Club SP", "reason": "Sem feed/listagem pública útil"},
-    {"name": "Multiplan Hall SC (Ticketmaster)", "reason": "Ticketmaster; bloqueios/JS"},
-    {"name": "Manifesto Bar", "reason": "Sem fonte pública estável"},
-    {"name": "Rockambole (Meaple)", "reason": "Meaple; sem scrape estável"},
-    {"name": "Bona Casa de Música (Eventim)", "reason": "Eventim; sem listagem estável"},
-    {"name": "Cultura Artística", "reason": "Sem fonte pública scrapeável"},
-    {"name": "Cine Joia", "reason": "Sem listagem pública estável"},
-    {"name": "Itaú Cultural (Inti)", "reason": "Inti; sem scrape estável"},
+    {"name": "PORTA (Shotgun)", "reason": "Shotgun Cloudflare/Vercel 429; sem API pública"},
+    {"name": "Bona Casa de Música (Eventim)", "reason": "Eventim timeout / Access Denied na API"},
+    {"name": "Cultura Artística", "reason": "SiteShield sgcaptcha"},
+    {"name": "Cine Joia", "reason": "Wall 'Verifying your browser'"},
+    {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API pública; use agenda Itaú Cultural"},
 ]
 
 
@@ -1090,6 +1313,47 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "Jazz B — Shows",
         "description": "Shows do Jazz B (links Sympla no site Wix)",
         "scraper": scrape_jazz_b,
+    },
+    {
+        "name": "cavern-club-sp",
+        "source_url": "https://thecavernclubsp.com.br/agenda/",
+        "output": "cavern-club-sp.xml",
+        "title": "The Cavern Club SP — Agenda",
+        "description": "Shows e eventos do The Cavern Club São Paulo",
+        "scraper": scrape_cavern_club,
+    },
+    {
+        "name": "manifesto-bar",
+        "source_url": "https://manifestobar.com.br/bar/programacao/",
+        "output": "manifesto-bar.xml",
+        "title": "Manifesto Bar — Programação",
+        "description": "Programação do Manifesto Bar (links Clube do Ingresso)",
+        "scraper": scrape_manifesto_bar,
+    },
+    {
+        "name": "multiplan-hall-sc",
+        "source_url": "https://www.ticketmaster.com.br/venue/multiplan-hall-sc",
+        "output": "multiplan-hall-sc.xml",
+        "title": "Multiplan Hall SC (Ticketmaster)",
+        "description": "Eventos no Multiplan Hall Park Shopping São Caetano",
+        "scraper": scrape_ticketmaster_multiplan,
+    },
+    {
+        "name": "rockambole-meaple",
+        "source_url": "https://meaple.com.br/rockambole",
+        "output": "rockambole-meaple.xml",
+        "title": "Casa Rockambole (Meaple)",
+        "description": "Shows da Casa Rockambole via API Meaple",
+        "scraper": scrape_rockambole_meaple,
+        "skip_fetch": True,
+    },
+    {
+        "name": "itau-cultural-agenda",
+        "source_url": "https://www.itaucultural.org.br/agenda",
+        "output": "itau-cultural-agenda.xml",
+        "title": "Itaú Cultural — Agenda",
+        "description": "Agenda cultural do Itaú Cultural (substitui Inti para listagem pública)",
+        "scraper": scrape_itau_cultural_agenda,
     },
 ]
 

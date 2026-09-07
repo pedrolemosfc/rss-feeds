@@ -171,5 +171,196 @@
       ],
       "output": "out/guia-folha-restaurantes-shows.xml"
     }
+  ],
+  "venue_native_mirrors": [
+    {
+      "name": "nubank-parque-shows",
+      "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
+      "output": "feeds/nubank-parque-shows.xml"
+    },
+    {
+      "name": "terra-sp",
+      "source_url": "https://terrasp.com/feed/",
+      "output": "feeds/terra-sp.xml"
+    },
+    {
+      "name": "mis-sp",
+      "source_url": "https://mis-sp.org.br/eventos/feed/",
+      "output": "feeds/mis-sp.xml"
+    },
+    {
+      "name": "teatro-b32",
+      "source_url": "https://teatrob32.com.br/feed/",
+      "output": "feeds/teatro-b32.xml"
+    },
+    {
+      "name": "tokio-marine-hall",
+      "source_url": "https://www.tokiomarinehall.com.br/feed/",
+      "output": "feeds/tokio-marine-hall.xml"
+    },
+    {
+      "name": "casa-natura-musical",
+      "source_url": "https://casanaturamusical.com.br/eventos/feed/",
+      "output": "feeds/casa-natura-musical.xml"
+    },
+    {
+      "name": "guarulhos-cultural",
+      "source_url": "https://guarulhoscultural.com.br/feed/",
+      "output": "feeds/guarulhos-cultural.xml"
+    },
+    {
+      "name": "concerto",
+      "source_url": "https://concerto.com.br/rss.xml",
+      "output": "feeds/concerto.xml"
+    }
+  ],
+  "venue_scraped_feeds": [
+    {
+      "name": "teatro-bradesco",
+      "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
+      "output": "feeds/teatro-bradesco.xml"
+    },
+    {
+      "name": "vibra-sp",
+      "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
+      "output": "feeds/vibra-sp.xml"
+    },
+    {
+      "name": "theatro-municipal",
+      "source_url": "https://theatromunicipal.org.br/programacao/",
+      "output": "feeds/theatro-municipal.xml"
+    },
+    {
+      "name": "multi-arena-campinas",
+      "source_url": "https://multiarenacampinas.com.br/programacao/",
+      "output": "feeds/multi-arena-campinas.xml"
+    },
+    {
+      "name": "suhai-music-hall",
+      "source_url": "https://suhaimusichall.com.br/eventos/",
+      "output": "feeds/suhai-music-hall.xml"
+    },
+    {
+      "name": "blue-note-sp",
+      "source_url": "https://bluenotesp.com/shows/",
+      "output": "feeds/blue-note-sp.xml"
+    },
+    {
+      "name": "arena-b3",
+      "source_url": "https://site.bileto.sympla.com.br/arenab3/",
+      "output": "feeds/arena-b3.xml"
+    },
+    {
+      "name": "bourbon-street",
+      "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
+      "output": "feeds/bourbon-street.xml"
+    },
+    {
+      "name": "songkick-pacaembu",
+      "source_url": "https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu",
+      "output": "feeds/songkick-pacaembu.xml"
+    },
+    {
+      "name": "fabrique-club",
+      "source_url": "https://www.bandsintown.com/pt/v/10077222-fabrique-club",
+      "output": "feeds/fabrique-club.xml"
+    },
+    {
+      "name": "morumbis-live-nation",
+      "source_url": "https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377",
+      "output": "feeds/morumbis-live-nation.xml"
+    },
+    {
+      "name": "carioca-club",
+      "source_url": "https://www.clubedoingresso.com/cariocaclub",
+      "output": "feeds/carioca-club.xml"
+    },
+    {
+      "name": "juventus-eventos",
+      "source_url": "https://www.juventus.com.br/eventos/",
+      "output": "feeds/juventus-eventos.xml"
+    },
+    {
+      "name": "komplexo-tempo",
+      "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
+      "output": "feeds/komplexo-tempo.xml"
+    },
+    {
+      "name": "btg-pactual-hall",
+      "source_url": "https://btgpactualhall.com.br/programacao/",
+      "output": "feeds/btg-pactual-hall.xml"
+    },
+    {
+      "name": "sala-sao-paulo",
+      "source_url": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
+      "output": "feeds/sala-sao-paulo.xml"
+    },
+    {
+      "name": "audio-sp",
+      "source_url": "https://audiosp.com.br/programacao",
+      "output": "feeds/audio-sp.xml"
+    },
+    {
+      "name": "teatro-das-artes-sp",
+      "source_url": "https://teatrodasartessp.com.br/programacao/",
+      "output": "feeds/teatro-das-artes-sp.xml"
+    },
+    {
+      "name": "casa-de-francisca",
+      "source_url": "https://casadefrancisca.art.br/novo/programacao",
+      "output": "feeds/casa-de-francisca.xml"
+    },
+    {
+      "name": "jazz-b",
+      "source_url": "https://www.jazzb.com.br/shows",
+      "output": "feeds/jazz-b.xml"
+    },
+    {
+      "name": "cavern-club-sp",
+      "source_url": "https://thecavernclubsp.com.br/agenda/",
+      "output": "feeds/cavern-club-sp.xml"
+    },
+    {
+      "name": "manifesto-bar",
+      "source_url": "https://manifestobar.com.br/bar/programacao/",
+      "output": "feeds/manifesto-bar.xml"
+    },
+    {
+      "name": "multiplan-hall-sc",
+      "source_url": "https://www.ticketmaster.com.br/venue/multiplan-hall-sc",
+      "output": "feeds/multiplan-hall-sc.xml"
+    },
+    {
+      "name": "rockambole-meaple",
+      "source_url": "https://meaple.com.br/rockambole",
+      "output": "feeds/rockambole-meaple.xml"
+    },
+    {
+      "name": "itau-cultural-agenda",
+      "source_url": "https://www.itaucultural.org.br/agenda",
+      "output": "feeds/itau-cultural-agenda.xml"
+    }
+  ],
+  "venue_impossible": [
+    {
+      "name": "PORTA (Shotgun)",
+      "reason": "Shotgun Cloudflare/Vercel 429; sem API pública"
+    },
+    {
+      "name": "Bona Casa de Música (Eventim)",
+      "reason": "Eventim timeout / Access Denied na API"
+    },
+    {
+      "name": "Cultura Artística",
+      "reason": "SiteShield sgcaptcha"
+    },
+    {
+      "name": "Cine Joia",
+      "reason": "Wall 'Verifying your browser'"
+    },
+    {
+      "name": "Itaú Cultural (Inti tickets)",
+      "reason": "SPA byInti sem API pública; use agenda Itaú Cultural"
+    }
   ]
 }
