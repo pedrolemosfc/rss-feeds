@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Farma Conde Arena — Agenda</title>
+<link>https://farmacondearena.com.br/agenda</link>
+<description>Shows da Farma Conde Arena (API /lista-eventos)</description>
+<language>pt-BR</language>
+<lastBuildDate>Mon, 07 Sep 2026 19:01:19 +0000</lastBuildDate>
+<item>
+<title>Sorriso Maroto — São José dos Campos</title>
+<link>https://queroingresso.com/evento/pagodesorriso1212</link>
+<guid isPermaLink="true">https://queroingresso.com/evento/pagodesorriso1212</guid>
+<pubDate>Sat, 12 Dec 2026 17:00:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+<item>
+<title>Daniel — Um Novo Tempo</title>
+<link>https://appticket.com.br/daniel-sjc</link>
+<guid isPermaLink="true">https://appticket.com.br/daniel-sjc</guid>
+<pubDate>Fri, 11 Dec 2026 22:00:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+<item>
+<title>Turnê 40 Anos — Titãs Cabeça Dinossauro</title>
+<link>https://appticket.com.br/titas-sjc</link>
+<guid isPermaLink="true">https://appticket.com.br/titas-sjc</guid>
+<pubDate>Sat, 07 Nov 2026 00:01:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+<item>
+<title>Bruno e Marrone — São José dos Campos</title>
+<link>https://queroingresso.com.br/evento/brunoemarrone2026</link>
+<guid isPermaLink="true">https://queroingresso.com.br/evento/brunoemarrone2026</guid>
+<pubDate>Sat, 24 Oct 2026 22:00:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+<item>
+<title>Simplesmente — Roupa Nova</title>
+<link>https://appticket.com.br/roupa-nova-sjc-26</link>
+<guid isPermaLink="true">https://appticket.com.br/roupa-nova-sjc-26</guid>
+<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+<item>
+<title>50 ANOS LUZ — Guilherme Arantes</title>
+<link>https://www.icones.com.br/evento/800277-guilherme-arantes-50-anos-luz</link>
+<guid isPermaLink="true">https://www.icones.com.br/evento/800277-guilherme-arantes-50-anos-luz</guid>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
+<description>Farma Conde Arena · show</description>
+</item>
+</channel>
+</rss>

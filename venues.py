@@ -1250,6 +1250,112 @@ def scrape_bona_eventim(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_farol_conde(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Farma Conde Arena via /lista-eventos JSON."""
+    body, err = fetch_raw(
+        "https://farmacondearena.com.br/lista-eventos",
+        headers={"Accept": "application/json", "X-Requested-With": "XMLHttpRequest"},
+    )
+    if err or not body:
+        return []
+    try:
+        data = json.loads(body)
+    except json.JSONDecodeError:
+        return []
+    events = data if isinstance(data, list) else list((data or {}).values())
+    items: List[Dict[str, Any]] = []
+    for ev in events:
+        if not isinstance(ev, dict):
+            continue
+        title = (ev.get("title") or "").strip()
+        feature = (ev.get("feature") or "").strip()
+        if feature and feature.lower() not in title.lower():
+            full = f"{title} — {feature}"
+        else:
+            full = title or feature
+        if not full:
+            continue
+        ticket = (ev.get("ticketurl") or "").strip()
+        eid = ev.get("id")
+        link = ticket or (f"https://farmacondearena.com.br/agenda/evento/{eid}" if eid else "")
+        if not link:
+            slug = ev.get("slug") or ""
+            link = f"https://farmacondearena.com.br/agenda/{slug}" if slug else ""
+        if not link:
+            continue
+        dates = ev.get("dates") or {}
+        if isinstance(dates, list) and dates:
+            dates = dates[0] if isinstance(dates[0], dict) else {}
+        if not isinstance(dates, dict):
+            dates = {}
+        date_s = dates.get("date") or ""
+        time_s = (dates.get("time_start") or "")[:5]
+        date_raw = f"{date_s}T{time_s}:00" if date_s and time_s else date_s
+        desc = f"Farma Conde Arena · {ev.get('category') or 'evento'}"
+        it = item(full, link, desc, date_raw or None)
+        dt = parse_date(date_raw) if date_raw else None
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_tldb_livesets(html: str, base: str) -> List[Dict[str, Any]]:
+    """TLDB homepage recent livesets (Upcoming events block is JS-empty)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'href="(https://tldb\.co/set/[^"]+)"\s+class="mw-txt"[^>]*>([^<]+)</a>',
+        html or "",
+        re.I,
+    ):
+        link = m.group(1).split("?")[0]
+        if link in seen:
+            continue
+        seen.add(link)
+        title = html_lib.unescape(m.group(2)).strip()
+        if not title:
+            continue
+        items.append(item(title, link, "TLDB — Liveset", None))
+    return sort_items(dedupe_items(items))
+
+
+def scrape_bona_eventim_venue(html: str, base: str) -> List[Dict[str, Any]]:
+    """Bona venue page on Eventim (city/.../venue/bona-89347/)."""
+    if not html or "Access Denied" in html or len(html) < 5000:
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'href="((?:https://www\.eventim\.com\.br)?/event[^"\s]*|/artist/bona[^"\s]+)"',
+        html,
+        re.I,
+    ):
+        path = m.group(1)
+        link = path if path.startswith("http") else abs_url("https://www.eventim.com.br", path)
+        link = link.split("?")[0]
+        if link in seen or "bona-89347" in link:
+            continue
+        seen.add(link)
+        title = slug_title(link.rstrip("/").split("/")[-1])
+        items.append(item(title, link, "Bona Casa de Música (Eventim venue)", None))
+    # Also product cards with data attributes / titles nearby
+    if not items:
+        for m in re.finditer(
+            r'href="(https://www\.eventim\.com\.br/[^"]+)"[^>]*>[\s\S]{0,400}?<[^>]*class="[^"]*product[^"]*"[^>]*>',
+            html,
+            re.I,
+        ):
+            link = m.group(1).split("?")[0]
+            if link in seen:
+                continue
+            seen.add(link)
+            items.append(item(slug_title(link.rstrip("/").split("/")[-1]), link, "Bona Casa de Música (Eventim venue)", None))
+    return sort_items(dedupe_items(items))
+
+
 VENUE_IMPOSSIBLE = [
     {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
@@ -1498,6 +1604,36 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "description": "Agenda Bona via Eventim (timeouts/Access Denied frequentes)",
         "scraper": scrape_bona_eventim,
         "timeout": 15,
+    },
+{
+        "name": "farol-conde-arena",
+        "source_url": "https://farmacondearena.com.br/agenda",
+        "output": "farol-conde-arena.xml",
+        "title": "Farma Conde Arena — Agenda",
+        "description": "Shows da Farma Conde Arena (API /lista-eventos)",
+        "scraper": scrape_farol_conde,
+        "skip_fetch": True,
+    },
+    {
+        "name": "tldb-livesets",
+        "source_url": "https://tldb.co/",
+        "output": "tldb-livesets.xml",
+        "title": "TLDB — Livesets",
+        "description": "Livesets recentes do The Livesets Database",
+        "scraper": scrape_tldb_livesets,
+        "fetch_headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        },
+    },
+    {
+        "name": "bona-eventim-venue",
+        "source_url": "https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/",
+        "output": "bona-eventim-venue.xml",
+        "title": "Bona Casa de Música (Eventim venue)",
+        "description": "Agenda Bona via página de venue Eventim (pode falhar com wall)",
+        "scraper": scrape_bona_eventim_venue,
+        "timeout": 20,
     },
 ]
 

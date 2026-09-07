@@ -359,6 +359,21 @@
       "name": "bona-casa-musica",
       "source_url": "https://www.eventim.com.br/artist/bona-casa-musica/",
       "output": "feeds/bona-casa-musica.xml"
+    },
+    {
+      "name": "farol-conde-arena",
+      "source_url": "https://farmacondearena.com.br/agenda",
+      "output": "feeds/farol-conde-arena.xml"
+    },
+    {
+      "name": "tldb-livesets",
+      "source_url": "https://tldb.co/",
+      "output": "feeds/tldb-livesets.xml"
+    },
+    {
+      "name": "bona-eventim-venue",
+      "source_url": "https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/",
+      "output": "feeds/bona-eventim-venue.xml"
     }
   ],
   "venue_impossible": [

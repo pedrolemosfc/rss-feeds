@@ -132,6 +132,11 @@ Generated: 2026-09-07 18:27 UTC
 - **bona-casa-musica** [OK] items=10 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: browser seed partial (10/27); Eventim wall
 
+- **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
+  notes: API /lista-eventos
+- **tldb-livesets** [OK] items=80 → `feeds/tldb-livesets.xml`  source: https://tldb.co/  
+  notes: homepage livesets scrape
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  
