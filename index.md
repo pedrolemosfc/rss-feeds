@@ -1,16 +1,14 @@
 # RSS feeds index
 
-Generated: 2026-09-07 16:23 UTC
+Generated: 2026-09-07 16:58 UTC
 
 ## Native feeds (not scraped)
 
 - **Piauí**: https://piaui.uol.com.br/feed/ — native
-- **Noize**: https://feeds.feedburner.com/noize — native
 - **TIME**: https://time.com/feed/ — native (one feed covers all sections)
 - **ISMO**: https://www.ismo.mov/rss/ — native Ghost main (covers sections)
 - **Ugly Things**: https://ugly-things.com/feed/ — native
 - **Panenka**: https://www.panenka.org/feed/ — native (main covers all sections)
-- **Treblezine**: https://www.treblezine.com/feed/ — native
 - **Folha Ilustrada**: https://feeds.folha.uol.com.br/ilustrada/rss091.xml — native approximate for jazz/críticas/show topics
 - **Guia Folha site-wide**: https://guia.folha.uol.com.br/rss.xml — native site-wide
 - **Estadão Cultura**: https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/cultura/?body=%7B%22layout%22:%22google-news%22%7D — native section feed (not author-specific)
@@ -52,6 +50,10 @@ Generated: 2026-09-07 16:23 UTC
   notes: scraped 100 items
 - **qobuz-magazine-br** [OK] items=30 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
   notes: scraped 30 items
+- **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
+  notes: scraped 100 items
+- **treblezine** [OK] items=100 → `out/treblezine.xml`  source: https://www.treblezine.com/  
+  notes: scraped 100 items
 
 ## Combined feeds
 

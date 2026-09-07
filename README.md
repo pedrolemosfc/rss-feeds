@@ -21,6 +21,8 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 | Page9 — Artes | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/page9-artes.xml |
 | Musicalidade | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/musicalidade.xml |
 | Qobuz Magazine BR | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/qobuz-magazine-br.xml |
+| NOIZE | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/noize.xml |
+| Treblezine | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/treblezine.xml |
 
 ### Também disponíveis (seções individuais)
 
@@ -35,10 +37,8 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 ## Feeds nativos (não passam por este repo)
 
 - Piauí: https://piaui.uol.com.br/feed/
-- Noize: https://feeds.feedburner.com/noize
 - Ugly Things: https://ugly-things.com/feed/
 - Panenka: https://www.panenka.org/feed/
-- Treblezine: https://www.treblezine.com/feed/
 - good-music.kiev.ua (junto): https://www.rssrssrssrss.com/api/merge?url=http%3A%2F%2Fgood-music.kiev.ua%2Fnews%2Frss%2F&url=http%3A%2F%2Fgood-music.kiev.ua%2Fload%2Frss%2F&url=http%3A%2F%2Fgood-music.kiev.ua%2Fpubl%2Frss%2F
 
 
@@ -47,8 +47,9 @@ Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 h
 Sites com RSS nativo usable — **não** são scrapados neste repo; use direto:
 
 - **TIME** (todas as seções num feed): https://time.com/feed/
-- **NOIZE**: https://feeds.feedburner.com/noize
 - **ISMO** (Ghost principal cobre as seções): https://www.ismo.mov/rss/
+
+> **Nota:** feeds nativos de **NOIZE** (Feedburner / site) e **Treblezine** (`/feed/`) eram unreliable no Readwise Reader — agora há scrapes via WP REST na tabela acima (jsDelivr).
 
 ## CDN (jsDelivr)
 

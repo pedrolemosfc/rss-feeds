@@ -27,7 +27,6 @@ UA = (
 
 NATIVE_FEEDS = [
     {"name": "Piauí", "url": "https://piaui.uol.com.br/feed/", "notes": "native"},
-    {"name": "Noize", "url": "https://feeds.feedburner.com/noize", "notes": "native"},
     {
         "name": "TIME",
         "url": "https://time.com/feed/",
@@ -44,7 +43,6 @@ NATIVE_FEEDS = [
         "url": "https://www.panenka.org/feed/",
         "notes": "native (main covers all sections)",
     },
-    {"name": "Treblezine", "url": "https://www.treblezine.com/feed/", "notes": "native"},
     {
         "name": "Folha Ilustrada",
         "url": "https://feeds.folha.uol.com.br/ilustrada/rss091.xml",
@@ -803,6 +801,123 @@ def scrape_page9_artes(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_noize(html: str, base: str) -> List[Dict[str, Any]]:
+    """NOIZE — WP REST at api.noize.com.br; rewrite links to www.noize.com.br."""
+    items: List[Dict[str, Any]] = []
+    max_posts = 100
+    per_page = 50
+    page = 1
+    while len(items) < max_posts:
+        api = (
+            "https://api.noize.com.br/wp-json/wp/v2/posts"
+            f"?per_page={per_page}&page={page}&_embed=1"
+        )
+        body, err = fetch(api)
+        if err or not body:
+            break
+        try:
+            posts = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(posts, list) or not posts:
+            break
+        for p in posts:
+            title = (p.get("title") or {}).get("rendered") or ""
+            slug = (p.get("slug") or "").strip("/")
+            api_link = (p.get("link") or "").strip()
+            if slug:
+                link = f"https://www.noize.com.br/{slug}"
+            elif api_link:
+                # Fallback: rewrite api host -> www, normalize trailing slash
+                link = api_link.replace("https://api.noize.com.br", "https://www.noize.com.br")
+                link = link.replace("http://api.noize.com.br", "https://www.noize.com.br")
+                link = link.rstrip("/")
+            else:
+                continue
+            excerpt = (p.get("excerpt") or {}).get("rendered") or ""
+            date = p.get("date_gmt") or p.get("date")
+            if not title:
+                continue
+            cats: List[str] = []
+            emb = p.get("_embedded") or {}
+            for group in emb.get("wp:term") or []:
+                if not isinstance(group, list):
+                    continue
+                for t in group:
+                    if isinstance(t, dict) and t.get("taxonomy") == "category":
+                        name = t.get("name")
+                        if name:
+                            cats.append(str(name))
+            desc = excerpt
+            if cats:
+                cat_s = ", ".join(cats)
+                desc = f"[{cat_s}] {strip_tags(excerpt)}".strip()
+            items.append(item(title, link, desc, date))
+            if len(items) >= max_posts:
+                break
+        if len(posts) < per_page:
+            break
+        page += 1
+        if page > 4:
+            break
+        time.sleep(0.3)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_treblezine(html: str, base: str) -> List[Dict[str, Any]]:
+    """Treblezine — WP REST posts API (all sections; native feed unreliable in Reader)."""
+    items: List[Dict[str, Any]] = []
+    max_posts = 100
+    per_page = 50
+    page = 1
+    while len(items) < max_posts:
+        api = (
+            "https://www.treblezine.com/wp-json/wp/v2/posts"
+            f"?per_page={per_page}&page={page}&_embed=1"
+        )
+        body, err = fetch(api)
+        if err or not body:
+            break
+        try:
+            posts = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(posts, list) or not posts:
+            break
+        for p in posts:
+            title = (p.get("title") or {}).get("rendered") or ""
+            link = (p.get("link") or "").strip()
+            excerpt = (p.get("excerpt") or {}).get("rendered") or ""
+            date = p.get("date_gmt") or p.get("date")
+            if not link or not title:
+                continue
+            cats: List[str] = []
+            emb = p.get("_embedded") or {}
+            for group in emb.get("wp:term") or []:
+                if not isinstance(group, list):
+                    continue
+                for t in group:
+                    if isinstance(t, dict) and t.get("taxonomy") == "category":
+                        name = t.get("name")
+                        if name:
+                            cats.append(str(name))
+            desc = excerpt
+            if cats:
+                cat_s = ", ".join(cats)
+                desc = f"[{cat_s}] {strip_tags(excerpt)}".strip()
+            items.append(item(title, link, desc, date))
+            if len(items) >= max_posts:
+                break
+        if len(posts) < per_page:
+            break
+        page += 1
+        if page > 4:
+            break
+        time.sleep(0.3)
+    return sort_items(dedupe_items(items))
+
+
 def scrape_musicalidade(html: str, base: str) -> List[Dict[str, Any]]:
     """Musicalidade — WP REST API (native RSS disabled). Site-wide posts."""
     items: List[Dict[str, Any]] = []
@@ -1076,6 +1191,24 @@ SCRAPE_TARGETS = [
         "description": "Qobuz Magazine (BR-PT): news, panoramas, interviews e demais seções (scraped, deduped)",
         "language": "pt-BR",
         "scraper": scrape_qobuz_magazine_br,
+    },
+    {
+        "name": "noize",
+        "source_url": "https://www.noize.com.br/",
+        "output": "noize.xml",
+        "title": "NOIZE | Música do site à revista",
+        "description": "Posts do NOIZE via WP REST API (Feedburner/nativo unreliable no Reader)",
+        "language": "pt-BR",
+        "scraper": scrape_noize,
+    },
+    {
+        "name": "treblezine",
+        "source_url": "https://www.treblezine.com/",
+        "output": "treblezine.xml",
+        "title": "Treble",
+        "description": "Posts do Treblezine via WP REST API (nativo unreliable no Reader; all sections)",
+        "language": "en",
+        "scraper": scrape_treblezine,
     },
 ]
 

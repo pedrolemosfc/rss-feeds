@@ -6,11 +6,6 @@
       "notes": "native"
     },
     {
-      "name": "Noize",
-      "url": "https://feeds.feedburner.com/noize",
-      "notes": "native"
-    },
-    {
       "name": "TIME",
       "url": "https://time.com/feed/",
       "notes": "native (one feed covers all sections)"
@@ -29,11 +24,6 @@
       "name": "Panenka",
       "url": "https://www.panenka.org/feed/",
       "notes": "native (main covers all sections)"
-    },
-    {
-      "name": "Treblezine",
-      "url": "https://www.treblezine.com/feed/",
-      "notes": "native"
     },
     {
       "name": "Folha Ilustrada",
@@ -146,6 +136,16 @@
       "name": "qobuz-magazine-br",
       "source_url": "https://www.qobuz.com/br-pt/magazine",
       "output": "out/qobuz-magazine-br.xml"
+    },
+    {
+      "name": "noize",
+      "source_url": "https://www.noize.com.br/",
+      "output": "out/noize.xml"
+    },
+    {
+      "name": "treblezine",
+      "source_url": "https://www.treblezine.com/",
+      "output": "out/treblezine.xml"
     }
   ],
   "combined_feeds": [
