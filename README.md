@@ -2,33 +2,35 @@
 
 Feeds scrapados e atualizados automaticamente via **GitHub Actions** (a cada 6 horas), sem depender de bots externos.
 
+> **Readwise Reader:** use os links **jsDelivr** abaixo (Content-Type `application/xml`). O `raw.githubusercontent.com` manda `text/plain` e o Reader costuma falhar ou não atualizar.
+
 ## Feeds scrapados (cole no leitor)
 
 | Fonte | Feed |
 |------|------|
-| Folha — Jazz + Críticas + Show (junto) | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/folha-musica-topicos.xml |
-| Guia Folha — Restaurantes + Shows (junto) | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/guia-folha-restaurantes-shows.xml |
-| Estadão — Sérgio Martins | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/estadao-sergio-martins.xml |
-| Veja SP — Tudo de Som | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/vejasp-tudo-de-som.xml |
-| Correio Braziliense — Irlam Rocha Lima | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/correio-irlam-rocha-lima.xml |
-| Billboard Brasil — Sérgio Martins | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/billboard-br-sergio-martins.xml |
-| ASIL Insights | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/asil-insights.xml |
-| xAI News | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/xai-news.xml |
-| Claude Blog | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/claude-blog.xml |
-| Espaço Unimed — Agenda de shows | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/espaco-unimed-agenda.xml |
-| Page9 — Artes | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/page9-artes.xml |
-| Musicalidade | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/musicalidade.xml |
-| Qobuz Magazine BR | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/qobuz-magazine-br.xml |
+| Folha — Jazz + Críticas + Show (junto) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-musica-topicos.xml |
+| Guia Folha — Restaurantes + Shows (junto) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/guia-folha-restaurantes-shows.xml |
+| Estadão — Sérgio Martins | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/estadao-sergio-martins.xml |
+| Veja SP — Tudo de Som | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/vejasp-tudo-de-som.xml |
+| Correio Braziliense — Irlam Rocha Lima | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/correio-irlam-rocha-lima.xml |
+| Billboard Brasil — Sérgio Martins | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/billboard-br-sergio-martins.xml |
+| ASIL Insights | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/asil-insights.xml |
+| xAI News | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/xai-news.xml |
+| Claude Blog | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/claude-blog.xml |
+| Espaço Unimed — Agenda de shows | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/espaco-unimed-agenda.xml |
+| Page9 — Artes | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/page9-artes.xml |
+| Musicalidade | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/musicalidade.xml |
+| Qobuz Magazine BR | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/qobuz-magazine-br.xml |
 
 ### Também disponíveis (seções individuais)
 
 | Fonte | Feed |
 |------|------|
-| Folha Jazz | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/folha-jazz.xml |
-| Folha Críticas de música | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/folha-criticas-de-musica.xml |
-| Folha Show | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/folha-show.xml |
-| Guia Restaurantes | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/guia-restaurantes.xml |
-| Guia Shows | https://raw.githubusercontent.com/pedrolemosfc/rss-feeds/main/feeds/guia-shows.xml |
+| Folha Jazz | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-jazz.xml |
+| Folha Críticas de música | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-criticas-de-musica.xml |
+| Folha Show | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-show.xml |
+| Guia Restaurantes | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/guia-restaurantes.xml |
+| Guia Shows | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/guia-shows.xml |
 
 ## Feeds nativos (não passam por este repo)
 
