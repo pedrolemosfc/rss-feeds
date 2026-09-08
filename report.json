@@ -342,9 +342,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 22,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 28,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -534,6 +534,24 @@
     "items": 80,
     "ok": true,
     "notes": "scraped 80 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cabinet-magazine",
+    "source_url": "https://www.cabinetmagazine.org/",
+    "output": "feeds/cabinet-magazine.xml",
+    "items": 80,
+    "ok": true,
+    "notes": "scraped 80 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "arena-sertaneja-fever",
+    "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
+    "output": "feeds/arena-sertaneja-fever.xml",
+    "items": 9,
+    "ok": true,
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   }
 ]

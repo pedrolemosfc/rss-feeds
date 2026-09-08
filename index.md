@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-08 11:19 UTC
+Generated: 2026-09-08 16:40 UTC
 
 ## Native feeds (not scraped)
 
@@ -94,8 +94,8 @@ Generated: 2026-09-08 11:19 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **morumbis-live-nation** [OK] items=4 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
   notes: scraped 4 events
-- **carioca-club** [OK] items=22 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
-  notes: scraped 22 events
+- **carioca-club** [OK] items=23 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 23 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=18 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
@@ -112,8 +112,8 @@ Generated: 2026-09-08 11:19 UTC
   notes: scraped 50 events
 - **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 11 events
-- **cavern-club-sp** [OK] items=28 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 28 events
+- **cavern-club-sp** [OK] items=27 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 27 events
 - **manifesto-bar** [OK] items=16 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 16 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -138,12 +138,10 @@ Generated: 2026-09-08 11:19 UTC
   notes: fetch failed: TimeoutError: The read operation timed out
 - **cafe-brasil-premium** [OK] items=80 → `feeds/cafe-brasil-premium.xml`  source: https://www.cafebrasilpremium.com.br/app  
   notes: scraped 80 events
-
-- **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
-  notes: scraped 9 events
-
 - **cabinet-magazine** [OK] items=80 → `feeds/cabinet-magazine.xml`  source: https://www.cabinetmagazine.org/  
   notes: scraped 80 events
+- **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
+  notes: scraped 9 events
 
 ## Combined feeds
 
