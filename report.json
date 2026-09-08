@@ -168,6 +168,15 @@
     "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
+    "name": "recall-changelog",
+    "source_url": "https://feedback.recall.it/api/changelog/feed.rss",
+    "output": "feeds/recall-changelog.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
     "name": "nubank-parque-shows",
     "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
     "output": "feeds/nubank-parque-shows.xml",
@@ -243,18 +252,18 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 54,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 25,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -306,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 26,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -552,6 +561,24 @@
     "items": 9,
     "ok": true,
     "notes": "scraped 9 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "heptabase-changelog",
+    "source_url": "https://wiki.heptabase.com/changelog",
+    "output": "feeds/heptabase-changelog.xml",
+    "items": 80,
+    "ok": true,
+    "notes": "scraped 80 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "fabric-changelog",
+    "source_url": "https://fabric.so/info/changelog",
+    "output": "feeds/fabric-changelog.xml",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   }
 ]

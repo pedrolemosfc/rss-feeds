@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-08 16:40 UTC
+Generated: 2026-09-08 21:10 UTC
 
 ## Native feeds (not scraped)
 
@@ -56,6 +56,8 @@ Generated: 2026-09-08 16:40 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
   notes: scraped 100 items
+- **recall-changelog** [OK] items=10 → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
+  notes: mirrored 10 native items
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
@@ -72,10 +74,10 @@ Generated: 2026-09-08 16:40 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **teatro-bradesco** [OK] items=54 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 54 events
-- **vibra-sp** [OK] items=25 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
-  notes: scraped 25 events
+- **teatro-bradesco** [OK] items=55 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 55 events
+- **vibra-sp** [OK] items=26 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
+  notes: scraped 26 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
@@ -86,8 +88,8 @@ Generated: 2026-09-08 16:40 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 5 events
-- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 26 events
+- **bourbon-street** [OK] items=28 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 28 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -118,8 +120,8 @@ Generated: 2026-09-08 16:40 UTC
   notes: scraped 16 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 17 events
+- **rockambole-meaple** [OK] items=18 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 18 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -142,15 +144,10 @@ Generated: 2026-09-08 16:40 UTC
   notes: scraped 80 events
 - **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
   notes: scraped 9 events
-
-- **recall-changelog** → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
-  notes: native mirror
-
-- **heptabase-changelog** → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
-  notes: per-version scrape
-
-- **fabric-changelog** → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: Framer scrape
+- **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
+  notes: scraped 80 events
+- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: scraped 3 events
 
 ## Combined feeds
 
