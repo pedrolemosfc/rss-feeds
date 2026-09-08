@@ -1376,6 +1376,180 @@ def scrape_bona_eventim_venue(html: str, base: str) -> List[Dict[str, Any]]:
 
 
 
+
+def _parse_pt_short_date(text: str) -> Optional[datetime]:
+    """Parse Fever-style dates like '11 set.' or '3 out.' (assume current/next year)."""
+    if not text:
+        return None
+    m = re.search(
+        r"(\d{1,2})\s+(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)[a-zç]*\.?",
+        text.lower(),
+    )
+    if not m:
+        return None
+    day = int(m.group(1))
+    mon = PT_MONTHS.get(m.group(2))
+    if not mon:
+        return None
+    now = datetime.now(timezone.utc)
+    year = now.year
+    try:
+        dt = datetime(year, mon, day, tzinfo=timezone.utc)
+    except ValueError:
+        return None
+    # if more than ~60 days in the past, roll to next year (upcoming shows)
+    if (now - dt).days > 60:
+        try:
+            dt = datetime(year + 1, mon, day, tzinfo=timezone.utc)
+        except ValueError:
+            pass
+    return dt
+
+
+def scrape_arena_sertaneja_fever(html: str, base: str) -> List[Dict[str, Any]]:
+    """Arena + / Arena Sertaneja events listed on Fever venue page."""
+    if not html:
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'<a[^>]*data-testid="fv-plan-card"[^>]*data-plan-id="(\d+)"[^>]*data-plan-name="([^"]+)"[^>]*>',
+        html,
+        re.I,
+    ):
+        pid, name = m.group(1), html_lib.unescape(m.group(2)).strip()
+        if pid in seen:
+            continue
+        # Venue page also cross-sells other Fever plans; keep Arena + / Sertaneja only.
+        low = name.lower()
+        if "arena +" not in low and "arena sertaneja" not in low:
+            continue
+        seen.add(pid)
+        link = abs_url("https://feverup.com", f"/m/{pid}")
+        chunk = html[m.end() : m.end() + 4000]
+        dr = re.search(
+            r'data-testid="fv-plan-card-v2__date-range"[^>]*>(.*?)</div>',
+            chunk,
+            re.S | re.I,
+        )
+        date_txt = ""
+        if dr:
+            date_txt = re.sub(r"<[^>]+>", " ", dr.group(1))
+            date_txt = re.sub(r"\s+", " ", date_txt).strip()
+        dt = _parse_pt_short_date(date_txt)
+        desc = f"Arena Sertaneja (Fever) · {date_txt}" if date_txt else "Arena Sertaneja (Fever)"
+        it = item(name, link, desc, None)
+        if dt:
+            it["_dt"] = dt
+            it["pubDate"] = rfc822(dt)
+        items.append(it)
+    return sort_items(dedupe_items(items))
+
+
+def scrape_cabinet_magazine(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Cabinet Magazine: recent print-issue articles + kiosk pieces (no native RSS)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+
+    # Discover latest issue number from covers index, fall back to homepage crawl.
+    latest = 72
+    idx_body, _err = fetch_raw("https://www.cabinetmagazine.org/issues/allissuesbycover.php")
+    if idx_body:
+        nums = [int(n) for n in re.findall(r"/issues/(\d+)/", idx_body)]
+        if nums:
+            latest = max(nums)
+
+    for n in range(latest, max(latest - 8, 0), -1):
+        body, err = fetch_raw(f"https://www.cabinetmagazine.org/issues/{n}/")
+        if err or not body:
+            continue
+        for m in re.finditer(
+            rf'<a href="(/issues/{n}/([a-z0-9_]+)\.php)"[^>]*>(.*?)</a>',
+            body,
+            re.S | re.I,
+        ):
+            href, slug, inner = m.group(1), m.group(2), m.group(3)
+            if slug in ("index",) or href in seen:
+                continue
+            title = re.sub(r"<[^>]+>", " ", inner)
+            title = re.sub(r"\s+", " ", html_lib.unescape(title)).strip()
+            title = re.sub(r"\s*READ MORE\s*$", "", title, flags=re.I).strip()
+            if len(title) < 3:
+                continue
+            seen.add(href)
+            link = abs_url("https://www.cabinetmagazine.org", href)
+            desc = f"Cabinet Magazine — Issue {n}"
+            it = item(title, link, desc, None)
+            # Approximate pub order by issue number (higher = newer)
+            it["_dt"] = datetime(2000, 1, 1, tzinfo=timezone.utc).replace(
+                year=2000 + min(n, 800)
+            )
+            it["pubDate"] = rfc822(it["_dt"])
+            items.append(it)
+        time.sleep(0.2)
+
+    # Kiosk online essays (filenames often include dates)
+    for page in range(1, 4):
+        url = (
+            "https://www.cabinetmagazine.org/kiosk/"
+            if page == 1
+            else f"https://www.cabinetmagazine.org/kiosk/page/{page}"
+        )
+        body, err = fetch_raw(url)
+        if err or not body:
+            continue
+        for m in re.finditer(
+            r'href="(/kiosk/([a-z0-9_]+)\.php)"',
+            body,
+            re.I,
+        ):
+            href, slug = m.group(1), m.group(2)
+            if href in seen or slug in ("contributors", "archive"):
+                continue
+            seen.add(href)
+            # title from nearby text is unreliable; use slug prettified + date from name
+            title = slug.replace("_", " ").strip()
+            title = re.sub(r"\s+", " ", title)
+            # try date tokens in slug: 06_october_2025 / april_09_2024 / 3_november_2022
+            dt = None
+            dm = re.search(
+                r"(\d{1,2})[_-]?(january|february|march|april|may|june|july|august|september|october|november|december)[_-]?(\d{4})",
+                slug,
+                re.I,
+            )
+            if not dm:
+                dm = re.search(
+                    r"(january|february|march|april|may|june|july|august|september|october|november|december)[_-]?(\d{1,2})[_-]?(\d{4})",
+                    slug,
+                    re.I,
+                )
+                if dm:
+                    try:
+                        dt = datetime.strptime(
+                            f"{dm.group(1).title()} {dm.group(2)} {dm.group(3)}",
+                            "%B %d %Y",
+                        ).replace(tzinfo=timezone.utc)
+                    except ValueError:
+                        dt = None
+            else:
+                try:
+                    dt = datetime.strptime(
+                        f"{dm.group(2).title()} {dm.group(1)} {dm.group(3)}",
+                        "%B %d %Y",
+                    ).replace(tzinfo=timezone.utc)
+                except ValueError:
+                    dt = None
+            link = abs_url("https://www.cabinetmagazine.org", href)
+            it = item(title.title(), link, "Cabinet Magazine — Kiosk", None)
+            if dt:
+                it["_dt"] = dt
+                it["pubDate"] = rfc822(dt)
+            items.append(it)
+        time.sleep(0.2)
+
+    return sort_items(dedupe_items(items))[:80]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -1738,7 +1912,31 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "scraper": scrape_cafe_brasil_premium,
         "skip_fetch": True,
     },
+    {
+        "name": "cabinet-magazine",
+        "source_url": "https://www.cabinetmagazine.org/",
+        "output": "cabinet-magazine.xml",
+        "title": "Cabinet Magazine",
+        "description": "Recent Cabinet Magazine issue articles and kiosk essays",
+        "scraper": scrape_cabinet_magazine,
+        "skip_fetch": True,
+        "language": "en",
+    },
+    {
+        "name": "arena-sertaneja-fever",
+        "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
+        "output": "arena-sertaneja-fever.xml",
+        "title": "Arena Sertaneja / Arena + (Fever)",
+        "description": "Shows da Arena Sertaneja (Arena +) listados no Fever",
+        "scraper": scrape_arena_sertaneja_fever,
+        "timeout": 40,
+        "fetch_headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+        },
+    },
 ]
+
 
 
 def run_venue_scrape(target: Dict[str, Any]) -> Dict[str, Any]:

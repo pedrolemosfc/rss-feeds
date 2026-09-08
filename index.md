@@ -139,6 +139,12 @@ Generated: 2026-09-08 11:19 UTC
 - **cafe-brasil-premium** [OK] items=80 → `feeds/cafe-brasil-premium.xml`  source: https://www.cafebrasilpremium.com.br/app  
   notes: scraped 80 events
 
+- **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
+  notes: scraped 9 events
+
+- **cabinet-magazine** [OK] items=80 → `feeds/cabinet-magazine.xml`  source: https://www.cabinetmagazine.org/  
+  notes: scraped 80 events
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=185 → `out/folha-musica-topicos.xml`  

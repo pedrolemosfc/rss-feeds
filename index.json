@@ -379,6 +379,16 @@
       "name": "cafe-brasil-premium",
       "source_url": "https://www.cafebrasilpremium.com.br/app",
       "output": "feeds/cafe-brasil-premium.xml"
+    },
+    {
+      "name": "cabinet-magazine",
+      "source_url": "https://www.cabinetmagazine.org/",
+      "output": "feeds/cabinet-magazine.xml"
+    },
+    {
+      "name": "arena-sertaneja-fever",
+      "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
+      "output": "feeds/arena-sertaneja-fever.xml"
     }
   ],
   "venue_impossible": [
