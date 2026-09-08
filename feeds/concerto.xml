@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 07 Sep 2026 21:31:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 04:34:29 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyMiIsImRpc2xpa2VzIjoiMCJ9?token=qfiaBPhzW365eqiv_IlQUjvaowKgYNdIxURcChAmZ3o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyMyIsImRpc2xpa2VzIjoiMCJ9?token=qyQZSTg8pTMOvzJnZf_FHvaAf5p61n1DionoNSaG_V0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;522&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;523&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,91 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Festival de Música Erudita do Espírito Santo anuncia 14ª edição </title>
+  <link>http://concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Evento, que tem direção geral de Tarcísio Santório e direção artística de Livia Sabag, acontecerá em novembro e apresentará ópera histórica de João Gomes de Araújo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O Festival de Música Erudita do Espírito Santo divulgou a programação de sua 14ª edição, que será realizada ao longo do mês de novembro e terá como destaque a reestreia da ópera &lt;em&gt;Helena&lt;/em&gt;, de João Gomes de Araújo, composta no início do século passado. &lt;/p&gt;
+&lt;p&gt;Com direção geral de Tarcísio Santório, direção artística de Livia Sabag e consultoria musical de Gabriel Rhein-Schirato, o festival estrutura sua programação em torno de temáticas que dialogam com questões contemporâneas, com ênfase em música brasileira, latino-americana e na difusão de obras de compositoras. A edição de 2026, intitulada “Brasil, saudades do futuro”, propõe uma reflexão sobre a identidade brasileira e suas múltiplas camadas culturais. Para Sabag, a identidade nacional é “um projeto em constante construção”, e a programação busca evidenciar essa diversidade por meio de obras que atravessam diferentes períodos e linguagens da música de concerto.&lt;/p&gt;
+&lt;p&gt;A abertura acontece nos dias 6 e 8 de novembro, no Theatro Carlos Gomes, com a ópera &lt;em&gt;Helena&lt;/em&gt;, com a Orquestra Sinfônica do Estado do Espírito Santo sob regência de Gabriel Rhein-Schirato e direção cênica de Menelick de Carvalho. O elenco terá os cantores Rodrigo Esteves, Monique Galvão, Rafael Stein, Alessandro Santana e Carlos Alexandre Kelert.&lt;/p&gt;
+&lt;p&gt;Composta em 1906 e estreada em 1916 no Theatro Municipal de São Paulo, a obra permaneceu esquecida por mais de um século e retorna aos palcos graças ao trabalho de recuperação do acervo do antigo Conservatório Dramático e Musical de São Paulo, coordenado pelo pesquisador Paulo Castagna, e à pesquisa do maestro Gabriel Rhein-Schirato sobre o legado operístico de Gomes de Araújo. &lt;/p&gt;
+&lt;p&gt;Entre 13 e 21 de novembro, também no Theatro Carlos Gomes, acontece a série Concertos de Câmara, com curadoria da flautista Cássia Carrascoza. A programação inclui artistas capixabas e convidados como Raquel Paulin, Antonio Vaz Lemes, Erika Ribeiro, Maíni Moreno e Lucas Rodrigues, em recitais que percorrem repertórios de Carlos Gomes, Dinorá de Carvalho, Villa-Lobos, Marisa Rezende, Hermeto Pascoal, Valéria Bonafé, Debussy, Santoro e outros.&lt;/p&gt;
+&lt;p&gt;No dia 27 de novembro, Belquior Guerrero, Daniel Lima e Gabriel Novais apresentam um programa dedicado ao violão e à percussão, com obras de Fernando Iazzetta, Eliana Sulpício, Rodolfo Coelho de Souza, Marcus Siqueira e Ney Rosauro, além de arranjos coletivos de Marco Pereira e Baden Powell.&lt;/p&gt;
+&lt;p&gt;O encerramento ocorre em 28 de novembro, no Teatro Sesc Glória, com a Orquestra Sinfônica do Estado do Espírito Santo e os vencedores do 5º Concurso de Canto Natércia Lopes, sob regência de Helder Trefzger, em concerto dedicado à ópera brasileira.&lt;/p&gt;
+&lt;p&gt;A programação Festival de Música Erudita do Espírito Santo inclui ainda os Concertos Itinerantes, o projeto Ópera nos Bairros, que retoma o espetáculo infantil Filhote de Trem, e o projeto piloto Orquestras em Rede, que reunirá a Oses e orquestras de projetos sociais do estado em apresentação conjunta no Parque Cultural Casa do Governador, com participação da pianista Erika Ribeiro interpretando o &lt;em&gt;Concerto para piano nº 1 &lt;/em&gt;de Camargo Guarnieri.&lt;/p&gt;
+&lt;p&gt;As ações formativas do Festival também abrangem o VOE – Vitória Ópera Estúdio, o curso Opera-cional e o Concurso de Canto Natércia Lopes, já realizados (&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para conhecer os vencedores do Concurso de Canto Natércia Lopes).&lt;/p&gt;
+&lt;p&gt;Para Livia Sabag, a edição reafirma a vitalidade da produção musical brasileira: “a diversidade e a riqueza das obras nos faz sentir a força de nossa cultura; uma pujança que nos convida a refletir sobre o Brasil que somos e, sobretudo, sobre o futuro que podemos construir”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Cena da ópera de Maurício de Bonis apresentada no Festival de Música Erudita do Espírito Santo em 2025 (divulgação)" data-entity-type="file" data-entity-uuid="0d1d8332-e53a-4a9d-92f5-eb41d8f48425" src="http://concerto.com.br/sites/default/files/inline-images/w-FestMusEruditaES_2025.jpg" /&gt;
+&lt;figcaption&gt;Cena da ópera de Maurício de Bonis apresentada no Festival de Música Erudita do Espírito Santo em 2025 (divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 07/09/2026 - 19:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-FestMusEruditaES_2025.jpg" width="900" height="676" alt="Cena da ópera de Maurício de Bonis apresentada no Festival de Música Erudita do Espírito Santo em 2025 (divulgação)" title="Cena da ópera de Maurício de Bonis apresentada no Festival de Música Erudita do Espírito Santo em 2025 (divulgação)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2751" hreflang="pt-br"&gt;Festival de Música Erudita do Espírito Santo&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2736" hreflang="pt-br"&gt;Livia Sabag&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2287" hreflang="pt-br"&gt;Gabriel Rhein-Schirato&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=VjrBXMWLqtsZUdp5oXzXpRQFnZw5rq3dulW5doBeR6s?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 07 Sep 2026 19:33:53 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282763 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Pianista András Schiff faz recitais no Teatro Cultura Artística</title>
@@ -140,10 +225,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=VIhNxYwGvDZAaDNRxf-4MLT0XhL60JwU-THi2XBlKPU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=xLqb81vl9NmezCpetR-jMKSxHwhd5erJ4EyM2nbXY_0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -225,7 +310,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=6_3MQrNRLB3wl92DATZ50HRBlD_MjsDB6WMZNpWd3c8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=6E3W9kUcwH0jmPVYr9659OaRfDwxItbA-ot49TGfDm4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
@@ -304,10 +389,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kZ7EYxTpoOQaWwSYA7X26MybleTgMHJK9rL3X1_dH1Y?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=9G6LeWxwWXtmuIgMu02dx50HtzxBiFiiXJnJ9euY7QA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -386,7 +471,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=rbAl5ou3p6kh8Ut_L8z45Iy3YGkTGSoWOAuzuwj1Vo8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=oiBo-poquWaQadPnqx_WFLxIvMux-6IJumLFiTJpiEw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
@@ -578,70 +663,6 @@
   <pubDate>Fri, 04 Sep 2026 19:30:50 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282755 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Forte de Copacabana</title>
-  <link>http://concerto.com.br/roteiros/orquestra-forte-de-copacabana-10</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Forte de Copacabana&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 04/09/2026 - 19:28&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;112 anos do Forte de Copacabana. Luiz Potter - regente. Participação: músicos da Banda Sinfônica do Corpo de Bombeiros do Estado do Rio de Janeiro e Aline Paes - cantora.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-26T18:00:00Z" class="datetime"&gt;sab, 26/09/2026 - 18:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/forte-de-copacabana" hreflang="und"&gt;Forte de Copacabana&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 04 Sep 2026 19:28:27 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282754 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out"
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -279,9 +279,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 12,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -342,9 +342,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -525,6 +525,15 @@
     "items": 0,
     "ok": false,
     "notes": "fetch failed: TimeoutError: The read operation timed out",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cafe-brasil-premium",
+    "source_url": "https://www.cafebrasilpremium.com.br/app",
+    "output": "feeds/cafe-brasil-premium.xml",
+    "items": 80,
+    "ok": true,
+    "notes": "scraped 80 events",
     "kind": "venue-scrape"
   }
 ]
