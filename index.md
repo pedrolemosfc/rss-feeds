@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-08 04:36 UTC
+Generated: 2026-09-08 11:19 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-09-08 04:36 UTC
   notes: scraped 86 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=52 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 52 items
+- **folha-show** [OK] items=53 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 53 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
 - **guia-shows** [OK] items=97 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -127,7 +127,7 @@ Generated: 2026-09-08 04:36 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -141,7 +141,7 @@ Generated: 2026-09-08 04:36 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=184 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=185 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])
