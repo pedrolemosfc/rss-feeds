@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Fabric Changelog</title>
+<link>https://fabric.so/info/changelog</link>
+<description>Fabric.so product changelog</description>
+<language>en</language>
+<lastBuildDate>Tue, 08 Sep 2026 17:52:25 +0000</lastBuildDate>
+<item>
+<title>PDFs now load and work much faster in Fabric!</title>
+<link>https://fabric.so/info/changelog#pdfs-now-load-and-work-much-faster-in-fabric</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-3,-2026-pdfs-now-load-and-work-much-faster-in-fabric</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<description>📑 We've reworked Fabric's PDF viewer so that: Big files load faster Scrolling is smoother and quicker It can now handle huge files with rich content and 1000 pages! We hope that's much more enjoyable for you :)</description>
+</item>
+<item>
+<title>Canvas improvements</title>
+<link>https://fabric.so/info/changelog#canvas-improvements</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-2,-2026-canvas-improvements</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<description>🏎️ Fabric Canvas is now much faster and can handle much more content. We've been focused on performance and solved issues that were slowing down the canvas during fast interactions. Much more enjoyable and performs better on smaller devices like iPads.</description>
+</item>
+<item>
+<title>Jump to a specific page in a PDF!</title>
+<link>https://fabric.so/info/changelog#jump-to-a-specific-page-in-a-pdf</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-1,-2026-jump-to-a-specific-page-in-a-pdf</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<description>✨ We've added the ability to quickly jump to a specific page in a PDF! No more scrolling to a particular page – just tap the page counter and type the page number you wish to skip to. A little update to make daily use more convenient.</description>
+</item>
+</channel>
+</rss>

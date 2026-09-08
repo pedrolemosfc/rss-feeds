@@ -389,6 +389,16 @@
       "name": "arena-sertaneja-fever",
       "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
       "output": "feeds/arena-sertaneja-fever.xml"
+    },
+    {
+      "name": "heptabase-changelog",
+      "source_url": "https://wiki.heptabase.com/changelog",
+      "output": "feeds/heptabase-changelog.xml"
+    },
+    {
+      "name": "fabric-changelog",
+      "source_url": "https://fabric.so/info/changelog",
+      "output": "feeds/fabric-changelog.xml"
     }
   ],
   "venue_impossible": [

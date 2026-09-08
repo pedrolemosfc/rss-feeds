@@ -851,6 +851,13 @@ def scrape_jazz_b(html: str, base: str) -> List[Dict[str, Any]]:
 
 VENUE_NATIVE_MIRRORS = [
     {
+        "source_url": "https://feedback.recall.it/api/changelog/feed.rss",
+        "out_name": "recall-changelog.xml",
+        "title": "Recall Changelog",
+        "link": "https://feedback.recall.it/changelog",
+        "description": "Recall release notes (native Canny RSS mirror for Reader)",
+    },
+    {
         "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
         "out_name": "nubank-parque-shows.xml",
         "title": "Nubank Parque — Shows",
@@ -1548,6 +1555,133 @@ def scrape_cabinet_magazine(_html: str = "", _base: str = "") -> List[Dict[str, 
     return sort_items(dedupe_items(items))[:80]
 
 
+
+def scrape_heptabase_changelog(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Heptabase wiki changelog: one item per version heading (native RSS is yearly only)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    pages = [
+        "https://wiki.heptabase.com/changelog/changelog",
+        "https://wiki.heptabase.com/changelog/2025",
+        "https://wiki.heptabase.com/changelog/2024",
+    ]
+    # Also try list page which embeds recent 2026 entries
+    pages = [
+        "https://wiki.heptabase.com/changelog",
+        "https://wiki.heptabase.com/changelog/page/2",
+        "https://wiki.heptabase.com/changelog/2025",
+        "https://wiki.heptabase.com/changelog/2024",
+    ]
+    for url in pages:
+        body, err = fetch_raw(url)
+        if err or not body:
+            continue
+        # Prefer the full yearly article pages when linked
+        if url.rstrip("/").endswith("changelog") and "/page/" not in url:
+            # follow primary 2026 article if present
+            m = re.search(r'href="(/changelog/changelog)"', body)
+            if m:
+                body2, err2 = fetch_raw(abs_url("https://wiki.heptabase.com", m.group(1)))
+                if body2 and not err2:
+                    body = body2
+        for m in re.finditer(
+            r'<h2[^>]*\bid="([^"]+)"[^>]*>\s*(.*?)\s*</h2>',
+            body,
+            re.S | re.I,
+        ):
+            hid, inner = m.group(1), m.group(2)
+            title = re.sub(r"<[^>]+>", "", inner)
+            title = re.sub(r"\s+", " ", html_lib.unescape(title)).strip()
+            title = title.replace("\u200b", "").strip()
+            if not title or title.lower().startswith("version changelog"):
+                continue
+            key = hid or title
+            if key in seen:
+                continue
+            seen.add(key)
+            # date in following <p><em>…</em></p>
+            chunk = body[m.end() : m.end() + 800]
+            dm = re.search(r"<em>([^<]{6,40})</em>", chunk)
+            date_raw = dm.group(1).strip() if dm else None
+            # bullets as description
+            ul = re.search(r"<ul>(.*?)</ul>", chunk, re.S | re.I)
+            desc = ""
+            if ul:
+                lis = re.findall(r"<li[^>]*>(.*?)</li>", ul.group(1), re.S | re.I)
+                parts = []
+                for li in lis[:6]:
+                    t = re.sub(r"<[^>]+>", " ", li)
+                    t = re.sub(r"\s+", " ", html_lib.unescape(t)).strip()
+                    if t:
+                        parts.append(t)
+                desc = "; ".join(parts)
+            # canonical link: yearly page + hash when on changelog article
+            page_link = "https://wiki.heptabase.com/changelog/changelog"
+            if "/2025" in url:
+                page_link = "https://wiki.heptabase.com/changelog/2025"
+            elif "/2024" in url:
+                page_link = "https://wiki.heptabase.com/changelog/2024"
+            link = f"{page_link}#{hid}"
+            it = item(title, link, desc or "Heptabase changelog", date_raw)
+            items.append(it)
+        time.sleep(0.25)
+    return sort_items(dedupe_items(items))[:80]
+
+
+def scrape_fabric_changelog(html: str, base: str) -> List[Dict[str, Any]]:
+    """Fabric.so Framer changelog: pair Date / Title / body blocks."""
+    if not html:
+        return []
+    items: List[Dict[str, Any]] = []
+    # Strip scripts/styles then walk visible lines (Framer SSR includes current posts)
+    text = re.sub(r"<script[\s\S]*?</script>", " ", html, flags=re.I)
+    text = re.sub(r"<style[\s\S]*?</style>", " ", text, flags=re.I)
+    text = re.sub(r"<[^>]+>", "\n", text)
+    lines = [re.sub(r"\s+", " ", html_lib.unescape(l)).strip() for l in text.splitlines()]
+    lines = [l for l in lines if l]
+    date_re = re.compile(
+        r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},\s+\d{4}$",
+        re.I,
+    )
+    i = 0
+    # skip until first changelog date after heading
+    while i < len(lines) and not date_re.match(lines[i]):
+        i += 1
+    while i < len(lines):
+        if not date_re.match(lines[i]):
+            i += 1
+            continue
+        date_s = lines[i]
+        i += 1
+        if i >= len(lines):
+            break
+        title = lines[i]
+        i += 1
+        if title.lower() in ("changelog", "load more", "fabric"):
+            continue
+        body_parts: List[str] = []
+        while i < len(lines) and not date_re.match(lines[i]):
+            if lines[i].lower() in ("load more", "© 2023 fabric", "fabric"):
+                break
+            if lines[i].startswith("©") or lines[i].startswith("Fabric —") or lines[i].startswith("Fabric –"):
+                break
+            body_parts.append(lines[i])
+            i += 1
+            if len(body_parts) >= 8:
+                # keep collecting until next date but cap desc later
+                pass
+        # stop body at footer noise
+        desc = " ".join(body_parts[:6])
+        # stable link: page + date slug (Framer has no per-post URLs)
+        slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:60]
+        link = f"https://fabric.so/info/changelog#{slug}"
+        it = item(title, link, desc, date_s)
+        # guid by date+title
+        it["guid"] = f"https://fabric.so/info/changelog#{date_s.replace(' ', '-').lower()}-{slug}"
+        items.append(it)
+    return sort_items(dedupe_items(items))[:40]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -1931,6 +2065,30 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "fetch_headers": {
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
             "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+        },
+    },
+    {
+        "name": "heptabase-changelog",
+        "source_url": "https://wiki.heptabase.com/changelog",
+        "output": "heptabase-changelog.xml",
+        "title": "Heptabase Changelog",
+        "description": "Heptabase version release notes (per version)",
+        "scraper": scrape_heptabase_changelog,
+        "skip_fetch": True,
+        "language": "en",
+    },
+    {
+        "name": "fabric-changelog",
+        "source_url": "https://fabric.so/info/changelog",
+        "output": "fabric-changelog.xml",
+        "title": "Fabric Changelog",
+        "description": "Fabric.so product changelog",
+        "scraper": scrape_fabric_changelog,
+        "timeout": 40,
+        "language": "en",
+        "fetch_headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
         },
     },
 ]

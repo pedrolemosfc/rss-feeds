@@ -143,6 +143,15 @@ Generated: 2026-09-08 16:40 UTC
 - **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
   notes: scraped 9 events
 
+- **recall-changelog** → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
+  notes: native mirror
+
+- **heptabase-changelog** → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
+  notes: per-version scrape
+
+- **fabric-changelog** → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: Framer scrape
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=185 → `out/folha-musica-topicos.xml`  

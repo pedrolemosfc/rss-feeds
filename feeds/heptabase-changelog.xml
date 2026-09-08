@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Heptabase Changelog</title>
+<link>https://wiki.heptabase.com/changelog</link>
+<description>Heptabase version release notes (per version)</description>
+<language>en</language>
+<lastBuildDate>Tue, 08 Sep 2026 17:52:25 +0000</lastBuildDate>
+<item>
+<title>v1.108.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11081</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11081</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<description>Editor: Spell-check language &amp; dictionary setting</description>
+</item>
+<item>
+<title>Mobile app v1.38.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1383</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1383</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Capture web page content with Share Sheet</description>
+</item>
+<item>
+<title>v1.107.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11070</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11070</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<description>Editor: Search inside code blocks &amp; folded lists</description>
+</item>
+<item>
+<title>Mobile app v1.38.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1382</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1382</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Sync pinned tabs across devices</description>
+</item>
+<item>
+<title>v1.106.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11060</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11060</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+<description>Editor: Backlink search, sort, collapse</description>
+</item>
+<item>
+<title>v1.105.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11050</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11050</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<description>Mindmap: Turn a branch into a card, copy branch content</description>
+</item>
+<item>
+<title>Mobile app v1.38.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1381</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1381</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Edit tag properties from a card</description>
+</item>
+<item>
+<title>v1.104.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11040</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11040</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Editor: Find and replace text</description>
+</item>
+<item>
+<title>Mobile app v1.38.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1380</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1380</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: AI Agent</description>
+</item>
+<item>
+<title>v1.103.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11030</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11030</guid>
+<pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+<description>AI Agent: Upgrade How You Read with AI Skills</description>
+</item>
+<item>
+<title>v1.102.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11020</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11020</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>v1.101.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11012</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11012</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<description>You can now choose which AI models appear in model pickers from Settings.; You can now open web links in a new tab, in the side panel, or in your default browser.; Fix issues when Codex agents start Heptabase via CLI in sandbox.; Fix an issue where some card links did not respond when clicked.; Fix an issue where table controls did not work correctly.; Fix an issue where an incorrect AI chat plan limit message briefly appeared when switching models with a connected ChatGPT plan.</description>
+</item>
+<item>
+<title>v1.101.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11011</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11011</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<description>AI Agent - Use ChatGPT Codex inside Heptabase.</description>
+</item>
+<item>
+<title>Mobile app v1.37.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1374</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1374</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where some Android devices crashed unexpectedly.</description>
+</item>
+<item>
+<title>v1.100.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11001</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11001</guid>
+<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where clicking links outside the chat panel incorrectly replaced the current tab.</description>
+</item>
+<item>
+<title>v1.100.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11000</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11000</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<description>AI Agent: Support OpenRouter and open source models: DeepSeek V4 Flash, DeepSeek V4 Pro, MiMo V2.5 Pro, Qwen 3.7 Plus, Kimi K3, Qwen 3.7 Max, and GLM 5.2.</description>
+</item>
+<item>
+<title>v1.99.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1990</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1990</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+<description>AI Agent: Organize Your Entire Knowledge Base with AI</description>
+</item>
+<item>
+<title>Mobile app v1.37.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1373</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1373</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+<description>Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>v1.98.6</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1986</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1986</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<description>Reduce memory usage during app startup.</description>
+</item>
+<item>
+<title>v1.98.5</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1985</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1985</guid>
+<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>Mobile app v1.37.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1372</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1372</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<description>Support voice note recording while the app is minimized</description>
+</item>
+<item>
+<title>v1.98.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1984</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1984</guid>
+<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+<description>In AI Tutor, new notes and whiteboards open in the pane opposite the card you're editing.; Fix Mermaid diagram preview disappearing while editing code.; Fix Backspace undo for markdown input rules (e.g. bullet lists).</description>
+</item>
+<item>
+<title>Mobile app v1.37.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1371</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1371</guid>
+<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+<description>Fix share sheet issue that cannot save the screenshot image on iOS; Fix the share sheet issue that cannot see the text in the share sheet on iOS; Fix editor scrolling issue on Android</description>
+</item>
+<item>
+<title>v1.98.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1983</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1983</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+<description>The AI Tutor's tab system has been moved from the left sidebar to the right sidebar.</description>
+</item>
+<item>
+<title>v1.98.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1982</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1982</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where some users might not be able to access Heptabase.; Fix an issue where PDF cards in the card tab can't be switched with cards in the side panel.</description>
+</item>
+<item>
+<title>v1.98.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1981</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1981</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where the cursor kept jumping to the front of the card when typing in multiple Heptabase windows.; Fix an issue where exporting cards with in-card highlights as Markdown resulted in blank documents.; Fix an issue where using the left/right arrow keys to switch PDF pages in the side panel incorrectly positions the whiteboard object.</description>
+</item>
+<item>
+<title>v1.98.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1980</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1980</guid>
+<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>v1.97.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1971</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1971</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+<description>Fix some backend issues and improve overall stability.</description>
+</item>
+<item>
+<title>v1.97.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1970</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1970</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+<description>Heptabase CLI 0.4.0: File, PDF &amp; media transcript commands What the CLI can do: read images, read parsed PDF content page by page, and read audio and video transcripts.; What the CLI can't do yet: create new PDF, image, audio, or video cards by uploading files from your machine.; Please ask your agent to update/install the Official Heptabase CLI Skills and use heptabase pdf -h , heptabase audio -h , heptabase video -h , and heptabase file -h to learn new commands.</description>
+</item>
+<item>
+<title>v1.96.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1963</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1963</guid>
+<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+<description>Fix issues where stale database filters or duplicate tag database data could break related database views.</description>
+</item>
+<item>
+<title>v1.96.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1962</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1962</guid>
+<pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+<description>Improve the overall experiences of the AI Tutor.</description>
+</item>
+<item>
+<title>v1.96.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1961</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1961</guid>
+<pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+<description>AI Agent: Edit journal cards; You can now add selected text as chat context in the Journal.; In AI Tutor mode, the agent can now edit lesson content directly, with a diff view for you to review the changes before accepting.</description>
+</item>
+<item>
+<title>v1.96.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1960</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1960</guid>
+<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+<description>AI Agent: Edit card content</description>
+</item>
+<item>
+<title>v1.95.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1950</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1950</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<description>You can now type @ to mention a tag database and then click it to go there.; Recently added cards will now appear at the top of the "Add to Whiteboard" menu.; Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>Mobile app v1.36.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1360</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1360</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<description>You can now type @ to mention a tag database and then click it to go there.; Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>v1.94.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1940</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1940</guid>
+<pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+<description>Heptabase CLI 0.3.0: Tag &amp; Card properties commands What the CLI can do: read a tag database's property schema, read the property values on any card, and edit a card's property values.; What the CLI can't do yet: create new tag databases, add or rename property columns, or add options to Select / Multi-select properties.; Please ask your agent to update/install the Official Heptabase CLI Skills and use heptabase tag -h and heptabase card -h to learn new commands.</description>
+</item>
+<item>
+<title>v1.93.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1931</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1931</guid>
+<pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+<description>Auto-compact context when the AI tutor conversation is too long.; Improve AI tutor tool use stability and UX.; Fix the issue where the generated lesson part is sometimes empty.</description>
+</item>
+<item>
+<title>Mobile app v1.35.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1354</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1354</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<description>Fix the issue where Android highlights are automatically deselected.; Fix the issue where contact support widget cannot be opened.; Fix the issue where Android area highlights clip to the wrong position.</description>
+</item>
+<item>
+<title>v1.93.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1930</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1930</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+<description>Heptabase CLI 0.2.0: Whiteboard commands (Please ask your agent to update/install the Official Heptabase CLI Skills ) and use heptabase whiteboard -h to learn new commands.</description>
+</item>
+<item>
+<title>Mobile app v1.35.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1353</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1353</guid>
+<pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: PDF highlight and annotation</description>
+</item>
+<item>
+<title>v1.92.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1921</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1921</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<description>App: Live public link for cards</description>
+</item>
+<item>
+<title>Mobile app v1.35.2.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13520</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13520</guid>
+<pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix a database locking issue that occurred when users received updates.; Fix an issue where some iPad users couldn't input codes during login.</description>
+</item>
+<item>
+<title>v1.91.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1913</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1913</guid>
+<pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+<description>Improve network stability for AI Tutor.; You can now install Official Heptabase CLI Skills to help your AI agent use the CLI effectively.; Fix an issue where the highlight toolbar in the main pane couldn't delete highlights when the highlight sidebar was opened on the right.; Fix a table layout broken issue in the AI Tutor mode.</description>
+</item>
+<item>
+<title>v1.91.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1911</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1911</guid>
+<pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+<description>Goal Discovery: choose which whiteboards to include and rediscover goals anytime.; Improve Heptabase CLI setup dialogs and fix Unicode output in the Windows cmd launcher.; Fix an issue where imported arXiv PDFs could get the wrong card title.</description>
+</item>
+<item>
+<title>Mobile app v1.35.0.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13501</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13501</guid>
+<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: PDF highlight and annotation (iOS &amp; iPadOS only, Android coming soon)</description>
+</item>
+<item>
+<title>v1.91.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1910</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1910</guid>
+<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+<description>Heptabase CLI (Please check 👉 How to use Heptabase CLI )</description>
+</item>
+<item>
+<title>v1.90.8</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1908</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1908</guid>
+<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+<description>You can now enable Premium mode in AI Tutor for even smarter, more in-depth responses on complex topics, at a higher credit cost.</description>
+</item>
+<item>
+<title>v1.90.7</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1907</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1907</guid>
+<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+<description>Improve the overall Goal Discovery experience.</description>
+</item>
+<item>
+<title>v1.90.6</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1906</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1906</guid>
+<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+<description>Goal Discovery: AI reads across your recent whiteboards and surfaces the learning directions already taking shape in your own thinking. Free to try.</description>
+</item>
+<item>
+<title>v1.90.5</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1905</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1905</guid>
+<pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+<description>Improve the overall AI Tutor capabilities. It can now read your whiteboards, understand more types of content, and search for cards and whiteboards by keywords.</description>
+</item>
+<item>
+<title>v1.90.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1904</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1904</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue that prevented users from selecting blocks in the editor.</description>
+</item>
+<item>
+<title>v1.90.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1903</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1903</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>v1.90.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1902</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1902</guid>
+<pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+<description>You can now open web cards in the default browser from the right-click menu on the whiteboard.; You can now add sources directly from the AI Tutor chat composer.; Fix an issue where some cards were missing from the table view in Tag Database.; Fix an issue where opening a link led to a blank screen on the web app.; Fix an issue where connections couldn't be drawn on web cards on the whiteboard.; Fix an issue where web cards were not showing in Card Library custom query results.</description>
+</item>
+<item>
+<title>v1.90.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1901</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1901</guid>
+<pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>v1.90.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1900</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1900</guid>
+<pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+<description>Granted 1,000 free AI Tutor credits to all Pro, Premium, and PremiumPlus plan subscribers. These credits expire at the end of April 22, 2026 (UTC).; Pro plan users can now use AI Tutor by enabling on-demand usage.</description>
+</item>
+<item>
+<title>v1.89.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1893</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1893</guid>
+<pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix the issue that the AI Tutor dialog opens unexpectedly on the web app.</description>
+</item>
+<item>
+<title>v1.89.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1892</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1892</guid>
+<pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix generated image not loaded in AI Tutor.; AI Tutor can now reference images from sources in lesson material.</description>
+</item>
+<item>
+<title>v1.89.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1891</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1891</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<description>You can now open cards or whiteboards in the left pane while using the AI Tutor.; Fix an issue where the whiteboard filter was broken in the Card Library.</description>
+</item>
+<item>
+<title>v1.89.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1890</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1890</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<description>Whiteboard: Export Whiteboard as Image</description>
+</item>
+<item>
+<title>Mobile app v1.34.1.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13411</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13411</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where some users encountered an error that prevented them from accessing the whiteboard.; Fix an issue where users could not access cards containing highlighted text.</description>
+</item>
+<item>
+<title>v1.88.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1881</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1881</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where some users encountered an error that prevented them from accessing the whiteboard.; You can now add existing cards as sources in the AI Tutor mode.</description>
+</item>
+<item>
+<title>v1.88.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1880</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1880</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+<description>App: AI Tutor</description>
+</item>
+<item>
+<title>v1.87.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1872</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1872</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<description>Improve bookmark block style.; Fix the issue that prevents users from triggering the slash menu in the middle of the paragraph.</description>
+</item>
+<item>
+<title>Mobile app v1.34.0.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13402</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13402</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Editor Template</description>
+</item>
+<item>
+<title>v1.87.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1871</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1871</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<description>Editor - Bookmark blocks</description>
+</item>
+<item>
+<title>v1.87.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1870</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1870</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<description>Mindmap: Vertical Layout (Right-click on a mindmap and choose "Rotate Mindmap" to rotate it vertically.)</description>
+</item>
+<item>
+<title>Mobile app v1.34.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1340</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1340</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Home screen widget - Search, quick write, and voice note</description>
+</item>
+<item>
+<title>v1.86.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1861</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1861</guid>
+<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+<description>App: Highlight and annotate text on Note cards</description>
+</item>
+<item>
+<title>v1.85.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1852</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1852</guid>
+<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+<description>You can now see AI usage records in Settings -&gt; AI features.; Fix the issue that card counts for tags in Card Library missed source cards.; Fix an issue where the area highlight wasn't working correctly.; Fix an issue where card selection would sometimes fail.</description>
+</item>
+<item>
+<title>v1.85.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1851</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1851</guid>
+<pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+<description>App: Web card</description>
+</item>
+<item>
+<title>v1.85.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1850</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1850</guid>
+<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+<description>App: Web card; Support GPT 5.4 model and remove GPT 5.2 model.; Fix an issue where searching for sources fails in the Highlight app.; Fix a "Minified React error #311" issue that was causing some users to fail to load content.; Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>Mobile app v1.33.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1330</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1330</guid>
+<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+<description>Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>v1.84.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1844</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1844</guid>
+<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+<description>Introduce a new subscription plan, 'Premium+', for users with higher AI usage.; Double the AI credits for all Premium plan users.; Fix the issue that some cells in tag table view could be broken.; Fix an issue where AI-suggested cards weren't loading in the Card Library right sidebar.</description>
+</item>
+<item>
+<title>v1.84.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1843</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1843</guid>
+<pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+<description>Able to export a whiteboard as an image from the whiteboard menu. (If it exceeds the size limits, only the central square area will be exported.); Enable all card types in the Card Library filter by default, and the selected filter state will now be preserved.; Fix an issue where some mermaid codes weren't displaying correctly.; Fix an issue where some users couldn't export content.; Fix an issue where images could be lost when performing certain operations on the whiteboard.; Fix an issue wh...</description>
+</item>
+<item>
+<title>Mobile app v1.32.7.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13272</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13272</guid>
+<pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+<description>Fix the issue where cards do not appear in the import panel.</description>
+</item>
+<item>
+<title>v1.84.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1842</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1842</guid>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+<description>Optimize Zotero syncing performance.; Fix the issue that keyboard shortcuts were not working on a source card popup.; Fix the issue that some highlights were missing in Highlight App.</description>
+</item>
+<item>
+<title>v1.84.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1841</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1841</guid>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+<description>Able to switch between split, code, and preview modes for Mermaid blocks.; Preserve the media alignment preference for pasting images and videos.; Improve Zotero syncing stability.; Fix the issue that the app may crash when the user disconnects and deletes all imported Zotero data.; Fix the issue that notes could be missing when syncing Zotero image annotations.; Fix the issue that some cards are not shown in the result of Card Library.</description>
+</item>
+<item>
+<title>v1.84.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1840</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1840</guid>
+<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+<description>App: Zotero integration (Beta) (Please check 👉 Zotero Sync Q&amp;A )</description>
+</item>
+<item>
+<title>v1.83.9</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v1839</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1839</guid>
+<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+<description>You can now delete chats (and do other things) from the chat list menu.; Improve AI error messages and make them clearer.; Migrate the data schema to support future features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+<item>
+<title>Mobile app v1.32.7</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1327</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1327</guid>
+<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+<description>Migrate the data schema to support future features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
+</channel>
+</rss>
