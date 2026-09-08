@@ -11,7 +11,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Any, Callable, Dict, List, Optional, Tuple
 from xml.sax.saxutils import escape
 
@@ -1480,10 +1480,8 @@ def scrape_cabinet_magazine(_html: str = "", _base: str = "") -> List[Dict[str, 
             link = abs_url("https://www.cabinetmagazine.org", href)
             desc = f"Cabinet Magazine — Issue {n}"
             it = item(title, link, desc, None)
-            # Approximate pub order by issue number (higher = newer)
-            it["_dt"] = datetime(2000, 1, 1, tzinfo=timezone.utc).replace(
-                year=2000 + min(n, 800)
-            )
+            # Approximate order: higher issue = newer (listing pages lack pub dates)
+            it["_dt"] = datetime(2010, 1, 1, tzinfo=timezone.utc) + timedelta(days=int(n) * 30)
             it["pubDate"] = rfc822(it["_dt"])
             items.append(it)
         time.sleep(0.2)
