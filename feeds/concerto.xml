@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 09 Sep 2026 11:22:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:38:30 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyNCIsImRpc2xpa2VzIjoiMCJ9?token=q6aqifNuVe128fMhydWDEoMSctEyRzcW-VTbhn0gSFQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyNSIsImRpc2xpa2VzIjoiMCJ9?token=6wHQOR5Xp2OssU4IesqFB4pkCUfRcMZyGBqOslo1760?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;524&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;525&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,71 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra do Neojiba, Coro Juvenil, Coro Infantojuvenil e Coro Comunitário do Neijoba</title>
+  <link>http://concerto.com.br/roteiros/orquestra-do-neojiba-coro-juvenil-coro-infantojuvenil-e-coro-comunitario-do-neijoba</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra do Neojiba, Coro Juvenil, Coro Infantojuvenil e Coro Comunitário do Neijoba&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 15:14&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto especial em homenagem ao centenário de nascimento de Roberto Figueira Santos. Ricardo Castro - regente. Programa: Händel – Oratório O Messias: Coro Aleluia; Brahms – Abertura Acadêmica op. 80; Mozart - Concerto para piano nº 21 K 467 (2º movimento); Ernst Widmer – Sinfonia nº 2 para pequena orquestra; e Beethoven – Fantasia Coral op. 80. Sala Principal.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T20:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1387" hreflang="pt-br"&gt;Salvador, BA&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-castro-alves" hreflang="und"&gt;Teatro Castro Alves (1554 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 20. Vendas pela plataforma Sympla.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 09 Sep 2026 15:14:43 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282783 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra Sinfônica Municipal</title>
@@ -428,12 +493,12 @@ Classificação - Livre&lt;/div&gt;
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;1059&lt;/div&gt;
+              &lt;div class="field__item"&gt;1701&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;9&lt;/div&gt;
+              &lt;div class="field__item"&gt;10&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -456,7 +521,7 @@ Classificação - Livre&lt;/div&gt;
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival de Ópera de Óbidos traz apresentações até 20 de setembro&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Há relatos que localizam a origem da vila de Óbidos, na província da Estremadura, oeste de Portugal, junto aos celtas, no século III a.C. Ocupada pelos romanos e depois pelos árabes, que teriam construído o castelo fortificado, a região da vila foi tomada pelas tropas de D. Afonso Henriques, primeiro rei de Portugal, em 1148. É hoje um ponto turístico concorrido e a municipalidade promove diversos eventos de cultura — como o conhecido Festival Literário — e de tecnologia. E o Festival de Ópera, é claro, que desde 2025 tem como diretora a soprano portuguesa Carla Caramujo.&lt;/p&gt;
-&lt;p&gt;Nessa vila e no seu entorno acontece o Festival, numa encenação que traz a contemporaneidade para a história do Festival de Ópera de Óbidos que, nesta edição de 2026, começou no sábado, dia 5, com uma gala ao ar livre (com peças de Weber, Beethoven e Mozart), tendo o castelo como cenário. A primeira ópera da programação deste ano é Cinderela, de Rossini; o encerramento, nos dias 19 e 20, traz &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;, de Gluck.&lt;/p&gt;
+&lt;p&gt;Nessa vila e no seu entorno acontece o Festival, numa encenação que traz a contemporaneidade para a história do Festival de Ópera de Óbidos que, nesta edição de 2026, começou no sábado, dia 5, com uma gala ao ar livre (com peças de Weber, Beethoven e Mozart), tendo o castelo como cenário. A primeira ópera da programação deste ano é &lt;em&gt;Cinderela&lt;/em&gt;, de Rossini; o encerramento, nos dias 19 e 20, traz &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;, de Gluck.&lt;/p&gt;
 &lt;p&gt;Entre uma e outra obra, apresenta-se o oratório&lt;em&gt; Caim, ou o primeiro homicídio&lt;/em&gt; (&lt;em&gt;Cain, overo il primo omicidio&lt;/em&gt;), de Alessandro Scarlatti, com libreto de Pietro Ottoboni, e um recital que percorre a música baseada em textos de William Shakespeare– De Purcell a Britten: mais de dois séculos de paixão shakespeariana, também com obras de Haydn, Schubert e Wagner.&lt;/p&gt;
 &lt;p&gt;“O Festival de Ópera de Óbidos busca a descentralização e desenvolvimento da ópera em Portugal”, diz Carla. “O FOO 26 tem como tema Luz e Trevas, propondo uma viagem do período barroco aos alvores do bel canto e romantismo”. O Brasil tem, este ano, mais um representante: a mezzo-soprano Luisa Francesconi, protagonista de &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Os palcos onde o FOO 2026 acontece se distribuem por pontos referenciais da vila. &lt;em&gt;Cinderela, ou o triunfo da bondade&lt;/em&gt; (&lt;em&gt;La cenerentola, ossia Il trionfo della bontà&lt;/em&gt;) acontece nos dias 11 e 13 no belo Convento de São Miguel das Gaeiras (no dia 11, antecedida por uma conversa com os artistas). “Ouviremos a versão original com a escrita pura de Rossini por uma opção da maestra Julia Jones, sem interferência das adições posteriores ao seu desaparecimento, feitas por seus discípulos”, adianta Carla. “A versão cênica contemporânea de Pedro Ribeiro destaca o aposto do título, ou seja, o triunfo da bondade. Nesta versão não há propriamente uma luta de classes, mas arquétipos que são transformados pelo poder da bondade que emana de uma criatura maltratada e invisível, a gata borralheira. A transformação dá-se através da sua humanidade e não através de magia. E há tremendo humor — a excelência da direção cênica leva-nos também a uma comédia hilariante em chiaroscuro (luz e trevas), tema deste ano. Os ensaios têm sido divertidíssimos”. Com a Orquestra das Beiras cantam Cláudia Ribas, João Terleira, Tiago Matos, Luís Rodrigues, entre outros.&lt;/p&gt;
@@ -519,10 +584,10 @@ Classificação - Livre&lt;/div&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NzUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=hT1lXm6wcl869lOkt2_DT_ero7MR_VuZyOq8tV4L03g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NzUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Ed2z3FAntMHFK_zc1jsqv5VGsvdEnf-EanGt_dxEdoI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -532,33 +597,6 @@ Classificação - Livre&lt;/div&gt;
   <pubDate>Tue, 08 Sep 2026 20:12:51 +0000</pubDate>
     <dc:creator>Luciana Medeiros</dc:creator>
     <guid isPermaLink="false">282775 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Palco em frente a Igreja Matriz de Goiânia</title>
-  <link>http://concerto.com.br/node/282774</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Palco em frente a Igreja Matriz de Goiânia&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Praça Dom Emanuel, s/nº – Setor Central.&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 08/09/2026 - 19:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Goiânia, GO&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Tue, 08 Sep 2026 19:11:53 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282774 at http://concerto.com.br</guid>
     </item>
 
   </channel>
