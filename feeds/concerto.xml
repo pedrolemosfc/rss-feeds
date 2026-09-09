@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 09 Sep 2026 04:41:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:22:12 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyNCIsImRpc2xpa2VzIjoiMCJ9?token=I4qB4lVfP6Tsq8PHRSwLO8B-MV86JbhVn4F3JSKrlRM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyNCIsImRpc2xpa2VzIjoiMCJ9?token=q6aqifNuVe128fMhydWDEoMSctEyRzcW-VTbhn0gSFQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;524&lt;/span&gt;
@@ -428,12 +428,12 @@ Classificação - Livre&lt;/div&gt;
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;582&lt;/div&gt;
+              &lt;div class="field__item"&gt;1059&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;6&lt;/div&gt;
+              &lt;div class="field__item"&gt;9&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -519,10 +519,10 @@ Classificação - Livre&lt;/div&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NzUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=a2tyKS0TX-iaFQxKupSpFRTMrysFkQ7Ls216NMlUFaE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3NzUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=hT1lXm6wcl869lOkt2_DT_ero7MR_VuZyOq8tV4L03g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;

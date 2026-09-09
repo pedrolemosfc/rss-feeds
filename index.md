@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-09 04:42 UTC
+Generated: 2026-09-09 11:23 UTC
 
 ## Native feeds (not scraped)
 
@@ -36,8 +36,8 @@ Generated: 2026-09-09 04:42 UTC
   notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
-- **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
+  notes: scraped 20 items
 - **xai-news** [OK] items=84 → `out/xai-news.xml`  source: https://x.ai/news  
   notes: scraped 84 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
@@ -78,12 +78,12 @@ Generated: 2026-09-09 04:42 UTC
   notes: scraped 54 events
 - **vibra-sp** [OK] items=26 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 26 events
-- **theatro-municipal** [FAIL] items=0 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
+  notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **suhai-music-hall** [FAIL] items=0 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **suhai-music-hall** [OK] items=11 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: scraped 11 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
@@ -129,7 +129,7 @@ Generated: 2026-09-09 04:42 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
