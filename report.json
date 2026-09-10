@@ -423,9 +423,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {

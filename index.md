@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-10 04:43 UTC
+Generated: 2026-09-10 11:20 UTC
 
 ## Native feeds (not scraped)
 
@@ -112,8 +112,8 @@ Generated: 2026-09-10 04:43 UTC
   notes: scraped 11 events
 - **casa-de-francisca** [OK] items=51 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
   notes: scraped 51 events
-- **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 11 events
+- **jazz-b** [OK] items=12 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 12 events
 - **cavern-club-sp** [OK] items=27 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 27 events
 - **manifesto-bar** [OK] items=16 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
