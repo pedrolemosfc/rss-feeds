@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 10 Sep 2026 16:24:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:52:32 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyNiIsImRpc2xpa2VzIjoiMCJ9?token=pfMgo1r1OYJ4hBRBTgFrNKCFAfBL-_zm7wGWaemmUak?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOCIsImRpc2xpa2VzIjoiMCJ9?token=rlsdSoIuiCVHqjqmC8uA2SlsQfvnnJ9DABgVYMK7CFQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;526&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;528&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,145 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra ECO inaugura atividades no Teatro B32</title>
+  <link>http://concerto.com.br/noticias/musica-classica/orquestra-eco-inaugura-atividades-no-teatro-b32</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra ECO inaugura atividades no Teatro B32&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 12, a Orquestra ECO faz sua estreia no Teatro B32 com o programa Do requinte europeu às nossas raízes caipiras. Obras de Haydn, Camargo Guarnieri e Weber, sob regência do diretor musical e regente titular Ira Levin.&lt;/p&gt;
+&lt;p&gt;Ira Levin fundou a orquestra motivado a se debruçar sobre obras tradicionais, porém pouco tocadas. “Sempre me choca que quase não se toque Haydn por aqui e também acho que se faz pouco Mozart. Para a cultura de uma orquestra, é importante tocar esse repertório, porque exige uma forma completamente diferente de fazer música. É música de câmara, que exige escuta mútua. Quando você está no meio de uma orquestra de noventa pessoascli, é uma coisa, mas, quando cada nota e fraseado é transparente, isso o força a ouvir e a trabalhar de outra maneira.”, diz, em entrevista à ediçào de setembro da Revista CONCERTO [clique&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/node/282563"&gt;&lt;span style="color:null;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;; acesso exclusivo para assinantes]. &lt;/p&gt;
+&lt;p&gt;Fornecer espaço a músicos recém-formados também é uma preocupação. “Eles tocam maravilhosamente, mas não têm para onde ir depois que se profissionalizam, não há vagas suficientes”, comenta Levin, que divide a liderança do grupo com Daniel Oliveira. No segundo semestre de 2026, 20 instrumentistas, dentre violinistas, violistas, violoncelistas, flautistas, oboístas, fagotistas, trompistas e trompetistas foram selecionados para integrar o corpo artístico.&lt;/p&gt;
+&lt;p&gt;Apesar da dedicação ao classicismo, o repertório da orquestra combina diferentes períodos e compositores. Após a &lt;em&gt;Sinfonia nº 102 em si bemol maior&lt;/em&gt;, de Haydn, o conjunto interpreta &lt;em&gt;Toada à moda paulista&lt;/em&gt;, de Camargo Guarnieri. A obra de 1935 segue a proposta do compositor em aproximar a música brasileira da escrita orquestral.&lt;/p&gt;
+&lt;p&gt;Outro destaque do programa é a &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, de Weber. A obra de 1807 foi escrita para uma formação reduzida, equivalente à disponibilidade de músicos da corte do conde von Württenberg, para quem Weber trabalhava. Embora as obras orquestrais de Weber tenham sido ofuscadas pelas de seu contemporâneo, Beethoven, o primeiro movimento revela a tendência operística do compositor e o segundo, seu impacto no romantismo alemão.&lt;/p&gt;
+&lt;p&gt;De setembro deste ano a junho de 2027, a temporada segue propondo variedade. O conjunto planeja 9 programas, cada um com duas apresentações, trazendo obras de Mozart, Haydn, Beethoven, Gounod, Méhul, Saint-Saëns, Prokofiev, Villa-Lobos e Schubert.&lt;/p&gt;
+&lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-12"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso de Canto Natércia Lopes anuncia vencedores &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Ira Levin [Divulgação]" data-entity-type="file" data-entity-uuid="6ab092e6-670a-4690-8623-e537173108d0" src="http://concerto.com.br/sites/default/files/inline-images/w-ira_levin_0_0_0.jpg" /&gt;
+&lt;figcaption&gt;Ira Levin [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 10/09/2026 - 19:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ira_levin_0_0_0.jpg" width="800" height="468" alt="Ira Levin [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=tQzYhP-uYbo_gOx6NQWlzWqc__XCCzM5PQtR3KKQmBg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 10 Sep 2026 19:43:39 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282802 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>FIL - Festival Internacional Intercâmbio de Linguagens – A poética dos imaginários</title>
+  <link>http://concerto.com.br/roteiros/fil-festival-internacional-intercambio-de-linguagens-poetica-dos-imaginarios</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FIL - Festival Internacional Intercâmbio de Linguagens – A poética dos imaginários&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 10/09/2026 - 16:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculo Larilá, leitura musicada de uma ópera para crianças. Libreto: Karen Acioly. Partitura original de Arrigo Barnabé. Informações: https://www.fil.art.br/.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-23T14:00:00Z" class="datetime"&gt;qua, 23/09/2026 - 14:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-banco-do-brasil-0" hreflang="pt-br"&gt;Centro Cultural Banco do Brasil (155 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 10 Sep 2026 16:50:04 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282800 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Marco Mezquida - piano</title>
@@ -209,10 +348,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-ZTiex1-zwSQZQLgVQAGOQmRh00o8mfUpEbcga4lekM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=G-AAZcwkaRiJtUr49wGfid5BvTInKiPqNlRmZLFtFr4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -284,10 +423,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=baFq0HVMUdAZkhrmhqgbQcHx3ScSK29cjq9Wf3VQD2g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=W11T2Ik6mI8-acY_fqvWV8QsRFzza3HPuow5lFBr1mU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -459,10 +598,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=B4sdIk63RelvSCSqDOp6-u9XE-6KDvMbIkLJth459sQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=9sB_j8AYl5VogsXezdkWLzeCZS2MgMTxKk4gRCIMMSU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -472,150 +611,6 @@
   <pubDate>Wed, 09 Sep 2026 21:02:29 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282794 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística</title>
-  <link>http://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Pianista húngaro e jovem violinista brasileiro se uniram para interpretar um Himalaia do repertório, a &lt;em&gt;Sonata Kreutzer&lt;/em&gt;, de Beethoven&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Não parece exagero declarar histórico o concerto acontecido no Teatro Cultura Artística, em São Paulo, na última terça-feira, dia 9. Afinal, não é todo dia que um jovem artista brasileiro é conduzido ao Olimpo da música de concerto por um dos deuses que lá habitam. Foi o que aconteceu ao violinista paulistano Guido Sant’Anna, 21, alçado às culminâncias de sua arte pelo pianista magiar András Schiff, que completa 73 anos em setembro.&lt;/p&gt;
-&lt;p&gt;Schiff leciona desde 2018 na Academia Kronberg, localizada na pequena Kronberg am Taunus, no estado alemão de Hessen. Lá ele teve oportunidade de trabalhar com Guido, com o qual tocou no prestigioso Wigmore Hall, em Londres. Em entrevista à Revista CONCERTO, ele não poupou elogios ao jovem: “Guido é um talento brilhante, muito original e incomum. Em uma idade tão jovem já tem sua própria voz, sua própria personalidade forte. O Brasil deveria ter muito orgulho dele e lhe dar todo apoio”.&lt;/p&gt;
-&lt;p&gt;Pois bem: o pianista não ficou só nas palavras. E chamou Guido para dividir o recital que deu na capital paulista.&lt;/p&gt;
-&lt;p&gt;A apresentação começou exatamente como a última que ele fez na Sala São Paulo, em 2023: de Bach, a &lt;em&gt;Ária&lt;/em&gt; das &lt;em&gt;Variações Goldberg&lt;/em&gt;, seguido pelo &lt;em&gt;Capriccio sopra la lontananza del suo fratello dilettissimo&lt;/em&gt;. Um pouco mais lacônico do que de hábito (ele não anuncia o repertório com antecipação, e conta no palco o que vai executar), Schiff passou um sabão no público (“podem continuar a tossir a noite inteira, vou ficar contente”) antes de atacar o &lt;em&gt;Concerto Italiano&lt;/em&gt; de forma sábia e saborosa. Em Bach, ele entrega cada uma das linhas do contraponto com clareza e nitidez assombrosas, dando aula de bom gosto tanto nas escolhas de ornamentação, quanto nas seções lentas, que mantém o lirismo sem ficarem arrastadas ou excessivamente sentimentais.&lt;/p&gt;
-&lt;p&gt;Schiff não chega a viajar com seus pianos, mas trouxe consigo o afinador Ulrich Gerharz, que fez questão de elogiar ao microfone, e que ajustou para ele, de forma bastante distinta, os dois pianos que ocupavam o palco do Cultura Artística. Do instrumento bachiano, ele pulou para um segundo, no qual começou a preparação para Beethoven.&lt;/p&gt;
-&lt;p&gt;Pois é difícil não ver elementos Sturm und Drang nas &lt;em&gt;Variações em fá menor&lt;/em&gt;, de Haydn, de 1793. Uma revolução derrubara o rei da França no ano anterior, e sente-se um mundo em transformação. Não é só o cravo que abre passagem ao fortepiano; é toda uma nova sensibilidade romântica que parece se insinuar no discurso musical. Se os compositores do século XVIII não escolhiam as tonalidades ao acaso, reservando o modo menor para a expressão do drama, Schiff o faz de maneira ainda mais premeditada: a uma leitura de Haydn finamente matizada, sucedeu-se uma obra anterior de um compositor mais jovem: a &lt;em&gt;Fantasia em dó menor K. 475&lt;/em&gt;, de Mozart, na qual o estereótipo de um Amadeus jovial e saltitante cede lugar a um Wolfgang humano e angustiado.&lt;/p&gt;
-&lt;p&gt;Datada de 1785, a obra soa como precursora da ópera &lt;em&gt;Don Giovanni&lt;/em&gt;, dois anos posterior, e Schiff, após levar ao palco toda a teatralidade mozartiana, brindou-nos finalmente com Beethoven – o Novo Testamento de sua Bíblia particular (o Velho, obviamente, é Bach). O pianista já executou algumas vezes a integral das sonatas do mestre de Bonn e, para São Paulo, elegeu, assim como em 2023, a &lt;em&gt;Sonata Tempestade&lt;/em&gt; – de 1801-2, e não por acaso, em ré menor. Dessa vez ele preferiu não alertar a plateia para sua escolha heterodoxa de tempo no último movimento, um Allegretto que ele toca bem menos rápido do que reza a tradição. &lt;/p&gt;
-&lt;p&gt;Foi um recital completo no escopo, complexidade e tamanho, no qual a concentração do pianista não se abalou sequer com os toques de celular, que se revelaram ainda mais insistentes do que as tosses de uma noite paulistana atipicamente fria para esta época do ano. Restava o suspense: o que nos esperava depois do intervalo, quando Guido Sant’Anna subisse ao palco? Talvez algo menos denso e complexo, para o violino brilhar com efeitos fáceis e o piano “descansar”, fazendo um acompanhamento elementar?&lt;/p&gt;
-&lt;p&gt;A resposta foi dada pelo próprio Guido, alto e bom som, assim que o duo entrou em cena: nada de concessões. Mais Beethoven. Não existe “qualquer Beethoven”, e este certamente não era um Beethoven qualquer, senão um Himalaia do repertório violinístico: a &lt;em&gt;Sonata Kreutzer&lt;/em&gt;. Escrita logo depois da &lt;em&gt;Tempestade&lt;/em&gt;, em 1803, a peça tem caráter inovador na duração (cerca de 45 minutos) e na dificuldade técnica, demandando virtuosismo de concertista do violino, com uma parte não menos exigente para o piano. O primeiro movimento da peça pareceu brotar das águas turvas da &lt;em&gt;Tempestade&lt;/em&gt; que fechara a primeira parte, e Schiff, que nos entregara uma sonata arrebatadora, manteve-se envolvente aqui, dialogando com o brio e a personalidade marcante de um Guido que tocou tudo de cor.&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Kreutzer&lt;/em&gt; inspirou ao escritor russo Lev Tolstói uma perturbadora e intensa novela homônima. Entusiasmado com o primeiro movimento da sonata (“essa sonata é uma coisa terrível. Exatamente esse movimento”), ele descreveu os seguintes como “um andante lindo, porém corriqueiro, nada novo, com variações vulgares, e um final absolutamente fraco”.&lt;/p&gt;
-&lt;p&gt;Bem, o conde estava longe de acertar sempre. Essas palavras podiam até servir para descrever uma execução rotineira na zona rural russa do século XIX, mas estão longe de serem aplicáveis ao que se ouviu terça-feira na Sala São Paulo. Nada “vulgares”, as variações do segundo movimento revelaram-se o coração anímico da obra, onde Guido e Schiff tangenciaram a transcendência, com picos de elevação espiritual seguidos por um final não “absolutamente fraco”, e sim empolgante.&lt;/p&gt;
-&lt;p&gt;Um recital incomum pedia um bis raro. Ampla e justamente ovacionados, Schiff e Guido saíram-se com o primeiro movimento da primeira sonata de Brahms, executado com uma maturidade e sabedoria que deixaram muita vontade de ouvir a obra na íntegra. Mais aplausos, e daí um bis com cara de bis: &lt;em&gt;Schön Rosmarin&lt;/em&gt;, de Kreisler, o breve momento em que o generoso Schiff deixou de ser o mentor e parceiro ao piano para exercer a função de acompanhador. Afinal, era Schiff quem emprestava sabedoria a Guido, que lhe retribuía com vigor, ou passava-se o contrário? Pouco importa. Nascidos com cinco décadas e dez mil quilômetros de distância, pianista e violinista demonstraram uma química que superou fronteiras e gerações, embaralhando as noções de mestre e discípulo e evidenciando a magia da música enquanto diálogo. &lt;/p&gt;
-&lt;p&gt;[Schiff volta a se apresentar no Teatro Cultura Artística na quinta-feira, dia 10; veja mais detalhes &lt;u&gt;&lt;strong&gt;&lt;a href="https://concerto.com.br/roteiros/2026-09-10" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/u&gt;.]&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Schiff e Sant'Anna na Academia Kronberg [Divulgação/Andreas Malkmus]" data-entity-type="file" data-entity-uuid="53975fb3-7862-4d49-985d-6ac4be47c4fd" src="http://concerto.com.br/sites/default/files/inline-images/w-guido_santa_schiff.jpg" /&gt;
-&lt;figcaption&gt;Schiff e Sant'Anna na Academia Kronberg [Divulgação/Andreas Malkmus]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14829" typeof="schema:Person" property="schema:name" datatype="" content="irineup@hotmail.com" xml:lang=""&gt;Irineu Franco Perpetuo&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 18:49&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-guido_santa_schiff.jpg" width="900" height="555" alt="Schiff e Sant'Anna na Academia Kronberg [Divulgação/Andreas Malkmus]" title="Schiff e Sant'Anna na Academia Kronberg [Divulgação/Andreas Malkmus]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxMiIsImRpc2xpa2VzIjoiMCJ9?token=Jsf0N3N9WRk9BdZrICYX4uxxPVynxMrnPDME7bRXyPI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 18:49:35 +0000</pubDate>
-    <dc:creator>Irineu Franco Perpetuo</dc:creator>
-    <guid isPermaLink="false">282792 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica#comments</comments>
-    </item>
-<item>
-  <title>Semana de Artes do Rio</title>
-  <link>http://concerto.com.br/roteiros/semana-de-artes-do-rio-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Semana de Artes do Rio&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 18:10&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;David Chew - idealização. Música Latino Americana. Lindarte Piano Quartet: Linda Bustani – piano, Michel Bessler – violino, Bernardo Fantini – viola e David Chew – violoncelo. Programa: Schumann a Villa-Lobos. Sala Mário Tavares. Informações nas redes sociais: @riocellooficial.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-20T17:00:00Z" class="datetime"&gt;dom, 20/09/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-municipal-1" hreflang="pt-br"&gt;Theatro Municipal (2361 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 18:10:54 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282790 at http://concerto.com.br</guid>
     </item>
 
   </channel>

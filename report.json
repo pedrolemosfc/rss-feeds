@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 22,
+    "items": 23,
     "ok": true,
-    "notes": "mirrored 22 native items",
+    "notes": "mirrored 23 native items",
     "kind": "native-mirror"
   },
   {
@@ -252,9 +252,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 57,
+    "items": 58,
     "ok": true,
-    "notes": "scraped 57 events",
+    "notes": "scraped 58 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 22,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 27,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -497,7 +497,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
