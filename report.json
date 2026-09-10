@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -396,9 +396,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 38,
+    "items": 36,
     "ok": true,
-    "notes": "scraped 38 events",
+    "notes": "scraped 36 events",
     "kind": "venue-scrape"
   },
   {
