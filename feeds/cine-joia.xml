@@ -5,7 +5,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 11 Sep 2026 04:40:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:21:06 +0000</lastBuildDate>
+<item>
+<title>supercombo</title>
+<link>https://www.cinejoia.com.br/eventos/supercombo/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/supercombo/</guid>
+<pubDate>Thu, 10 Sep 2026 18:16:59 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>2zdinizz</title>
 <link>https://www.cinejoia.com.br/eventos/2zdinizz/</link>
@@ -347,13 +354,6 @@
 <link>https://www.cinejoia.com.br/eventos/protoje-alborosie/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/protoje-alborosie/</guid>
 <pubDate>Fri, 24 Apr 2026 17:07:02 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>ONE OR EIGHT</title>
-<link>https://www.cinejoia.com.br/eventos/one-or-eight/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/one-or-eight/</guid>
-<pubDate>Mon, 20 Apr 2026 16:58:10 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

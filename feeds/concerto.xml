@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 11 Sep 2026 04:39:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:20:20 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=AYfQvss--KqLtRG4swAV_w0jFGOrSFt68x1uPl5uGYY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=GpooIS6X-jmGocayEWY8ev7UoX7V6dxpmHn2MwMgKfc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;529&lt;/span&gt;
@@ -82,16 +82,17 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Pré-estreia da ópera 'Chica da Silva' ocorre em Belo Horizonte</title>
-  <link>http://concerto.com.br/noticias/opera/pre-estreia-da-opera-chica-da-silva-ocorre-em-belo-horizonte</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pré-estreia da ópera 'Chica da Silva' ocorre em Belo Horizonte&lt;/span&gt;
+  <title>Diamantina recebe pré-estreia da ópera ‘Chica da Silva’</title>
+  <link>http://concerto.com.br/noticias/opera/diamantina-recebe-pre-estreia-da-opera-chica-da-silva</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Diamantina recebe pré-estreia da ópera ‘Chica da Silva’&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 12, a ópera &lt;em&gt;Chica da Silva&lt;/em&gt;, de Guilherme Bernstein, tem pré-estreia em Diamantina, antes de iniciar temporada no Palácio das Artes de Belo Horizonte. A direção cênica é de Juliana Santos e a regência e direção musical são de André Brant.&lt;/p&gt;
-&lt;p&gt;Chica da Silva é uma figura marcante na memória sobre o Brasil colonial. Negra e escravizada, teve sua alforria comprada pelo negociador de diamantes português João Fernandes. Apesar da proibição de casamentos inter-raciais na época, os dois mantiveram um relacionamento, marcado pelo nascimento de 13 filhos. Ao longo da história, a paerosnagem se tornou protagonista na música na literautra e nas novelas. &lt;/p&gt;
+&lt;p&gt;Chica da Silva é uma figura marcante na memória sobre o Brasil colonial. Negra e escravizada, teve sua alforria comprada pelo negociador de diamantes português João Fernandes. Apesar da proibição de casamentos inter-raciais na época, os dois mantiveram um relacionamento, marcado pelo nascimento de 13 filhos. Ao longo da história, a personagem se tornou protagonista na música na literautra e nas novelas. &lt;/p&gt;
 &lt;p&gt;Cláudia Malta, diretora-geral do espetáculo, idealizou uma leitura mais realista e crítica da trama. “Tentamos usar a gramática da ópera para incorporar não apenas o factual provável, mas também as narrativas que atravessam essa história e dialogam com questões centrais da cultura brasileira, como gênero, raça e escravidão”, comenta.&lt;/p&gt;
 &lt;p&gt;A cultura brasileira também está estampada na música, assinada por Guilherme Bernstein. A composição mistura influências da música contemporânea do século XX e da música popular brasileira, mas evita o patriotismo exagerado. Além disso, o romance entre os protagonistas é atravessado por canções tradicionais, com destaque para o vissungo, nome dado às cantigas dos quilombos de Minas Gerais.&lt;/p&gt;
 &lt;p&gt;A estreia ocorre no dia 19 e as apresentações seguem até 23 de setembro. A soprano Marly Montoni interpreta papel-título e o tenor Evandro Stenzowski, o de João Fernandes.&lt;/p&gt;
 &lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-12"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
@@ -99,6 +100,7 @@
 &lt;strong&gt;Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/marin-alsop-retorna-osesp-para-concertos-em-setembro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Marin Alsop retorna à Osesp para concertos em setembro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
+&lt;hr /&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="Marly Montoni [Divulgação]" data-entity-type="file" data-entity-uuid="b8dc21b8-b942-46b3-a13d-4d58ab44ae7b" src="http://concerto.com.br/sites/default/files/inline-images/w-montoni.jpg" /&gt;
 &lt;figcaption&gt;Marly Montoni [Divulgação]&lt;/figcaption&gt;
@@ -145,10 +147,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3196exr1v4IpOLeLfA5z8zIP1l5A_HzAy5UwhXTBvsg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=lIGzShIYQfkL1sWCWqAFDH70eQgmv2g7BJiZ5fDPPaQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -160,24 +162,26 @@
     <guid isPermaLink="false">282803 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra ECO inaugura atividades no Teatro B32</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-eco-inaugura-atividades-no-teatro-b32</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra ECO inaugura atividades no Teatro B32&lt;/span&gt;
+  <title>Nova Orquestra ECO estreia no Teatro B32</title>
+  <link>http://concerto.com.br/noticias/musica-classica/nova-orquestra-eco-estreia-no-teatro-b32</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Nova Orquestra ECO estreia no Teatro B32&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 12, a Orquestra ECO faz sua estreia no Teatro B32 com o programa Do requinte europeu às nossas raízes caipiras. Obras de Haydn, Camargo Guarnieri e Weber, sob regência do diretor musical e regente titular Ira Levin.&lt;/p&gt;
-&lt;p&gt;Ira Levin fundou a orquestra motivado a se debruçar sobre obras tradicionais, porém pouco tocadas. “Sempre me choca que quase não se toque Haydn por aqui e também acho que se faz pouco Mozart. Para a cultura de uma orquestra, é importante tocar esse repertório, porque exige uma forma completamente diferente de fazer música. É música de câmara, que exige escuta mútua. Quando você está no meio de uma orquestra de noventa pessoascli, é uma coisa, mas, quando cada nota e fraseado é transparente, isso o força a ouvir e a trabalhar de outra maneira.”, diz, em entrevista à ediçào de setembro da Revista CONCERTO [clique&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/node/282563"&gt;&lt;span style="color:null;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;; acesso exclusivo para assinantes]. &lt;/p&gt;
+&lt;p&gt;Ira Levin fundou a orquestra motivado a se debruçar sobre obras tradicionais, porém pouco tocadas. “Sempre me choca que quase não se toque Haydn por aqui e também acho que se faz pouco Mozart. Para a cultura de uma orquestra, é importante tocar esse repertório, porque exige uma forma completamente diferente de fazer música. É música de câmara, que exige escuta mútua. Quando você está no meio de uma orquestra de noventa pessoascli, é uma coisa, mas, quando cada nota e fraseado é transparente, isso o força a ouvir e a trabalhar de outra maneira.”, diz, em entrevista à ediçào de setembro da Revista CONCERTO [clique&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/node/282563"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;; acesso exclusivo para assinantes]. &lt;/p&gt;
 &lt;p&gt;Fornecer espaço a músicos recém-formados também é uma preocupação. “Eles tocam maravilhosamente, mas não têm para onde ir depois que se profissionalizam, não há vagas suficientes”, comenta Levin, que divide a liderança do grupo com Daniel Oliveira. No segundo semestre de 2026, 20 instrumentistas, dentre violinistas, violistas, violoncelistas, flautistas, oboístas, fagotistas, trompistas e trompetistas foram selecionados para integrar o corpo artístico.&lt;/p&gt;
 &lt;p&gt;Apesar da dedicação ao classicismo, o repertório da orquestra combina diferentes períodos e compositores. Após a &lt;em&gt;Sinfonia nº 102 em si bemol maior&lt;/em&gt;, de Haydn, o conjunto interpreta &lt;em&gt;Toada à moda paulista&lt;/em&gt;, de Camargo Guarnieri. A obra de 1935 segue a proposta do compositor em aproximar a música brasileira da escrita orquestral.&lt;/p&gt;
 &lt;p&gt;Outro destaque do programa é a &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, de Weber. A obra de 1807 foi escrita para uma formação reduzida, equivalente à disponibilidade de músicos da corte do conde von Württenberg, para quem Weber trabalhava. Embora as obras orquestrais de Weber tenham sido ofuscadas pelas de seu contemporâneo, Beethoven, o primeiro movimento revela a tendência operística do compositor e o segundo, seu impacto no romantismo alemão.&lt;/p&gt;
 &lt;p&gt;De setembro deste ano a junho de 2027, a temporada segue propondo variedade. O conjunto planeja 9 programas, cada um com duas apresentações, trazendo obras de Mozart, Haydn, Beethoven, Gounod, Méhul, Saint-Saëns, Prokofiev, Villa-Lobos e Schubert.&lt;/p&gt;
 &lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-12"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso de Canto Natércia Lopes anuncia vencedores &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
+&lt;hr /&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="Ira Levin [Divulgação]" data-entity-type="file" data-entity-uuid="6ab092e6-670a-4690-8623-e537173108d0" src="http://concerto.com.br/sites/default/files/inline-images/w-ira_levin_0_0_0.jpg" /&gt;
 &lt;figcaption&gt;Ira Levin [Divulgação]&lt;/figcaption&gt;
@@ -224,10 +228,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=jcBMi-7ng1ef8WDTih7e4JRWFHwJCHnkUvC1pihHaVs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=NeSRsdmSKQzaNcVd--shyJ5cZWDBOQ-s4HfL-1z4iEo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -426,10 +430,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=eJi4AGqvGc1g0YFC4H7ovls3aG_qfMCxv50Sa56x-o0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=trH2pXCLdEMACCQq0rSg_4mkZWeIibhAWgnsdvgovt4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -501,7 +505,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=XzKXcOjvwKSsR5E2i-SzvasAsKRP79aBErdNiZxN7Hg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kcmQvLq9ilpUzWwcFw8-r4KU7FJoKFayOmBSKOomhGA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;

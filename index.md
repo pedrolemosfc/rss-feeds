@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-11 04:41 UTC
+Generated: 2026-09-11 11:22 UTC
 
 ## Native feeds (not scraped)
 
@@ -129,7 +129,7 @@ Generated: 2026-09-11 04:41 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=7 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
