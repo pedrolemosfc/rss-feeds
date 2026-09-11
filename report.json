@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 52,
+    "items": 51,
     "ok": true,
-    "notes": "scraped 52 items"
+    "notes": "scraped 51 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 184,
+    "items": 183,
     "ok": true,
-    "notes": "merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -252,9 +252,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 57,
+    "items": 58,
     "ok": true,
-    "notes": "scraped 57 events",
+    "notes": "scraped 58 events",
     "kind": "venue-scrape"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 51,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 51 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {

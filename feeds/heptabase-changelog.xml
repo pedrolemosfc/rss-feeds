@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 16:30:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:59:45 +0000</lastBuildDate>
+<item>
+<title>Mobile app v1.39.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1390</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1390</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Backlinks preview mentions and jump to the block</description>
+</item>
 <item>
 <title>v1.109.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11090</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1840</guid>
 <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
 <description>App: Zotero integration (Beta) (Please check 👉 Zotero Sync Q&amp;A )</description>
-</item>
-<item>
-<title>v1.83.9</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1839</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1839</guid>
-<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-<description>You can now delete chats (and do other things) from the chat list menu.; Improve AI error messages and make them clearer.; Migrate the data schema to support future features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
 </item>
 </channel>
 </rss>

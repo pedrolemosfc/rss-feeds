@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 11 Sep 2026 16:28:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:58:01 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=vWKQQ76ErfUr9lwNo9zJD9PunDYG_W9Pfuuufvn0Utw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMCIsImRpc2xpa2VzIjoiMCJ9?token=IVcSuhqzUEtxRCltccStUPl3dPGE00QDn9wpA0Q1a-Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;529&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;530&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,256 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra de Sopros de Novo Hamburgo e Banda The Dogs </title>
+  <link>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-e-banda-dogs</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Sopros de Novo Hamburgo e Banda The Dogs &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 11/09/2026 - 19:28&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;80 anos do Sesc-RS e Senac-RS em Porto Alegre. Rock in Concert. Participação: Frank Jorge - guitarras, baixo e bateria.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-13T11:00:00Z" class="datetime"&gt;dom, 13/09/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/257337" hreflang="pt-br"&gt;Orla do Guaíba&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 19:28:04 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282809 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>[ON-LINE] Homenagem ao maestro Eleazar de Carvalho</title>
+  <link>http://concerto.com.br/roteiros/line-homenagem-ao-maestro-eleazar-de-carvalho</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Homenagem ao maestro Eleazar de Carvalho&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 11/09/2026 - 18:19&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Música e Músicos do Brasil.  A trajetória artística do maestro Eleazar de Carvalho, 30 anos após sua morte. Três obras sob a regência do maestro Eleazar de Carvalho. Sinfônica da Rádio da Baviera.  Nelson Freire - piano. Programa: Liszt - Concerto nº 2 em lá maior. Orquestra Sinfônica da Paraíba. Villa-Lobos - Uirapurú e Marlos Nobre - Convergências op. 28.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-12T19:00:00Z" class="datetime"&gt;sab, 12/09/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/radio-mec" hreflang="und"&gt;Rádio Mec&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 18:19:20 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282807 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Chamber Soloists</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-chamber-soloists-10</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Chamber Soloists&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 11/09/2026 - 17:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Pré-turne Colômbia. Alejandro Aldana - direção artística e violino. Programa: obras de Bach, Villa-Lobos, Clarice Assad, Gabriela Ortiz, Piazzolla e Jenny Peña. Sala do Conservatório.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-20T17:00:00Z" class="datetime"&gt;dom, 20/09/2026 - 17:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/praca-das-artes" hreflang="und"&gt;Praça das Artes - Auditório e Escola de Música de São Paulo (80 lugares) - Sala do Conservatório (200 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 17:43:27 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282805 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Chamber Soloists</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-chamber-soloists-9</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Chamber Soloists&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 11/09/2026 - 17:13&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ensaio aberto. Pré-turne Colômbia. Alejandro Aldana - direção artística e violino. Programa: obras de Bach, Villa-Lobos, Clarice Assad, Gabriela Ortiz, Piazzolla e Jenny Peña.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-16T19:00:00Z" class="datetime"&gt;qua, 16/09/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278240" hreflang="pt-br"&gt;Teatro Baccarelli &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 17:13:28 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282804 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Diamantina recebe pré-estreia da ópera ‘Chica da Silva’</title>
@@ -147,10 +397,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=INkOwF2jMYcfxK80ws9SXcECaJQx4pB8bh4kFxhN7BM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=dg4PsV8zVpF_CuRxqf9LjDk7dwU1qyhoW-gw7yM2G-8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -228,10 +478,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-vqAwZveDxvkqioh2HJA8HgxsYlkgdfJHDw_LFvjthw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=dZccI0q85oivcMZWf0ggVYacRGh8e7TNOCiqG6kZRt0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -364,251 +614,6 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <pubDate>Thu, 10 Sep 2026 12:24:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282799 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Marin Alsop retorna à Osesp para concertos em setembro</title>
-  <link>http://concerto.com.br/noticias/musica-classica/marin-alsop-retorna-osesp-para-concertos-em-setembro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marin Alsop retorna à Osesp para concertos em setembro&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 10, na Sala São Paulo, Marin Alsop faz a primeira de duas semanas de concertos com a Osesp. As apresentações seguem até o dia 12, com obras de compositores americanos, destacando-se o &lt;em&gt;Concerto para violino&lt;/em&gt; de Barber, com solos de Randall Goosby.&lt;/p&gt;
-&lt;p&gt;Aos 70 anos, Marin Alsop percorre uma trajetória marcada pelo pioneirismo e pelo reconhecimento internacional. Discípula de Leonard Bernstein, tornou-se a primeira mulher a reger em salas como o Teatro alla Scala, na Itália, e o Musikverein, na Áustria. Com a Osesp, atuou como regente titular entre 2011 e 2019 e como regente de honra entre 2020 e 2023.&lt;/p&gt;
-&lt;p&gt;Barber compôs o &lt;em&gt;Concerto para violino&lt;/em&gt; em 1939. A obra em três movimentos preserva a sonoridade tonal da música do século XIX, mas foge às convenções ao priorizar a expressividade em relação ao virtuosismo, em um concerto sem cadências para o instrumento solista. &lt;/p&gt;
-&lt;p&gt;Nos dias 17, 18 e 19, a regente assume novamente a orquestra com um programa simbólico. O repertório inclui o &lt;em&gt;Choros nº 10 – 'Rasga o coração'&lt;/em&gt;, de Villa-Lobos, que integrou o projeto Floresta Villa-Lobos idealizado por Alsop em parceria com a Osesp, que realizou concertos no Carnegie Hall em 2022 e em Pequim, em agosto de 2026. O&lt;em&gt; Adagietto&lt;/em&gt; da&lt;em&gt; Sinfonia nº 5&lt;/em&gt;, de Mahler, e composições de Leonard Bernstein completam a programação.&lt;/p&gt;
-&lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-10"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso de Canto Natércia Lopes anuncia vencedores &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Marin Alsop [Divulgação/ Nancy Horowitz]" data-entity-type="file" data-entity-uuid="7b6aaa91-70e7-489a-b57c-bec6bcc4970f" src="http://concerto.com.br/sites/default/files/inline-images/w-alsop.jpg" /&gt;
-&lt;figcaption&gt;Marin Alsop [Divulgação/ Nancy Horowitz]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 22:40&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-alsop.jpg" width="900" height="710" alt="Marin Alsop [Divulgação/ Nancy Horowitz]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=_d0w1ATrgCHnkj4Z0wJrJvdbyC6e_8ebnLtKNghlc0Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 22:40:57 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282798 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Filarmônica de Minas Gerais convida Fabio Zanon e dedica concerto a compositores espanhóis</title>
-  <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-convida-fabio-zanon-e-dedica-concerto</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais convida Fabio Zanon e dedica concerto a compositores espanhóis&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 10, e na sexta-feira, 11, a Filarmônica de Minas Gerais recebe o violonista Fabio Zanon na Sala Minas Gerais, em Belo Horizonte. O programa traz obras de Joaquín Rodrigo, Manuel de Falla e Heitor Villa-Lobos.&lt;/p&gt;
-&lt;p&gt;Celebrando seus 30 anos de carreira, Zanon é o solista da &lt;em&gt;Fantasia para um fidalgo&lt;/em&gt;, de Joaquín Rodrigo. Composta em 1976 e dedicada ao violonista Andrés Segovia, a peça se inspira na obra de Gaspar Sanz, compositor espanhol da segunda metade do século XVI, responsável pelo primeiro método de violão para partitura.&lt;/p&gt;
-&lt;p&gt;A orquestra homenageia também os 150 anos do compositor Manuel de Falla. &lt;em&gt;O amor bruxo&lt;/em&gt; absorve as tradições e superstições andaluzas ao acompanhar a história da viúva Candelas. A jovem, interpretada pela mezzo-soprano Bárbara Brasil, é atormentada pelo fantasma de seu marido, que atrapalha seu romance com Carmelo. Ao longo dos 13 movimentos, o sobrenatural e o romance se misturam na busca da protagonista pela quebra da maldição.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;A vida breve&lt;/em&gt; reforça o caráter nacionalista na obra de Falla. Estreada em 1913, como uma ópera de dois atos, a obra busca imitar as inflexões do canto tradicional espanhol nas melodias, ao mesmo tempo em que equilibra referências ao romantismo italiano, a Liszt e a Debussy.&lt;br /&gt;
- &lt;/p&gt;
-&lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-10"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso de Canto Natércia Lopes anuncia vencedores &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Fabio Zanon [ Divulgação/ Heloisa Bortz]" data-entity-type="file" data-entity-uuid="ef33cf3f-1ff1-467f-83c4-975e78499ab5" src="http://concerto.com.br/sites/default/files/inline-images/w-zanon_.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 21:29&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-zanon_.jpg" width="900" height="600" alt="Fabio Zanon [ Divulgação/ Heloisa Bortz]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=WqglX99f1lD0ejW_RoZgm3of2rR5tldFmVHyHhJ4D10?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 21:29:56 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282797 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Teatro Moise Safra (100 lugares)</title>
-  <link>http://concerto.com.br/node/282795</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Moise Safra (100 lugares)&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Prof. Walter Lerner, 315 - Barra Funda  - Tel. (11) 96892-4562 - https://www.teatromoisesafra.com.br/pt/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 21:19&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 21:19:42 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282795 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Ópera Esquecer? Nunca Mais!, de Elodie Bouny e Roee Benn Sira (primeira audição)</title>
-  <link>http://concerto.com.br/roteiros/opera-esquecer-nunca-mais-de-elodie-bouny-e-roee-benn-sira-primeira-audicao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Esquecer? Nunca Mais!, de Elodie Bouny e Roee Benn Sira (primeira audição)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 21:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Ópera inédita que revisita a trajetória de Marcos Arruda, militante da ação popular e sobrevivente da tortura durante a ditadura militar brasileira. James N. Green  - idealização e criação. Pablo Maritano  - direção artística. José Henrique de Paula  - direção cênica. Libreto: Fernanda Maia. &lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-16T20:00:00Z" class="datetime"&gt;qua, 16/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282795" hreflang="pt-br"&gt;Teatro Moise Safra (100 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos exclusivamente presencial na bilheteria do teatro, por ordem de chegada, a partir das 19h.  Limitado a 2 ingressos por pessoa/CPF.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 21:11:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282796 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<lastBuildDate>Fri, 11 Sep 2026 16:28:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:57:47 +0000</lastBuildDate>
     <atom:link href="https://feedback.recall.it/api/changelog/feed.rss" rel="self" type="application/rss+xml"/>
     <description>Recall release notes (native Canny RSS mirror for Reader)</description>
     <generator>Canny</generator>
