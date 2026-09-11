@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 30,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 30 items"
+    "notes": "scraped 29 items"
   },
   {
     "name": "noize",
@@ -288,9 +288,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {

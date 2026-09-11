@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-11 11:22 UTC
+Generated: 2026-09-11 16:30 UTC
 
 ## Native feeds (not scraped)
 
@@ -48,8 +48,8 @@ Generated: 2026-09-11 11:22 UTC
   notes: scraped 18 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
   notes: scraped 100 items
-- **qobuz-magazine-br** [OK] items=30 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
-  notes: scraped 30 items
+- **qobuz-magazine-br** [OK] items=29 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
+  notes: scraped 29 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
 - **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
@@ -82,8 +82,8 @@ Generated: 2026-09-11 11:22 UTC
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **suhai-music-hall** [OK] items=11 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
-  notes: scraped 11 events
+- **suhai-music-hall** [OK] items=12 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: scraped 12 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  

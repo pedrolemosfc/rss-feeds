@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Fri, 11 Sep 2026 11:20:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Sep 2026 16:28:38 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Barona apresenta &#8220;Meus Erros De Novo&#8221; + Tarcis</title>
+		<link>https://casanaturamusical.com.br/eventos/barona-apresenta-meus-erros-de-novo-tarcis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=barona-apresenta-meus-erros-de-novo-tarcis</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17150</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Big Up</title>
 		<link>https://casanaturamusical.com.br/eventos/big-up-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=big-up-3</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17097</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cordel do Fogo Encantado</title>
-		<link>https://casanaturamusical.com.br/eventos/cordel-do-fogo-encantado/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cordel-do-fogo-encantado</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17091</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

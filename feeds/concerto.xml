@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 11 Sep 2026 11:20:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 16:28:40 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=GpooIS6X-jmGocayEWY8ev7UoX7V6dxpmHn2MwMgKfc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=vWKQQ76ErfUr9lwNo9zJD9PunDYG_W9Pfuuufvn0Utw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;529&lt;/span&gt;
@@ -147,10 +147,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=lIGzShIYQfkL1sWCWqAFDH70eQgmv2g7BJiZ5fDPPaQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=INkOwF2jMYcfxK80ws9SXcECaJQx4pB8bh4kFxhN7BM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -228,10 +228,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=NeSRsdmSKQzaNcVd--shyJ5cZWDBOQ-s4HfL-1z4iEo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-vqAwZveDxvkqioh2HJA8HgxsYlkgdfJHDw_LFvjthw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -370,7 +370,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <link>http://concerto.com.br/noticias/musica-classica/marin-alsop-retorna-osesp-para-concertos-em-setembro</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marin Alsop retorna à Osesp para concertos em setembro&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 10, na Sala São Paulo, Marin Alsop faz a primeira de duas semanas de concertos com a Osesp. As apresentações seguem até o dia 12, com obras de compositores americanos, destacando-se o Concerto para violino de Barber, com solos de Randall Goosby.&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 10, na Sala São Paulo, Marin Alsop faz a primeira de duas semanas de concertos com a Osesp. As apresentações seguem até o dia 12, com obras de compositores americanos, destacando-se o &lt;em&gt;Concerto para violino&lt;/em&gt; de Barber, com solos de Randall Goosby.&lt;/p&gt;
 &lt;p&gt;Aos 70 anos, Marin Alsop percorre uma trajetória marcada pelo pioneirismo e pelo reconhecimento internacional. Discípula de Leonard Bernstein, tornou-se a primeira mulher a reger em salas como o Teatro alla Scala, na Itália, e o Musikverein, na Áustria. Com a Osesp, atuou como regente titular entre 2011 e 2019 e como regente de honra entre 2020 e 2023.&lt;/p&gt;
 &lt;p&gt;Barber compôs o &lt;em&gt;Concerto para violino&lt;/em&gt; em 1939. A obra em três movimentos preserva a sonoridade tonal da música do século XIX, mas foge às convenções ao priorizar a expressividade em relação ao virtuosismo, em um concerto sem cadências para o instrumento solista. &lt;/p&gt;
 &lt;p&gt;Nos dias 17, 18 e 19, a regente assume novamente a orquestra com um programa simbólico. O repertório inclui o &lt;em&gt;Choros nº 10 – 'Rasga o coração'&lt;/em&gt;, de Villa-Lobos, que integrou o projeto Floresta Villa-Lobos idealizado por Alsop em parceria com a Osesp, que realizou concertos no Carnegie Hall em 2022 e em Pequim, em agosto de 2026. O&lt;em&gt; Adagietto&lt;/em&gt; da&lt;em&gt; Sinfonia nº 5&lt;/em&gt;, de Mahler, e composições de Leonard Bernstein completam a programação.&lt;/p&gt;
@@ -430,10 +430,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=trH2pXCLdEMACCQq0rSg_4mkZWeIibhAWgnsdvgovt4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=_d0w1ATrgCHnkj4Z0wJrJvdbyC6e_8ebnLtKNghlc0Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -505,10 +505,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kcmQvLq9ilpUzWwcFw8-r4KU7FJoKFayOmBSKOomhGA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=WqglX99f1lD0ejW_RoZgm3of2rR5tldFmVHyHhJ4D10?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
