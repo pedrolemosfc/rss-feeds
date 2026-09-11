@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 10 Sep 2026 20:52:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 04:39:34 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOCIsImRpc2xpa2VzIjoiMCJ9?token=rlsdSoIuiCVHqjqmC8uA2SlsQfvnnJ9DABgVYMK7CFQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUyOSIsImRpc2xpa2VzIjoiMCJ9?token=AYfQvss--KqLtRG4swAV_w0jFGOrSFt68x1uPl5uGYY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;528&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;529&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,84 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Pré-estreia da ópera 'Chica da Silva' ocorre em Belo Horizonte</title>
+  <link>http://concerto.com.br/noticias/opera/pre-estreia-da-opera-chica-da-silva-ocorre-em-belo-horizonte</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pré-estreia da ópera 'Chica da Silva' ocorre em Belo Horizonte&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 12, a ópera &lt;em&gt;Chica da Silva&lt;/em&gt;, de Guilherme Bernstein, tem pré-estreia em Diamantina, antes de iniciar temporada no Palácio das Artes de Belo Horizonte. A direção cênica é de Juliana Santos e a regência e direção musical são de André Brant.&lt;/p&gt;
+&lt;p&gt;Chica da Silva é uma figura marcante na memória sobre o Brasil colonial. Negra e escravizada, teve sua alforria comprada pelo negociador de diamantes português João Fernandes. Apesar da proibição de casamentos inter-raciais na época, os dois mantiveram um relacionamento, marcado pelo nascimento de 13 filhos. Ao longo da história, a paerosnagem se tornou protagonista na música na literautra e nas novelas. &lt;/p&gt;
+&lt;p&gt;Cláudia Malta, diretora-geral do espetáculo, idealizou uma leitura mais realista e crítica da trama. “Tentamos usar a gramática da ópera para incorporar não apenas o factual provável, mas também as narrativas que atravessam essa história e dialogam com questões centrais da cultura brasileira, como gênero, raça e escravidão”, comenta.&lt;/p&gt;
+&lt;p&gt;A cultura brasileira também está estampada na música, assinada por Guilherme Bernstein. A composição mistura influências da música contemporânea do século XX e da música popular brasileira, mas evita o patriotismo exagerado. Além disso, o romance entre os protagonistas é atravessado por canções tradicionais, com destaque para o vissungo, nome dado às cantigas dos quilombos de Minas Gerais.&lt;/p&gt;
+&lt;p&gt;A estreia ocorre no dia 19 e as apresentações seguem até 23 de setembro. A soprano Marly Montoni interpreta papel-título e o tenor Evandro Stenzowski, o de João Fernandes.&lt;/p&gt;
+&lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt; &lt;/a&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-12"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-eco-inaugura-atividades-no-teatro-b32" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra ECO inaugura atividades no Teatro B32&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/marin-alsop-retorna-osesp-para-concertos-em-setembro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Marin Alsop retorna à Osesp para concertos em setembro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Marly Montoni [Divulgação]" data-entity-type="file" data-entity-uuid="b8dc21b8-b942-46b3-a13d-4d58ab44ae7b" src="http://concerto.com.br/sites/default/files/inline-images/w-montoni.jpg" /&gt;
+&lt;figcaption&gt;Marly Montoni [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 10/09/2026 - 21:25&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-montoni.jpg" width="900" height="1173" alt="Marly Montoni [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3196exr1v4IpOLeLfA5z8zIP1l5A_HzAy5UwhXTBvsg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 10 Sep 2026 21:25:13 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282803 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra ECO inaugura atividades no Teatro B32</title>
@@ -146,10 +224,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=tQzYhP-uYbo_gOx6NQWlzWqc__XCCzM5PQtR3KKQmBg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=jcBMi-7ng1ef8WDTih7e4JRWFHwJCHnkUvC1pihHaVs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -348,7 +426,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=G-AAZcwkaRiJtUr49wGfid5BvTInKiPqNlRmZLFtFr4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=eJi4AGqvGc1g0YFC4H7ovls3aG_qfMCxv50Sa56x-o0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
@@ -423,7 +501,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=W11T2Ik6mI8-acY_fqvWV8QsRFzza3HPuow5lFBr1mU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=XzKXcOjvwKSsR5E2i-SzvasAsKRP79aBErdNiZxN7Hg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
@@ -527,90 +605,6 @@
   <pubDate>Wed, 09 Sep 2026 21:11:28 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282796 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title> 'Cavalleria rusticana', de Mascagni, abre o IV Festival Oficina de Ópera do Theatro Municipal do rio de Janeiro</title>
-  <link>http://concerto.com.br/noticias/opera/cavalleria-rusticana-de-mascagni-abre-o-iv-festival-oficina-de-opera-do-theatro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; 'Cavalleria rusticana', de Mascagni, abre o IV Festival Oficina de Ópera do Theatro Municipal do rio de Janeiro&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Por Clara Zamboni&lt;/p&gt;
-&lt;p&gt;Na sexta-feira, 11, inicia o IV Festival Oficina de Ópera do Theatro Municipal do Rio de Janeiro. A direção musical e a regência são de Natalia Salinas e a direção cênica, de Daniel Salgado. Récitas ocorrem também nos dias 12 e 13.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cavalleria rusticana&lt;/em&gt; rendeu reconhecimento a Pietro Mascagni. Em 1889, o compositor italiano submeteu a ópera a um concurso, buscando superar dificuldades na carreira. A narrativa de um único ato é inspirada na obra de Giovanni Verga e acompanha Turiddu, que retorna da guerra e descobre que sua namorada, Lola, havia se casado com Alfio. Em seguida, ele embarca em um romance com Santuzza, mas não consegue esconder seus sentimentos pela antiga companheira, que também sente sua falta. Santuzza descobre as mentiras de Turiddu e a confusão amorosa conduz a uma tragédia na manhã de Páscoa.&lt;/p&gt;
-&lt;p&gt;A ópera venceu a competição e recebeu mais de 60 apresentações após seu lançamento, em 1890. A montagem do Theatro Municipal do Rio de Janeiro conta com a mezzo-soprano Denise de Freitas como Santuzza, o tenor Ivan Jorgensen como Turiddu e o barítono Inácio de Nonno como Alfio.&lt;/p&gt;
-&lt;p&gt;A produção marca a estreia de Natalia Salinas à frente do Theatro Municipal. Parte da nova geração de regentes, Salinas participou de festivais e concertos na Europa e na América Latina e seu repertório abrange peças sinfônicas, operísticas e balés.&lt;/p&gt;
-&lt;p&gt;“O processo tem sido muito intenso e, ao mesmo tempo, muito especial. Embora Cavalleria rusticana seja uma ópera relativamente curta, todo o drama que normalmente encontramos nesse gênero aparece aqui de forma extremamente condensada. Em pouco tempo, Mascagni constrói situações de enorme intensidade emocional, e isso faz com que o trabalho expressivo e dramático adquira uma dimensão muito particular: são cenas relativamente breves, mas com uma carga expressiva enorme, nas quais cada frase, cada gesto musical e cada silêncio têm um peso muito grande”, comenta Salinas.&lt;/p&gt;
-&lt;p&gt;O Festival segue até o dia 20. Nos dias 16 e 17, cenas de &lt;em&gt;A Coroação de Poppea&lt;/em&gt;, de Monteverdi, contam com a direção de Ana Vanessa e regência de Jesus Figueiredo, no Salão Assyrio. O elenco apresenta Carolina Morel, Herbert Campos, Carla Rizzi, Geilson Santos, Leonardo Thieze, João Campelo, Guilherme Gonçalves e Cícero Pires.&lt;/p&gt;
-&lt;p&gt;Entre os dias 18 e 20, &lt;em&gt;Il Campanello&lt;/em&gt;, de Donizetti, completa a edição. Com direção musical e regência de Felipe Prazeres, a montagem traz Patrick Oliveira, Flávio de Melo, Michele Meneses, Eliane Lavigne e Jessé Bueno no elenco.&lt;/p&gt;
-&lt;p&gt;Veja&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-09"&gt;&lt;span style="color:#7f0000;"&gt; mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-de-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e de óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianista-andras-schiff-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianista András Schiff faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/festival-de-musica-erudita-do-espirito-santo-anuncia-14a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Música Erudita do Espírito Santo anuncia 14ª edição&lt;/span&gt; &lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/concurso-de-canto-natercia-lopes-anuncia-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso de Canto Natércia Lopes anuncia vencedores &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/politica-cultural/cancelamento-da-opera-de-jocy-de-oliveira-e-um-equivoco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Cancelamento da ópera de Jocy de Oliveira é um equívoco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;/p&gt;
-&lt;figure role="group"&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Natalia Salinas [Divulgação]" data-entity-type="file" data-entity-uuid="a941a261-ef16-473e-903c-bf56f6c84071" src="http://concerto.com.br/sites/default/files/inline-images/w-natalia_salinas_0.jpg" /&gt;
-&lt;figcaption&gt;Natalia Salinas [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/figure&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 09/09/2026 - 21:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-natalia_salinas_0.jpg" width="900" height="600" alt="Natalia Salinas [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI3OTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=9sB_j8AYl5VogsXezdkWLzeCZS2MgMTxKk4gRCIMMSU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 09 Sep 2026 21:02:29 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282794 at http://concerto.com.br</guid>
     </item>
 
   </channel>

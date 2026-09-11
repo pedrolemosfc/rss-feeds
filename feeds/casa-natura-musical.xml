@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Thu, 10 Sep 2026 20:52:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Sep 2026 04:39:32 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Big Up</title>
+		<link>https://casanaturamusical.com.br/eventos/big-up-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=big-up-3</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17145</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Jean Tassy</title>
 		<link>https://casanaturamusical.com.br/eventos/jean-tassy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jean-tassy</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Tue, 25 Aug 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17091</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Beatles Para Crianças</title>
-		<link>https://casanaturamusical.com.br/eventos/beatles-para-criancas/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=beatles-para-criancas</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17086</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

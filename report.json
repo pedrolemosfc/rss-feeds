@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 53,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 53 items"
+    "notes": "scraped 52 items"
   },
   {
     "name": "guia-restaurantes",
@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 97,
+    "items": 96,
     "ok": true,
-    "notes": "scraped 97 items"
+    "notes": "scraped 96 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -155,17 +155,17 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 185,
+    "items": 184,
     "ok": true,
-    "notes": "merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 184 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 175,
+    "items": 174,
     "ok": true,
-    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "mirrored 23 native items",
+    "notes": "mirrored 22 native items",
     "kind": "native-mirror"
   },
   {
@@ -252,9 +252,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 58,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -497,7 +497,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
