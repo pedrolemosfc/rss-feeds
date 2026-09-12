@@ -5,7 +5,14 @@
 <link>https://musicalidade.com/</link>
 <description>Posts do Musicalidade via WP REST API (RSS nativo desativado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 12 Sep 2026 15:31:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 20:32:48 +0000</lastBuildDate>
+<item>
+<title>Seu Jorge</title>
+<link>https://musicalidade.com/seu-jorge/</link>
+<guid isPermaLink="true">https://musicalidade.com/seu-jorge/</guid>
+<pubDate>Sat, 12 Sep 2026 19:01:59 +0000</pubDate>
+<description>[Artistas, Biografia, Gênero Musical, Memória &amp; Arquivo, MPB, Seu Jorge]</description>
+</item>
 <item>
 <title>Musical sobre Rita Lee com Mel Lisboa entra em reta final em São Paulo</title>
 <link>https://musicalidade.com/musical-sobre-rita-lee-com-mel-lisboa-entra-em-reta-final-em-sao-paulo/</link>
@@ -25,7 +32,7 @@
 <link>https://musicalidade.com/o-realismo-fantastico-de-o-boto/</link>
 <guid isPermaLink="true">https://musicalidade.com/o-realismo-fantastico-de-o-boto/</guid>
 <pubDate>Fri, 11 Sep 2026 21:29:38 +0000</pubDate>
-<description>[Longe demais dos algoritmos] O realismo fantástico é um movimento literário e artístico que atingiu seu ápice na América Latina entre as décadas de 1960 e 1970, caracterizado por inserir elementos mitológicos e absurdos no cotidiano real. Essa estética expandiu as fronteiras, provando ser uma linguagem universal e altamente adaptável, capaz de inspirar até hoje, mesmo que indiretamente, a […]</description>
+<description>[Colunas, Longe demais dos algoritmos, Review] O realismo fantástico é um movimento literário e artístico que atingiu seu ápice na América Latina entre as décadas de 1960 e 1970, caracterizado por inserir elementos mitológicos e absurdos no cotidiano real. Essa estética expandiu as fronteiras, provando ser uma linguagem universal e altamente adaptável, capaz de inspirar até hoje, mesmo que indiretamente, a […]</description>
 </item>
 <item>
 <title>Rabujos lança o single ‘Vestido Cor de Hematoma’</title>
@@ -698,13 +705,6 @@
 <guid isPermaLink="true">https://musicalidade.com/o-voo-rasante-de-fatel/</guid>
 <pubDate>Fri, 28 Aug 2026 14:01:25 +0000</pubDate>
 <description>[Colunas, Longe demais dos algoritmos, Review] Voos rasantes desafiam a lógica da altitude. Em vez de buscar o mais seguro e certeiro céu aberto, a aeronave se aproxima da paisagens que passa rente aos olhos. Neste mergulho da proximidade, feito para reconhecer o terreno, percebe-se seus contornos com mais clareza, mesmo que ainda sim, nunca parado no mesmo lugar. Muito embora […]</description>
-</item>
-<item>
-<title>Roberta Campos e Fábio Góes assinam faixa para novo reality de Claudia Raia</title>
-<link>https://musicalidade.com/roberta-campos-e-fabio-goes-assinam-faixa-para-novo-reality-de-claudia-raia/</link>
-<guid isPermaLink="true">https://musicalidade.com/roberta-campos-e-fabio-goes-assinam-faixa-para-novo-reality-de-claudia-raia/</guid>
-<pubDate>Fri, 28 Aug 2026 13:22:27 +0000</pubDate>
-<description>[Entretenimento, Lançamento, Notícia] Roberta Campos e Fábio Góes assinam a música de abertura de Sua Mãe Te Conhece?, novo reality brasileiro da Netflix apresentado por Claudia Raia. A faixa, que recebeu o mesmo nome do programa, foi criada especialmente para a produção e acompanha a dinâmica que coloca mães à prova para descobrir o quanto elas realmente conhecem […]</description>
 </item>
 </channel>
 </rss>
