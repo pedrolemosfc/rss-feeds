@@ -5,7 +5,14 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 11 Sep 2026 20:58:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 04:33:54 +0000</lastBuildDate>
+<item>
+<title>PRAZER, LISSA</title>
+<link>https://bluenotesp.com/shows/prazer-lissa/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/prazer-lissa/</guid>
+<pubDate>Thu, 10 Sep 2026 14:39:39 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
 <item>
 <title>MIRANDA KASSIN</title>
 <link>https://bluenotesp.com/shows/miranda-kassin/</link>
@@ -347,13 +354,6 @@
 <link>https://bluenotesp.com/shows/tributo-a-miles-davis-nefertiti/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-miles-davis-nefertiti/</guid>
 <pubDate>Wed, 10 Jun 2026 18:10:44 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>NENÊ AMARAL – TRIBUTO A TIM MAIA</title>
-<link>https://bluenotesp.com/shows/acesso-rock-celebra-10-anos-de-tributo-a-tim-maia/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/acesso-rock-celebra-10-anos-de-tributo-a-tim-maia/</guid>
-<pubDate>Wed, 10 Jun 2026 18:07:12 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>

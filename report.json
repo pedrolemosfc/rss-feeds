@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 22,
+    "items": 21,
     "ok": true,
-    "notes": "mirrored 22 native items",
+    "notes": "mirrored 21 native items",
     "kind": "native-mirror"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -396,9 +396,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 36,
+    "items": 35,
     "ok": true,
-    "notes": "scraped 36 events",
+    "notes": "scraped 35 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 28,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -558,9 +558,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 9,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
