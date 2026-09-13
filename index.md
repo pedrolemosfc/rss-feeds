@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-13 11:53 UTC
+Generated: 2026-09-13 16:18 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-09-13 11:53 UTC
   notes: scraped 86 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=54 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 54 items
+- **folha-show** [OK] items=55 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 55 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
 - **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -88,8 +88,8 @@ Generated: 2026-09-13 11:53 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 4 events
-- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 26 events
+- **bourbon-street** [OK] items=25 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 25 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -151,7 +151,7 @@ Generated: 2026-09-13 11:53 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=186 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])
