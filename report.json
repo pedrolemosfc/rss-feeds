@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "mirrored 20 native items",
+    "notes": "mirrored 19 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 4,
+    "items": 3,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -497,7 +497,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
