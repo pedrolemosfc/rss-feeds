@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 12 Sep 2026 20:33:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 04:46:43 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=P6LIJqwZfT9eyavbsggdnFD8cBVX4kryOp6oZLAgOKo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=WEqoDOY46kneRZSwWQvhaM5apN-QGQeh6Tz9zOgRoa0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;532&lt;/span&gt;
@@ -80,6 +80,98 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>“Primeiro morrem as escolas de música, depois morremos nós...”</title>
+  <link>http://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Escola de Música de Piracicaba encerra atividades; Rede Metodista não respondeu a questionamento da Revista CONCERTO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Escola de Música de Piracicaba Maestro Ernst Mahle (Empem) – fundada em 1953 e responsável por formar gerações de músicos que hoje ocupam orquestras, universidades e palcos no Brasil e no exterior – encerrou as suas atividades. Após o leilão do prédio em novembro do ano passado, consequência da crise financeira da Rede Metodista, a instituição foi obrigada a desocupar o imóvel. O prazo de 180 dias para a saída venceu, sem qualquer comunicado claro à comunidade, e desde então a escola está com as portas fechadas. A prometida transferência para o Colégio Piracicabano, divulgada pela Unimep como garantia de continuidade, não se materializou. &lt;/p&gt;
+&lt;p&gt;A Revista CONCERTO buscou informações com a Empem, a Unimep e o Colégio Piracicabano, por WhatsApp e por e-mail, sem resposta. Finalmente, na sexta-feira, dia 11 de setembro, conseguiu contato por telefone com uma pessoa que afirmou ser “intermediária” da Rede Metodista em Piracicaba, mas que não quis dar declarações sobre a Empem nem tampouco fornecer o contato de algum responsável que pudesse responder aos nossos questionamentos. Contudo, a pessoa confirmou que de fato as atividades estão suspensas, “uma pausa para encontrar um novo formato”. Questionada ainda sobre o acervo e os instrumentos da instituição, disse primeiro que estariam buscando interessados para em seguida corrigir-se, afirmando que ainda se aguarda a definição da Rede Metodista em relação ao futuro da escola.&lt;/p&gt;
+&lt;p&gt;A Escola de Música de Piracicaba foi fundada há mais de 70 anos pelo compositor Ernst Mahle e sua esposa, a professora Cidinha Mahle. Sob a liderança de Ernst Mahle – compositor, maestro e figura central da vida musical brasileira, falecido no ano passado – a escola se estabeleceu como referência em educação musical. Ao longo de sua história, a instituição reuniu um acervo de mais de 17 mil partituras e adquiriu um importante conjunto de instrumentos musicais, que inclui pianos e um órgão. Graças ao trabalho do casal Mahle, a Empem tornou-se um dos mais importantes centros de formação e irradiação da cultura clássica no Brasil.&lt;/p&gt;
+&lt;p&gt;Em 1998, com o intuito de garantir o futuro da Escola de Música de Piracicaba, o casal Mahle transferiu-a para o Instituto Educacional Piracicabano (IEP), entidade mantenedora do Colégio Piracicabano e da Universidade Metodista de Piracicaba.&lt;/p&gt;
+&lt;p&gt;Hoje, porém, o cenário é desolador. A cidade e a comunidade musical assistem perplexas e impotentes ao desaparecimento gradual desse valioso patrimônio cultural.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Hoje, porém, o cenário é desolador. A cidade e a comunidade musical assistem perplexas e impotentes ao desaparecimento gradual desse valioso patrimônio cultural&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A professora Cidinha Mahle, aos 94 anos, lamenta: “Está muito difícil enfrentar tudo isso que aconteceu com a escola. Não houve nenhum propósito por parte da das autoridades em Piracicaba. Não deveria acontecer isso, deveriam ter feito algum esforço para que isso não acontecesse. [...] Acabou-se a história da escola de música, tudo que foi... a escola está fechada. O que sobrou foi levado para o Colégio Piracicabano, o que vai ser de tudo aquilo lá eu não sei”.&lt;/p&gt;
+&lt;p&gt;O organista piracicabano Julio Amstalden, cuja formação musical deu-se também na Empem, escreveu em sua página no Facebook: “Há tanto o que ser lamentado! Há tanta obtusidade, tanta pequenez envolvida! Não é só a traição daqueles a quem a Escola foi confiada, na esperança de sua perpetuação, mas a falência total de um sistema de valores e crenças. Desde o momento em que a Escola foi transferida para mãos metodistas, nunca acreditei que isso daria certo, pois desde o início era muito claro para mim que os metodistas estavam muito longe de entender a obra de Ernst e Cidinha Mahle. Eram dois universos muito distintos, de trajetórias cujos traçados sempre foram paralelos, sem nenhuma convergência. Com todo o respeito, foi um imenso erro! E há que se lamentar ainda a indiferença de Piracicaba. Com certeza, essa cidade não mereceu sua famosa Escola de Música. A cidade também nunca entendeu as dimensões do que havia lá, físicas, artísticas e intelectuais. A Escola de Música de Piracicaba foi assassinada e seu corpo foi jogado numa vala comum, ante a indiferença de um coletivo”.&lt;/p&gt;
+&lt;p&gt;Já Renato Bandel, que iniciou seus estudos na Escola de Música de Piracicaba, formou-se na Academia da Filarmônica de Berlim e hoje é um dos principais violistas do Brasil, afirmou: “Sim, é uma tragédia. Essa escola formou gente que está espalhada pelas melhores orquestras e universidades do Brasil e do exterior. No Festival de Campos do Jordão deste ano, havia vários ex-alunos no corpo docente: eu, Fernanda Krug, Eliane Tokeshi, Rosnei Tuon, Washington Barella e Wilson Sampaio, além de Gabriel Marin, que é piracicabano e foi meu aluno. Isso, por si só, já diz muita coisa sobre o legado do casal Mahle”. &lt;/p&gt;
+&lt;p&gt;Bandel segue: “Eles confiaram na Unimep como uma universidade que valorizava as artes. Mas, quando a instituição entrou em recuperação judicial, a primeira coisa que fizeram foi vender o prédio da escola com tudo dentro: biblioteca, arquivo musical e instrumentos. A escola ficou abandonada, suja, infestada por ratos; houve roubo de fiação e o local ficou sem energia elétrica por um tempo. Um verdadeiro caos. [...] Tentamos nos movimentar. Liguei para chefes de departamentos da USP e da Unesp para ver se as universidades não teriam interesse em abrir um campus na escola. Falei com um ex-prefeito do PT, que tem intimidade com o presidente, sugerindo a abertura de um instituto federal. Fizemos uma manifestação em frente à escola com cartazes, música e presença da imprensa. Tudo em vão. A cidade é muito provinciana. Para o piracicabano, o fechamento da escola não fez nenhuma diferença. Ninguém protestou”.&lt;/p&gt;
+&lt;p&gt;E, digo eu, o que revolta mais é a indiferença das autoridades públicas. Nesse mundo tecnocrático governado por planilhas orçamentárias frias e mercantilistas – em que até a nossa Secretaria da Cultura passou a se chamar “Secretaria da Cultura, Economia e Indústria Criativas” – o humanismo está sendo asfixiado. &lt;/p&gt;
+&lt;p&gt;Parodiando o mote dos indígenas, “primeiro morrem as escolas de música, depois morremos nós...”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia mais&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/predio-da-escola-de-musica-ernst-mahle-em-piracicaba-sera-vendido-em-leilao" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Prédio da Escola de Música Ernst Mahle, em Piracicaba, será vendido em leilão público&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Montagem sobre foto da fachada da Música de Piracicaba Empem (foto wikimedia commons, Fábio Mendes)" data-entity-type="file" data-entity-uuid="56c506a7-ac51-446c-98e5-43ec1a04a9c0" src="http://concerto.com.br/sites/default/files/inline-images/w-EscolaDeMusica_Piracicaba_Ernst_Mahle_wikimediacommons_FabioMendes.jpg" /&gt;
+&lt;figcaption&gt;Montagem sobre foto da fachada da Empem (foto wikimedia commons, Fábio Mendes)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 12/09/2026 - 13:00&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-EscolaDeMusica_Piracicaba_Ernst_Mahle_wikimediacommons_FabioMendes.jpg" width="900" height="600" alt="Montagem sobre foto da fachada da Empem (foto wikimedia commons, Fábio Mendes)" title="Montagem sobre foto da fachada da Empem (foto wikimedia commons, Fábio Mendes)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opiniao" hreflang="pt-br"&gt;Opinião&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3082" hreflang="pt-br"&gt;Escola de Música de Piracicaba&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2511" hreflang="pt-br"&gt;Ernst Mahle&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxMCIsImRpc2xpa2VzIjoiMCJ9?token=fgbtiNue3H1SziY7BltRd6zlgzCD4_Wf1_tqgASx8L8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 12 Sep 2026 13:00:45 +0000</pubDate>
+    <dc:creator>Nelson Rubens Kunze</dc:creator>
+    <guid isPermaLink="false">282811 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos#comments</comments>
     </item>
 <item>
   <title>Orquestra de Sopros de Novo Hamburgo e Banda The Dogs </title>
@@ -397,10 +489,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=eokSjzgnZP02MQWYmQvU-Gxj3k0WSX3vk2mXpYRwcgI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=OiPuIIXYICmompEeDtO4YCYBEQ6Nl0_aczctgbuxedA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;17&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;19&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -478,10 +570,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=WEfxl5C9mB1Y6F6P5AF08rI9MtYbbyAbiNJcAjUYp_M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=TtjrG8kp4TqiieX8frCqvC-kHTJlyIVrFEmI8pEXaos?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;17&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -551,69 +643,6 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <pubDate>Thu, 10 Sep 2026 16:50:04 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282800 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Marco Mezquida - piano</title>
-  <link>http://concerto.com.br/roteiros/marco-mezquida-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marco Mezquida - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 10/09/2026 - 12:24&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Programa: jazz, música clássica e flamenco. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-17T20:00:00Z" class="datetime"&gt;qui, 17/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-ling" hreflang="und"&gt;Instituto Ling (300 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 10 Sep 2026 12:24:43 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282799 at http://concerto.com.br</guid>
     </item>
 
   </channel>
