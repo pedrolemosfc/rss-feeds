@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 14 Sep 2026 12:45:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:49:52 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=viP45fRKqhrOdhjQAJT_1NyY4Fc6B8o1byJFIHYERKU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=OxZ5XpRW26QodvIf19q8ZlvqAej02CF7G08ZAwwPoRI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;532&lt;/span&gt;
@@ -82,30 +82,361 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Bienal de Música Eletroacústica anuncia programação para outubro</title>
-  <link>http://concerto.com.br/noticias/musica-classica/bienal-de-musica-eletroacustica-anuncia-programacao-para-outubro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bienal de Música Eletroacústica anuncia programação para outubro&lt;/span&gt;
+  <title>Jardim Botânico de Sorocaba </title>
+  <link>http://concerto.com.br/node/282836</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Jardim Botânico de Sorocaba &lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A XVI Bienal de Música Eletroacústica será realizada entre os dias 1º e 16 de outubro no Sesc Santa Amaro e no Instituto de Artes da Unesp, celebrando os 80 anos do Sesc e os 50 anos da universidade. A programação, que acaba de ser anunciada, inclui concertos, debates e atividades didáticas.&lt;/p&gt;
-&lt;p&gt;A Bimesp foi criada pelo compositor Flo Menezes à frente do Studio PANaroma de Música Eletroacústica da Unesp. “Certa vez disse John Cage, de modo muito pertinente, criativo e bem-humorado: ‘Happy new ears!’. A Bimesp reforça este convite à escuta experimental, celebrando a radicalidade da composição e a estética dos novos sons e dos novos espaços”, diz Menezes na apresentação da nova edição, da qual é diretor artístico – Alex Buck assina a coordenação do evento.&lt;/p&gt;
-&lt;p&gt;Estruturada em painéis, a Bimesp promove concertos experimentais com diversos estilos e gêneros da composição eletroacústica: da música dita acusmática (difundida exclusivamente por alto-falantes) à música ele-troacústica mista; dos soundscapes (paisagens sonoras) à música computacional (realizada integralmente em sistemas de computação), incluindo obras audiovisuais com interação entre sons e imagens. &lt;/p&gt;
-&lt;p&gt;No Sesc Santo Amaro, no dia 1º, será realizado um concerto didático com a obra S(c)enario, de Menezes, acompanhadas de palestra do compositor; a peça será interpretada pelo Grupo PIAP de Percussão da Unesp. No dia 2, o Ensemble L’Itinéraire apresenta obras de Aurélio Edler-Copes, Javier Álvarez, Menezes, Michelle Agnes e Marco Suarez Cifuentes; um dia depois, será a vez de peças de Tristan Murail, Alexandros Markeas, Gerard Grisey, Fausto Romitelli e Natasha Barrett. &lt;/p&gt;
-&lt;p&gt;As demais apresentações acontecem no Instituto de Artes da Unesp.&lt;/p&gt;
-&lt;p&gt;Nos dias 6, 9, 12 e 15, acontece o Painel do Studio PANaroma, com obras ligadas à trajetória do projeto, escritas entre os anos 1970 e 2026. No dia 6, haverá apresentação do Painel dos Estúdios – Akademie der Künste, de Berlim (dia 6). O Painel Histórico terá edições nos dias 7 e 8. Serão dois painéis dedicados a autores específicos: Georg Katzer (dia 7) e François Bayle (dia 16) – de Bayle, haverá ainda, entre os dias 12 e 15, a Sala de Escuta, com as obras Jeita ou Murmure des eaux e Le Projet Ouïr.&lt;/p&gt;
-&lt;p&gt;O Painel dos Países terá obras de compositores da Grã-Bretanha (dia 15); o Painel dos Panaromas, com curadoria de Alex Buck, acontece nos dias 12 e 13; o Painel da Música Mista, no dia 14, terá a participação do violoncelista William Teixeira, que também oferece a masterclass Novas poéticas com agentes composicionais no dia 13. Outra masterclass será oferecida por Yann Dubost, contrabaixista do Ensemble L’Itineráire, no dia 30 de setembro.&lt;/p&gt;
-&lt;p&gt;As obras são apresen-tadas ao público dentro das mais modernas condições tecnológicas, tendo como arsenal tecnológico o PUTS (PANaroma/Unesp: Teatro Sonoro), a primeira e única orquestra de alto-falantes do Brasil, fundada em 2002 à frente do Studio PANaroma da Unesp em São Paulo por Flo Menezes, com o apoio da Fapesp, e que consiste, com sua configuração atual (cerca de 60 alto-falantes) no mais avançado sistema de difusão eletroacústica da América Latina. &lt;/p&gt;
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Miguel Montoro Lozano, 340 - Jardim Iguatemi - Tel. (15) 3235-1130 - https://www.instagram.com/botanicosorocaba/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 17:59&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sorocaba, SP&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 17:59:18 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282836 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba</title>
+  <link>http://concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Entidade alerta para risco de perda do acervo e da tradição pedagógica da escola de música fundada por Ernst Mahle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Academia Brasileira de Música (ABM) enviou, nesta segunda feira dia 14 de setembro, uma carta ao prefeito de Piracicaba, Hélio Donizete Zanatta, solicitando ações para garantir a preservação e a continuidade da Escola de Música de Piracicaba Maestro Ernst Mahle (Empem). Como noticiado pelo Site CONCERTO (&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;clique aqui para ler&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;), a instituição, fundada em 1953 pelo compositor Ernst Mahle e por sua esposa, Cidinha Mahle, interrompeu suas atividades após a desocupação do imóvel em que funcionava.&lt;/p&gt;
+&lt;p&gt;Na carta, assinada pela presidente da ABM, Ilza Nogueira, a entidade manifesta “profunda preocupação” com o encerramento das atividades da Empem, destacando sua relevância histórica e nacional na formação de músicos. A ABM lembra que Ernst Mahle foi membro da Academia, o que reforça os vínculos institucionais entre as duas instituições.&lt;/p&gt;
+&lt;p&gt;Além da interrupção das atividades, a ABM alerta para o risco de dispersão ou perda do acervo, “que reúne milhares de partituras, livros, documentos e instrumentos musicais, entre eles pianos e órgão, além de um valioso patrimônio imaterial constituído por sua memória, tradição pedagógica, professores, ex-alunos e pela obra de seus fundadores”.&lt;/p&gt;
+&lt;p&gt;Diante do cenário, a Academia solicita que a Prefeitura assuma protagonismo na busca de uma solução, propondo quatro medidas prioritárias: retomada das atividades da escola, preservação do acervo, garantia de espaço permanente para funcionamento e abertura imediata de diálogo com responsáveis e com a comunidade musical.&lt;/p&gt;
+&lt;p&gt;O documento destaca que o desaparecimento da Empem significaria a interrupção de uma tradição de mais de 70 anos de contribuição à educação musical, cuja influência se estende por todo o país e pelo exterior. &lt;/p&gt;
+&lt;p&gt;“Ainda é possível preservar esse legado”, conclui a carta, enfatizando a necessidade de ação urgente do poder público. &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Leia abaixo a íntegra do documento divulgado pela ABM:&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rio de Janeiro, 14 de setembro de 2026. &lt;br /&gt;
+Ao Excelentíssimo Senhor Hélio &lt;br /&gt;
+Donizete Zanatta &lt;br /&gt;
+Prefeito do Município de Piracicaba – SP &lt;br /&gt;
+Piracicaba – SP &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Assunto: Escola de Música de Piracicaba Maestro Ernst Mahle – solicitação de providências para preservação e continuidade da instituição &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Excelentíssimo Senhor Prefeito, &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A Academia Brasileira de Música (ABM), por intermédio de sua Presidência, vem manifestar a Vossa Excelência sua profunda preocupação com a interrupção das atividades da Escola de Música de Piracicaba Maestro Ernst Mahle (EMPEM), reconhecida como uma das mais importantes instituições de formação musical do país. A especial atenção da Academia a essa questão decorre também do fato de seu fundador, o compositor Ernst Mahle, ter sido membro da Academia Brasileira de Música, o que estreita os vínculos institucionais da ABM com a Escola e com o legado por ele construído. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fundada em 1953 por Ernst Mahle e por sua esposa, a professora Cidinha Mahle, a Escola formou, ao longo de mais de sete décadas, gerações de músicos que hoje atuam em importantes orquestras, universidades, conservatórios e instituições culturais no Brasil e no exterior. Sua relevância ultrapassa, portanto, os limites de Piracicaba, constituindo patrimônio de indiscutível valor para a cultura musical brasileira. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Segundo informações recentemente divulgadas, a Escola encerrou suas atividades após a desocupação do imóvel em que funcionava, na sequência do leilão do prédio ocorrido no contexto da crise financeira da Rede Metodista. A transferência para o Colégio Piracicabano, anunciada anteriormente como alternativa para assegurar a continuidade da instituição, não se concretizou. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Causa especial apreensão a indefinição quanto ao futuro da Escola e à destinação de seu acervo, que reúne milhares de partituras, livros, documentos e instrumentos musicais, entre eles pianos e órgão, além de um valioso patrimônio imaterial constituído por sua memória, tradição pedagógica, professores, ex-alunos e pela obra de seus fundadores. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Em 1998, Ernst e Cidinha Mahle transferiram a Escola ao Instituto Educacional Piracicabano com o propósito de assegurar sua continuidade. O atual quadro suscita, portanto, sérias preocupações quanto à preservação de uma instituição cuja trajetória se confunde com a própria história musical de Piracicaba e que projetou o nome da cidade em âmbito nacional e internacional. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A ABM entende que o Município não pode permanecer alheio ao destino desse patrimônio cultural. Por essa razão, solicita respeitosamente a Vossa Excelência que a Prefeitura de Piracicaba assuma a iniciativa de preservar e assegurar a continuidade da Escola de Música de Piracicaba Maestro Ernst Mahle, adotando, com a urgência que o caso requer, as medidas necessárias para sua retomada.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nesse sentido, consideramos fundamental que o Poder Público Municipal promova, em diálogo com a comunidade musical, os familiares de Ernst e Cidinha Mahle, professores e ex-alunos da Escola e demais instituições interessadas, uma solução que contemple: &lt;br /&gt;
+1. a retomada das atividades da Escola, com a preservação de sua identidade e de sua tradição pedagógica; &lt;br /&gt;
+2. a preservação de seu acervo e patrimônio, incluindo partituras, documentos, livros e instrumentos musicais; &lt;br /&gt;
+3. a garantia de espaço adequado e permanente para seu funcionamento, bem como de condições institucionais que assegurem sua continuidade no longo prazo; &lt;br /&gt;
+4. a abertura imediata de diálogo com os responsáveis pela instituição e com a comunidade musical, com o objetivo de esclarecer a situação atual do patrimônio da Escola e estabelecer um plano concreto para sua recuperação. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A Academia Brasileira de Música coloca-se à disposição da Prefeitura de Piracicaba para colaborar na construção dessa solução e para mobilizar, dentro de suas atribuições, a comunidade musical brasileira em defesa da preservação da Escola. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Estamos diante de uma instituição que, durante mais de 70 anos, prestou inestimável serviço à educação e à cultura musical brasileiras. Seu desaparecimento representaria não apenas o encerramento de suas atividades, mas a interrupção de uma tradição cuja influência se estende por todo o país e pelo exterior. &lt;br /&gt;
+Ainda é possível preservar esse legado. Para tanto, é indispensável uma iniciativa do Poder Público capaz de reunir os esforços necessários à sua continuidade. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Confiando na sensibilidade de Vossa Excelência, solicitamos especial atenção e urgência para a questão e colocamo-nos à disposição para uma reunião com Vossa Excelência e os responsáveis pela área cultural do Município. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Atenciosamente, &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ilza Nogueira &lt;br /&gt;
+Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O compositor Flo Menezes, diretor artístico da Bimesp [Divulgação]" data-entity-type="file" data-entity-uuid="faece753-59a2-4d4f-a4d7-36a58d2d273f" src="http://concerto.com.br/sites/default/files/inline-images/flomenezes_concert_vermelhos-3_0.jpg" /&gt;
-&lt;figcaption&gt;O compositor Flo Menezes, diretor artístico da Bimesp [Divulgação]&lt;/figcaption&gt;
+&lt;img alt="Ernst Mahle dirige orquestra em Piracicaba (reprodução)" data-entity-type="file" data-entity-uuid="c143b84d-556b-4fe0-85e3-49d90d48a21f" src="http://concerto.com.br/sites/default/files/inline-images/w-ErnstMahle_1_reproducao.jpg" /&gt;
+&lt;figcaption&gt;Ernst Mahle dirige orquestra em Piracicaba (reprodução)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;hr /&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 12:13&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 17:46&lt;/span&gt;
 
   &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
     &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/flomenezes_concert_vermelhos-3_0.jpg" width="900" height="675" alt="O compositor Flo Menezes, diretor artístico da Bimesp [Divulgação]" title="O compositor Flo Menezes, diretor artístico da Bimesp [Divulgação]" typeof="foaf:Image" /&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ErnstMahle_1_reproducao.jpg" width="900" height="506" alt="Ernst Mahle dirige orquestra em Piracicaba (reprodução)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3082" hreflang="pt-br"&gt;Escola de Música de Piracicaba&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2511" hreflang="pt-br"&gt;Ernst Mahle&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2398" hreflang="pt-br"&gt;Academia Brasileira de Música&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=a4b4UBF6z-eRTzheV-al9-_MWP2fVF7UPOZcyZuzv7I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 17:46:51 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282838 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>2026_FestivalChopin_14set_31out_FB</title>
+  <link>http://concerto.com.br/node/282835</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_FestivalChopin_14set_31out_FB&lt;/span&gt;
+
+  &lt;div class="field field--name-field-banner field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/banner/2026-09/2026_FestivalChopin_14set_31out_FB.gif" width="728" height="90" alt="Fullbanner Festival Chopin Setembro 2026" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 17:44&lt;/span&gt;
+
+  &lt;div class="field field--name-field-banner-link field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://feverup.com/m/746026/en?srsltid=AfmBOoqMDThJJIkPjNxaLtdJsKllnqwtMMnCf0AxuZ6ocQHNTzAsNg1y&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;291&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 17:44:11 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">282835 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra da Rede Batista de Educação</title>
+  <link>http://concerto.com.br/roteiros/orquestra-da-rede-batista-de-educacao-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra da Rede Batista de Educação&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:59&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Brasil em todos os sentidos. Dia Nacional do Surdo. César Timóteo - regente. Programa: Andréa Peliccioni - tradução de libras. Programa: Tom Jobim - Chega de saudade, entre outros.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-28T20:00:00Z" class="datetime"&gt;seg, 28/09/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282832" hreflang="pt-br"&gt;Colégio Batista - Sala Professor Armindo Oliveira &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada pelo link: https://tinyurl.com/p6b5j7yj.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 15:59:50 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282834 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Colégio Batista - Sala Professor Armindo Oliveira </title>
+  <link>http://concerto.com.br/node/282832</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Colégio Batista - Sala Professor Armindo Oliveira &lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Ponte Nova, 728 - Floresta - (31) 3166-9800 - https://colegiobatistamineiro.com.br/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:53&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Belo Horizonte, MG&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 15:53:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282832 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra da Rede Batista de Educação</title>
+  <link>http://concerto.com.br/roteiros/orquestra-da-rede-batista-de-educacao-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra da Rede Batista de Educação&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:49&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Brasil em todos os sentidos. Dia Nacional do Surdo. César Timóteo - regente. Programa: Andréa Peliccioni - tradução de libras. Programa: Tom Jobim - Chega de saudade, entre outros.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 28 às 20h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-25T20:00:00Z" class="datetime"&gt;sex, 25/09/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282832" hreflang="pt-br"&gt;Colégio Batista - Sala Professor Armindo Oliveira &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada pelo link: https://tinyurl.com/p6b5j7yj.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 15:49:27 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282833 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim</title>
+  <link>http://concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Daniil Trifonov cancelou sua participação na turnê da Filarmônica de Berlim que será realizada em outubro, com concertos em Nova York, São Paulo, Buenos Aires e Bogotá. Víkingur Ólafsson fará as apresentações em seu lugar.&lt;/p&gt;
+&lt;p&gt;Trifonov sofreu uma lesão que o obrigou a cancelar os concertos. Em nota, a Filarmônica de Berlim e o maestro Kirill Petrenko desejaram a Trifonov uma rápida recuperação e agradeceram a Víkingur Ólafsson por substituí-lo. &lt;/p&gt;
+&lt;p&gt;O programa dos concertos permanecerá inalterado. Em São Paulo, em iniciativa da Tucca, será interpretado, no dia 18, o &lt;em&gt;Concerto para piano nº 1&lt;/em&gt; de Brahms, ao lado de &lt;em&gt;Assim falou Zarathustra&lt;/em&gt;, de Strauss. A apresentação do dia 19 não teria a participação do solista, com repertório formado pelas &lt;em&gt;Variações enigma&lt;/em&gt;, de Elgar, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt; de Tchaikovsky.&lt;/p&gt;
+&lt;p&gt;Grande nome do piano internacional, Víkingur Ólafsson esteve em São Paulo em 2024, quando se apresentou com a Osesp e fez recital solo na Sala São Paulo. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" data-entity-type="file" data-entity-uuid="bddee0e9-189b-4f61-b85f-1aa5692c46ea" src="http://concerto.com.br/sites/default/files/inline-images/w-olafsson_0_0.jpg" /&gt;
+&lt;figcaption&gt;Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:14&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-olafsson_0_0.jpg" width="900" height="577" alt="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" title="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" typeof="foaf:Image" /&gt;
 
 &lt;/div&gt;
           &lt;/div&gt;
@@ -140,110 +471,36 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=rLtkjw4FNidrtjiScPRSnhcB1Vp_7jLGn_myNIKZBy4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=P2r6lzg5ogu2btdoAA44ug8gJAxcws0f4kThSU4N-RQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 12:13:01 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282821 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi</title>
-  <link>http://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O maestro Riccardo Muti fez duras críticas ao governo italiano na tarde de sábado, durante um recital em Busseto, na província de Parma, onde nasceu Giuseppe Verdi. Ele questionou o que considera falta de ação das autoridades com relação à propriedade de Sant’Agata, construída pelo compositor nos arredores da cidade. “À direita, ao centro e à esquerda, todos têm sido deploráveis. Houve um abandono”, disse.&lt;/p&gt;
-&lt;p&gt;A casa de Verdi esteve envolvida em um imbróglio familiar nos últimos anos. Ele deixou a propriedade para Maria Filomena Verdi, filha de um primo, com a condição de que seria mantida, assim como os jardins da propriedade, no estado em que se encontravam – uma obrigação que seria estendida a seus herdeiros. Com a morte de Maria Filomena e de seu marido Alberto Carrara, contador do compositor, a casa passou para a posse de seu filho, Angiolo. E, em 2001, quando ele morreu, a ficou para seus filhos, Maria Mercedes, Ludovica, Angiolo e Emanuela. &lt;/p&gt;
-&lt;p&gt;Em Sant’Agata, a parte térrea e o jardim funcionaram como um museu dedicado ao compositor, enquanto o andar superior seguia como residência da família. Nela, vivia Angiolo, que entrou na justiça contra os irmãos reivindicando para si a propriedade da casa e dando início a uma batalha jurídica que duraria duas décadas.&lt;/p&gt;
-&lt;p&gt;Em outubro de 2022, a justiça italiana determinou que a casa pertencia igualmente aos quatro herdeiros – e que, se nenhuma das partes tivesse condições de comprar a parte das demais, ela deveria ser vendida. Na mesma época, o museu foi fechado à visitação, com a família afirmando que não tinha como arcar com os altos custos de manutenção. Uma vistoria também mostrou que a casa necessitava de reformas estruturais urgentes.&lt;/p&gt;
-&lt;p&gt;No final de 2024, o governo italiano anunciou a assinatura de um decreto de desapropriação para adquirir a vila e transformá-la em um museu aberto ao público. Desde então, segundo a imprensa local, foram gastos € 375 mil para conter infiltrações no telhado, mas o geral da vila continuou a se deteriorar, colocando em risco a segurança do prédio. Jornais locais relatam cercas derrubadas, árvores caídas, paredes se desfazendo e jardins abandonados e reboco externo manchado e esfarelando. &lt;/p&gt;
-&lt;p&gt;O Ministério da Cultura da Itália já aprovou a alocação de € 6,5 milhões para o projeto, que, segundo informações veiculadas na imprensa italiana, será dividido em quatro fases: consolidação estrutural e da edificação; modernização de sistemas, incluindo climatização para melhor preservação de materiais históricos; restauração de mobiliário e artefatos históricos; e revitalização do parque e dos jardins. &lt;/p&gt;
-&lt;p&gt;Os recursos integram o Programa de Grandes Projetos de Patrimônio Cultural 2025–2027 e incluem também verbas arrecadadas por meio com a iniciativa privada. No entanto, há ainda uma questão burocrática a ser resolvida: as obras precisam ser autorizadas por um conselho regional que funciona como instância de articulação em casos nos quais uma medida do governo federal afeta questões locais.&lt;/p&gt;
-&lt;p&gt;Em Busseto, Riccardo Muti pediu que “agora que a Villa pertence ao Estado, ajamos rapidamente para remover essa fonte de constrangimento aos olhos do mundo”. Em resposta, o ministro da Cultura Alessandro Giuli disse que “a Villa Verdi será completamente restaurada”. “Somos o primeiro governo a abordar a questão da restauração abrangente com um projeto coeso”, afirmou.&lt;/p&gt;
-&lt;p&gt;“Desde que assumi o cargo em setembro de 2024, o Ministério da Cultura já destinou cerca de 20 milhões, cobrindo a aquisição da propriedade e a restauração tanto do edifício quanto do jardim. Há prazos burocráticos envolvidos, mas nós cumprimos o nosso dever em relação a um edifício que se encontrava em um estado inaceitável."&lt;/p&gt;
-&lt;p&gt;Ainda segundo o ministro, serão publicadas em breve as licitações para a realização do projeto detalhado de restauração e o museu será reaberto aos visitantes “assim que as obras iniciais de estabilização estrutural estiverem concluídas”.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Vila Verdi, em Busseto, na Itália [Divulgação]" data-entity-type="file" data-entity-uuid="d435fb66-180e-458f-9cb4-e2a76a19ca91" src="http://concerto.com.br/sites/default/files/inline-images/vila_verdi.jpg" /&gt;
-&lt;figcaption&gt;Vila Verdi, em Busseto, na Itália [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 12:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/vila_verdi.jpg" width="900" height="600" alt="Vila Verdi, em Busseto, na Itália [Divulgação]" title="Vila Verdi, em Busseto, na Itália [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=wMYvdgHAkoNqBZDDkaPSZ1Q6hQi0HFdCYzwdNgUbGJk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 14 Sep 2026 12:11:16 +0000</pubDate>
+  <pubDate>Mon, 14 Sep 2026 15:14:13 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282822 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282831 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-5</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
+  <title>Professores dos cursos de Música da UFPel</title>
+  <link>http://concerto.com.br/roteiros/professores-dos-cursos-de-musica-da-ufpel</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Professores dos cursos de Música da UFPel&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:48&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:13&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. 1ª parte: Balé Guaíra. Espetáculo Tempo de movimento. Programa: três espetáculos que exploram, por diferentes perspectivas, as relações entre corpo, tempo, memória e transformação: "Unwaltz – Isso não é uma valsa", a tradição da valsa ganha uma leitura contemporânea a partir de seus elementos essenciais em diálogo com a música de Johann Strauss II. "Sospiri ou sobre a finitude", a dança investiga os instantes de passagem e encerramento que atravessam a existência, em diálogo com a melancolia delicada da composição homônima de Edward Elgar. "Stol – uma questão de confiança" coloca em tensão o mundo construído e o universo orgânico por meio da relação entre corpo e objeto, questionando a possibilidade de confiança entre natureza, cultura e aquilo que o ser humano transforma. 2ª parte: Cia. de Dança Thiago Soares. Espetáculo Carmem. Prorgama: inspirada na obra de Georges Bizet, a montagem apresenta uma releitura contemporânea de "Carmen", ambientada em uma atmosfera latino-americana e centrada em uma mulher livre, intensa e indomável. A coreografia combina a técnica do balé clássico à expressividade da dança contemporânea para explorar temas como desejo, poder, liberdade e destino. Com forte impacto visual e dramático, a criação atualiza um dos grandes clássicos da música e da dança a partir de uma perspectiva brasileira e contemporânea.&lt;/div&gt;
+              &lt;div class="field__item"&gt;108 anos do Conservatório de Música da UFPel. Magali Richter - direção e coordenação.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-20T17:00:00Z" class="datetime"&gt;dom, 20/09/2026 - 17:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T19:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -254,7 +511,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1504" hreflang="pt-br"&gt;Pelotas, RS&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -275,12 +532,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/conservatorio-de-musica-da-ufpel" hreflang="und"&gt;Conservatório de Música da Universidade Federal de Pelotas&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -288,325 +540,9 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 14 Sep 2026 11:48:28 +0000</pubDate>
+  <pubDate>Mon, 14 Sep 2026 15:13:55 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282820 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-4</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:47&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. Diálogos da cena, com Inês Bogea, Fábio Namatame e Wagner Freire. Espaço multiuso II Pietro. Continuidade às 17h.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-20T14:00:00Z" class="datetime"&gt;dom, 20/09/2026 - 14:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 11:47:00 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282819 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. 1ª parte: São Paulo Companhia de Dança. Espetáculo Atômico. 2ª parte: São Paulo Escola de Dança. Espetáculo Quando o sol encontrou com a lua. Programa: um dueto de dança que combina narrativa e elementos de um pequeno filme coreográfico ou de uma história em quadrinhos para contar o encontro entre Sonny, o Sol, e Luna. Músicas: Grupo The Platters — For the First Time, My Dream e Smoke Gets in Your Eyes. 3ª parte: São Paulo Escola de Dança. Espetáculo Aroeira. Programa: elementos do jazz dance e movimentos percussivos em uma coreografia marcada pelo ritmo e pela fisicalidade dos bailarinos. Continuidade dia 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T20:00:00Z" class="datetime"&gt;sab, 19/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 11:37:48 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282818 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-2</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:33&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. 1ª parte: Studio3 Cia. de Dança. Espetáculo Outros Toms. Programa: uma imersão no universo menos conhecido de Tom Jobim, revelando o sinfonista e orquestrador que vai além do criador da Bossa Nova. Claus Ogerman, Nelson Riddle, Eumir Deodato e Tom Jobim - arranjos. 2ª parte: Galpão 1. Espetáculo Arigatô Sayonara. Programa: memória, identidade e resiliência atravessam uma narrativa de dança sobre a trajetória dos imigrantes japoneses no Brasil. 3ª parte: São Paulo Companhia de Dança. Espetáculo Grand Pas de Deux, de Dom Quixote. Marius Petipa - coreografia. 4ª parte: São Paulo Escola de Dança. Espetáculo Aroeira. Programa: elementos do jazz dance e movimentos percussivos em uma coreografia marcada pelo ritmo e pela fisicalidade dos bailarinos. 5ª pate: Balé Guaíra. Espetáculo: Stol - uma questão de confiança. Vão Livre. Continuidade até dia 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T14:00:00Z" class="datetime"&gt;sab, 19/09/2026 - 14:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 11:33:09 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282817 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:31&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. Studio3 Cia. de Dança. Espetáculo Deixa eu dançar. Programa: a partir da trajetória de Caetano Veloso, a montagem transforma sua obra em movimento e som para construir um retrato do Brasil marcado pelos contrastes entre passado e futuro, popular e erudito, ordem e desordem. A criação combina referências à transgressão tropicalista e à dimensão introspectiva do artista, celebrando a arte como espaço de resistência, invenção e liberdade. Continuidade até dia 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T20:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 11:31:19 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282816 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>8ª Semana Paulista de Dança </title>
-  <link>http://concerto.com.br/roteiros/8a-semana-paulista-de-danca-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;8ª Semana Paulista de Dança &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 11:28&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Anselmo Zolla - direção artística e curadoria. Marcia Milhazes Companhia de Dança. Espetáculo: Piquenique, variações amorosas. Ana Amélia Vianna e Domenico Salvatore - bailarinos. Programa: ao som de clássicos do cancioneiro romântico brasileiro das décadas de 1930 e 1940, com vozes como Carmen Miranda, Clementina de Jesus, Orlando Silva, Francisco Alves, Lamartine Babo e Pixinguinha, a montagem explora relações entre memória, cultura e afetos. Beatriz Milhazes - cenografia. Continuidade até dia 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-17T20:00:00Z" class="datetime"&gt;qui, 17/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no local, duas horas antes.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 11:28:36 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282815 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282830 at http://concerto.com.br</guid>
     </item>
 
   </channel>

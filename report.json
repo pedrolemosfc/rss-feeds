@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 18,
+    "items": 20,
     "ok": true,
-    "notes": "mirrored 18 native items",
+    "notes": "mirrored 20 native items",
     "kind": "native-mirror"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 24,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,18 +414,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 46,
+    "items": 47,
     "ok": true,
-    "notes": "scraped 46 events",
+    "notes": "scraped 47 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 11,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -597,6 +597,15 @@
     "items": 40,
     "ok": true,
     "notes": "scraped 40 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "colossus",
+    "source_url": "https://colossus.com/",
+    "output": "feeds/colossus.xml",
+    "items": 76,
+    "ok": true,
+    "notes": "scraped 76 events",
     "kind": "venue-scrape"
   }
 ]

@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Mon, 14 Sep 2026 12:47:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:51:43 +0000</lastBuildDate>
+<item>
+<title>v1.110.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11100</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11100</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<description>Tag Database: Created / Updated time properties</description>
+</item>
 <item>
 <title>Mobile app v1.39.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1390</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1841</guid>
 <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
 <description>Able to switch between split, code, and preview modes for Mermaid blocks.; Preserve the media alignment preference for pasting images and videos.; Improve Zotero syncing stability.; Fix the issue that the app may crash when the user disconnects and deletes all imported Zotero data.; Fix the issue that notes could be missing when syncing Zotero image annotations.; Fix the issue that some cards are not shown in the result of Card Library.</description>
-</item>
-<item>
-<title>v1.84.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1840</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1840</guid>
-<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-<description>App: Zotero integration (Beta) (Please check 👉 Zotero Sync Q&amp;A )</description>
 </item>
 </channel>
 </rss>
