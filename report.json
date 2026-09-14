@@ -198,9 +198,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 19,
+    "items": 18,
     "ok": true,
-    "notes": "mirrored 19 native items",
+    "notes": "mirrored 18 native items",
     "kind": "native-mirror"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -378,9 +378,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 21,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 21 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -396,9 +396,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 34,
+    "items": 33,
     "ok": true,
-    "notes": "scraped 34 events",
+    "notes": "scraped 33 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 48,
+    "items": 46,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 46 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -497,7 +497,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "fetch failed: URLError: <urlopen error timed out>",
     "kind": "venue-scrape"
   },
   {
@@ -522,9 +522,9 @@
     "name": "tldb-livesets",
     "source_url": "https://tldb.co/",
     "output": "feeds/tldb-livesets.xml",
-    "items": 80,
-    "ok": true,
-    "notes": "scraped 80 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out",
     "kind": "venue-scrape"
   },
   {
@@ -579,6 +579,24 @@
     "items": 3,
     "ok": true,
     "notes": "scraped 3 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "tradexa-blog",
+    "source_url": "https://www.tradexa.com.br/blog",
+    "output": "feeds/tradexa-blog.xml",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cnseg-noticias",
+    "source_url": "https://cnseg.org.br/noticias",
+    "output": "feeds/cnseg-noticias.xml",
+    "items": 40,
+    "ok": true,
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   }
 ]
