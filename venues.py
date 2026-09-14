@@ -1682,6 +1682,133 @@ def scrape_fabric_changelog(html: str, base: str) -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))[:40]
 
 
+
+def scrape_tradexa_blog(html: str, base: str) -> List[Dict[str, Any]]:
+    """TRADEXA blog listing (Next.js) — one item per /blog/<slug> card."""
+    if not html:
+        return []
+    date_re = re.compile(
+        r"(\d{1,2})\s+de\s+(janeiro|fevereiro|mar[cç]o|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)\s+de\s+(\d{4})",
+        re.I,
+    )
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for m in re.finditer(
+        r'<a[^>]*href="(/blog/([^"?#]+))"[^>]*>(.*?)</a>',
+        html,
+        re.S | re.I,
+    ):
+        href, slug, inner = m.group(1), m.group(2), m.group(3)
+        if href in seen or slug in ("", "feed"):
+            continue
+        text_blob = re.sub(r"<[^>]+>", " ", inner)
+        text_blob = re.sub(r"\s+", " ", html_lib.unescape(text_blob)).strip()
+        dm = date_re.search(text_blob)
+        if not dm:
+            continue
+        seen.add(href)
+        day, mon, year = int(dm.group(1)), dm.group(2).lower(), int(dm.group(3))
+        mon_n = PT_MONTHS.get(mon) or PT_MONTHS.get(mon[:3])
+        date_raw = f"{year:04d}-{mon_n:02d}-{day:02d}" if mon_n else None
+        after = text_blob[dm.end() :].strip()
+        # Listing concatenates title + deck; prefer article og:title when cheap.
+        link = abs_url("https://www.tradexa.com.br", href)
+        title = after
+        desc = ""
+        try:
+            body, err = fetch_raw(link, timeout=20)
+            if body and not err:
+                og = re.search(
+                    r'property="og:title"\s+content="([^"]+)"', body, re.I
+                ) or re.search(
+                    r'content="([^"]+)"\s+property="og:title"', body, re.I
+                )
+                if og:
+                    title = html_lib.unescape(og.group(1)).strip()
+                    title = re.sub(r"\s*\|\s*Blog.*$", "", title, flags=re.I).strip()
+                od = re.search(
+                    r'property="og:description"\s+content="([^"]+)"', body, re.I
+                ) or re.search(
+                    r'content="([^"]+)"\s+property="og:description"', body, re.I
+                )
+                if od:
+                    desc = html_lib.unescape(od.group(1)).strip()
+        except Exception:
+            pass
+        if not title:
+            title = slug.replace("-", " ").strip()
+        if not desc and after.startswith(title):
+            desc = after[len(title) :].strip()
+        elif not desc:
+            desc = after[:300]
+        it = item(title, link, desc or "TRADEXA Blog", date_raw)
+        items.append(it)
+        time.sleep(0.15)
+    return sort_items(dedupe_items(items))[:40]
+
+
+def scrape_cnseg_noticias(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """CNseg noticias via public cms-proxy (Strapi)."""
+    items: List[Dict[str, Any]] = []
+    q = urllib.parse.urlencode(
+        {
+            "sort[0]": "dataNoticia:desc",
+            "pagination[page]": "1",
+            "pagination[pageSize]": "40",
+            "populate": "*",
+        },
+        safe="[]",
+    )
+    url = f"https://cnseg.org.br/api/cms-proxy/api/noticias?{q}"
+    body, err = fetch_raw(
+        url,
+        headers={
+            "Accept": "application/json",
+            "Referer": "https://cnseg.org.br/noticias",
+        },
+        timeout=40,
+    )
+    if err or not body:
+        return []
+    try:
+        data = json.loads(body)
+    except json.JSONDecodeError:
+        return []
+    rows = data.get("data") if isinstance(data, dict) else None
+    if not isinstance(rows, list):
+        return []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        attrs = row.get("attributes") or {}
+        title = (attrs.get("titulo") or "").strip()
+        slug = (attrs.get("slug") or "").strip()
+        if not title or not slug:
+            continue
+        link = f"https://cnseg.org.br/noticias/{slug}"
+        date_raw = attrs.get("dataNoticia") or attrs.get("publishedAt")
+        intro = (attrs.get("introducao") or "").strip()
+        if not intro:
+            desc_html = attrs.get("descricao") or ""
+            intro = re.sub(r"<[^>]+>", " ", desc_html)
+            intro = re.sub(r"\s+", " ", html_lib.unescape(intro)).strip()
+        editoria = ""
+        try:
+            editoria = (
+                ((attrs.get("editoria") or {}).get("data") or {})
+                .get("attributes", {})
+                .get("nome")
+                or ""
+            )
+        except Exception:
+            editoria = ""
+        desc = intro
+        if editoria:
+            desc = f"{editoria} — {intro}" if intro else editoria
+        items.append(item(title, link, desc, date_raw))
+    return sort_items(dedupe_items(items))[:50]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -2090,6 +2217,30 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
             "Accept-Language": "en-US,en;q=0.9",
         },
+    },
+    {
+        "name": "tradexa-blog",
+        "source_url": "https://www.tradexa.com.br/blog",
+        "output": "tradexa-blog.xml",
+        "title": "TRADEXA — Blog",
+        "description": "Artigos do blog da TRADEXA (comércio exterior)",
+        "scraper": scrape_tradexa_blog,
+        "timeout": 40,
+        "language": "pt-BR",
+        "fetch_headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+        },
+    },
+    {
+        "name": "cnseg-noticias",
+        "source_url": "https://cnseg.org.br/noticias",
+        "output": "cnseg-noticias.xml",
+        "title": "CNseg — Notícias",
+        "description": "Notícias institucionais da Confederação Nacional das Seguradoras",
+        "scraper": scrape_cnseg_noticias,
+        "skip_fetch": True,
+        "language": "pt-BR",
     },
 ]
 

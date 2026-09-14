@@ -404,6 +404,16 @@
       "name": "fabric-changelog",
       "source_url": "https://fabric.so/info/changelog",
       "output": "feeds/fabric-changelog.xml"
+    },
+    {
+      "name": "tradexa-blog",
+      "source_url": "https://www.tradexa.com.br/blog",
+      "output": "feeds/tradexa-blog.xml"
+    },
+    {
+      "name": "cnseg-noticias",
+      "source_url": "https://cnseg.org.br/noticias",
+      "output": "feeds/cnseg-noticias.xml"
     }
   ],
   "venue_impossible": [

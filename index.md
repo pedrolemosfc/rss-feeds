@@ -149,6 +149,12 @@ Generated: 2026-09-13 20:51 UTC
 - **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
   notes: scraped 3 events
 
+- **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
+  notes: scraped 20 events
+
+- **cnseg-noticias** [OK] items=40 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
+  notes: scraped 40 events
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
