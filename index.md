@@ -153,6 +153,9 @@ Generated: 2026-09-14 12:47 UTC
 - **cnseg-noticias** [OK] items=40 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
   notes: scraped 40 events
 
+- **colossus** [OK] items=76 → `feeds/colossus.xml`  source: https://colossus.com/  
+  notes: articles + podcast_episode via WP REST
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  

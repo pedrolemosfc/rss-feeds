@@ -850,6 +850,7 @@ def scrape_jazz_b(html: str, base: str) -> List[Dict[str, Any]]:
 # ---------------- catalogs ----------------
 
 VENUE_NATIVE_MIRRORS = [
+
     {
         "source_url": "https://feedback.recall.it/api/changelog/feed.rss",
         "out_name": "recall-changelog.xml",
@@ -1809,6 +1810,63 @@ def scrape_cnseg_noticias(_html: str = "", _base: str = "") -> List[Dict[str, An
     return sort_items(dedupe_items(items))[:50]
 
 
+
+def scrape_colossus(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Colossus articles + podcast episodes via WordPress REST API."""
+    items: List[Dict[str, Any]] = []
+    endpoints = (
+        ("article", 40),
+        ("podcast_episode", 40),
+    )
+    for kind, per_page in endpoints:
+        q = urllib.parse.urlencode(
+            {
+                "per_page": str(per_page),
+                "page": "1",
+                "orderby": "date",
+                "order": "desc",
+                "_fields": "id,date_gmt,date,link,title,excerpt",
+            }
+        )
+        url = f"https://colossus.com/wp-json/wp/v2/{kind}?{q}"
+        body, err = fetch_raw(
+            url,
+            headers={"Accept": "application/json"},
+            timeout=40,
+        )
+        if err or not body:
+            continue
+        try:
+            rows = json.loads(body)
+        except json.JSONDecodeError:
+            continue
+        if not isinstance(rows, list):
+            continue
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            title = html_lib.unescape(
+                re.sub(r"<[^>]+>", "", (row.get("title") or {}).get("rendered") or "")
+            ).strip()
+            link = (row.get("link") or "").strip()
+            if not title or not link:
+                continue
+            date_raw = row.get("date_gmt") or row.get("date")
+            excerpt = html_lib.unescape(
+                re.sub(
+                    r"<[^>]+>",
+                    " ",
+                    ((row.get("excerpt") or {}).get("rendered") or ""),
+                )
+            )
+            excerpt = re.sub(r"\s+", " ", excerpt).strip()
+            label = "Article" if kind == "article" else "Podcast episode"
+            desc = f"{label} — {excerpt}" if excerpt else label
+            items.append(item(title, link, desc, date_raw))
+        time.sleep(0.2)
+    return sort_items(dedupe_items(items))[:80]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -2241,6 +2299,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "scraper": scrape_cnseg_noticias,
         "skip_fetch": True,
         "language": "pt-BR",
+    },
+    {
+        "name": "colossus",
+        "source_url": "https://colossus.com/",
+        "output": "colossus.xml",
+        "title": "Colossus",
+        "description": "Colossus articles and podcast episodes (WordPress REST)",
+        "scraper": scrape_colossus,
+        "skip_fetch": True,
+        "language": "en",
     },
 ]
 

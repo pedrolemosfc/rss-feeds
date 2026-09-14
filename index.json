@@ -414,6 +414,11 @@
       "name": "cnseg-noticias",
       "source_url": "https://cnseg.org.br/noticias",
       "output": "feeds/cnseg-noticias.xml"
+    },
+    {
+      "name": "colossus",
+      "source_url": "https://colossus.com/",
+      "output": "feeds/colossus.xml"
     }
   ],
   "venue_impossible": [
