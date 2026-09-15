@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 14 Sep 2026 21:49:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 04:53:50 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=OxZ5XpRW26QodvIf19q8ZlvqAej02CF7G08ZAwwPoRI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMiIsImRpc2xpa2VzIjoiMCJ9?token=alWxwm879wbzJkhGLizyRwRqzj-MYpI_-pMvXRvoBp4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;532&lt;/span&gt;
@@ -80,6 +80,160 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica do Estado do Espírito Santo convida o pianista Fabio Martino</title>
+  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-do-estado-do-espirito-santo-convida-o-pianista-fabio</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica do Estado do Espírito Santo convida o pianista Fabio Martino&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quarta-feira, 16, a Orquestra Sinfônica do Estado do Espírito Santo recebe Fabio Martino no Centro Cultural Sesc Glória, no Espírito Santo. Sob regência de Helder Trefzger, orquestra e solista tocam o &lt;em&gt;Concerto para piano nº 2&lt;/em&gt;, de Liszt. A &lt;em&gt;Sinfonia nº 6&lt;/em&gt;, Patética, de Tchaikovsky completa o programa. O concerto se repete na quinta-feira, 17.&lt;/p&gt;
+&lt;p&gt;Fábio Martino é uma das figuras centrais da nova geração de pianistas brasileiros. O pianista, hoje radicado na Alemanha, teve seu talento reconhecido na adolescência após vencer o Concurso Internacional de Piano do BNDES no Rio de Janeiro. Seu repertório atravessa diferentes compositores e períodos e abrange desde os cinco concertos de Beethoven às &lt;em&gt;Fantasias Brasileiras&lt;/em&gt; de Francisco Mignone, registradas com a Osesp para o selo Naxos em 2023.&lt;/p&gt;
+&lt;p&gt;O &lt;em&gt;Concerto para piano nº 2&lt;/em&gt;, de Liszt, foi composto entre 1849 e 1861. Liszt iniciou a composição quando vivia na Itália, prestes a entrar em um período agitado em sua carreira de concertista. A obra de três movimentos foi estreada em 1857 com o compositor na regência e seu aluno, Hans Bronsart von Schellendorf, ao piano, mas passou por revisões até sua publicação, na década de 1860.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-09-16"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Fabio Martino [Divulgação]" data-entity-type="file" data-entity-uuid="7c3a762b-238b-4e51-9bd6-4a15cbb7dbae" src="http://concerto.com.br/sites/default/files/inline-images/w-Fabio-Martino-I-1_0_0.jpg" /&gt;
+&lt;figcaption&gt;Fabio Martino [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 23:13&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Fabio-Martino-I-1_0.jpg" width="900" height="600" alt="Fabio Martino [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=P65zjlmHpQkNXYv6u7EXPdn6MLdb_splqtgXpxuipBk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 23:13:22 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282840 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>'Réquiem Guarani-Kaiowá', de Cyro Maurício Delvizio, estreia no Theatro Municipal do Rio de Janeiro</title>
+  <link>http://concerto.com.br/noticias/musica-classica/requiem-guarani-kaiowa-de-cyro-mauricio-delvizio-estreia-no-theatro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;'Réquiem Guarani-Kaiowá', de Cyro Maurício Delvizio, estreia no Theatro Municipal do Rio de Janeiro&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na terça-feira, 15, a Felipe Prazeres rege a Orquestra Petrobras Sinfônica em um programa dedicado aos povos originários do Brasil, no Theatro Municipal do Rio de Janeiro. Os músicos executam a estreia mundial de &lt;em&gt;Réquiem Guarani-Kaiowá op. 33: Para os Guarani-Kaiowá e todos os brasileiros nativos&lt;/em&gt;, de Cyro Maurício Delvizio. A orquestra convida o Coral Brasil Ensemble-UFRJ e o Coral Infantojuvenil da UFRJ. Os solistas Michele Menezes, Noeli Mello e Guilherme Moreira completam o elenco.   &lt;/p&gt;
+&lt;p&gt;O réquiem de Cyro Delvizio retrata a resistência das culturas indígenas no Brasil. Composta entre 2016 e 2017, a obra se baseia na Carta de Pyelito Kue, produzida em 2012 pela comunidade Guarani-Kaiowá em resposta à ordem de despejo da Justiça Federal contra os moradores do povoado de Pyelito Kue, no Mato Grosso do Sul. Delvizio, junto com o libretista Gabriel Neves Camargo, produziu uma obra em quinze movimentos para abordar o conflito de terras presente no Brasil.&lt;/p&gt;
+&lt;p&gt;A obra contempla tradições da música sacra ocidental e da cultura dos povos originários. A estrutura do réquiem, gênero  europeu e católico, ambienta a tensão entre os povos indígenas e a colonização, representada por momentos de intensidade orquestral. Ao final da obra, a composição ganha tons esperançosos, baseados no conceito cosmológico Guarani-Kaiowá de  Terra sem Males, que idealiza um espaço pacífico e sem sofrimentos.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-15"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Felipe Prazeres [ Reprodução/ Instagram/ Daniel Ebendinger] " data-entity-type="file" data-entity-uuid="1a9b3ce6-ad6b-4613-9164-27010aa72158" src="http://concerto.com.br/sites/default/files/inline-images/w-Felipeprazeres.jpg" /&gt;
+&lt;figcaption&gt;Felipe Prazeres [Reprodução/ Instagram/ Daniel Ebendinger] &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 22:17&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Felipeprazeres.jpg" width="900" height="614" alt="Felipe Prazeres [Reprodução/ Instagram/ Daniel Ebendinger] " typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=RyliTUve97Zm554aUz8x10FwIOluW86RyD20IfVpMAE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Sep 2026 22:17:14 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282839 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Jardim Botânico de Sorocaba </title>
@@ -198,10 +352,10 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=a4b4UBF6z-eRTzheV-al9-_MWP2fVF7UPOZcyZuzv7I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=cX_IFQP2JpRbuR7AuJ269-lDAi5FAbqCpyXIMPwV2GQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -233,12 +387,12 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;291&lt;/div&gt;
+              &lt;div class="field__item"&gt;782&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;1&lt;/div&gt;
+              &lt;div class="field__item"&gt;7&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -414,135 +568,6 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
   <pubDate>Mon, 14 Sep 2026 15:49:27 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282833 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim</title>
-  <link>http://concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Daniil Trifonov cancelou sua participação na turnê da Filarmônica de Berlim que será realizada em outubro, com concertos em Nova York, São Paulo, Buenos Aires e Bogotá. Víkingur Ólafsson fará as apresentações em seu lugar.&lt;/p&gt;
-&lt;p&gt;Trifonov sofreu uma lesão que o obrigou a cancelar os concertos. Em nota, a Filarmônica de Berlim e o maestro Kirill Petrenko desejaram a Trifonov uma rápida recuperação e agradeceram a Víkingur Ólafsson por substituí-lo. &lt;/p&gt;
-&lt;p&gt;O programa dos concertos permanecerá inalterado. Em São Paulo, em iniciativa da Tucca, será interpretado, no dia 18, o &lt;em&gt;Concerto para piano nº 1&lt;/em&gt; de Brahms, ao lado de &lt;em&gt;Assim falou Zarathustra&lt;/em&gt;, de Strauss. A apresentação do dia 19 não teria a participação do solista, com repertório formado pelas &lt;em&gt;Variações enigma&lt;/em&gt;, de Elgar, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt; de Tchaikovsky.&lt;/p&gt;
-&lt;p&gt;Grande nome do piano internacional, Víkingur Ólafsson esteve em São Paulo em 2024, quando se apresentou com a Osesp e fez recital solo na Sala São Paulo. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" data-entity-type="file" data-entity-uuid="bddee0e9-189b-4f61-b85f-1aa5692c46ea" src="http://concerto.com.br/sites/default/files/inline-images/w-olafsson_0_0.jpg" /&gt;
-&lt;figcaption&gt;Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:14&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-olafsson_0_0.jpg" width="900" height="577" alt="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" title="Víkingur Ólafsson durante concerto com a Osesp em 2024 [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=P2r6lzg5ogu2btdoAA44ug8gJAxcws0f4kThSU4N-RQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 15:14:13 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282831 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Professores dos cursos de Música da UFPel</title>
-  <link>http://concerto.com.br/roteiros/professores-dos-cursos-de-musica-da-ufpel</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Professores dos cursos de Música da UFPel&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:13&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;108 anos do Conservatório de Música da UFPel. Magali Richter - direção e coordenação.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T19:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1504" hreflang="pt-br"&gt;Pelotas, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/conservatorio-de-musica-da-ufpel" hreflang="und"&gt;Conservatório de Música da Universidade Federal de Pelotas&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 15:13:55 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282830 at http://concerto.com.br</guid>
     </item>
 
   </channel>
