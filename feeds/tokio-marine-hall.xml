@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Tue, 15 Sep 2026 16:59:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Sep 2026 21:20:41 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.7</generator>
 	<item>
+		<title>GUILHERME ARANTES</title>
+		<link>https://www.tokiomarinehall.com.br/guilherme-arantes-3/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 18:21:34 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5785</guid>
+
+					<description><![CDATA[<p>Guilherme Arantes</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/guilherme-arantes-3/">GUILHERME ARANTES</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>INIMIGOS DA HP</title>
 		<link>https://www.tokiomarinehall.com.br/inimigos-da-hp-4/</link>
 		
@@ -164,22 +180,6 @@ Natal</p>
 		
 		
 			</item>
-		<item>
-		<title>Fernando e Sorocaba</title>
-		<link>https://www.tokiomarinehall.com.br/fernando-e-sorocaba/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Mon, 11 May 2026 13:55:10 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5614</guid>
-
-					<description><![CDATA[<p>Fernando e Sorocaba</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/fernando-e-sorocaba/">Fernando e Sorocaba</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-09-15 13:59:06 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-09-15 18:20:41 by W3 Total Cache
 -->

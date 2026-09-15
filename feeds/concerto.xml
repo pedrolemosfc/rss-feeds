@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 15 Sep 2026 16:59:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 21:20:43 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMyIsImRpc2xpa2VzIjoiMCJ9?token=hbmfC8zIfKlQcrMEEHEfOcFdX5Z8HWCXYINocwZaqUw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzMyIsImRpc2xpa2VzIjoiMCJ9?token=7nXOdMwSGt_RBD9rcWIOFgr9_-kN41MbRQMdyu1P8dM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;533&lt;/span&gt;
@@ -80,6 +80,160 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Filarmônica de Minas Gerais interpreta obras de Kachaturian, Michel Curi Jr. e Mendelssohn</title>
+  <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-interpreta-obras-de-kachaturian-michel-curi-jr</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais interpreta obras de Kachaturian, Michel Curi Jr. e Mendelssohn&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 17, a Orquestra Filarmônica de Minas Gerais realiza concerto na Sala Minas Gerais, em Belo Horizonte. Regida por Fábio Mechetti, a orquestra e o violinista Roman Simovic tocam o &lt;em&gt;Concerto para Violino&lt;/em&gt;, de Khachaturian. Ocorre também a estreia mundial de &lt;em&gt;Prisma&lt;/em&gt;, de M. Curi Jr., com reapresentação no dia 18. A  &lt;em&gt;Sinfonia nº 3, “Escocesa”&lt;/em&gt;, de Mendelssohn, completa o programa.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Prisma&lt;/em&gt;, de Michel Curi, reinterpreta tradições da música religiosa. A encomenda partiu da Filarmônica após a vitória de Curi no Festival Tinta Fresca 2025, organizado pela orquestra para incentivar compositores emergentes. O resultado foi uma obra de três movimentos baseada no ofertório &lt;em&gt;Constitues eos&lt;/em&gt; (&lt;em&gt;Vós os estabeleceis&lt;/em&gt;), cantado na missa latina natalícia para São Pedro e São Paulo. O tema é apresentado pelo clarinete, mas deixa o caráter litúrgico e se desenvolve em episódios contrastantes.&lt;/p&gt;
+&lt;p&gt;O retorno do primeiro spalla da Filarmônica de Minas Gerais também marca o concerto. Roman Simovic foi premiado em concursos internacionais pela Europa, com destaque para o primeiro lugar e o prêmio do público no 24.º Prêmio Rodolfo Lipizer, na Itália. Entre 2008 e 2009, atuou com a Filarmônica até tornar-se spalla da London Symphony Orchestra, posição que ocupa até hoje, junto com a de professor visitante na Royal Academy of Music.&lt;/p&gt;
+&lt;p&gt;Veja&lt;a href="https://www.concerto.com.br/roteiros/2026-09-17"&gt; &lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt; &lt;/a&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Roman Simovic [Divulgação]" data-entity-type="file" data-entity-uuid="7e069cf5-6c61-4ba2-97a2-c4685b2f4140" src="http://concerto.com.br/sites/default/files/inline-images/w-Simovic_0.jpg" /&gt;
+&lt;figcaption&gt;Roman Simovic [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 15/09/2026 - 20:18&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Simovic_0.jpg" width="900" height="600" alt="Roman Simovic [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4NTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=bXVDYYeTORzpe29us7DqIZo9U2y_8RwugHwxcq2NekQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 15 Sep 2026 20:18:58 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282851 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Companhia de Dança e interpreta 'Giselle' e 'Alvorada' no Theatro São Pedro</title>
+  <link>http://concerto.com.br/noticias/danca/sao-paulo-companhia-de-danca-e-interpreta-giselle-e-alvorada-no-theatro-sao-pedro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Companhia de Dança e interpreta 'Giselle' e 'Alvorada' no Theatro São Pedro&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Orquestra do Theatro São Pedro, a São Paulo Companhia de Dança e a Banda Jovem do Estado de São Paulo se juntam para uma apresentação no Theatro São Pedro. Músicos e bailarinos executam os balés &lt;em&gt;Alvorada&lt;/em&gt; e &lt;em&gt;Giselle&lt;/em&gt;. Com a música de Carlos Gomes, &lt;em&gt;Alvorada&lt;/em&gt; é coreografado por Yoshi Suzuki. A direção artística é de Inês Bogéa e a musical, de Cláudio Cruz. Reapresentações ocorrem nos dias 18, 19 e 20.&lt;/p&gt;
+&lt;p&gt;A criação contemporânea &lt;em&gt;Alvorada&lt;/em&gt; celebra os recomeços por meio do movimento. A obra de 2025 marca a estreia de Yoshi Suzuki, solista da São Paulo Companhia de Dança, como coreógrafo e desenvolve a composição sobre a suavidade e o frescor do amanhecer. Para além da contemplação do dia, a obra aborda um novo capítulo na carreira de Suzuki, que segue ativo como bailarino, mas se reinventa ao assumir funções criativas no mundo da dança.&lt;/p&gt;
+&lt;p&gt;O segundo ato de Giselle reserva alguns dos momentos mais marcantes do repertório para balés. Na obra de Adolphe Adam, o nobre Albrecht se passa por camponês para conquistar Giselle. A jovem descobre a farsa, e, por não suportar as mentiras, falece. O segundo ato da obra retrata a ida de Albrecht ao túmulo da amada. Entretanto, ele é interrompido pelas Willis, espíritos que o condenam a dançar até a morte, enquanto Giselle, agora também um fantasma, tenta salvá-lo. Na remontagem de Lars Van Cauwenbergh, adotada pela companhia, Albrecht sobrevive.   &lt;/p&gt;
+&lt;p&gt;Veja&lt;a href="https://www.concerto.com.br/roteiros/2026-09-17"&gt;&lt;span style="color:#7f0000;"&gt; &lt;u&gt;mais detalhes&lt;/u&gt; &lt;/span&gt;&lt;/a&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="'Alvorada', de Yoshi Suzuki [Reprodução/ Instagram/ Rafael Frydman]" data-entity-type="file" data-entity-uuid="4b707c20-4538-44e9-a7fe-4dfab10c054e" src="http://concerto.com.br/sites/default/files/inline-images/alvorada_0.jpg" /&gt;
+&lt;figcaption&gt;'Alvorada', de Yoshi Suzuki [Reprodução/ Instagram/ Rafael Frydman]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 15/09/2026 - 19:26&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/alvorada.jpg" width="900" height="585" alt="'Alvorada', de Yoshi Suzuki [Reprodução/ Instagram/ Rafael Frydman]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/danca" hreflang="pt-br"&gt;Dança&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4NDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-sonXQbCcTyzJSu7LAhlyiQ8XH6xAJVGgOJG3oZD-As?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 15 Sep 2026 19:26:40 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282848 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Escola de Música FORMA </title>
@@ -107,7 +261,6 @@
   <pubDate>Tue, 15 Sep 2026 16:15:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282846 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/282846#comments</comments>
     </item>
 <item>
   <title>Orquestra Jovem Recanto Maestro </title>
@@ -172,7 +325,6 @@
   <pubDate>Tue, 15 Sep 2026 16:11:45 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282847 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-jovem-recanto-maestro-18#comments</comments>
     </item>
 <item>
   <title>Orquestra Sinfônica do Estado do Espírito Santo convida o pianista Fabio Martino</title>
@@ -237,7 +389,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=qYlSiIS4WHnbbzoBXJYvSPcTbS8-N_271stWqb8k_0w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=CnE1oTq40gNqpgNTZNag51D-1SyEYYmup6NVGKgMmIY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
@@ -314,7 +466,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=MALVShNNAvKxJC322JbQLmzlymTbz-_IAKbWqjXAUOs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=fodKi8sPw0spZFvTd2I86v3QOFZHPFVj1jFlzDM7Pqg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
@@ -436,7 +588,31 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
           &lt;/div&gt;
 &lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
   
-  
+    
+&lt;article data-comment-user-id="18925" id="comment-914" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1789494724"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18925" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18925" typeof="schema:Person" property="schema:name" datatype="" content="behelias@gmail.com" xml:lang=""&gt;Beatriz Helena Bittencourt Vicentini&lt;/span&gt; em ter, 15/09/2026 - 17:52&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/914#comment-914" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/914#comment-914" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Há que se considerar que o…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Há que se considerar que o que foi possível - a entrada de um pedido de tombamento ao órgão do patrimônio cultural da cidade - foi devidamente realizado, coordenada por ex alunos e pessoas que sabiam a importância da Escola de Música - inclusive assinado por todos os ex prefeitos da cidade, assim como vários ex secretários de cultura. O CODEPAC (Conselho de Defesa do Patrimônio Cultural de Piracicaba), no entanto, dividiu a solicitação em três processos distintos - dois deles ainda em aberto, que não tiveram continuidade, justamente aqueles que protegeriam o acervo, incluindo-se os instrumentos musicais, e o prédio - que já foi leiloado e arrematado pela iniciativa privada. Os processos foram simplesmente abandonados, embora o órgão não os tenha formalmente encerrados. Um terceiro processo, que elevava a Escola de Música à condição de patrimônio cultural da cidade foi aprovado em 2024 - quando isso foi formalizado através de decreto municipal, mas que na prática não teve qualquer efeito de proteção, conservação e preservação da instituição e o que a compunha em termos de partituras, instrumentos, biblioteca, etc.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=914&amp;2=denunciar" token="CH3wYpXn87Z1WHzn_63AWVvnReEY8LsLnvGE-DXBcpY"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+
 
   
 &lt;/section&gt;
@@ -445,10 +621,10 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=EgIllrsWINGDgj6lj3Tp4I3Vyns_fF4E4MNnS2rEvZg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4MzgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=JXkbL_V-Qb27XKG8o2VxBtigR2f50VxUri93P3owojE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -458,113 +634,6 @@ Presidente Academia Brasileira de Música&lt;/em&gt;&lt;/p&gt;
   <pubDate>Mon, 14 Sep 2026 17:46:51 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282838 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_FestivalChopin_14set_31out_FB</title>
-  <link>http://concerto.com.br/node/282835</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_FestivalChopin_14set_31out_FB&lt;/span&gt;
-
-  &lt;div class="field field--name-field-banner field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/banner/2026-09/2026_FestivalChopin_14set_31out_FB.gif" width="728" height="90" alt="Fullbanner Festival Chopin Setembro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 17:44&lt;/span&gt;
-
-  &lt;div class="field field--name-field-banner-link field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://feverup.com/m/746026/en?srsltid=AfmBOoqMDThJJIkPjNxaLtdJsKllnqwtMMnCf0AxuZ6ocQHNTzAsNg1y&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;1586&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;9&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 17:44:11 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">282835 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra da Rede Batista de Educação</title>
-  <link>http://concerto.com.br/roteiros/orquestra-da-rede-batista-de-educacao-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra da Rede Batista de Educação&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 14/09/2026 - 15:59&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Brasil em todos os sentidos. Dia Nacional do Surdo. César Timóteo - regente. Programa: Andréa Peliccioni - tradução de libras. Programa: Tom Jobim - Chega de saudade, entre outros.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-28T20:00:00Z" class="datetime"&gt;seg, 28/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282832" hreflang="pt-br"&gt;Colégio Batista - Sala Professor Armindo Oliveira &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada pelo link: https://tinyurl.com/p6b5j7yj.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 14 Sep 2026 15:59:50 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282834 at http://concerto.com.br</guid>
     </item>
 
   </channel>

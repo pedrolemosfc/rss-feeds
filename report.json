@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 78,
+    "items": 79,
     "ok": true,
-    "notes": "scraped 78 items"
+    "notes": "scraped 79 items"
   },
   {
     "name": "guia-shows",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 24,
-    "ok": true,
-    "notes": "scraped 24 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "name": "page9-artes",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 174,
+    "items": 175,
     "ok": true,
-    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -252,9 +252,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 58,
+    "items": 59,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 59 events",
     "kind": "venue-scrape"
   },
   {
@@ -315,9 +315,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 25,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 18,
-    "ok": true,
-    "notes": "scraped 18 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {

@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Tue, 15 Sep 2026 16:59:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Sep 2026 21:20:42 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rashid</title>
+		<link>https://casanaturamusical.com.br/eventos/rashid/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rashid</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17161</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Gisela Mabel</title>
 		<link>https://casanaturamusical.com.br/eventos/gisela-mabel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gisela-mabel</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17105</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Alice Caymmi</title>
-		<link>https://casanaturamusical.com.br/eventos/alice-caymmi/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=alice-caymmi</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 20:37:15 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17101</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

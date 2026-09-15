@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-15 17:01 UTC
+Generated: 2026-09-15 21:22 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-09-15 17:01 UTC
   notes: scraped 47 items
 - **folha-show** [OK] items=56 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 56 items
-- **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 78 items
+- **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 79 items
 - **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 96 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -42,8 +42,8 @@ Generated: 2026-09-15 17:01 UTC
   notes: scraped 80 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
-- **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 24 items
+- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **page9-artes** [OK] items=18 → `out/page9-artes.xml`  source: https://page9.com/artes  
   notes: scraped 18 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
@@ -74,8 +74,8 @@ Generated: 2026-09-15 17:01 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **teatro-bradesco** [OK] items=58 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 58 events
+- **teatro-bradesco** [OK] items=59 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 59 events
 - **vibra-sp** [OK] items=25 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 25 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
@@ -88,8 +88,8 @@ Generated: 2026-09-15 17:01 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=3 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 3 events
-- **bourbon-street** [OK] items=25 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 25 events
+- **bourbon-street** [OK] items=28 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 28 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -100,8 +100,8 @@ Generated: 2026-09-15 17:01 UTC
   notes: scraped 23 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [OK] items=18 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: scraped 18 events
+- **komplexo-tempo** [FAIL] items=0 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **btg-pactual-hall** [OK] items=19 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
   notes: scraped 19 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
@@ -159,5 +159,5 @@ Generated: 2026-09-15 17:01 UTC
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])
