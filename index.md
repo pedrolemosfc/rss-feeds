@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-15 11:45 UTC
+Generated: 2026-09-15 17:01 UTC
 
 ## Native feeds (not scraped)
 
@@ -62,8 +62,8 @@ Generated: 2026-09-15 11:45 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=20 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 20 native items
+- **mis-sp** [OK] items=24 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 24 native items
 - **teatro-b32** [OK] items=10 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 10 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -106,12 +106,12 @@ Generated: 2026-09-15 11:45 UTC
   notes: scraped 19 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=33 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 33 events
+- **audio-sp** [OK] items=34 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 34 events
 - **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 11 events
-- **casa-de-francisca** [OK] items=47 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 47 events
+- **casa-de-francisca** [OK] items=49 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 49 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=28 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
