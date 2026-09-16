@@ -419,6 +419,11 @@
       "name": "colossus",
       "source_url": "https://colossus.com/",
       "output": "feeds/colossus.xml"
+    },
+    {
+      "name": "antt-ementario",
+      "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+      "output": "feeds/antt-ementario.xml"
     }
   ],
   "venue_impossible": [

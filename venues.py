@@ -1867,6 +1867,77 @@ def scrape_colossus(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))[:80]
 
 
+
+def scrape_antt_ementario(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """ANTTlegis ementário — recent published acts (not a single ato URL)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # Page 1 is the default ementário; page 2 via query for a bit more history.
+    pages = [
+        "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+        "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirPaginaEmentario&cod_modulo=623&cod_menu=9230&pagina=2",
+    ]
+    for url in pages:
+        body, err = fetch_raw(url, timeout=45)
+        if err or not body:
+            continue
+        # Site serves latin-1; fetch_raw may already decode as utf-8 with mojibake — re-fetch bytes path if needed
+        for m in re.finditer(
+            r'<article class="ato">([\s\S]*?)</article>',
+            body,
+            re.I,
+        ):
+            block = m.group(1)
+            am = re.search(
+                r'href="([^"]*ActionDatalegis\.php\?acao=abrirTextoAto[^"]+)"',
+                block,
+                re.I,
+            )
+            if not am:
+                continue
+            href = html_lib.unescape(am.group(1)).replace("&amp;", "&")
+            link = abs_url("https://anttlegis.antt.gov.br", href)
+            if link in seen:
+                continue
+            tm = re.search(r'title="([^"]+)"', block)
+            title = html_lib.unescape(tm.group(1)).strip() if tm else ""
+            if not title:
+                sm = re.search(r"<strong>([\s\S]*?)</strong>", block, re.I)
+                if sm:
+                    title = re.sub(r"<[^>]+>", " ", sm.group(1))
+                    title = re.sub(r"\s+", " ", html_lib.unescape(title)).strip()
+                    # drop situation badge text leftovers
+                    title = re.sub(
+                        r"^(A Entrar em Vigor|Vigente|Revogado)\s*",
+                        "",
+                        title,
+                        flags=re.I,
+                    ).strip()
+            if not title:
+                continue
+            seen.add(link)
+            # ementa paragraph (first <p> that is not data-hora)
+            desc = ""
+            for pm in re.finditer(r"<p(?![^>]*data-hora)[^>]*>([\s\S]*?)</p>", block, re.I):
+                t = re.sub(r"<[^>]+>", " ", pm.group(1))
+                t = re.sub(r"\s+", " ", html_lib.unescape(t)).strip()
+                if t and not re.match(r"\d{2}/\d{2}/\d{4}", t):
+                    desc = t
+                    break
+            dm = re.search(
+                r'class="data-hora"[^>]*>\s*(\d{2}/\d{2}/\d{4})',
+                block,
+                re.I,
+            )
+            date_raw = None
+            if dm:
+                d, mo, y = dm.group(1).split("/")
+                date_raw = f"{y}-{mo}-{d}"
+            items.append(item(title, link, desc or "ANTTlegis", date_raw))
+        time.sleep(0.3)
+    return sort_items(dedupe_items(items))[:100]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -2309,6 +2380,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "scraper": scrape_colossus,
         "skip_fetch": True,
         "language": "en",
+    },
+    {
+        "name": "antt-ementario",
+        "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+        "output": "antt-ementario.xml",
+        "title": "ANTTlegis — Ementário",
+        "description": "Atos publicados recentemente no ementário da ANTT (Decisões, Portarias, etc.)",
+        "scraper": scrape_antt_ementario,
+        "skip_fetch": True,
+        "language": "pt-BR",
     },
 ]
 

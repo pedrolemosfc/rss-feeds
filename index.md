@@ -155,6 +155,9 @@ Generated: 2026-09-16 11:33 UTC
 - **colossus** [OK] items=76 → `feeds/colossus.xml`  source: https://colossus.com/  
   notes: scraped 76 events
 
+- **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  
+  notes: ementário ANTT (atos recentes)
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
