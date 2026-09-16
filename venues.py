@@ -55,7 +55,14 @@ def _bind_helpers(mod: Any) -> None:
     OUT = mod.OUT
 
 
-def fetch_raw(url: str, timeout: int = 40, data: Optional[bytes] = None, headers: Optional[Dict[str, str]] = None, method: Optional[str] = None) -> Tuple[Optional[str], Optional[str]]:
+def fetch_raw(
+    url: str,
+    timeout: int = 40,
+    data: Optional[bytes] = None,
+    headers: Optional[Dict[str, str]] = None,
+    method: Optional[str] = None,
+    insecure_ssl: bool = False,
+) -> Tuple[Optional[str], Optional[str]]:
     h = {
         "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml,application/json,application/xml;q=0.9,*/*;q=0.8",
@@ -64,8 +71,12 @@ def fetch_raw(url: str, timeout: int = 40, data: Optional[bytes] = None, headers
     if headers:
         h.update(headers)
     req = urllib.request.Request(url, data=data, headers=h, method=method)
+    ctx = None
+    if insecure_ssl:
+        import ssl
+        ctx = ssl._create_unverified_context()
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
+        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
             raw = resp.read()
             if raw[:2] == b"\x1f\x8b":
                 raw = gzip.decompress(raw)
@@ -199,6 +210,7 @@ def mirror_native_rss(
     title: str,
     link: str,
     description: str,
+    insecure_ssl: bool = False,
 ) -> Dict[str, Any]:
     report: Dict[str, Any] = {
         "name": out_name.replace(".xml", ""),
@@ -209,7 +221,7 @@ def mirror_native_rss(
         "notes": "",
         "kind": "native-mirror",
     }
-    body, err = fetch_raw(source_url)
+    body, err = fetch_raw(source_url, insecure_ssl=insecure_ssl)
     if err or not body:
         report["notes"] = f"fetch failed: {err or 'empty'}"
         return report
@@ -857,6 +869,14 @@ VENUE_NATIVE_MIRRORS = [
         "title": "Recall Changelog",
         "link": "https://feedback.recall.it/changelog",
         "description": "Recall release notes (native Canny RSS mirror for Reader)",
+    },
+    {
+        "source_url": "https://acontece.ens.edu.br/feed/",
+        "out_name": "ens-acontece.xml",
+        "title": "ENS — Acontece",
+        "link": "https://acontece.ens.edu.br/",
+        "description": "Espelho do RSS nativo do Acontece (ENS). Certificado SSL incompleto no origin; mirror via jsDelivr para o Reader.",
+        "insecure_ssl": True,
     },
     {
         "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
@@ -1973,6 +1993,59 @@ def scrape_antt_cargas_rodoviarias(_html: str = "", _base: str = "") -> List[Dic
 
 
 
+
+def scrape_sest_senat(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """SEST SENAT news via publicador API (Angular SPA has no native RSS)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    api = "https://publicador.sestsenat.org.br/api/noticia/pesquisa-noticia"
+    # API returns 8 items per page; pull several pages for ~40 recent posts.
+    for page in range(1, 6):
+        payload = json.dumps({"paginaAtual": page}).encode("utf-8")
+        body, err = fetch_raw(
+            api,
+            data=payload,
+            method="POST",
+            headers={
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+            },
+            timeout=40,
+        )
+        if err or not body:
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        rows = (
+            ((data.get("data") or {}).get("retorno") or {}).get("itens")
+            if isinstance(data, dict)
+            else None
+        )
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            slug = (row.get("Identificador") or "").strip()
+            title = (row.get("Titulo") or "").strip()
+            if not slug or not title or slug in seen:
+                continue
+            seen.add(slug)
+            link = f"https://www.sestsenat.org.br/noticia/{slug}"
+            desc = (row.get("Chamada") or "").strip()
+            tipo = (row.get("TipoDeConteudo") or "").strip()
+            if tipo and desc:
+                desc = f"{tipo} — {desc}"
+            elif tipo:
+                desc = tipo
+            date_raw = row.get("DataPublicacao")
+            items.append(item(title, link, desc or "SEST SENAT", date_raw))
+        time.sleep(0.2)
+    return sort_items(dedupe_items(items))[:50]
+
+
 def scrape_antt_portal(html: str, base: str) -> List[Dict[str, Any]]:
     """ANTT portal news (gov.br). Folder still named noticias-defeso-eleitoral; live news stream."""
     if not html:
@@ -2508,7 +2581,18 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "scraper": scrape_antt_portal,
         "language": "pt-BR",
     },
+    {
+        "name": "sest-senat",
+        "source_url": "https://www.sestsenat.org.br/noticias",
+        "output": "sest-senat.xml",
+        "title": "SEST SENAT — Notícias",
+        "description": "Notícias do SEST SENAT (API publicador; SPA sem RSS nativo)",
+        "scraper": scrape_sest_senat,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
 ]
+
 
 
 

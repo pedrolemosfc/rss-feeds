@@ -166,6 +166,11 @@ Generated: 2026-09-16 11:33 UTC
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
 
+- **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
+  notes: mirrored 10 native items (SSL insecure on origin)
+- **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
+  notes: scraped 40 events
+
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
