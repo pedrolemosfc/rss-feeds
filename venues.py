@@ -1972,6 +1972,70 @@ def scrape_antt_cargas_rodoviarias(_html: str = "", _base: str = "") -> List[Dic
     return sort_items(dedupe_items(kept))[:80]
 
 
+
+def scrape_antt_portal(html: str, base: str) -> List[Dict[str, Any]]:
+    """ANTT portal news (gov.br). Folder still named noticias-defeso-eleitoral; live news stream."""
+    if not html:
+        return []
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # Prefer cards inside the news listing when present.
+    listing = html
+    lm = re.search(
+        r'<ul[^>]*class="[^"]*listagem-noticias[^"]*"[^>]*>([\s\S]*?)</ul>',
+        html,
+        re.I,
+    )
+    if lm:
+        listing = lm.group(1)
+    for m in re.finditer(
+        r'<h2 class="titulo">\s*<a href="(https://www\.gov\.br/antt/pt-br/assuntos/noticias-defeso-eleitoral/[^"]+)"[^>]*>([\s\S]*?)</a>\s*</h2>',
+        listing,
+        re.I,
+    ):
+        link = html_lib.unescape(m.group(1)).strip()
+        if link in seen or "/@@" in link:
+            continue
+        title = re.sub(r"<[^>]+>", " ", m.group(2))
+        title = re.sub(r"\s+", " ", html_lib.unescape(title)).strip()
+        if not title:
+            continue
+        seen.add(link)
+        # Look ahead a bit for category, date, and deck.
+        chunk = listing[m.end() : m.end() + 1200]
+        cat_m = re.search(
+            r'class="subtitulo-noticia"[^>]*>([\s\S]*?)</',
+            listing[max(0, m.start() - 400) : m.start()],
+            re.I,
+        )
+        cat = ""
+        if cat_m:
+            cat = re.sub(r"\s+", " ", html_lib.unescape(strip_tags(cat_m.group(1)))).strip()
+        date_raw = None
+        dm = re.search(r'class="data"[^>]*>\s*(\d{2}/\d{2}/\d{4})', chunk, re.I)
+        if dm:
+            d, mo, y = dm.group(1).split("/")
+            date_raw = f"{y}-{mo}-{d}"
+        desc = ""
+        # Deck lives in <span class="descricao"> after nested date spans.
+        dm3 = re.search(
+            r'class="descricao"[^>]*>([\s\S]{0,800}?)(?:</div>|</li>)',
+            chunk,
+            re.I,
+        )
+        if dm3:
+            blob = re.sub(r"<[^>]+>", " ", dm3.group(1))
+            blob = re.sub(r"\s+", " ", html_lib.unescape(blob)).strip()
+            blob = re.sub(r"^\d{2}/\d{2}/\d{4}\s*-\s*", "", blob).strip()
+            desc = blob
+        if cat and desc:
+            desc = f"{cat} — {desc}"
+        elif cat:
+            desc = cat
+        items.append(item(title, link, desc or "Notícias ANTT", date_raw))
+    return sort_items(dedupe_items(items))[:50]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -2435,7 +2499,17 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "skip_fetch": True,
         "language": "pt-BR",
     },
+    {
+        "name": "antt-noticias",
+        "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
+        "output": "antt-noticias.xml",
+        "title": "ANTT — Notícias",
+        "description": "Notícias do portal gov.br/antt (listagem atual; pasta ainda se chama noticias-defeso-eleitoral)",
+        "scraper": scrape_antt_portal,
+        "language": "pt-BR",
+    },
 ]
+
 
 
 

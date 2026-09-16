@@ -429,6 +429,16 @@
       "name": "antt-cargas-rodoviarias",
       "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
       "output": "feeds/antt-cargas-rodoviarias.xml"
+    },
+    {
+      "name": "antt-noticias",
+      "ok": true,
+      "items": 30,
+      "output": "feeds/antt-noticias.xml",
+      "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
+      "notes": "scraped 30 events",
+      "kind": "venue-scrape",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/antt-noticias.xml"
     }
   ],
   "venue_impossible": [
