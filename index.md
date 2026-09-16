@@ -158,6 +158,9 @@ Generated: 2026-09-16 11:33 UTC
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  
   notes: ementário ANTT (atos recentes)
 
+- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  
+  notes: filtro cargas (SUFIS/SUROC + keywords)
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  

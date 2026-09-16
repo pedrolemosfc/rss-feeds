@@ -424,6 +424,11 @@
       "name": "antt-ementario",
       "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
       "output": "feeds/antt-ementario.xml"
+    },
+    {
+      "name": "antt-cargas-rodoviarias",
+      "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+      "output": "feeds/antt-cargas-rodoviarias.xml"
     }
   ],
   "venue_impossible": [

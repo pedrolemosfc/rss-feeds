@@ -1938,6 +1938,40 @@ def scrape_antt_ementario(_html: str = "", _base: str = "") -> List[Dict[str, An
     return sort_items(dedupe_items(items))[:100]
 
 
+
+def scrape_antt_cargas_rodoviarias(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """ANTTlegis subset: road freight (cargas) — SUFIS/SUROC + keyword hits."""
+    # Reuse ementário scrape then filter.
+    all_items = scrape_antt_ementario()
+    kw = re.compile(
+        r"rntrc|"
+        r"transportadores?\s+rodovi[aá]rios?\s+de\s+cargas?|"
+        r"transporte\s+rodovi[aá]rio\s+(?:internacional\s+)?de\s+cargas?|"
+        r"operador(?:a|es)?\s+de\s+transporte\s+multimodal|\botm\b|"
+        r"\bciot\b|\bpef\b|vale-?ped[aá]gio|"
+        r"pisos?\s+m[ií]nimos?|"
+        r"seguro\s+de\s+responsabilidade\s+civil\s+do\s+transportador|"
+        r"produtos\s+perigosos|"
+        r"registro\s+nacional\s+de\s+transportadores\s+rodovi",
+        re.I,
+    )
+    kept: List[Dict[str, Any]] = []
+    for it in all_items:
+        link = it.get("link") or ""
+        title = it.get("title") or ""
+        desc = it.get("description") or ""
+        blob = f"{title} {desc} {link}"
+        org = ""
+        m = re.search(r"[?&]orgao=([^&]+)", link)
+        if m:
+            org = urllib.parse.unquote_plus(m.group(1)).upper()
+        by_org = ("SUFIS" in org) or ("SUROC" in org)
+        by_kw = bool(kw.search(blob))
+        if by_org or by_kw:
+            kept.append(it)
+    return sort_items(dedupe_items(kept))[:80]
+
+
 def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     """Café Brasil Premium via Inertia /app/busca (paginated; sort client-side)."""
     headers = {
@@ -2388,6 +2422,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "ANTTlegis — Ementário",
         "description": "Atos publicados recentemente no ementário da ANTT (Decisões, Portarias, etc.)",
         "scraper": scrape_antt_ementario,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "antt-cargas-rodoviarias",
+        "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+        "output": "antt-cargas-rodoviarias.xml",
+        "title": "ANTT — Transporte rodoviário de cargas",
+        "description": "Atos do ementário ANTT ligados a transporte rodoviário de cargas (SUFIS/SUROC e palavras-chave como RNTRC, OTM, etc.)",
+        "scraper": scrape_antt_cargas_rodoviarias,
         "skip_fetch": True,
         "language": "pt-BR",
     },
