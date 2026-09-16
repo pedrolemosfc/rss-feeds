@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 16 Sep 2026 04:50:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 11:33:09 +0000</lastBuildDate>
+<item>
+<title>v1.111.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11110</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11110</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<description>Inbox: Improve triage experience; Improve property filter selection in the Card Library by showing relevant properties based on your tag filters.; Improve spell-check language selection on Windows.</description>
+</item>
 <item>
 <title>v1.110.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11100</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1842</guid>
 <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
 <description>Optimize Zotero syncing performance.; Fix the issue that keyboard shortcuts were not working on a source card popup.; Fix the issue that some highlights were missing in Highlight App.</description>
-</item>
-<item>
-<title>v1.84.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1841</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1841</guid>
-<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-<description>Able to switch between split, code, and preview modes for Mermaid blocks.; Preserve the media alignment preference for pasting images and videos.; Improve Zotero syncing stability.; Fix the issue that the app may crash when the user disconnects and deletes all imported Zotero data.; Fix the issue that notes could be missing when syncing Zotero image annotations.; Fix the issue that some cards are not shown in the result of Card Library.</description>
 </item>
 </channel>
 </rss>

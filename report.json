@@ -459,9 +459,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -497,7 +497,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
