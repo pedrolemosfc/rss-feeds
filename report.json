@@ -177,6 +177,15 @@
     "kind": "native-mirror"
   },
   {
+    "name": "ens-acontece",
+    "source_url": "https://acontece.ens.edu.br/feed/",
+    "output": "feeds/ens-acontece.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
     "name": "nubank-parque-shows",
     "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
     "output": "feeds/nubank-parque-shows.xml",
@@ -261,9 +270,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -441,9 +450,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 13,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 13 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -606,6 +615,42 @@
     "items": 76,
     "ok": true,
     "notes": "scraped 76 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "antt-ementario",
+    "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+    "output": "feeds/antt-ementario.xml",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "antt-cargas-rodoviarias",
+    "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
+    "output": "feeds/antt-cargas-rodoviarias.xml",
+    "items": 9,
+    "ok": true,
+    "notes": "scraped 9 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "antt-noticias",
+    "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
+    "output": "feeds/antt-noticias.xml",
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "sest-senat",
+    "source_url": "https://www.sestsenat.org.br/noticias",
+    "output": "feeds/sest-senat.xml",
+    "items": 40,
+    "ok": true,
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   }
 ]

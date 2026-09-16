@@ -179,6 +179,11 @@
       "output": "feeds/recall-changelog.xml"
     },
     {
+      "name": "ens-acontece",
+      "source_url": "https://acontece.ens.edu.br/feed/",
+      "output": "feeds/ens-acontece.xml"
+    },
+    {
       "name": "nubank-parque-shows",
       "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
       "output": "feeds/nubank-parque-shows.xml"
@@ -217,16 +222,6 @@
       "name": "concerto",
       "source_url": "https://concerto.com.br/rss.xml",
       "output": "feeds/concerto.xml"
-    },
-    {
-      "name": "ens-acontece",
-      "ok": true,
-      "items": 10,
-      "output": "feeds/ens-acontece.xml",
-      "source_url": "https://acontece.ens.edu.br/feed/",
-      "notes": "mirrored 10 native items",
-      "kind": "native-mirror",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/ens-acontece.xml"
     }
   ],
   "venue_scraped_feeds": [
@@ -442,23 +437,13 @@
     },
     {
       "name": "antt-noticias",
-      "ok": true,
-      "items": 30,
-      "output": "feeds/antt-noticias.xml",
       "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
-      "notes": "scraped 30 events",
-      "kind": "venue-scrape",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/antt-noticias.xml"
+      "output": "feeds/antt-noticias.xml"
     },
     {
       "name": "sest-senat",
-      "ok": true,
-      "items": 40,
-      "output": "feeds/sest-senat.xml",
       "source_url": "https://www.sestsenat.org.br/noticias",
-      "notes": "scraped 40 events",
-      "kind": "venue-scrape",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/sest-senat.xml"
+      "output": "feeds/sest-senat.xml"
     }
   ],
   "venue_impossible": [

@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-16 11:33 UTC
+Generated: 2026-09-16 16:57 UTC
 
 ## Native feeds (not scraped)
 
@@ -58,6 +58,8 @@ Generated: 2026-09-16 11:33 UTC
   notes: scraped 100 items
 - **recall-changelog** [OK] items=10 → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
   notes: mirrored 10 native items
+- **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
+  notes: mirrored 10 native items
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
@@ -76,8 +78,8 @@ Generated: 2026-09-16 11:33 UTC
   notes: mirrored 10 native items
 - **teatro-bradesco** [OK] items=59 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
   notes: scraped 59 events
-- **vibra-sp** [OK] items=25 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
-  notes: scraped 25 events
+- **vibra-sp** [OK] items=24 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
+  notes: scraped 24 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
@@ -116,8 +118,8 @@ Generated: 2026-09-16 11:33 UTC
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=27 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 27 events
-- **manifesto-bar** [OK] items=13 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
-  notes: scraped 13 events
+- **manifesto-bar** [OK] items=16 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
+  notes: scraped 16 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
@@ -154,22 +156,16 @@ Generated: 2026-09-16 11:33 UTC
   notes: scraped 40 events
 - **colossus** [OK] items=76 → `feeds/colossus.xml`  source: https://colossus.com/  
   notes: scraped 76 events
-
-- **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  
-  notes: ementário ANTT (atos recentes)
-
-- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  
-  notes: filtro cargas (SUFIS/SUROC + keywords)
-
-## Combined feeds
-
+- **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 50 events
+- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 9 events
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
-
-- **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
-  notes: mirrored 10 native items (SSL insecure on origin)
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
+
+## Combined feeds
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
