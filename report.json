@@ -630,9 +630,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 9,
+    "items": 2,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 2 events",
     "kind": "venue-scrape"
   },
   {
