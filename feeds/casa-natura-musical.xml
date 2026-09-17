@@ -12,13 +12,13 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Thu, 17 Sep 2026 17:00:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Sep 2026 21:22:15 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<generator>https://wordpress.org/?v=7.0.5</generator>
 
 <image>
 	<url>https://casanaturamusical.com.br/wp-content/uploads/2026/02/cropped-cropped-casa-natura-musical-32x32.jpg</url>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Agnes Nunes</title>
+		<link>https://casanaturamusical.com.br/eventos/agnes-nunes-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=agnes-nunes-2</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17170</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>UANA</title>
+		<link>https://casanaturamusical.com.br/eventos/uana/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uana</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 20:50:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17166</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Rashid</title>
 		<link>https://casanaturamusical.com.br/eventos/rashid/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rashid</link>
 		
@@ -132,34 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17115</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Planta e Raiz</title>
-		<link>https://casanaturamusical.com.br/eventos/planta-e-raiz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=planta-e-raiz</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 20:58:37 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17109</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Rodrigo Barba</title>
-		<link>https://casanaturamusical.com.br/eventos/rodrigo-barba-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rodrigo-barba-2</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17105</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

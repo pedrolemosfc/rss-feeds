@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 17 Sep 2026 17:00:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:22:16 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=D_m0r3IIipL9HE9gAQN_B2qMwkgQn5cSzWhTIcoGfDM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=_LthEYjVJziWP1mh2Lt_42h-yBlbeYxWP_fkjrJ-qJU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;535&lt;/span&gt;
@@ -82,173 +82,22 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>João Carlos Martins recebe a Orquestra Criança Cidadã no Teatro B32</title>
-  <link>http://concerto.com.br/noticias/musica-classica/joao-carlos-martins-recebe-orquestra-crianca-cidada-no-teatro-b32</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;João Carlos Martins recebe a Orquestra Criança Cidadã no Teatro B32&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 19, a Bachiana Filarmônica convida a Orquestra Criança Cidadã para um concerto conjunto no Teatro B32, em São Paulo. Sob regência de João Carlos Martins, o programa é dedicado à música brasileira e às trilhas sonoras de filmes. &lt;/p&gt;
-&lt;p&gt;Os jovens da Unidade Ipojuca da Orquestra Criança Cidadã abrem o concerto. Criado em 2006, no Recife, o projeto fornece educação musical no contraturno escolar para 400 crianças e adolescentes de comunidades carentes. Os músicos executam o primeiro movimento da suíte &lt;em&gt;Sem Lei, Nem Rei&lt;/em&gt;, do compositor pernambucano Capiba. A violinista Lara Peures sobe ao palco para o solo em Carinhoso, de Pixinguinha, com arranjo do maestro Cussy de Almeida.&lt;/p&gt;
-&lt;p&gt;A Bachiana Filarmônica SESI-SP assume a segunda parte do concertto. A orquestra convida o tenor Jean William, revelado por Martins, e o violinista Pepe Salazar e executa obras de Bach, Mozart e Shostakovich. Em seguida, Martins interpreta trilhas sonoras do cinema ao piano, com destaque para Adiós Nonino, de Astor Piazzolla, Cinema Paradiso, de Ennio Morricone, entre outras.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-09-19"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Jovens da Unidade Ipojuca da Orquestra Criança Cidadã [DIvulgação]" data-entity-type="file" data-entity-uuid="4b713658-24c3-489f-a416-83e5f6fa7678" src="http://concerto.com.br/sites/default/files/inline-images/W-ORCC.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 23:50&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/W-ORCC.jpeg" width="900" height="506" alt="Jovens da Unidade Ipojuca da Orquestra Criança Cidadã [DIvulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4ODQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=KioxQFXMuJqplh55ciwzKaVG4Hsuj-UDjOjYJme_2qc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 16 Sep 2026 23:50:41 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282884 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Ópera 'Don Carlo', de Verdi, compõe a programação de 115 anos do Theatro Municipal de São Paulo</title>
-  <link>http://concerto.com.br/noticias/opera/opera-don-carlo-de-verdi-compoe-programacao-de-115-anos-do-theatro-municipal-de-sao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera 'Don Carlo', de Verdi, compõe a programação de 115 anos do Theatro Municipal de São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na sexta-feira, 18, a Orquestra Sinfônica Municipal e o Coro Lírico Municipal interpretam a ópera &lt;em&gt;Don Carlo&lt;/em&gt;, de Verdi, no Theatro Municipal de São Paulo. Roberto Minczuk é diretor musical e Caetano Vilela é diretor cênico. Récitas ocorrem nos dias 19, 20, 22, 23, 25 e 26.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Don Carlo&lt;/em&gt; atravessa dramas familiares e intrigas políticas em cinco atos. Carlos, herdeiro ao trono espanhol, ama a princesa da França Elisabetta di Valois, que o corresponde, mas deve se casar com o rei Filipe II, pai de Carlos, para manter a paz entre os países. No mesmo período, o protagonista, motivado pelo Marquês de Posa, exige do pai a libertação do povo de Flandres. Postos os conflitos familiares, surge o Grande Inquisidor, representante da Igreja Católica, que aconselha Filipe a eliminar o filho rebelde.&lt;/p&gt;
-&lt;p&gt;O enredo é inspirado na Espanha do século XVI. O absolutismo espanhol foi marcado pela vigilância da Inquisição e pela escravização, tortura e morte dos que fossem contrários ao domínio da Igreja e da coroa. O poder da Inquisição também incidia sobre Flandres, região que hoje corresponde ao norte da Bélgica. As tensões do período motivaram o escritor Friedrich Schiller a escrever a peça teatral&lt;em&gt; Don Karlos, Infant von Spanien (Dom Carlos, Infante da Espanha)&lt;/em&gt;, de 1787, base da ópera de Verdi, de 1867.&lt;/p&gt;
-&lt;p&gt;A cenografia de Caetano Vilela também recupera a obra de Schiller. 'Foi a peça que me deu a ideia da concepção visual da ópera; um espaço onde paira um clima de opressão cercado por paredes pintadas num estilo expressionista abstrato que remetem à tradição do action painting – especialmente pela escala monumental e pelo gesto corporal envolvido na execução de alto contraste (preto, branco e cinza). No conjunto monocromático, as formas sugerem uma paisagem abstrata, mas elas ganham diferentes sentidos com a iluminação que as transforma a cada mudança de ambiente', comenta, em material de divulgação.&lt;/p&gt;
-&lt;p&gt;Atalla Ayan e Matheus Pompeu interpretam Don Carlo e Ailyn Pérez e Ludmilla Bauerfeldt vivem Elisabetta di Valois. Luiz-Ottavio Faria e Savio Sperandio assumem o papel de Filipe II e Paulo Szot e Michel de Souza encenam como Marquês de Posa.&lt;/p&gt;
-&lt;p&gt;Veja&lt;u&gt; &lt;a href="https://www.concerto.com.br/roteiros/2026-09-18"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/vikingur-olafsson-substitui-daniil-trifonov-em-turne-da-filarmonica-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Víkingur Ólafsson substitui Daniil Trifonov em turnê da Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/riccardo-muti-critica-governo-italiano-por-estado-da-casa-de-giuseppe-verdi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Riccardo Muti critica governo italiano por estado da casa de Giuseppe Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/sao-paulo-chamber-soloists-fara-concertos-em-medellin-e-bogota-na-colombia" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Chamber Soloists fará concertos em Medellín e Bogotá, na Colômbia &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="'Don Carlo', de Verdi [ Divulgação/ Larissa Paz]" data-entity-type="file" data-entity-uuid="7df5c705-1409-48ff-a341-e43f34593e8e" src="http://concerto.com.br/sites/default/files/inline-images/w-doncarlo.jpeg" /&gt;
-&lt;figcaption&gt;&lt;em&gt;Don Carlo&lt;/em&gt;, de Verdi [ Divulgação/ Larissa Paz]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 23:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-doncarlo.jpeg" width="2048" height="1269" alt="'Don Carlo', de Verdi [ Divulgação/ Larissa Paz]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4ODMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Ql-lWC4R4SYIEo2f9ga-uYoSfrrt0OkvAaD2_Q4hqMU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 16 Sep 2026 23:37:55 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282883 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica de Sorocaba</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-de-sorocaba-177</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Sorocaba&lt;/span&gt;
+  <title>Orquestra de Sopros de Novo Hamburgo e Grupo Mas Bah</title>
+  <link>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-e-grupo-mas-bah</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Sopros de Novo Hamburgo e Grupo Mas Bah&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 19:56&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 20:21&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Conheça a Orquestra. Concerto didático. Vlamir Ramos - regente. Programa: temas de filmes, músicas folclóricas, clássicos infantis e obras do repertório sinfônico. A proposta é permitir que o público reconheça os diferentes timbres e compreenda como os instrumentos se relacionam na construção de uma obra musical.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto dedicado à música do Rio Grande do Sul. &lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-24T19:30:00Z" class="datetime"&gt;qui, 24/09/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-20T19:00:00Z" class="datetime"&gt;dom, 20/09/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -259,7 +108,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1421" hreflang="pt-br"&gt;Sorocaba, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1650" hreflang="pt-br"&gt;Novo Hamburgo, RS&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -280,12 +129,12 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-fundec" hreflang="und"&gt;Sala Fundec (244 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-paschoal-carlos-magno" hreflang="und"&gt;Teatro Paschoal Carlos Magno &lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada pela plataforma Megabilheteria.&lt;/div&gt;
+              &lt;div class="field__item"&gt;a partir de R$ 15. Vendas: https://www.tktr.com.br/.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -293,84 +142,26 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 16 Sep 2026 19:56:02 +0000</pubDate>
+  <pubDate>Thu, 17 Sep 2026 20:21:27 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282882 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282895 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-e-grupo-mas-bah#comments</comments>
     </item>
 <item>
-  <title>[ON-LINE] O Gênio da Música</title>
-  <link>http://concerto.com.br/roteiros/line-o-genio-da-musica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] O Gênio da Música&lt;/span&gt;
+  <title>Orquestra Visconde de Porto Seguro</title>
+  <link>http://concerto.com.br/roteiros/orquestra-visconde-de-porto-seguro-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Visconde de Porto Seguro&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 18:08&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 18:41&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Blim-Blem-Blom. A musicóloga Maria Alice Volpe conhece a grande pianista brasileira Antonietta Rudge. Participação: Guida Vianna (Antonietta) - atriz. Programa: Orquestra Petrobras Sinfônica. Roberto Tibiriçá - regente. Arnaldo Cohen - piano. Obras: Hekel Tavares - Concerto para piano e orquestra, em formas brasileiras; e Luiza de Moura Castro - piano. Villa-Lobos - O carnaval das crianças. Tim Rescala - idealização e produção. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Memória e Identidade. A música como pátria. 148 anos do Porto. José Luiz Ribalta - regente. Participação: Yuzo Akahori. Auditório Alberto Fortner.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T12:30:00Z" class="datetime"&gt;sab, 19/09/2026 - 12:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/240856" hreflang="pt-br"&gt;Rádio MEC FM&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 16 Sep 2026 18:08:02 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282880 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Cia Ballet Paraisópolis</title>
-  <link>http://concerto.com.br/roteiros/cia-ballet-paraisopolis-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cia Ballet Paraisópolis&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 17:58&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Monica Tarragó - direção geral. Jum Nakao - direção de criação. Christian Casarin - codireção artística. Espetáculo Raymonda, coreografia de Weverton Aguiar. Música de Alexander Glazunov. Espetáculo Desiderium, coreografia de Thiago Bordin. Música: Beethoven - Concerto para piano nº 5 op. 73 (2ºmovimento. Quando Sou Muitos (estreia), coreografia de Christian Casarin. Trilha original de Fernando Dalla Nora.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-30T20:00:00Z" class="datetime"&gt;qua, 30/09/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T19:00:00Z" class="datetime"&gt;sab, 19/09/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -402,12 +193,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-sergio-cardoso" hreflang="und"&gt;Teatro Sérgio Cardoso (856 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada na bilheteria do teatro a partir das 19h, uma hora antes da apresentação.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/colegio-visconde-de-porto-seguro-unidade-i" hreflang="und"&gt;Colégio Visconde de Porto Seguro – Unidade Morumbi (590 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -415,25 +201,89 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 16 Sep 2026 17:58:36 +0000</pubDate>
+  <pubDate>Thu, 17 Sep 2026 18:41:09 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282879 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282894 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Santuário Santa Rita de Cássia</title>
-  <link>http://concerto.com.br/node/282876</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Santuário Santa Rita de Cássia&lt;/span&gt;
+  <title>Solistas da Ópera Nacional da China</title>
+  <link>http://concerto.com.br/roteiros/solistas-da-opera-nacional-da-china</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Solistas da Ópera Nacional da China&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 18:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Gala de Ópera da China. Projeto Ano da Cultura Brasil-China 2026: Uma História de Amizade. Qiu Lanxi - piano, Cai Nan, Hao Fei e Qin Kanru - sopranos, Sun Yilong e Wang Kaibo - tenores, Liu Yingying - mezzo soprano, Geng Zhe e Zhao Yiluan - barítonos e Sun Lidong - baixo. Programa: Rossini - O barbeiro de Sevilha; Mozart - A flauta mágica; Bizet - Carmen. Bellini - Os puritanos; J. Strauss - O morcego; Verdi Rigoleto; Puccini - Tosca e Turandot; Jacques Offenbach - Os contos de Hoffmann; Luan Kai - Yimeng Mountain.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-27T12:00:00Z" class="datetime"&gt;dom, 27/09/2026 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no site Sesc.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 17 Sep 2026 18:01:38 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282893 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Teatro Municipal de Inhumas</title>
+  <link>http://concerto.com.br/node/282891</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Municipal de Inhumas&lt;/span&gt;
 
   &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Av. Maj. Alfredo Camargo Fonseca, 399 – Cidade Nova I - Tel. (19) 3875-3014 - https://www.instagram.com/santaritaindaia/?hl=pt&lt;/div&gt;
+              &lt;div class="field__item"&gt;Av. Wilson Quirino de Andrade, nº 450 – Centro - Tel. 62) 3511-2121&lt;/div&gt;
           &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 15:52&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 14:37&lt;/span&gt;
 
   &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Indaiatuba, SP&lt;/div&gt;
+              &lt;div class="field__item"&gt;Inhumas, GO&lt;/div&gt;
           &lt;/div&gt;
 &lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
@@ -442,25 +292,26 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
   
 &lt;/section&gt;
 </description>
-  <pubDate>Wed, 16 Sep 2026 15:52:11 +0000</pubDate>
+  <pubDate>Thu, 17 Sep 2026 14:37:14 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282876 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282891 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Guarany</title>
-  <link>http://concerto.com.br/roteiros/orquestra-guarany-4</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Guarany&lt;/span&gt;
+  <title>Sonia Ray - contrabaixo</title>
+  <link>http://concerto.com.br/roteiros/sonia-ray-contrabaixo-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sonia Ray - contrabaixo&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 15:48&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 14:36&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entre Solos. Natália Larangeira - regente. Rafael Venâncio e Ana Venâncio - trompas, Isaque Choba - viola, Samuel Choba - violoncelo e Fábio Pereira - clarinete. Programa: Brahms - Abertura Acadêmica Festiva e Intermezzo nº 2: Black Swan; Telemann - Suíte para 2 trompas, cordas e cravo; Vivaldi - Concerto para viola, violoncelo e cordas RV 531; Mozart - Concerto para clarinete em lá maior: 1º movimento; e Sibelius - Finlandia. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Movimento Grave. Programa: obras de Estércio Marquez Cunha.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T20:00:00Z" class="datetime"&gt;sab, 19/09/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-19T19:00:00Z" class="datetime"&gt;sab, 19/09/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -471,7 +322,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1435" hreflang="pt-br"&gt;Indaiatuba, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3467" hreflang="pt-br"&gt;Inhumas, GO&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -492,7 +343,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282876" hreflang="pt-br"&gt;Santuário Santa Rita de Cássia&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282891" hreflang="pt-br"&gt;Teatro Municipal de Inhumas&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -505,26 +356,59 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 16 Sep 2026 15:48:47 +0000</pubDate>
+  <pubDate>Thu, 17 Sep 2026 14:36:26 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282877 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282892 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>XVI BIMESP 2026 – Bienal Internacional de Música Eletroacústica de São Paulo</title>
-  <link>http://concerto.com.br/roteiros/xvi-bimesp-2026-bienal-internacional-de-musica-eletroacustica-de-sao-paulo-18</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;XVI BIMESP 2026 – Bienal Internacional de Música Eletroacústica de São Paulo&lt;/span&gt;
+  <title>Centro Municipal de Artes e Música- Ita e Alaor</title>
+  <link>http://concerto.com.br/node/282889</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centro Municipal de Artes e Música- Ita e Alaor&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua da Prata, 14 - Centro - Tel. (62) 3331-3440 - https://www.instagram.com/centrodeartes.pirenopolis/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 16/09/2026 - 15:46&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 14:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Pirenópolis, GO&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Thu, 17 Sep 2026 14:33:02 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282889 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Sonia Ray - contrabaixo</title>
+  <link>http://concerto.com.br/roteiros/sonia-ray-contrabaixo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sonia Ray - contrabaixo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 14:30&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;30 anos. Sala de Escuta: François Bayle. Curadoria: François Bayle. Programa: Jeita ou Murmure des eaux- Integral movimentos de 1 a 17; Le Projet «Ouïr»: Integral: movimentos de 1 a 5. Estúdio A (Principal) do Studio PANaroma. Continuidade até dia 16.&lt;br /&gt;
+              &lt;div class="field__item"&gt;Movimento Grave. Programa: obras de Estércio Marquez Cunha. &lt;br /&gt;
+&lt;br /&gt;
 &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 19 às 19h em em Inhumas, Go.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-15T14:00:00Z" class="datetime"&gt;qui, 15/10/2026 - 14:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T20:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -535,7 +419,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3466" hreflang="pt-br"&gt;Pirenópolis, GO&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -556,7 +440,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-de-artes-da-unesp-barra-funda" hreflang="und"&gt;Instituto de Artes da Unesp &lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282889" hreflang="pt-br"&gt;Centro Municipal de Artes e Música- Ita e Alaor&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -569,9 +453,88 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 16 Sep 2026 15:46:37 +0000</pubDate>
+  <pubDate>Thu, 17 Sep 2026 14:30:40 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282875 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">282890 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Final do Prêmio Citi 2026 revela vencedores</title>
+  <link>http://concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Cinco jovens músicos foram contemplados com o prêmio de R$ 150 mil; vencedores se apresentam hoje (quinta-feira dia 17) em concerto de premiação no Teatro Cultura Artística &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Após a etapa final, realizada ontem dia 16 no Teatro Cultura Artística, o Prêmio Citi – Jovens Talentos da Música, maior premiação da música clássica brasileira, anunciou os cinco vencedores. Os premiados desta edição são a flautista Gabriela Taveira Grande, o pianista Jordan Alexander, o clarinetista Leonam Henrique Reis da Silva, o violoncelista Rafael Honório Sobrinho e o saxofonista Samuel Alves de Oliveira. Cada um deles receberá um prêmio de R$ 150 mil para estudos no exterior.&lt;/p&gt;
+&lt;p&gt;A flautista Gabriela Taveira Grande, de 21 anos, estudou com Rogério Wolff, Renan Dias Mendes e com Sarah Hornby na Unesp, e tem como projeto a continuidade de seu bacharelado no Conservatório de Trento, com a professora Jessica Dalsant. Já o pianista Jordan Alexander, de 24 anos, formado pela USP e ex-bolsista do Cultura Artística, vai dar sequência ao seu mestrado na Universidade de Zurique, com Konstantin Scherbakov.&lt;/p&gt;
+&lt;p&gt;O clarinetista Leonam Henrique Reis da Silva, de 26 anos, bacharel pela Unicamp e vencedor do Prêmio Ernani de Almeida Machado, seguirá seus estudos com Laura Ruiz Ferreres na Escola Superior de Música de Frankfurt. O violoncelista Rafael Honório Sobrinho, de 28 anos, formado pela UFRGS e integrante da Orquestra Sinfônica de Porto Alegre, irá fazer seu mestrado no Mozarteum de Salzburg sob orientação de Matthias Bartolomey.&lt;/p&gt;
+&lt;p&gt;O quinto contemplado pelo Prêmio Citi é o saxofonista Samuel Alves de Oliveira, de 24 anos. Formado pela Emesp e bolsista do Cultura Artística, Samuel, que já venceu o Prelúdio e o Prêmio Eleazar de Carvalho, ingressará no bacharelado do Conservatório Superior de Música de Múrcia, na Espanha, com os professores David Pons Grau e Antonio García Jorge.&lt;/p&gt;
+&lt;p&gt;A final do Prêmio Citi teve onze concorrentes, que foram avaliados pela banca formada por Lidia Bazarian, Sonia Ray e Nelson Rubens Kunze. O certame é uma iniciativa do Cultura Artística em parceria com o Citi para impulsionar a carreira de cantores e instrumentistas brasileiros no exterior.&lt;/p&gt;
+&lt;p&gt;Hoje, quinta-feira dia 17, às 20h, os cinco contemplados se apresentarão em um concerto de premiação no Teatro Cultura Artística, interpretando o mesmo repertório da final. A entrada é franca.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" data-entity-type="file" data-entity-uuid="13ffe45a-be37-42ba-808e-f5c6b89f7e9b" src="http://concerto.com.br/sites/default/files/inline-images/w-PremioCiti_2026.jpg" /&gt;
+&lt;figcaption&gt;Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 08:47&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-PremioCiti_2026.jpg" width="900" height="595" alt="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" title="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3371" hreflang="pt-br"&gt;Prêmio Citi&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4ODciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=fS0vznQW-UXsPsknK1KTG760vszakKdTov9I54z4V-U?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 17 Sep 2026 08:47:33 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282887 at http://concerto.com.br</guid>
     </item>
 
   </channel>

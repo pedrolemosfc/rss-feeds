@@ -270,9 +270,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 24,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -324,9 +324,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 30,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 30 events",
+    "notes": "scraped 31 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 48,
+    "items": 61,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 61 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -603,9 +603,9 @@
     "name": "cnseg-noticias",
     "source_url": "https://cnseg.org.br/noticias",
     "output": "feeds/cnseg-noticias.xml",
-    "items": 40,
-    "ok": true,
-    "notes": "scraped 40 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
