@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 79,
+    "items": 80,
     "ok": true,
-    "notes": "scraped 79 items"
+    "notes": "scraped 80 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 175,
+    "items": 176,
     "ok": true,
-    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 176 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -297,9 +297,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 11,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -378,9 +378,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 18,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 52,
+    "items": 48,
     "ok": true,
-    "notes": "scraped 52 events",
+    "notes": "scraped 48 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -522,9 +522,9 @@
     "name": "farol-conde-arena",
     "source_url": "https://farmacondearena.com.br/agenda",
     "output": "feeds/farol-conde-arena.xml",
-    "items": 6,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -639,9 +639,9 @@
     "name": "antt-noticias",
     "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
     "output": "feeds/antt-noticias.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
