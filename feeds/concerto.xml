@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 17 Sep 2026 21:22:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:42:57 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=_LthEYjVJziWP1mh2Lt_42h-yBlbeYxWP_fkjrJ-qJU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=ScRH57NXGeNhdz2tlabZnagexG9cqffFx2tHRpzE6M8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;535&lt;/span&gt;
@@ -80,6 +80,162 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title> Orquestra Sinfônica do Paraná toca obras de Dvořák e Saint-Saëns</title>
+  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-do-parana-toca-obras-de-dvorak-e-saint-saens</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; Orquestra Sinfônica do Paraná toca obras de Dvořák e Saint-Saëns&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No domingo, 20, a Orquestra Sinfônica do Paraná toca no Centro Cultural Teatro Guaíra, em Curitiba. Sob regência de Roberto Ramos, a orquestra recebe o violoncelista Lucas Barros e o organista José Luís de Aquino para o &lt;em&gt;Concerto para violoncelo &lt;/em&gt;de Dvořák e para a &lt;em&gt;Sinfonia nº 3&lt;/em&gt;, &lt;em&gt;‘Órgão&lt;/em&gt;’, de Saint-Saëns.&lt;/p&gt;
+&lt;p&gt;Dvořák compôs o &lt;em&gt;Concerto para violoncelo&lt;/em&gt; no final de sua estadia nos Estados Unidos. Em 1894, o compositor atuava como diretor do Conservatório Nacional de Música da América, quando recebeu a notícia de que sua cunhada, Josefina, sofria com problemas de saúde. Para homenageá-la, Dvořák inseriu citações de &lt;em&gt;Leave me alone&lt;/em&gt; na seção central do segundo movimento, composição querida por Josefina, que integra, originalmente, o ciclo &lt;em&gt;Quatro canções&lt;/em&gt;. O solista, Roberto Ramos, é o violoncelista principal da Filarmônica de Minas Gerais, onde atua desde 2017.&lt;/p&gt;
+&lt;p&gt;Saint-Saëns expõe sua face experimental na &lt;em&gt;Sinfonia nº 3&lt;/em&gt;. Inspirado pelo estilo de Liszt, o compositor condensa as ideias dos quatro movimentos das sinfonias tradicionais em duas seções. Apenas na segunda metade da obra, o órgão aparece, marcando presença em um acorde de dó maior, executado por José Luís de Aquino, professor do Departamento de Música da Escola de Comunicações e Artes da USP desde 2002.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-20"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/nova-montagem-de-don-carlo-de-verdi-estreia-no-theatro-municipal-de-sao-paulo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nova montagem de ‘Don Carlo’, de Verdi, estreia no Theatro Municipal de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/joao-carlos-martins-recebe-orquestra-crianca-cidada-no-teatro-b32" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;João Carlos Martins recebe a Orquestra Criança Cidadã no Teatro B32&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Lucas Barros [Reprodução/ Instagram]" data-entity-type="file" data-entity-uuid="2cc98f15-08ba-41c6-9948-4d93721c9d7a" src="http://concerto.com.br/sites/default/files/inline-images/w-lucasbarros.jpg" /&gt;
+&lt;figcaption&gt;Lucas Barros [Reprodução/ Instagram]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 22:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-lucasbarros.jpg" width="900" height="593" alt="Lucas Barros [Reprodução/ Instagram]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=WUBDsiGZ_nCWszU0sKeurDkIVTcft6j_6iJcQMx2z_Y?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 17 Sep 2026 22:43:58 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282898 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>PIanista Luiz Guilherme Pozzi faz recitais em São Paulo e Curitiba </title>
+  <link>http://concerto.com.br/noticias/musica-classica/pianista-luiz-guilherme-pozzi-faz-recitais-em-sao-paulo-e-curitiba</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PIanista Luiz Guilherme Pozzi faz recitais em São Paulo e Curitiba &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 19, o pianista Luiz Guilherme Pozzi realiza recital solo na Sociedade Brasileira de Eubiose, em São Paulo. O programa inclui obras de Schumann, Beethoven, Chopin e Prokofiev.&lt;/p&gt;
+&lt;p&gt;O pianista paranaense iniciou os estudos de piano influenciado pela irmã. Durante a adolescência em Curitiba, foi influenciado pela professora Leila Paiva a seguir carreira, o que o levou à professora Olga Kiun, na Escola de Música e Belas-Artes (Embap) e, em seguida, à orientação de Félix Gottlieb, na Alemanha. De volta ao Brasil, concluiu o pós-doutorado na USP e hoje concilia a docência e a carreira como intérprete.&lt;/p&gt;
+&lt;p&gt;Ele diz que a formação tardia contribuiu para sua abordagem como professor. “Tive que aprender no grito com a Olga, numa idade bem consciente, dezesseis, dezessete anos, cerebralizar para resolver vários problemas básicos, e isso me ajuda a ajudar. Mas a principal ocupação é a docência. Tenho vários alunos de que me orgulho.”, comenta, em entrevista à edição de setembro da Revista CONCERTO [clique&lt;a href="https://www.concerto.com.br/node/282556"&gt; &lt;u&gt;aqui&lt;/u&gt;&lt;/a&gt;; Acesso exclusivo para assinantes].&lt;/p&gt;
+&lt;p&gt;O programa inclui a Sonata nº 7 de Prokofiev, que ocupa um lugar especial na trajetória do pianista. Em 2002, Pozzi executou-a em uma masterclass ministrada por Stephen Kovacevich, na Sala São Paulo. Arthur Nestrovsky esteve presente no evento e publicou um texto na Folha de São Paulo, descrevendo a interpretação do então jovem de 22 anos como “furiosa”. A obra de 1942 explora a natureza percussiva do piano e reflete a tensão dos anos da Segunda Guerra Mundial e forma, junto com as sonatas&lt;em&gt; nº 6&lt;/em&gt; e &lt;em&gt;nº 7&lt;/em&gt;, o conjunto popularizado como “Sonata da Guerra”. &lt;/p&gt;
+&lt;p&gt;Pozzi também toca a “Appassionata”, de Beethoven, e a Balada nº 4, de Chopin. No dia 26, ele parte para Curitiba com o Ensemble São Paulo para interpretar o &lt;em&gt;Quinteto nº 2 em lá maior op. 81&lt;/em&gt; de Dvořák, na na galeria Artestil.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-19"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/nova-montagem-de-don-carlo-de-verdi-estreia-no-theatro-municipal-de-sao-paulo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nova montagem de ‘Don Carlo’, de Verdi, estreia no Theatro Municipal de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/joao-carlos-martins-recebe-orquestra-crianca-cidada-no-teatro-b32" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;João Carlos Martins recebe a Orquestra Criança Cidadã no Teatro B32&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Luis Guilherme Pozzi [Divulgação, Cida Demarchi]" data-entity-type="file" data-entity-uuid="d7714e97-62e5-4e77-be41-ea5cbb1e3432" src="http://concerto.com.br/sites/default/files/inline-images/w-Pozzi.jpg" /&gt;
+&lt;figcaption&gt;Luiz Guilherme Pozzi [Divulgação, Cida Demarchi]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 22:25&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Pozzi.jpg" width="900" height="600" alt="Luiz Guilherme Pozzi [Divulgação, Cida Demarchi]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4OTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=0f6HQRnd20iESecpc0lhJfbP-Svh_1hzNjFvqgLE6Z0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 17 Sep 2026 22:25:01 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282897 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra de Sopros de Novo Hamburgo e Grupo Mas Bah</title>
@@ -145,7 +301,6 @@
   <pubDate>Thu, 17 Sep 2026 20:21:27 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282895 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-e-grupo-mas-bah#comments</comments>
     </item>
 <item>
   <title>Orquestra Visconde de Porto Seguro</title>
@@ -386,155 +541,6 @@
   <pubDate>Thu, 17 Sep 2026 14:33:02 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282889 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Sonia Ray - contrabaixo</title>
-  <link>http://concerto.com.br/roteiros/sonia-ray-contrabaixo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sonia Ray - contrabaixo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 14:30&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Movimento Grave. Programa: obras de Estércio Marquez Cunha. &lt;br /&gt;
-&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 19 às 19h em em Inhumas, Go.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-18T20:00:00Z" class="datetime"&gt;sex, 18/09/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3466" hreflang="pt-br"&gt;Pirenópolis, GO&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282889" hreflang="pt-br"&gt;Centro Municipal de Artes e Música- Ita e Alaor&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 17 Sep 2026 14:30:40 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282890 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Final do Prêmio Citi 2026 revela vencedores</title>
-  <link>http://concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Cinco jovens músicos foram contemplados com o prêmio de R$ 150 mil; vencedores se apresentam hoje (quinta-feira dia 17) em concerto de premiação no Teatro Cultura Artística &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Após a etapa final, realizada ontem dia 16 no Teatro Cultura Artística, o Prêmio Citi – Jovens Talentos da Música, maior premiação da música clássica brasileira, anunciou os cinco vencedores. Os premiados desta edição são a flautista Gabriela Taveira Grande, o pianista Jordan Alexander, o clarinetista Leonam Henrique Reis da Silva, o violoncelista Rafael Honório Sobrinho e o saxofonista Samuel Alves de Oliveira. Cada um deles receberá um prêmio de R$ 150 mil para estudos no exterior.&lt;/p&gt;
-&lt;p&gt;A flautista Gabriela Taveira Grande, de 21 anos, estudou com Rogério Wolff, Renan Dias Mendes e com Sarah Hornby na Unesp, e tem como projeto a continuidade de seu bacharelado no Conservatório de Trento, com a professora Jessica Dalsant. Já o pianista Jordan Alexander, de 24 anos, formado pela USP e ex-bolsista do Cultura Artística, vai dar sequência ao seu mestrado na Universidade de Zurique, com Konstantin Scherbakov.&lt;/p&gt;
-&lt;p&gt;O clarinetista Leonam Henrique Reis da Silva, de 26 anos, bacharel pela Unicamp e vencedor do Prêmio Ernani de Almeida Machado, seguirá seus estudos com Laura Ruiz Ferreres na Escola Superior de Música de Frankfurt. O violoncelista Rafael Honório Sobrinho, de 28 anos, formado pela UFRGS e integrante da Orquestra Sinfônica de Porto Alegre, irá fazer seu mestrado no Mozarteum de Salzburg sob orientação de Matthias Bartolomey.&lt;/p&gt;
-&lt;p&gt;O quinto contemplado pelo Prêmio Citi é o saxofonista Samuel Alves de Oliveira, de 24 anos. Formado pela Emesp e bolsista do Cultura Artística, Samuel, que já venceu o Prelúdio e o Prêmio Eleazar de Carvalho, ingressará no bacharelado do Conservatório Superior de Música de Múrcia, na Espanha, com os professores David Pons Grau e Antonio García Jorge.&lt;/p&gt;
-&lt;p&gt;A final do Prêmio Citi teve onze concorrentes, que foram avaliados pela banca formada por Lidia Bazarian, Sonia Ray e Nelson Rubens Kunze. O certame é uma iniciativa do Cultura Artística em parceria com o Citi para impulsionar a carreira de cantores e instrumentistas brasileiros no exterior.&lt;/p&gt;
-&lt;p&gt;Hoje, quinta-feira dia 17, às 20h, os cinco contemplados se apresentarão em um concerto de premiação no Teatro Cultura Artística, interpretando o mesmo repertório da final. A entrada é franca.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" data-entity-type="file" data-entity-uuid="13ffe45a-be37-42ba-808e-f5c6b89f7e9b" src="http://concerto.com.br/sites/default/files/inline-images/w-PremioCiti_2026.jpg" /&gt;
-&lt;figcaption&gt;Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 17/09/2026 - 08:47&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-PremioCiti_2026.jpg" width="900" height="595" alt="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" title="Leonam, Gabriela, Jordan, Samuel e Rafael são os contemplados pelo Prêmio Citi 2026 (Revista CONCERTO)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3371" hreflang="pt-br"&gt;Prêmio Citi&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI4ODciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=fS0vznQW-UXsPsknK1KTG760vszakKdTov9I54z4V-U?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 17 Sep 2026 08:47:33 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282887 at http://concerto.com.br</guid>
     </item>
 
   </channel>

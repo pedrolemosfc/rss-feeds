@@ -261,9 +261,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 59,
+    "items": 58,
     "ok": true,
-    "notes": "scraped 59 events",
+    "notes": "scraped 58 events",
     "kind": "venue-scrape"
   },
   {
@@ -315,18 +315,18 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 3,
+    "items": 4,
     "ok": true,
-    "notes": "scraped 3 events",
+    "notes": "scraped 4 events",
     "kind": "venue-scrape"
   },
   {
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 31,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 31 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 61,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 61 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -441,18 +441,18 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -621,9 +621,9 @@
     "name": "antt-ementario",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-ementario.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
