@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-18 16:26 UTC
+Generated: 2026-09-18 20:57 UTC
 
 ## Native feeds (not scraped)
 
@@ -38,8 +38,8 @@ Generated: 2026-09-18 16:26 UTC
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
   notes: scraped 20 items
-- **xai-news** [OK] items=81 → `out/xai-news.xml`  source: https://x.ai/news  
-  notes: scraped 81 items
+- **xai-news** [OK] items=82 → `out/xai-news.xml`  source: https://x.ai/news  
+  notes: scraped 82 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
 - **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
@@ -112,8 +112,8 @@ Generated: 2026-09-18 16:26 UTC
   notes: scraped 33 events
 - **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 11 events
-- **casa-de-francisca** [OK] items=57 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 57 events
+- **casa-de-francisca** [OK] items=59 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 59 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=27 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -131,7 +131,7 @@ Generated: 2026-09-18 16:26 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=7 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -148,8 +148,8 @@ Generated: 2026-09-18 16:26 UTC
   notes: scraped 7 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
-- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: scraped 3 events
+- **fabric-changelog** [FAIL] items=0 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: no event items found
 - **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
