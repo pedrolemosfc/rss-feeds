@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-18 11:15 UTC
+Generated: 2026-09-18 16:26 UTC
 
 ## Native feeds (not scraped)
 
@@ -26,8 +26,8 @@ Generated: 2026-09-18 11:15 UTC
   notes: scraped 56 items
 - **guia-restaurantes** [OK] items=80 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 80 items
-- **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
-  notes: scraped 96 items
+- **guia-shows** [OK] items=95 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
+  notes: scraped 95 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
@@ -44,12 +44,12 @@ Generated: 2026-09-18 11:15 UTC
   notes: scraped 15 items
 - **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
   notes: scraped 24 items
-- **page9-artes** [OK] items=18 → `out/page9-artes.xml`  source: https://page9.com/artes  
-  notes: scraped 18 items
+- **page9-artes** [OK] items=19 → `out/page9-artes.xml`  source: https://page9.com/artes  
+  notes: scraped 19 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
   notes: scraped 100 items
-- **qobuz-magazine-br** [OK] items=29 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
-  notes: scraped 29 items
+- **qobuz-magazine-br** [OK] items=30 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
+  notes: scraped 30 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
 - **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
@@ -116,8 +116,8 @@ Generated: 2026-09-18 11:15 UTC
   notes: scraped 57 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
-- **cavern-club-sp** [OK] items=26 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 26 events
+- **cavern-club-sp** [OK] items=27 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 27 events
 - **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 17 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -169,5 +169,5 @@ Generated: 2026-09-18 11:15 UTC
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=176 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 176 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])

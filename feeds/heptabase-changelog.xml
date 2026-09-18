@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:15:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:25:42 +0000</lastBuildDate>
+<item>
+<title>Mobile app v1.39.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1392</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1392</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: New quick capture</description>
+</item>
 <item>
 <title>v1.111.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11110</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13272</guid>
 <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
 <description>Fix the issue where cards do not appear in the import panel.</description>
-</item>
-<item>
-<title>v1.84.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1842</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1842</guid>
-<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-<description>Optimize Zotero syncing performance.; Fix the issue that keyboard shortcuts were not working on a source card popup.; Fix the issue that some highlights were missing in Highlight App.</description>
 </item>
 </channel>
 </rss>

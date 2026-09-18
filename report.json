@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 96,
+    "items": 95,
     "ok": true,
-    "notes": "scraped 96 items"
+    "notes": "scraped 95 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -107,9 +107,9 @@
     "name": "page9-artes",
     "source_url": "https://page9.com/artes",
     "output": "out/page9-artes.xml",
-    "items": 18,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 18 items"
+    "notes": "scraped 19 items"
   },
   {
     "name": "musicalidade",
@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 29,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 29 items"
+    "notes": "scraped 30 items"
   },
   {
     "name": "noize",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 176,
+    "items": 175,
     "ok": true,
-    "notes": "merged 2 feeds -> 176 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -441,9 +441,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 26,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
