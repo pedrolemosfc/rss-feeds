@@ -506,7 +506,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
