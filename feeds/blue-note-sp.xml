@@ -5,7 +5,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 18 Sep 2026 20:54:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:37:19 +0000</lastBuildDate>
 <item>
 <title>LEO JAIME</title>
 <link>https://bluenotesp.com/shows/leo-jaime/</link>
@@ -39,6 +39,13 @@
 <link>https://bluenotesp.com/shows/miranda-kassin/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/miranda-kassin/</guid>
 <pubDate>Tue, 08 Sep 2026 13:29:23 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>BANDA GLÓRIA</title>
+<link>https://bluenotesp.com/shows/banda-gloria/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/banda-gloria/</guid>
+<pubDate>Tue, 08 Sep 2026 13:01:41 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -102,6 +109,13 @@
 <link>https://bluenotesp.com/shows/andre-prando/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/andre-prando/</guid>
 <pubDate>Fri, 04 Sep 2026 18:40:30 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>KLEZTIVAL 2026 – YIDDISH VAUDEVILLE, CABARET E MUSICALS</title>
+<link>https://bluenotesp.com/shows/kleztival-2026/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/kleztival-2026/</guid>
+<pubDate>Thu, 03 Sep 2026 17:47:56 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -312,20 +326,6 @@
 <link>https://bluenotesp.com/shows/alegria/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/alegria/</guid>
 <pubDate>Thu, 03 Sep 2026 16:59:25 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>TRIBUTO GIPSY KINGS COM FLAVIO RODRIGUES</title>
-<link>https://bluenotesp.com/shows/gipsy-experience/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/gipsy-experience/</guid>
-<pubDate>Thu, 03 Sep 2026 16:56:54 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>MARIA ALCINA CANTA ROBERTO, ERASMO, TIM MAIA E JORGE BEN JOR</title>
-<link>https://bluenotesp.com/shows/maria-alcina-canta-roberto-erasmo-tim-maia-e-jorge-ben-jor/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/maria-alcina-canta-roberto-erasmo-tim-maia-e-jorge-ben-jor/</guid>
-<pubDate>Thu, 03 Sep 2026 16:54:18 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>

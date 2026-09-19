@@ -5,7 +5,14 @@
 <link>https://suhaimusichall.com.br/eventos/</link>
 <description>Eventos do Suhai Music Hall</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 18 Sep 2026 20:54:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:37:17 +0000</lastBuildDate>
+<item>
+<title>Criolo</title>
+<link>https://suhaimusichall.com.br/evento/criolo/</link>
+<guid isPermaLink="true">https://suhaimusichall.com.br/evento/criolo/</guid>
+<pubDate>Sat, 08 May 2027 12:00:00 +0000</pubDate>
+<description>Suhai Music Hall · 08 maio</description>
+</item>
 <item>
 <title>Louis Tomlinson</title>
 <link>https://suhaimusichall.com.br/evento/louis-tomlinson/</link>
@@ -68,13 +75,6 @@
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/helloween/</guid>
 <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 19 set</description>
-</item>
-<item>
-<title>5 Seconds of Summer</title>
-<link>https://suhaimusichall.com.br/evento/5-seconds-of-summer/</link>
-<guid isPermaLink="true">https://suhaimusichall.com.br/evento/5-seconds-of-summer/</guid>
-<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-<description>Suhai Music Hall · 18 set</description>
 </item>
 </channel>
 </rss>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 18 Sep 2026 20:54:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:37:09 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=Im3h4FmFcBDnHkmnJ7pw9Z8z-O808xUbUnvCqeCeWxk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=-I1e8Ej7WNMHyXQQ1sYmfGDkl-0gPZRsa_7XSd7B6cg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;535&lt;/span&gt;
@@ -80,6 +80,212 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Filarmônica de Buenos Aires convida Emmanuele Baldini para concerto de aniversário</title>
+  <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-buenos-aires-convida-emmanuele-baldini-para-concerto-de</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Buenos Aires convida Emmanuele Baldini para concerto de aniversário&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No domingo, 20, a Orquestra Filarmônica de Buenos Aires comemora 80 anos em concerto com Emmanuele Baldini, na Sala Principal do Teatro Colón, em Buenos Aires. O violinista rege e toca obras de Amanda Röntgen-Maier, Hummel e Mozart.&lt;/p&gt;
+&lt;p&gt;Em 1946, a primeira orquestra exclusivamente sinfônica de Buenos Aires iniciava suas atividades. O organismo, inicialmente nomeado Orquestra Sinfônica do Teatro Municipal, acompanhava balés e óperas no palco que hoje corresponde ao do Teatro San Martín, até migrar para o Teatro Colón, em 1953. Ao longo de sua história, a orquestra se apresentou pela América Latina e Europa, além de ter recebido solistas como Martha Argerich e Astor Piazzolla.&lt;/p&gt;
+&lt;p&gt;O concerto convida Baldini a atuar em diferentes frentes. Nascido na Itália, iniciou seus estudos musicais na infância e aperfeiçoou-se em Genebra com Corrado Romano e em Salzburgo e Berlim com Ruggiero Ricci. Desde 2005, atua como spalla na Orquestra Sinfônica do Estado de São Paulo. Posteriormente, passou a se dedicar à regência e, junto com ela, à direção de orquestras como a Orquestra Sinfônica de Ñuble, no Chile, e a Sphaera Mundi Orquestra, de Porto Alegre, no Rio Grande do Sul.&lt;/p&gt;
+&lt;p&gt;Como solista, ele interpreta o &lt;em&gt;Concerto para violino em ré menor&lt;/em&gt;, de Amanda Röntgen-Maier. A compositora sueca concluiu a obra em 1875, aos 22 anos de idade. Conhecida pelo talento ao violino, Röntgen-Maier também foi a responsável pela estreia da peça, no mesmo ano.&lt;/p&gt;
+&lt;p&gt;Ele também rege Fernando Ciancio, trompetista principal da filarmônica, no &lt;em&gt;Concerto para trompete em mi maior&lt;/em&gt;, de Hummel. A obra foi composta em 1803 e dedicada a Anton Weidinger, trompetista da corte vienense e criador do trompete de chaves. Diferente do antigo instrumento, que tocava apenas algumas notas, o novo instrumento permitia que o solista executasse a obra com virtuosismo incomum à época.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-20"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/nova-montagem-de-don-carlo-de-verdi-estreia-no-theatro-municipal-de-sao-paulo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nova montagem de ‘Don Carlo’, de Verdi, estreia no Theatro Municipal de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/joao-carlos-martins-recebe-orquestra-crianca-cidada-no-teatro-b32" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;João Carlos Martins recebe a Orquestra Criança Cidadã no Teatro B32&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Emmanuele Baldini [Divulgação/ Fernando Ruz]" data-entity-type="file" data-entity-uuid="f7149b5d-21be-4369-b863-c7347846420f" src="http://concerto.com.br/sites/default/files/inline-images/w-Emmanuele-Baldini.jpg" /&gt;
+&lt;figcaption&gt;Emmanuele Baldini [Divulgação/ Fernando Ruz]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 19/09/2026 - 00:15&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Emmanuele-Baldini.jpg" width="900" height="601" alt="Emmanuele Baldini [Divulgação/ Fernando Ruz]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=WVXjKLoxIkAjEuelh-ZCFXFGxv9efZZeca2dc_h5YC4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 19 Sep 2026 00:15:29 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282980 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Bach, o livro de Anna Magdalena</title>
+  <link>http://concerto.com.br/roteiros/bach-o-livro-de-anna-magdalena</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bach, o livro de Anna Magdalena&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 22:23&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Bach Society Brasil. Concerto Barroco. Projeto: Luz e Sombra: A estética barroca em música. Fernando Cordella - direção e cravo, Diana Danieli - soprano, Dolores Costoyas - alaúde e teorba, e Diego S. Biasibetti - viola da gamba e Janaina Pelizzon - atriz. Realização: Sociedade Bach Brasil. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-21T20:00:00Z" class="datetime"&gt;seg, 21/09/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/252389" hreflang="pt-br"&gt;Igreja Universitária Cristo Mestre PUCRS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.bachsocietybrasil.com/.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 22:23:37 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282978 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Blumenau Filarmônica</title>
+  <link>http://concerto.com.br/roteiros/blumenau-filarmonica-8</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Blumenau Filarmônica&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 20:49&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Brahms, Schubert e Dvorák. Lucas Araujo - regente. Programa: Brahms - Dança húngara nº 5; Schubert - Sinfonia nº 8, Inacabada; e Dvorák - Sinfonia nº 9, Do Novo Mundo.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T18:30:00Z" class="datetime"&gt;dom, 18/10/2026 - 18:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1553" hreflang="pt-br"&gt;Blumenau, SC&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/212081" hreflang="pt-br"&gt;Teatro Carlos Gomes&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 20:49:38 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282977 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Coro da Osesp e Coro Infantil da Osesp</title>
@@ -145,7 +351,6 @@
   <pubDate>Fri, 18 Sep 2026 20:34:15 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282975 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/coro-da-osesp-e-coro-infantil-da-osesp-1#comments</comments>
     </item>
 <item>
   <title>Orquestra Juvenil Heliópolis e Coral Jovem Heliópolis</title>
@@ -209,7 +414,6 @@
   <pubDate>Fri, 18 Sep 2026 20:33:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282974 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-juvenil-heliopolis-e-coral-jovem-heliopolis#comments</comments>
     </item>
 <item>
   <title>Orquestra Jovem do Estado</title>
@@ -274,7 +478,6 @@
   <pubDate>Fri, 18 Sep 2026 20:32:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282973 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-jovem-do-estado-78#comments</comments>
     </item>
 <item>
   <title>Olga Matushenko – soprano</title>
@@ -338,7 +541,6 @@
   <pubDate>Fri, 18 Sep 2026 20:31:02 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282972 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/olga-matushenko-soprano#comments</comments>
     </item>
 <item>
   <title>2026_Banner_Yangtze_ate03out_ROT</title>
@@ -377,207 +579,6 @@
   <pubDate>Fri, 18 Sep 2026 20:28:35 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282976 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra do Theatro São Pedro</title>
-  <link>http://concerto.com.br/roteiros/orquestra-do-theatro-sao-pedro-175</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra do Theatro São Pedro&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 19:36&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto didático – Brincando em cena. Emiliano Patarra – direção musical. Felipe Venâncio – direção cênica. Raquel Paulin – soprano, Juliana Taino – mezzo soprano, Geilson Santos – tenor e Julián Lisnichuk – barítono. Danuza Novaes – apresentação. Programa: trechos de óperas de Bizet – Carmen; Puccini – Gianni Schicchi; Jacques Offenbach – Os contos de Hoffmann; Rossini – O barbeiro de Sevilha; Donizetti – O elixir de amor; Mozart – A flauta mágica; Léo Delibes – Lakmé; Henrique Alves de Mesquita – A noite no castelo; e Carl Weber – Oberon. Kuka Batista – iluminação. &lt;br /&gt;
-&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T11:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 12. Vendas: https://theatrosaopedro.byinti.com/#/event/concerto-didatico-brincando-em-cena-no-theatro-sao-pedro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 18 Sep 2026 19:36:58 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282971 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra do Theatro São Pedro</title>
-  <link>http://concerto.com.br/roteiros/orquestra-do-theatro-sao-pedro-174</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra do Theatro São Pedro&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 19:35&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto didático – Brincando em cena. Emiliano Patarra – direção musical. Felipe Venâncio – direção cênica. Raquel Paulin – soprano, Juliana Taino – mezzo soprano, Geilson Santos – tenor e Julián Lisnichuk – barítono. Danuza Novaes – apresentação. Programa: trechos de óperas de Bizet – Carmen; Puccini – Gianni Schicchi; Jacques Offenbach – Os contos de Hoffmann; Rossini – O barbeiro de Sevilha; Donizetti – O elixir de amor; Mozart – A flauta mágica; Léo Delibes – Lakmé; Henrique Alves de Mesquita – A noite no castelo; e Carl Weber – Oberon. Kuka Batista – iluminação. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 18 às 11h. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-17T11:00:00Z" class="datetime"&gt;sab, 17/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 12. Vendas: https://theatrosaopedro.byinti.com/#/event/concerto-didatico-brincando-em-cena-no-theatro-sao-pedro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 18 Sep 2026 19:35:36 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282970 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra do Theatro São Pedro</title>
-  <link>http://concerto.com.br/roteiros/orquestra-do-theatro-sao-pedro-173</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra do Theatro São Pedro&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 19:33&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto didático – Brincando em cena. Emiliano Patarra – direção musical. Felipe Venâncio – direção cênica. Raquel Paulin – soprano, Juliana Taino – mezzo soprano, Geilson Santos – tenor e Julián Lisnichuk – barítono. Danuza Novaes – apresentação. Programa: trechos de óperas de Bizet – Carmen; Puccini – Gianni Schicchi; Jacques Offenbach – Os contos de Hoffmann; Rossini – O barbeiro de Sevilha; Donizetti – O elixir de amor; Mozart – A flauta mágica; Léo Delibes – Lakmé; Henrique Alves de Mesquita – A noite no castelo; e Carl Weber – Oberon. Kuka Batista – iluminação. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dias 17 e 18 às 11h. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-12T11:00:00Z" class="datetime"&gt;seg, 12/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 12. Vendas: https://theatrosaopedro.byinti.com/#/event/concerto-didatico-brincando-em-cena-no-theatro-sao-pedro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 18 Sep 2026 19:33:55 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282969 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -324,9 +324,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 30,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 30 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -387,9 +387,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 22,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 33,
+    "items": 32,
     "ok": true,
-    "notes": "scraped 33 events",
+    "notes": "scraped 32 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 59,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 59 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -441,9 +441,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 27,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -506,7 +506,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -585,9 +585,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
