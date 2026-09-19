@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 19 Sep 2026 10:58:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 15:53:42 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=nWjbn1ZezmijZuqMWedHJ0otAvLYJP_FWUCw7p5Qlso?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=73inC2iEX3mKmosh0aMrEMoV74CFKQkMXqlbIr3lU1o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;535&lt;/span&gt;
@@ -82,6 +82,85 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
+  <title>Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico</title>
+  <link>http://concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;img alt="Ouvinte Crítico" data-entity-type="file" data-entity-uuid="abd7bdce-2ade-4f42-872a-98c31c1d6f11" src="http://concerto.com.br/sites/default/files/inline-images/w-logo_abetura_card_33.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Você assistiu à ópera ‘Don Carlo?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gostou? Não gostou? Dê a sua opinião na enquete abaixo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Pedimos que apenas as pessoas que tenham assistido ao espetáculo opinem na enquete. Obrigado!)&lt;/p&gt;
+&lt;p&gt;(Esta enquete será encerrada no dia 28 de setembro.)&lt;/p&gt;
+&lt;p&gt;&lt;iframe height="1800" loading="lazy" src="https://poll.app.do/embed/opera-tristao-e-isolda-de-wagner" style="display:block;width:100%;max-width:810px;margin:auto;border:3px solid #444;border-radius:6px;"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 19/09/2026 - 12:27&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/DonCarlo_LarissaPaz_OC.jpg" width="900" height="600" alt="Ouvinte Crítico" title="Ouvinte Crítico" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/ouvinte-critico" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3237" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/ouvinte-critico" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=zRTBmQ0og3NFg4ybTKE_p2Si1ScxN3eggLLG-ijxsJY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 19 Sep 2026 12:27:55 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">282981 at http://concerto.com.br</guid>
+    </item>
+<item>
   <title>Filarmônica de Buenos Aires convida Emmanuele Baldini para concerto de aniversário</title>
   <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-buenos-aires-convida-emmanuele-baldini-para-concerto-de</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Buenos Aires convida Emmanuele Baldini para concerto de aniversário&lt;/span&gt;
@@ -90,7 +169,7 @@
 &lt;p&gt;Em 1946, a primeira orquestra exclusivamente sinfônica de Buenos Aires iniciava suas atividades. O organismo, inicialmente nomeado Orquestra Sinfônica do Teatro Municipal, acompanhava balés e óperas no palco que hoje corresponde ao do Teatro San Martín, até migrar para o Teatro Colón, em 1953. Ao longo de sua história, a orquestra se apresentou pela América Latina e Europa, além de ter recebido solistas como Martha Argerich e Astor Piazzolla.&lt;/p&gt;
 &lt;p&gt;O concerto convida Baldini a atuar em diferentes frentes. Nascido na Itália, iniciou seus estudos musicais na infância e aperfeiçoou-se em Genebra com Corrado Romano e em Salzburgo e Berlim com Ruggiero Ricci. Desde 2005, atua como spalla na Orquestra Sinfônica do Estado de São Paulo. Posteriormente, passou a se dedicar à regência e, junto com ela, à direção de orquestras como a Orquestra Sinfônica de Ñuble, no Chile, e a Sphaera Mundi Orquestra, de Porto Alegre, no Rio Grande do Sul.&lt;/p&gt;
 &lt;p&gt;Como solista, ele interpreta o &lt;em&gt;Concerto para violino em ré menor&lt;/em&gt;, de Amanda Röntgen-Maier. A compositora sueca concluiu a obra em 1875, aos 22 anos de idade. Conhecida pelo talento ao violino, Röntgen-Maier também foi a responsável pela estreia da peça, no mesmo ano.&lt;/p&gt;
-&lt;p&gt;Ele também rege Fernando Ciancio, trompetista principal da filarmônica, no &lt;em&gt;Concerto para trompete em mi maior&lt;/em&gt;, de Hummel. A obra foi composta em 1803 e dedicada a Anton Weidinger, trompetista da corte vienense e criador do trompete de chaves. Diferente do antigo instrumento, que tocava apenas algumas notas, o novo instrumento permitia que o solista executasse a obra com virtuosismo incomum à época.&lt;/p&gt;
+&lt;p&gt;Emmanuele Baldini também rege Fernando Ciancio, trompetista principal da filarmônica, no &lt;em&gt;Concerto para trompete em mi maior&lt;/em&gt;, de Hummel. A obra foi composta em 1803 e dedicada a Anton Weidinger, trompetista da corte vienense e criador do trompete de chaves. Diferente do antigo instrumento, que tocava apenas algumas notas, o novo instrumento permitia que o solista executasse a obra com virtuosismo incomum à época.&lt;/p&gt;
 &lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-20"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
 Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-de-concertos-e-operas-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
@@ -146,10 +225,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=QPM75pAoQOrETEg_8n654RG3Qb4quuRu55ZnX86vvE8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3u7VsODoaQ8KRcbvDCYqmhcNSmqFViGnX8MftZhROkk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -222,6 +301,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 22:23:37 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282978 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/bach-o-livro-de-anna-magdalena#comments</comments>
     </item>
 <item>
   <title>Blumenau Filarmônica</title>
@@ -286,6 +366,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:49:38 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282977 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/blumenau-filarmonica-8#comments</comments>
     </item>
 <item>
   <title>Coro da Osesp e Coro Infantil da Osesp</title>
@@ -351,6 +432,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:34:15 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282975 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/coro-da-osesp-e-coro-infantil-da-osesp-1#comments</comments>
     </item>
 <item>
   <title>Orquestra Juvenil Heliópolis e Coral Jovem Heliópolis</title>
@@ -414,6 +496,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:33:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282974 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-juvenil-heliopolis-e-coral-jovem-heliopolis#comments</comments>
     </item>
 <item>
   <title>Orquestra Jovem do Estado</title>
@@ -478,6 +561,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:32:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282973 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-jovem-do-estado-78#comments</comments>
     </item>
 <item>
   <title>Olga Matushenko – soprano</title>
@@ -541,44 +625,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:31:02 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282972 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_Banner_Yangtze_ate03out_ROT</title>
-  <link>http://concerto.com.br/node/282976</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_Banner_Yangtze_ate03out_ROT&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-publicidade-roteiro field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-09/2026_Banner-Yangtze_ate03outCARD_0.jpg" width="380" height="490" alt="2026_Banner_Yangtze_ate03out_ROT" title="2026_Banner_Yangtze_ate03out_ROT" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 18/09/2026 - 20:28&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-publicidade-roteiro field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.ya.art.br/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-roteiro-todas-datas field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Todas as Datas&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 18 Sep 2026 20:28:35 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282976 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/olga-matushenko-soprano#comments</comments>
     </item>
 
   </channel>

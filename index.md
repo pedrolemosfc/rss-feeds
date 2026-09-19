@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-19 11:00 UTC
+Generated: 2026-09-19 15:55 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-09-19 11:00 UTC
   notes: scraped 47 items
 - **folha-show** [OK] items=56 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 56 items
-- **guia-restaurantes** [OK] items=80 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 80 items
+- **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 79 items
 - **guia-shows** [OK] items=95 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 95 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -169,5 +169,5 @@ Generated: 2026-09-19 11:00 UTC
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=175 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])

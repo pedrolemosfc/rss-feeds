@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 80,
+    "items": 79,
     "ok": true,
-    "notes": "scraped 80 items"
+    "notes": "scraped 79 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 175,
+    "items": 174,
     "ok": true,
-    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
