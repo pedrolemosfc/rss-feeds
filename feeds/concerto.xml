@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 20 Sep 2026 16:06:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 20:48:53 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNiIsImRpc2xpa2VzIjoiMCJ9?token=DMPYO9VWOm3T5qygnrir_tIWRl__ha7usAr66FPPUF0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNiIsImRpc2xpa2VzIjoiMCJ9?token=hJ1MwcoXFweIdD0zqLrlT8Z7r89lFc4iBtHA73CKJAY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;536&lt;/span&gt;
@@ -185,6 +185,30 @@
       &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=916&amp;2=denunciar" token="KEA7AhVVPIEaiMTd4amOokuz9YcGxI4hP9ejoBw1Uug"&gt;&lt;/drupal-render-placeholder&gt;
   &lt;/div&gt;
 &lt;/article&gt;
+  
+&lt;article data-comment-user-id="17499" id="comment-917" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1789923140"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/17499" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/17499" typeof="schema:Person" property="schema:name" datatype="" content="alessandracromero@gmail.com" xml:lang=""&gt;Alessandra de Cássia Romero&lt;/span&gt; em dom, 20/09/2026 - 16:52&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/917#comment-917" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/917#comment-917" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Excelente montagem, canto,…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Excelente montagem, canto, luzes, cenários... impecável! Só achei triste a escolha de não disponibilizar a venda dos ingressos do terceiro sinal... frisas vazias, vários lugares... triste, tomara que mudem essa política para como era antes (sou assinante desde 2024).&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=917&amp;2=denunciar" token="AYPMB3K4mBuczMDr-S5An6--475bF8VPMwfEiIGgdLU"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
 
 
   
@@ -194,10 +218,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=C3MSIW34Grm9MGDqqc4CYvayWDwbZDpqFvPzUJXIWCk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=I_CqfmM5N3Abfnt9UnVCZ3TzwCgsCDWUuH2R6jeLVRw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -273,10 +297,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=8XQ-uF4Eizis4B2RB-n_0o-fCqng0dtyq1c-AMnDnbI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=d7aRCcRpS7Hu2yolr04xKErUrEr9gYiQXzlYHQEV1dk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
