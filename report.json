@@ -324,9 +324,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 32,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 32 events",
+    "notes": "scraped 31 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -441,9 +441,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -567,9 +567,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 7,
+    "items": 6,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 6 events",
     "kind": "venue-scrape"
   },
   {

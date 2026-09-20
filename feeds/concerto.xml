@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 19 Sep 2026 20:39:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 04:53:36 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=73inC2iEX3mKmosh0aMrEMoV74CFKQkMXqlbIr3lU1o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNSIsImRpc2xpa2VzIjoiMCJ9?token=akrhxqfg1Tmx_lW5dKOE7GurdTMRjumheQAhDxRWrAE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;535&lt;/span&gt;
@@ -137,7 +137,55 @@
           &lt;/div&gt;
 &lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
   
+    
+&lt;article data-comment-user-id="18141" id="comment-915" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1789850384"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18141" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18141" typeof="schema:Person" property="schema:name" datatype="" content="gilson.pinton@gmail.com" xml:lang=""&gt;Gilson Ricardo Pinton&lt;/span&gt; em sab, 19/09/2026 - 20:39&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/915#comment-915" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/915#comment-915" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nesta ópera da fase madura…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nesta ópera da fase madura de Giuseppe Verdi, solistas e orquestra estiveram ótimos! Também gostei das escolhas da direção cênica, suavizando em alguns dos momentos mais agudos da história. Como acredito que a sutileza potencialize a mensagem, complimenti para o diretor! Assistida na récita de estréia.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=915&amp;2=denunciar" token="caNtP_Fjzienu2bSWqoOgQ3PdpDTwjr1X3eZN1N3oeU"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
   
+&lt;article data-comment-user-id="18141" id="comment-916" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1789850385"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18141" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18141" typeof="schema:Person" property="schema:name" datatype="" content="gilson.pinton@gmail.com" xml:lang=""&gt;Gilson Ricardo Pinton&lt;/span&gt; em sab, 19/09/2026 - 20:39&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/916#comment-916" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/916#comment-916" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nesta ópera da fase madura…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nesta ópera da fase madura de Giuseppe Verdi, solistas e orquestra estiveram ótimos! Também gostei das escolhas da direção cênica, suavizando em alguns dos momentos mais agudos da história. Como acredito que a sutileza potencialize a mensagem, complimenti para o diretor! Assistida na récita de estréia.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=916&amp;2=denunciar" token="KEA7AhVVPIEaiMTd4amOokuz9YcGxI4hP9ejoBw1Uug"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+
 
   
 &lt;/section&gt;
@@ -146,10 +194,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=zRTBmQ0og3NFg4ybTKE_p2Si1ScxN3eggLLG-ijxsJY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=5qy1NFhgZwhlIQ_FOFGcMIfBOD0iPYBL92N-rQpfgHw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -225,7 +273,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3u7VsODoaQ8KRcbvDCYqmhcNSmqFViGnX8MftZhROkk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=OnBwUbf0fmrUTnIeaJo517PRKFZoSlQB-zErS1S92kQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
@@ -301,7 +349,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 22:23:37 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282978 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/bach-o-livro-de-anna-magdalena#comments</comments>
     </item>
 <item>
   <title>Blumenau Filarmônica</title>
@@ -366,7 +413,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:49:38 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282977 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/blumenau-filarmonica-8#comments</comments>
     </item>
 <item>
   <title>Coro da Osesp e Coro Infantil da Osesp</title>
@@ -432,7 +478,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:34:15 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282975 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/coro-da-osesp-e-coro-infantil-da-osesp-1#comments</comments>
     </item>
 <item>
   <title>Orquestra Juvenil Heliópolis e Coral Jovem Heliópolis</title>
@@ -496,7 +541,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:33:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282974 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-juvenil-heliopolis-e-coral-jovem-heliopolis#comments</comments>
     </item>
 <item>
   <title>Orquestra Jovem do Estado</title>
@@ -561,7 +605,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:32:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282973 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-jovem-do-estado-78#comments</comments>
     </item>
 <item>
   <title>Olga Matushenko – soprano</title>
@@ -625,7 +668,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 18 Sep 2026 20:31:02 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">282972 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/olga-matushenko-soprano#comments</comments>
     </item>
 
   </channel>

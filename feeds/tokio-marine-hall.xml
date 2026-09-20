@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Sat, 19 Sep 2026 20:39:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Sep 2026 04:53:34 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -133,22 +133,6 @@ Natal</p>
 		
 			</item>
 		<item>
-		<title>José Augusto</title>
-		<link>https://www.tokiomarinehall.com.br/jose-augusto-3/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 11:44:16 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5646</guid>
-
-					<description><![CDATA[<p>José Augusto</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/jose-augusto-3/">José Augusto</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
 		<title>ANGRA</title>
 		<link>https://www.tokiomarinehall.com.br/angra-6/</link>
 		
@@ -180,6 +164,22 @@ Natal</p>
 		
 		
 			</item>
+		<item>
+		<title>Fernando e Sorocaba</title>
+		<link>https://www.tokiomarinehall.com.br/fernando-e-sorocaba/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 13:55:10 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5614</guid>
+
+					<description><![CDATA[<p>Fernando e Sorocaba</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/fernando-e-sorocaba/">Fernando e Sorocaba</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-09-19 17:39:37 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-09-20 01:53:34 by W3 Total Cache
 -->
