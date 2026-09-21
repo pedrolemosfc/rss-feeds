@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Mon, 21 Sep 2026 12:47:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Sep 2026 21:59:01 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CIÇA </title>
+		<link>https://casanaturamusical.com.br/eventos/cica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cica</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17175</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Agnes Nunes</title>
 		<link>https://casanaturamusical.com.br/eventos/agnes-nunes-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=agnes-nunes-2</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17119</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>O Grilo</title>
-		<link>https://casanaturamusical.com.br/eventos/o-grilo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=o-grilo</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17115</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

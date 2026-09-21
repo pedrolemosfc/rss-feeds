@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 21 Sep 2026 12:47:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:59:02 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNyIsImRpc2xpa2VzIjoiMCJ9?token=Sjzd4VO0bfyt6Zj3SBflfzaAKqtuT8JL6AWiiolbQro?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzNyIsImRpc2xpa2VzIjoiMCJ9?token=ZKe41uAT2rs-iR6mVs9rp-zVk8ODkXk8FdiczkLDa7I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;537&lt;/span&gt;
@@ -97,9 +97,9 @@
 &lt;p&gt;No Rio de Janeiro, a &lt;strong&gt;Orquestra Furiosa Portátil &lt;/strong&gt;homenageia Guerra-Peixe na Casa do Choro. Os músicos tocam os choros&lt;em&gt; Tereré&lt;/em&gt;; &lt;em&gt;Rabo de Galo&lt;/em&gt;; &lt;em&gt;Desculpe, foi engano&lt;/em&gt;; &lt;em&gt;Inclemência&lt;/em&gt;; &lt;em&gt;Sátira &lt;/em&gt;e &lt;em&gt;Deu-se a melodia&lt;/em&gt;, além de interpretar outras peças do compositor.&lt;/p&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sexta-feira, 25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Em Curitiba, a &lt;strong&gt;Orquestra de Câmara de Curitiba&lt;/strong&gt; interpreta programa dedicado à dança, no Capela Santa Maria Espaço Cultural. Sob regência de Knut Andreas, o programa traz obras de Níkos Skalkótas, Ottorino Respighi e Leoš Janáček, com reapresentação no sábado, 26.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Porto Alegre&lt;/strong&gt; se apresenta no Complexo Cultural Casa da OSPA. José Soares rege a orquestra, que convida o percussionista Douglas Gutjahr para interpretar &lt;em&gt;Dichotomous figures&lt;/em&gt;, de R. Aaron Walters. A orquestra também toca&lt;em&gt; &lt;/em&gt;Stravinsky e&lt;em&gt; &lt;/em&gt;Tan Dun.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Porto Alegre&lt;/strong&gt; se apresenta no Complexo Cultural Casa da Ospa. José Soares rege a orquestra, que convida o percussionista Douglas Gutjahr para interpretar &lt;em&gt;Dichotomous figures&lt;/em&gt;, de R. Aaron Walters. A orquestra também toca&lt;em&gt; &lt;/em&gt;Stravinsky e&lt;em&gt; &lt;/em&gt;Tan Dun.&lt;/p&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, 26&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A Orquestra Sinfônica Municipal de Botucatu realiza concerto na Sala São Paulo. Regida por Fernando Ortiz de Villate, a orquestra recebe &lt;strong&gt;Karin Fernandes&lt;/strong&gt; para o &lt;em&gt;Concerto nº 1 para piano&lt;/em&gt;, de Villani-Côrtes. &lt;em&gt;Caetê Jururê &lt;/em&gt;e &lt;em&gt;Oferenda&lt;/em&gt; completam o programa.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica Municipal de Botucatu&lt;/strong&gt; realiza concerto na Sala São Paulo. Regida por Fernando Ortiz de Villate, a orquestra recebe &lt;strong&gt;Karin Fernandes&lt;/strong&gt; para o &lt;em&gt;Concerto nº 1 para piano&lt;/em&gt;, de Villani-Côrtes. &lt;em&gt;Caetê Jururê &lt;/em&gt;e &lt;em&gt;Oferenda&lt;/em&gt; completam o programa.&lt;/p&gt;
 &lt;p&gt;Em Santo André, a &lt;strong&gt;Orquestra Sinfônica de Santo André&lt;/strong&gt; recebe Fabio Martino para concerto do Festival Tchaikovsky. Abel Rocha e Marcelo Falcão regem solista e orquestra no &lt;em&gt;Concerto para piano nº 1, op. 23&lt;/em&gt;, na &lt;em&gt;Sinfonia nº 5&lt;/em&gt; e na &lt;em&gt;Abertura-fantasia de Romeu e Julieta&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A&lt;strong&gt; Orquestra Sinfônica da Universidade Estadual de Londrina&lt;/strong&gt; apresenta concerto da Série Contos no Cine Teatro Ouro, em Londrina. Werner Silveira rege&lt;em&gt; O pequeno polegar&lt;/em&gt;, de Ravel, e&lt;em&gt; Pedro e o lobo&lt;/em&gt;, de Prokofiev, com narração de Edinho Moreno. O programa se repete no domingo, 27.&lt;/p&gt;
 &lt;p&gt;No Rio de Janeiro, a &lt;strong&gt;Orquestra Sinfônica Brasileira &lt;/strong&gt;interpreta trilhas sonoras de John Williams no Teatro Odylo Costa Filho. Matheus Carneiro rege a orquestra nas trilhas de &lt;em&gt;Star Wars&lt;/em&gt;,&lt;em&gt; E.T.&lt;/em&gt;,&lt;em&gt; Superman&lt;/em&gt;,&lt;em&gt; Tubarão&lt;/em&gt;, &lt;em&gt;Indiana Jones&lt;/em&gt; e J&lt;em&gt;urassic Park&lt;/em&gt;, com reapresentação no domingo, 27.&lt;/p&gt;
@@ -168,10 +168,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=KcqGHo3tHUkR0XYJE5f9TkkFut3U23uBtryHE6Uan_M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=NUvb2hAwgVVVSPzLcBfFxyK3Y9x_7h3646FYhv6wqeI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -183,421 +183,283 @@
     <guid isPermaLink="false">282979 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Festival Pianístico chega à nona edição com concertos e aulas </title>
-  <link>http://concerto.com.br/noticias/musica-classica/festival-pianistico-chega-nona-edicao-com-concertos-e-aulas</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival Pianístico chega à nona edição com concertos e aulas &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A nona edição do festival Pianístico acontece em Joinville entre os dias 22 e 27 de setembro. A direção artística e a curadoria são de Carlos Branco e a direção geral, de Albertina Tuma.&lt;/p&gt;
-&lt;p&gt;Serão, ao todo, quinze shows e concertos, com músicos de diferentes países, como Marco Mezquida (Espanha), Pepe Rivero (Cuba), André Mehmari (Brasil), Rembrandt Frerichs (Holanda), Mário Laginha (Portugal), Julia Tygel (Brasil),  Kiko Continentino, Natasha Binder (Bélgica), Andrea Vivanet (Itália), Mário Lucas de Sá (Joinville) e Alexandra Sostmann (Alemanha). &lt;/p&gt;
-&lt;p&gt;O caráter didático se dá por meio da realização de cinco workshops e duas masterclasses. Na programação, temas como criação e composição no piano trio, desenvolvimento de repertório e elementos rítmicos, harmônicos e melódicos do samba-jazz.&lt;/p&gt;
-&lt;p&gt;Apostando na educação musical, o festival, que tem direção geral de diretora geral Albertina Tuma, também promove o espetáculo infantil &lt;em&gt;Uma aventura pianística&lt;/em&gt;, com a pianista Giane Maria de Souza e o ator Luan Cordeiro. &lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-21" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O pianista André Mehmari [Divulgação/Tarita de Souza]" data-entity-type="file" data-entity-uuid="bfb043cb-9ace-4b9a-8d05-2c26809b56b2" src="http://concerto.com.br/sites/default/files/inline-images/w-palco-foto-1o-Andre-Mehmari-credTarita-de-Souza_0.jpg" /&gt;
-&lt;figcaption&gt;O pianista André Mehmari [Divulgação/Tarita de Souza]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 12:10&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-palco-foto-1o-Andre-Mehmari-credTarita-de-Souza_0.jpg" width="900" height="600" alt="O pianista André Mehmari [Divulgação/Tarita de Souza]" title="O pianista André Mehmari [Divulgação/Tarita de Souza]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=mV2Anx1Ix1w_S1hwSbYJ-pq8n__8mTNgiB1fFQYPk-U?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 12:10:04 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282988 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim</title>
-  <link>http://concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O governo alemão anunciou que vai destinar 225 milhões de euros para as obras de renovação da Philharmonie, casa da Filarmônica de Berlim. O grupo está atualmente em busca de um palco alternativo para suas apresentações durante a reforma.&lt;/p&gt;
-&lt;p&gt;A ideia da orquestra é manter a sala aberta até 2032, quando o grupo completa 150 anos, e, em seguida, iniciar as obras, que devem durar cerca de oito anos. Entre os possíveis locais para os concertos durante esse período, estão sendo considerados o antigo aeroporto de Tempelhof e o Centro Internacional de Congressos de Berlim. A escolha depende de critérios como acústica, conexões de transporte e capacidade de ocupação.&lt;/p&gt;
-&lt;p&gt;“Para a Filarmônica de Berlim e para mim, a Philharmonie não é apenas uma sala de concertos – é a nossa casa musical. O fato de o governo federal e o estado de Berlim assumirem a responsabilidade pelo futuro deste espaço e pelo trabalho da orquestra enche-me de gratidão, assim como o aumento dos nossos recursos financeiros proporcionado pelo governo federal”, afirmou o regente titular da orquestra, Kirill Petrenko.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/festival-pianistico-chega-nona-edicao-com-concertos-e-aulas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Pianístico chega à nona edição com concertos e aulas &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A Philharmonie de Berlim [Divulgação/Heribert Schindler]" data-entity-type="file" data-entity-uuid="72658bc5-f1fd-4ff0-a9c7-d8a4ba2a8d90" src="http://concerto.com.br/sites/default/files/inline-images/w-csm_Philharmonie_Haupteingang_aussen_c_Heribert_Schindler_2019_a12087e7cf.jpg" /&gt;
-&lt;figcaption&gt;A Philharmonie de Berlim [Divulgação/Heribert Schindler]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 11:36&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-csm_Philharmonie_Haupteingang_aussen_c_Heribert_Schindler_2019_a12087e7cf.jpg" width="900" height="473" alt="A Philharmonie de Berlim [Divulgação/Heribert Schindler]" title="A Philharmonie de Berlim [Divulgação/Heribert Schindler]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=97cSjhMiaGteNuHfIVkfeHEeTsTxKWlkHtmtpJeRCDw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 11:36:11 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282987 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi</title>
-  <link>http://concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Orquestra Acadêmica de São Paulo – Uniopera retorna ao Teatro Bradesco para apresentar, nos dias 21, 22, 23 e 24, as &lt;em&gt;Quatro estações&lt;/em&gt; de Vivaldi, com a participação da violinista Carolina Kliemann e da violoncelista Maria Luísa Cameron. A regência é do maestro Luciano Camargo. &lt;/p&gt;
-&lt;p&gt;Conjunto de quatro concertos para violino escritos por volta de 1720, as &lt;em&gt;Quatro estações&lt;/em&gt; são símbolo da sensibilidade e do virtuosismo barroco. Nelas, o violino solo e a orquestra se propõem a traduzir as paisagens, climas e afetos da natureza.&lt;/p&gt;
-&lt;p&gt;"Há obras que pertencem ao seu tempo e há aquelas que continuam encontrando novas maneiras de conversar com cada época. As Quatro Estações tem essa vitalidade. Vivaldi transformou sensações, movimentos e imagens em música de uma maneira tão poderosa que continua despertando reconhecimento mesmo em quem nunca entrou em uma sala de concerto. É uma obra que atravessa o tempo sem envelhecer", diz Camargo.&lt;/p&gt;
-&lt;p&gt;Atualmente integrante da Osesp, Carolina Kliemann estudou com Elisa Fukuda e, sob orientação de Ayrton Pinto, bacharelou-se em violino pela Unesp. Também integrou grupos como a Orquestra Sinfônica Municipal de São Paulo e a Orquestra Sinfônica da USP.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-21" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/festival-pianistico-chega-nona-edicao-com-concertos-e-aulas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Pianístico chega à nona edição com concertos e aulas &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A violinista Carolina Kliemann será a solista das apresentações [Divulgação/Osesp]" data-entity-type="file" data-entity-uuid="34627738-bcf1-4f3e-a371-4662e21270a1" src="http://concerto.com.br/sites/default/files/inline-images/w-carolina_kliemann.jpg" /&gt;
-&lt;figcaption&gt;A violinista Carolina Kliemann será a solista das apresentações [Divulgação/Osesp]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 11:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-carolina_kliemann.jpg" width="900" height="463" alt="A violinista Carolina Kliemann será a solista das apresentações [Divulgação/Osesp]" title="A violinista Carolina Kliemann será a solista das apresentações [Divulgação/Osesp]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=uXeB_o9FqAmyvv0fhI3gC2A_zViFXtZJCS5hkIaAuzY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 11:11:38 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282986 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio</title>
-  <link>http://concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Formado por Simin Ganatra (violino), Austin Hartman (violino), Mark Holloway (viola) e Brandon Vamos (violoncelo), o Pacifica Quartet foi criado em 1994 e, de lá para cá, estabeleceu-se como importante herdeiro da tradição do gênero. &lt;/p&gt;
-&lt;p&gt;O grupo já ganhou o Grammy, pelo álbum &lt;em&gt;Contemporary Voices&lt;/em&gt;, e contou ao longo de sua trajetória com grandes parceiros como os pianistas Marc-André Hamelin e Menahem Pressler e o clarinetista Anthony McGill. &lt;/p&gt;
-&lt;p&gt;Com essa bagagem, o grupo desembarca nesta segunda-feira no Theatro Municipal do Rio de Janeiro para recital pela Série O Globo/Dellarte Concertos Internacionais. O programa tem obras de Mendelssohn (&lt;em&gt;Quarteto op. 13&lt;/em&gt;), Ligeti (&lt;em&gt;Quarteto nº 1, Metamorfoses noturnas&lt;/em&gt;) e Beethoven (&lt;em&gt;Quarteto op. 130&lt;/em&gt; e &lt;em&gt;Grande fuga&lt;/em&gt;). &lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-09-21" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/festival-pianistico-chega-nona-edicao-com-concertos-e-aulas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Pianístico chega à nona edição com concertos e aulas &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Integrantes do Pacifica Quartet [Divulgação]" data-entity-type="file" data-entity-uuid="faf3af20-419f-4f3f-b35f-5c41fe5ecaa6" src="http://concerto.com.br/sites/default/files/inline-images/w-pacifica.jpg" /&gt;
-&lt;figcaption&gt;Integrantes do Pacifica Quartet [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 11:08&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-pacifica.jpg" width="900" height="607" alt="Integrantes do Pacifica Quartet [Divulgação]" title="Integrantes do Pacifica Quartet [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=lu310spV8u2h-UbZtdS5pQ__u34t62816ppUNLX54d0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 11:08:19 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282985 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Tenor José Carreras cancela apresentações no Brasil</title>
-  <link>http://concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O tenor José Carreras cancelou sua turnê brasileira, que teria início nesta semana e previa apresentações em Curitiba, São Paulo e Porto Alegre. A viagem havia sido anunciada como parte de uma série de apresentações de despedida do cantor.&lt;/p&gt;
-&lt;p&gt;Segundo os produtores, o cancelamento se deu “por circunstâncias alheias ao controle do artista, da agência e dos promotores locais”. Não foram dados mais detalhes. Carreras se apresentaria sob regência de seu sobrinho, o maestro David Giménez.&lt;/p&gt;
-&lt;p&gt;Todos os ingressos adquiridos serão reembolsados pelos respectivos canais de venda. “Orientamos que os clientes acompanhem as comunicações da ticketeira responsável pela compra para mais informações sobre o processo de reembolso”, diz o comunicado.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/festival-pianistico-chega-nona-edicao-com-concertos-e-aulas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Pianístico chega à nona edição com concertos e aulas &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O tenor José Carreras [Divulgação]" data-entity-type="file" data-entity-uuid="827d377b-87f5-452b-88e7-7b9d0377e5d1" src="http://concerto.com.br/sites/default/files/inline-images/w-jose_carreras.jpg" /&gt;
-&lt;figcaption&gt;O tenor José Carreras [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 11:04&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-jose_carreras.jpg" width="900" height="623" alt="O tenor José Carreras [Divulgação]" title="O tenor José Carreras [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=m1pR0Li-VINfLsfBEPVh7RlOlBhch2F__0En_fKTLVE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 11:04:58 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282984 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Quarteto Martelo</title>
-  <link>http://concerto.com.br/roteiros/quarteto-martelo-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quarteto Martelo&lt;/span&gt;
+  <title>Quarteto Atlas</title>
+  <link>http://concerto.com.br/roteiros/quarteto-atlas-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quarteto Atlas&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 20/09/2026 - 23:58&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 21:00&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sociedade Jundiaiense de Cultura Artística. Danilo Valle, Leonardo Gerosito, Rafael Alberto e Rubén Zúñiga - percussão. Programa: Débora Gurgel - Sem fronteiras; Daniel Grajew - Tempo; Clarisse Assad - O herói; Luísa Mitre - Valsa de espera; Antônio Nóbrega - Carrossel do destino; André Mehmari - Dois gestos; Hércules Gomes - Platônica; Sílvia Góes - Cobra cega; e Léa Freire - Mamulengo.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Projeto Villa-Lobos e os quartetos de cordas. Ricardo Amado e Carlos Mendes - violinos, Ricardo Taboada - viola e Ricardo Santoro - violoncelo. Programa: Villa-Lobos - Quarteto nº 1, nº 5 e nº 17. &lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-09-25T20:00:00Z" class="datetime"&gt;sex, 25/09/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-25T11:00:00Z" class="datetime"&gt;dom, 25/10/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/210883" hreflang="pt-br"&gt;Centro Municipal de Referência da Música Carioca Artur da Távola (156 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos na bilheteria uma hora antes do espetáculo.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 21 Sep 2026 21:00:51 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283226 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Quarteto Atlas</title>
+  <link>http://concerto.com.br/roteiros/quarteto-atlas-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quarteto Atlas&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:54&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Projeto Villa-Lobos e os quartetos de cordas. Ricardo Amado e Carlos Mendes - violinos, Ricardo Taboada - viola e Ricardo Santoro - violoncelo. Programa: Villa-Lobos - Quarteto nº 1, nº 5 e nº 17. Teatro da UFF. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 25 às 11h no Centro da Música Carioca Artur da Távola.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-20T19:00:00Z" class="datetime"&gt;ter, 20/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2796" hreflang="pt-br"&gt;Niterói, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-das-artes-da-uff" hreflang="und"&gt;Centro de Artes da UFF - Cine Arte UFF (525 lugares) e Teatro da UFF (396 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos na bilheteria uma hora antes do espetáculo.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 21 Sep 2026 20:54:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283225 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-55</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:36&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Especial. Jovana Trifunovic – direção e violino. Jairo Chaves – viola. Programa: Piazzolla – Adiós Nonino, Oblivión, Tango Café 1930, Le Grand Tango e As quatro estações portenhas. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-10T20:00:00Z" class="datetime"&gt;sab, 10/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 21 Sep 2026 20:36:12 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283224 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-54</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:35&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Especial. Jovana Trifunovic – direção e violino. Jairo Chaves – viola. Programa: Piazzolla – Adiós Nonino, Oblivión, Tango Café 1930, Le Grand Tango e As quatro estações portenhas. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 10 às 20h. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-09T20:00:00Z" class="datetime"&gt;sex, 09/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 21 Sep 2026 20:35:28 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283223 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Coro da Osesp</title>
+  <link>http://concerto.com.br/roteiros/coro-da-osesp-194</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coro da Osesp&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:34&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Coro Itinerante. Kaique Stumpf – regente. Programa: Bruckner – Locus iste e Os justi; Brahms – Geistliches Lied op. 30; Fauré – Cantique de Jean Racine op. 11; Vaughan Williams – Three Shakespeare songs; Morten Lauridsen – Les chansons des roses 4 e 5; Danilo Guanaes Vaz – Mulungu fuloriô; Luiz Gonzaga – Asa branca; Marlos Nobre – Cancioneiro de Lampião. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T20:00:00Z" class="datetime"&gt;sex, 16/10/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -629,12 +491,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/clube-jundiaiense" hreflang="und"&gt;Clube Jundiaiense&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-polytheama" hreflang="und"&gt;Teatro Polytheama (1124 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/martelo/3561197?share_id=copiarlink&amp;referrer=www.google.com&amp;referrer=www.google.com.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, distribuição de ingressos 1h30 antes do concerto, 2 por pessoa.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -642,37 +504,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 20 Sep 2026 23:58:25 +0000</pubDate>
+  <pubDate>Mon, 21 Sep 2026 20:34:31 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282983 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/quarteto-martelo-0#comments</comments>
+    <guid isPermaLink="false">283222 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico</title>
-  <link>http://concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;
+  <title>Grupo Euphonismo</title>
+  <link>http://concerto.com.br/roteiros/grupo-euphonismo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Euphonismo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:33&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;img alt="Ouvinte Crítico" data-entity-type="file" data-entity-uuid="abd7bdce-2ade-4f42-872a-98c31c1d6f11" src="http://concerto.com.br/sites/default/files/inline-images/w-logo_abetura_card_33.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Você assistiu à ópera ‘Don Carlo?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gostou? Não gostou? Dê a sua opinião na enquete abaixo.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;(Pedimos que apenas as pessoas que tenham assistido ao espetáculo opinem na enquete. Obrigado!)&lt;/p&gt;
-&lt;p&gt;(Esta enquete será encerrada no dia 28 de setembro.)&lt;/p&gt;
-&lt;p&gt;&lt;iframe height="1800" loading="lazy" src="https://poll.app.do/embed/opera-tristao-e-isolda-de-wagner" style="display:block;width:100%;max-width:810px;margin:auto;border:3px solid #444;border-radius:6px;"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 19/09/2026 - 12:27&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/DonCarlo_LarissaPaz_OC.jpg" width="900" height="600" alt="Ouvinte Crítico" title="Ouvinte Crítico" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Clássicos em cena Itapira. Programa: música erudita e o cancioneiro popular brasileiro. Comentários: Parcival Módolo. Informações: https://classicosemcena.com.br/. &lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/ouvinte-critico" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T19:00:00Z" class="datetime"&gt;qua, 21/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -680,123 +531,108 @@
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3237" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1446" hreflang="pt-br"&gt;Itapira, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/ouvinte-critico" hreflang="pt-br"&gt;Ouvinte Crítico&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/256247" hreflang="pt-br"&gt;Anfiteatro do Grupo Penha  &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-    
-&lt;article data-comment-user-id="18141" id="comment-915" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1789850384"&gt;&lt;/mark&gt;
+</description>
+  <pubDate>Mon, 21 Sep 2026 20:33:36 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283221 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica de Goiânia</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-de-goiania-50</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Goiânia&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:32&lt;/span&gt;
 
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18141" class="profile"&gt;
-  &lt;/article&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto em homenagem aos 93 anos de Goiânia. Eliel Ferreira – regente. Programa: Mahler – Sinfonia nº 5. &lt;/div&gt;
+          &lt;/div&gt;
 
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18141" typeof="schema:Person" property="schema:name" datatype="" content="gilson.pinton@gmail.com" xml:lang=""&gt;Gilson Ricardo Pinton&lt;/span&gt; em sab, 19/09/2026 - 20:39&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/915#comment-915" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/915#comment-915" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nesta ópera da fase madura…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nesta ópera da fase madura de Giuseppe Verdi, solistas e orquestra estiveram ótimos! Também gostei das escolhas da direção cênica, suavizando em alguns dos momentos mais agudos da história. Como acredito que a sutileza potencialize a mensagem, complimenti para o diretor! Assistida na récita de estréia.&lt;/p&gt;
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-20T20:00:00Z" class="datetime"&gt;ter, 20/10/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=915&amp;2=denunciar" token="caNtP_Fjzienu2bSWqoOgQ3PdpDTwjr1X3eZN1N3oeU"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1419" hreflang="pt-br"&gt;Goiânia, GO&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
   
-&lt;article data-comment-user-id="18141" id="comment-916" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1789850385"&gt;&lt;/mark&gt;
-
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18141" class="profile"&gt;
-  &lt;/article&gt;
-
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18141" typeof="schema:Person" property="schema:name" datatype="" content="gilson.pinton@gmail.com" xml:lang=""&gt;Gilson Ricardo Pinton&lt;/span&gt; em sab, 19/09/2026 - 20:39&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/916#comment-916" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/916#comment-916" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nesta ópera da fase madura…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nesta ópera da fase madura de Giuseppe Verdi, solistas e orquestra estiveram ótimos! Também gostei das escolhas da direção cênica, suavizando em alguns dos momentos mais agudos da história. Como acredito que a sutileza potencialize a mensagem, complimenti para o diretor! Assistida na récita de estréia.&lt;/p&gt;
-&lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=916&amp;2=denunciar" token="KEA7AhVVPIEaiMTd4amOokuz9YcGxI4hP9ejoBw1Uug"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
   
-&lt;article data-comment-user-id="17499" id="comment-917" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1789923140"&gt;&lt;/mark&gt;
-
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/17499" class="profile"&gt;
-  &lt;/article&gt;
-
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/17499" typeof="schema:Person" property="schema:name" datatype="" content="alessandracromero@gmail.com" xml:lang=""&gt;Alessandra de Cássia Romero&lt;/span&gt; em dom, 20/09/2026 - 16:52&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/917#comment-917" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/917#comment-917" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Excelente montagem, canto,…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Excelente montagem, canto, luzes, cenários... impecável! Só achei triste a escolha de não disponibilizar a venda dos ingressos do terceiro sinal... frisas vazias, vários lugares... triste, tomara que mudem essa política para como era antes (sou assinante desde 2024).&lt;/p&gt;
-&lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=917&amp;2=denunciar" token="AYPMB3K4mBuczMDr-S5An6--475bF8VPMwfEiIGgdLU"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-
 
   
 &lt;/section&gt;
 
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=xnEdIKcDjJ8PKoPZMJkSZbi4JL78fVihU9ozjk3CvGU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/235688" hreflang="pt-br"&gt;Teatro Goiânia (785 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;16&lt;/span&gt;
-    &lt;/div&gt;
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
 
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sat, 19 Sep 2026 12:27:55 +0000</pubDate>
+  <pubDate>Mon, 21 Sep 2026 20:32:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282981 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283220 at http://concerto.com.br</guid>
     </item>
 
   </channel>

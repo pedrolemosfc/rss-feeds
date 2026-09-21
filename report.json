@@ -83,9 +83,9 @@
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 82,
+    "items": 83,
     "ok": true,
-    "notes": "scraped 82 items"
+    "notes": "scraped 83 items"
   },
   {
     "name": "claude-blog",
@@ -324,9 +324,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -378,9 +378,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 16,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 30,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 30 events",
+    "notes": "scraped 31 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,18 +423,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 51,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 51 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 16,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -567,9 +567,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 6,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
