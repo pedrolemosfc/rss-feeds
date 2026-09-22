@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 30,
-    "ok": true,
-    "notes": "scraped 30 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>"
   },
   {
     "name": "noize",
@@ -432,9 +432,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -506,7 +506,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 9,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {

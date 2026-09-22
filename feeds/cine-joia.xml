@@ -5,7 +5,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 22 Sep 2026 04:55:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:38:53 +0000</lastBuildDate>
+<item>
+<title>LOYLE CARNER</title>
+<link>https://www.cinejoia.com.br/eventos/loyle-carner/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/loyle-carner/</guid>
+<pubDate>Mon, 21 Sep 2026 13:08:00 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>supercombo</title>
 <link>https://www.cinejoia.com.br/eventos/supercombo/</link>
@@ -347,13 +354,6 @@
 <link>https://www.cinejoia.com.br/eventos/in-edit-fernanda-abreu-da-lata-30-anos/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/in-edit-fernanda-abreu-da-lata-30-anos/</guid>
 <pubDate>Fri, 24 Apr 2026 17:08:49 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Protoje + Alborosie</title>
-<link>https://www.cinejoia.com.br/eventos/protoje-alborosie/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/protoje-alborosie/</guid>
-<pubDate>Fri, 24 Apr 2026 17:07:02 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>
