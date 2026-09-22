@@ -5,7 +5,13 @@
 <link>https://x.ai/news</link>
 <description>xAI / SpaceXAI news (scraped)</description>
 <language>en</language>
-<lastBuildDate>Tue, 22 Sep 2026 16:56:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:17:23 +0000</lastBuildDate>
+<item>
+<title>Product · How SpaceXAI is using Grok Bot to scale customer support</title>
+<link>https://x.ai/news/grok-bot-customer-support</link>
+<guid isPermaLink="true">https://x.ai/news/grok-bot-customer-support</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Grok 4.7 Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. Read More</title>
 <link>https://x.ai/news/grok-4-7</link>
@@ -31,7 +37,7 @@
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Product · Designing Grok Bot for a world of persistent agents</title>
+<title>Designing Grok Bot for a world of persistent agents How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.</title>
 <link>https://x.ai/news/designing-grok-bot</link>
 <guid isPermaLink="true">https://x.ai/news/designing-grok-bot</guid>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>

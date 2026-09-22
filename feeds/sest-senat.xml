@@ -5,7 +5,7 @@
 <link>https://www.sestsenat.org.br/noticias</link>
 <description>Notícias do SEST SENAT (API publicador; SPA sem RSS nativo)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 22 Sep 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:20:24 +0000</lastBuildDate>
 <item>
 <title>Trilhos para o Amanhã: SEST SENAT inicia formação ferroviária com mais de 700 mulheres inscritas</title>
 <link>https://www.sestsenat.org.br/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</link>
@@ -21,11 +21,11 @@
 <description>Notícia — Competição do SEST SENAT reúne motoristas de caminhões e ônibus em jornada de avaliações técnicas, de saúde e comportamentais</description>
 </item>
 <item>
-<title>Dia do Caminhoneiro: SEST SENAT promove ações de saúde e prevenção em PPDs</title>
-<link>https://www.sestsenat.org.br/noticia/dia-do-caminhoneiro-sest-senat-promove-aes-de-sade-e-preveno-em-ppds</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/dia-do-caminhoneiro-sest-senat-promove-aes-de-sade-e-preveno-em-ppds</guid>
-<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Mobilização da ANTT reuniu serviços e orientações para motoristas em Pindamonhangaba e Carandaí</description>
+<title>Leilão nacional do SEST SENAT disponibiliza 687 lotes de bens móveis</title>
+<link>https://www.sestsenat.org.br/noticia/leilao-nacional-do-sest-senat-disponibiliza-687-lotes-de-bens-moveis</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/leilao-nacional-do-sest-senat-disponibiliza-687-lotes-de-bens-moveis</guid>
+<pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Realizado em três etapas, o leilão reúne bens de Unidades em todo o Brasil, com participação aberta ao público</description>
 </item>
 <item>
 <title>Feira Emprega Transporte oferece mais de 1,4 mil vagas em Brasília</title>
@@ -33,6 +33,13 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/feira-emprega-transporte-oferece-mais-de-14-mil-vagas-em-braslia</guid>
 <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Evento do SEST SENAT reuniu mais de 3 mil profissionais e promoveu a conexão com empresas de diferentes setores</description>
+</item>
+<item>
+<title>Dia do Caminhoneiro: SEST SENAT promove ações de saúde e prevenção em PPDs</title>
+<link>https://www.sestsenat.org.br/noticia/dia-do-caminhoneiro-sest-senat-promove-aes-de-sade-e-preveno-em-ppds</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/dia-do-caminhoneiro-sest-senat-promove-aes-de-sade-e-preveno-em-ppds</guid>
+<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Mobilização da ANTT reuniu serviços e orientações para motoristas em Pindamonhangaba e Carandaí</description>
 </item>
 <item>
 <title>ENL Nexus 2026 conecta conhecimento e ação para transformar lideranças</title>
@@ -278,13 +285,6 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sistema-transporte--homenageado-como-mantenedor-social-do-observatrio-nacional-de-segurana-viria</guid>
 <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Reconhecimento ocorreu durante o evento Observatório Summit, realizado em São José dos Campos</description>
-</item>
-<item>
-<title>Conferência Nacional dos ODS conta com protagonismo do Sistema Transporte</title>
-<link>https://www.sestsenat.org.br/noticia/conferncia-nacional-dos-ods-conta-com-protagonismo-do-sistema-transporte</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/conferncia-nacional-dos-ods-conta-com-protagonismo-do-sistema-transporte</guid>
-<pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Instituição integra programação dos debates sobre a Agenda 2030, desenvolvimento sustentável e políticas públicas</description>
 </item>
 </channel>
 </rss>
