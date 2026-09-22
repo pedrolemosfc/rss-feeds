@@ -444,6 +444,16 @@
       "name": "sest-senat",
       "source_url": "https://www.sestsenat.org.br/noticias",
       "output": "feeds/sest-senat.xml"
+    },
+    {
+      "name": "cly-blog",
+      "ok": true,
+      "items": 50,
+      "output": "feeds/cly-blog.xml",
+      "source_url": "https://cly-blog.blogspot.com/",
+      "notes": "scraped 50 events",
+      "kind": "venue-scrape",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cly-blog.xml"
     }
   ],
   "venue_impossible": [

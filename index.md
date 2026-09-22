@@ -165,6 +165,9 @@ Generated: 2026-09-22 11:40 UTC
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
 
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events (Blogger native feed disabled)
+
 ## Combined feeds
 
 - **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  

@@ -2046,6 +2046,81 @@ def scrape_sest_senat(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     return sort_items(dedupe_items(items))[:50]
 
 
+
+def scrape_cly_blog(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """ClyBlog (Blogger). Native /feeds/posts/default is disabled (302 to hostname); scrape listing pages."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    url = "https://cly-blog.blogspot.com/search?max-results=20"
+    # Follow a few "older posts" pages.
+    for _ in range(4):
+        body, err = fetch_raw(url, timeout=40)
+        if err or not body:
+            break
+        blocks = re.findall(
+            r"<h2[^>]*class=['\"]date-header['\"][^>]*>\s*<span>([^<]+)</span>\s*</h2>([\s\S]*?)(?=<h2[^>]*class=['\"]date-header['\"]|$)",
+            body,
+            re.I,
+        )
+        for date_txt, block in blocks:
+            date_raw = None
+            dm = re.search(
+                r"(\d{1,2})\s+de\s+(janeiro|fevereiro|mar[cç]o|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)\s+de\s+(\d{4})",
+                date_txt,
+                re.I,
+            )
+            if dm:
+                mon = PT_MONTHS.get(dm.group(2).lower()) or PT_MONTHS.get(dm.group(2).lower()[:3])
+                if mon:
+                    date_raw = f"{int(dm.group(3)):04d}-{mon:02d}-{int(dm.group(1)):02d}"
+            for m in re.finditer(
+                r"<h3[^>]*class=['\"][^'\"]*post-title[^'\"]*['\"][^>]*>\s*<a[^>]+href=['\"]([^'\"]+)['\"][^>]*>([\s\S]*?)</a>",
+                block,
+                re.I,
+            ):
+                link = html_lib.unescape(m.group(1)).strip()
+                if link in seen:
+                    continue
+                title = re.sub(r"<[^>]+>", " ", m.group(2))
+                title = re.sub(r"\s+", " ", html_lib.unescape(title)).strip()
+                if not title or not link:
+                    continue
+                seen.add(link)
+                desc = "ClyBlog"
+                after = block[m.end() : m.end() + 2500]
+                labs = re.findall(
+                    r"/search/label/([^\"'?&]+)[\"'][^>]*>([^<]+)</a>",
+                    after,
+                    re.I,
+                )
+                if labs:
+                    labels = []
+                    for _slug, lab in labs[:6]:
+                        lab = re.sub(r"\s+", " ", html_lib.unescape(lab)).strip()
+                        if lab:
+                            labels.append(lab)
+                    if labels:
+                        desc = " · ".join(labels)
+                items.append(item(title, link, desc, date_raw))
+        if len(items) >= 50:
+            break
+        om = re.search(
+            r"blog-pager-older-link[^>]+href=['\"]([^'\"]+)['\"]",
+            body,
+            re.I,
+        )
+        if not om:
+            break
+        nxt = html_lib.unescape(om.group(1)).replace("&amp;", "&")
+        if not nxt.startswith("http"):
+            nxt = abs_url("https://cly-blog.blogspot.com", nxt)
+        if nxt == url:
+            break
+        url = nxt
+        time.sleep(0.35)
+    return sort_items(dedupe_items(items))[:50]
+
+
 def scrape_antt_portal(html: str, base: str) -> List[Dict[str, Any]]:
     """ANTT portal news (gov.br). Folder still named noticias-defeso-eleitoral; live news stream."""
     if not html:
@@ -2591,7 +2666,18 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "skip_fetch": True,
         "language": "pt-BR",
     },
+    {
+        "name": "cly-blog",
+        "source_url": "https://cly-blog.blogspot.com/",
+        "output": "cly-blog.xml",
+        "title": "ClyBlog",
+        "description": "ClyBlog (Blogger) — cinema, música, cotidianas e artes. Feed nativo desligado; scraped listing.",
+        "scraper": scrape_cly_blog,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
 ]
+
 
 
 
