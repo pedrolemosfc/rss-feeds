@@ -360,9 +360,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 21,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 21 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 8,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -506,7 +506,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
