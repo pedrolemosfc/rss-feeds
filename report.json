@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 items"
   },
   {
     "name": "noize",
@@ -567,9 +567,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 7,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 12,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -651,6 +651,15 @@
     "items": 40,
     "ok": true,
     "notes": "scraped 40 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cly-blog",
+    "source_url": "https://cly-blog.blogspot.com/",
+    "output": "feeds/cly-blog.xml",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   }
 ]

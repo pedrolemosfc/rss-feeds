@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 22 Sep 2026 11:38:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:57:42 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzOSIsImRpc2xpa2VzIjoiMCJ9?token=wzbSAlgJbdIWYGsUwa3gFpW_RYQx-Br5C60cipPpqr4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU0MCIsImRpc2xpa2VzIjoiMCJ9?token=hq3ci3pr74UsLLrDUOjrA8HzQnnnI31cNKReQGZ63tg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;539&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;540&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,353 +82,21 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Juan Diego Flórez e Vincenzo Scalera realizam recital em São Paulo</title>
-  <link>http://concerto.com.br/noticias/opera/juan-diego-florez-e-vincenzo-scalera-realizam-recital-em-sao-paulo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Juan Diego Flórez e Vincenzo Scalera realizam recital em São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 24, o tenor Juan Diego Flórez e o pianista Vincenzo Scalera realizam recital no Teatro Cultura Artística. O programa traz obras de Mozart, Rossini, Donizetti, Édouard Lalo e Verdi, com reapresentação no domingo, 27.&lt;/p&gt;
-&lt;p&gt;O peruano Juan Diego Flórez é uma das grandes vozes do cenário internacional. Nascido em 1973, em Lima, o tenor iniciou sua trajetória na música popular e apenas nos anos 1990 buscou a educação musical formal, conquistando uma vaga no Conservatório Nacional de Música do Peru. Em 1996, foi aceito no Rossini Opera Festival com um pequeno papel. Entretanto, uma substituição de última hora ao solista em &lt;em&gt;Matilde di Shabran&lt;/em&gt; revelou Flórez ao mundo, que, com o tempo, consagrou-se como grande intérprete das óperas de Rossini, Donizetti e Bellini.&lt;/p&gt;
-&lt;p&gt;Tenor ligeiro, ele acumulou grandes interpretações de óperas do período do bel canto e passou a se dedicar também ao repertório de canções. Ao longo do recital, ele canta a ária &lt;em&gt;La speranza più soave&lt;/em&gt;, da ópera &lt;em&gt;Semiramide&lt;/em&gt;, e as canções &lt;em&gt;La lontananza&lt;/em&gt; e &lt;em&gt;L’esul&lt;/em&gt;, compostas por Rossini. Obras de Donizetti, Verdi e Mozart também integram o programa.&lt;/p&gt;
-&lt;p&gt;O ítalo-americano Vincenzo Scalera acompanha Flórez. O pianista tem no currículo a preparação de cantores em teatros como o Scala de Milão e em eventos como o Festival de Salzburg. Ele também toca composições para piano solo de Rossini, Ernesto Lecuona e Benjamin Godard.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-09-24"&gt;&lt;span style="color:null;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Juan Diego Flórez e Vincenzo Scalera [Reprodução/ Instagram]" data-entity-type="file" data-entity-uuid="cd74f734-6f7f-4e09-ae39-86f414a103e0" src="http://concerto.com.br/sites/default/files/inline-images/w-florezscalera.jpg" /&gt;
-&lt;figcaption&gt;Juan Diego Flórez e Vincenzo Scalera [Reprodução/ Instagram]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 22:45&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-florezscalera.jpg" width="900" height="512" alt="Juan Diego Flórez e Vincenzo Scalera [Reprodução/ Instagram]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODMyMjgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=6vwDeAh8KWlz30ZUjbJXxcpoRKgrkWknUoAoqaAf-Y8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 22:45:02 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283228 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Furiosa Portátil recupera choros de Guerra-Peixe</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-recupera-choros-de-guerra-peixe</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Furiosa Portátil recupera choros de Guerra-Peixe&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quarta-feira, 23, e na quinta-feira, 24, a Orquestra Furiosa Portátil homenageia Guerra-Peixe na Casa do Choro, no Rio de Janeiro. Sob regência de Pedro Aragão, os músicos tocam os choros &lt;em&gt;Tereré&lt;/em&gt;, &lt;em&gt;Rabo de galo&lt;/em&gt;,&lt;em&gt; Desculpe, foi engano;&lt;/em&gt; &lt;em&gt;Inclemência&lt;/em&gt;, &lt;em&gt;Sátira&lt;/em&gt;, &lt;em&gt;Deu-se a melodia&lt;/em&gt; e &lt;em&gt;Vampiro moderno&lt;/em&gt;, e interpretam outras peças do compositor.&lt;/p&gt;
-&lt;p&gt;Guerra-Peixe foi um dos nomes centrais da música brasileira no século XX. Entre 1944 e 1948, foi aluno de Koellreutter e a fase inicial de suas composições foi marcada pelo dodecafonismo. No final da década de 1940, no entanto, abandonou a técnica do mestre e se dedicou à pesquisa folclórica e à música do Nordeste brasileiro, para onde se mudou. Visitou também o interior paulista, onde coletou jongos, sambas, cateretês, cururus, folias de reis, congadas e modas.&lt;/p&gt;
-&lt;p&gt;“Segundo a pesquisadora Ana Cláudia de Assis, essa mudança de orientação pode ser atribuída à insatisfação do compositor com o valor social de sua música dodecafônica, bem como à convivência com diferentes manifestações musicais nordestinas durante o período em que trabalhou na Rádio Nacional do Comércio do Recife, entre 1949 e 1952”, pontua Camila Fresca, em texto publicado na Revista CONCERTO [clique &lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-vida-e-obra-de-guerra-peixe"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/a&gt;].&lt;/p&gt;
-&lt;p&gt;Os choros atravessam diferentes décadas da obra do compositor. &lt;em&gt;Sátira &lt;/em&gt;e &lt;em&gt;Desculpe, foi engano&lt;/em&gt; são de 1943, enquanto &lt;em&gt;Vampiro moderno&lt;/em&gt; é de 1958. Diferentes do choro tradicional, as peças incorporam instrumentos de banda, como saxofones, trompetes e trombones. O repertório inclui ainda três dos dez &lt;em&gt;Prelúdios tropicais&lt;/em&gt;, compostos originalmente para piano e arranjados por Marcílio Lopes, que foi aluno de Guerra-Peixe.&lt;/p&gt;
-&lt;p&gt;Veja&lt;span style="color:null;"&gt; &lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-23"&gt;&lt;span style="color:null;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt; &lt;/u&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Orquestra Furiosa Portátil [Divulgação/Paulo Aragão]" data-entity-type="file" data-entity-uuid="b71a23c0-be12-457e-ad31-17ff2402ac0e" src="http://concerto.com.br/sites/default/files/inline-images/w-FuriosaPortatil_PauloAragao_div_0_0.jpg" /&gt;
-&lt;figcaption&gt;Orquestra Furiosa Portátil [Divulgação/Paulo Aragão]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 22:38&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-FuriosaPortatil_PauloAragao_div_0_0.jpg" width="900" height="600" alt="Orquestra Furiosa Portátil [Divulgação/Paulo Aragão]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODMyMjciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=MYHK_psRxTFMvv-7393J1sw84tQJNZ1HwYDK2lqX3Kc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 22:38:10 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283227 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Prepare-se: os destaques da semana da agenda de concertos</title>
-  <link>http://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-9</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prepare-se: os destaques da semana da agenda de concertos&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Programação da semana tem recitais do tenor Juan Diego Flórez em São Paulo, Pacifica Quarteto no Rio de Janeiro, Dmitri Shishkin em Belo Horizonte, e concertos em Londrina, Curitiba, Porto Alegre, Santo André e Salvador, além de apresentações dos solistas da Ópera Nacional da China.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Segunda-feira, 21&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;O &lt;strong&gt;Pacífica Quartet&lt;/strong&gt; realiza concerto no Theatro Municipal do Rio de Janeiro, pela Série O Globo/Dellarte. Os violinista Simin Ganatra e Austin Hartman, o violinista Mark Holloway e o violoncelista Brandon Vamos apresentam programa com obras de Beethoven, Mendelssohn e Ligeti.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Uniopera&lt;/strong&gt; abre uma série de apresentações ao longo das quais vai apresentar, no Teatro Bradesco, as &lt;em&gt;Quatro estações&lt;/em&gt;, de Vivaldi, com solos de Carolina Kliemann e regência de Luciano Camargo.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quinta-feira, 24&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pela Série Dellarte, a &lt;strong&gt;Wiener Kammersymphonie&lt;/strong&gt; se apresenta no Teatro B32, em São Paulo. O conjunto interpreta obras de Mozart, Stefan Pelzl, R. Strauss e Kurt Weill.&lt;/p&gt;
-&lt;p&gt;O tenor &lt;strong&gt;Juan Diego Flórez&lt;/strong&gt; e o pianista &lt;strong&gt;Vincenzo Scalera&lt;/strong&gt; realizam recital no Teatro Cultura Artística. O programa traz obras de Mozart, Rossini, Donizetti, Édouard Lalo e Verdi; com reapresentação no domingo, 27.&lt;/p&gt;
-&lt;p&gt;A cantora &lt;strong&gt;Mônica Salmaso&lt;/strong&gt;, o flautista &lt;strong&gt;Teco Cardoso&lt;/strong&gt; e o violonista&lt;strong&gt; João Camarero&lt;/strong&gt; se apresentam no Teatro Iguatemi. O trio apresenta o espetáculo Tom, dedicado à obra de Tom Jobim.&lt;/p&gt;
-&lt;p&gt;No Rio de Janeiro, a &lt;strong&gt;Orquestra Furiosa Portátil &lt;/strong&gt;homenageia Guerra-Peixe na Casa do Choro. Os músicos tocam os choros&lt;em&gt; Tereré&lt;/em&gt;; &lt;em&gt;Rabo de Galo&lt;/em&gt;; &lt;em&gt;Desculpe, foi engano&lt;/em&gt;; &lt;em&gt;Inclemência&lt;/em&gt;; &lt;em&gt;Sátira &lt;/em&gt;e &lt;em&gt;Deu-se a melodia&lt;/em&gt;, além de interpretar outras peças do compositor.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sexta-feira, 25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Em Curitiba, a &lt;strong&gt;Orquestra de Câmara de Curitiba&lt;/strong&gt; interpreta programa dedicado à dança, no Capela Santa Maria Espaço Cultural. Sob regência de Knut Andreas, o programa traz obras de Níkos Skalkótas, Ottorino Respighi e Leoš Janáček, com reapresentação no sábado, 26.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Porto Alegre&lt;/strong&gt; se apresenta no Complexo Cultural Casa da Ospa. José Soares rege a orquestra, que convida o percussionista Douglas Gutjahr para interpretar &lt;em&gt;Dichotomous figures&lt;/em&gt;, de R. Aaron Walters. A orquestra também toca&lt;em&gt; &lt;/em&gt;Stravinsky e&lt;em&gt; &lt;/em&gt;Tan Dun.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, 26&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica Municipal de Botucatu&lt;/strong&gt; realiza concerto na Sala São Paulo. Regida por Fernando Ortiz de Villate, a orquestra recebe &lt;strong&gt;Karin Fernandes&lt;/strong&gt; para o &lt;em&gt;Concerto nº 1 para piano&lt;/em&gt;, de Villani-Côrtes. &lt;em&gt;Caetê Jururê &lt;/em&gt;e &lt;em&gt;Oferenda&lt;/em&gt; completam o programa.&lt;/p&gt;
-&lt;p&gt;Em Santo André, a &lt;strong&gt;Orquestra Sinfônica de Santo André&lt;/strong&gt; recebe Fabio Martino para concerto do Festival Tchaikovsky. Abel Rocha e Marcelo Falcão regem solista e orquestra no &lt;em&gt;Concerto para piano nº 1, op. 23&lt;/em&gt;, na &lt;em&gt;Sinfonia nº 5&lt;/em&gt; e na &lt;em&gt;Abertura-fantasia de Romeu e Julieta&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;A&lt;strong&gt; Orquestra Sinfônica da Universidade Estadual de Londrina&lt;/strong&gt; apresenta concerto da Série Contos no Cine Teatro Ouro, em Londrina. Werner Silveira rege&lt;em&gt; O pequeno polegar&lt;/em&gt;, de Ravel, e&lt;em&gt; Pedro e o lobo&lt;/em&gt;, de Prokofiev, com narração de Edinho Moreno. O programa se repete no domingo, 27.&lt;/p&gt;
-&lt;p&gt;No Rio de Janeiro, a &lt;strong&gt;Orquestra Sinfônica Brasileira &lt;/strong&gt;interpreta trilhas sonoras de John Williams no Teatro Odylo Costa Filho. Matheus Carneiro rege a orquestra nas trilhas de &lt;em&gt;Star Wars&lt;/em&gt;,&lt;em&gt; E.T.&lt;/em&gt;,&lt;em&gt; Superman&lt;/em&gt;,&lt;em&gt; Tubarão&lt;/em&gt;, &lt;em&gt;Indiana Jones&lt;/em&gt; e J&lt;em&gt;urassic Park&lt;/em&gt;, com reapresentação no domingo, 27.&lt;/p&gt;
-&lt;p&gt;O pianista&lt;strong&gt; Dmitry Shishkin&lt;/strong&gt; se junta à&lt;strong&gt; Filarmônica de Minas Gerais&lt;/strong&gt; na Sala Minas Gerais, em Belo Horizonte. Sob regência de Fabio Mechetti, o programa traz o &lt;em&gt;Concerto para piano nº 2&lt;/em&gt;,&lt;em&gt; op. 85&lt;/em&gt;, de Hummel. A orquestra também toca a &lt;em&gt;Sinfonia nº 5 &lt;/em&gt;e a&lt;em&gt; Abertura rei Estêvão&lt;/em&gt;, de Beethoven.&lt;/p&gt;
-&lt;p&gt;Em Curitiba, o &lt;strong&gt;Ensemble São Paulo&lt;/strong&gt; e Luís Guilherme Pozzi tocam obras de Dvořák na Artestil Galeria de Arte. Com Betina Stegmann e Nelson Rios no violino, Marcelo Jaffé na viola e Kim Bak Dinitzen no violoncelo, o conjunto toca obras de Dvorák.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Domingo, 27&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Estação Motiva Cultural &lt;/strong&gt;aproxima a música e a infância em concerto da Série Primeiros Acordes. Orientados por Carmen Orofino, jovens músicos tocam repertório voltado aos bebês.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solistas da Ópera Nacional da China &lt;/strong&gt;se apresentam no Sesc Pinheiros. O programa faz parte do Projeto Ano Cultural Brasil-China 2026 e conta com obras de Rossini, Mozart, Bizet, Bellini, J. Strauss, Puccini, Offenbach e Luan Kai.&lt;/p&gt;
-&lt;p&gt;Em Salvador, Carlos Prazeres rege o concerto de aniversário da&lt;strong&gt; Orquestra Sinfônica da Bahia&lt;/strong&gt;. A orquestra recebe a violinista Olga Rato e a soprano Camila Provenzale para obras de Beethoven e Richard Strauss.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O tenor Juan Diego Florez [Divulgação]" data-entity-type="file" data-entity-uuid="af87bd7e-b65d-4060-a4bc-389827c79830" src="http://concerto.com.br/sites/default/files/inline-images/w-juan_diego.jpg" /&gt;
-&lt;figcaption&gt;O tenor Juan Diego Florez [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Ouvinte Crítico &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/ouvinte-critico/opera-don-carlo-participe-da-enquete-e-de-sua-opiniao-no-ouvinte-critico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Ópera ‘Don Carlo’: participe da enquete e dê a sua opinião no Ouvinte Crítico&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/tenor-jose-carreras-cancela-apresentacoes-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tenor José Carreras cancela apresentações no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/uniopera-faz-serie-de-apresentacoes-com-quatro-estacoes-de-vivaldi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera faz série de apresentações com as 'Quatro estações’ de Vivaldi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/governo-alemao-vai-investir-225-milhoes-de-euros-na-reforma-da" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pacifica-quartet-interpreta-mendelssohn-ligeti-e-beethoven-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pacifica Quartet interpreta Mendelssohn, Ligeti e Beethoven no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/final-do-premio-citi-2026-revela-vencedores" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Final do Prêmio Citi 2026 revela vencedores&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/interrupcao-das-atividades-da-empem-leva-abm-solicitar-acao-da-prefeitura-de-piracicaba" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Interrupção das atividades da Empem leva ABM a solicitar ação da Prefeitura de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Opinião&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/opiniao/primeiro-morrem-escolas-de-musica-depois-morremos-nos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;“Primeiro morrem as escolas de música, depois morremos nós...”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/andras-schiff-e-guido-santanna-fazem-recital-historico-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;András Schiff e Guido Sant'Anna fazem recital histórico no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 22:17&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/juan_diego_florez.jpg" width="619" height="495" alt="O tenor Juan Diego Florez [Divulgação]" title="O tenor Juan Diego Florez [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODI5NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=UrGdXQfizM5d6uE_qkyS5JNOmETJqygxx1n3k90YqIQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 22:17:08 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282979 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Filarmônica OntoArte Recanto Maestro inaugura Escola de Música </title>
-  <link>http://concerto.com.br/noticias/reportagem/filarmonica-ontoarte-recanto-maestro-inaugura-escola-de-musica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica OntoArte Recanto Maestro inaugura Escola de Música &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Projeto desenvolvido no distrito Recanto Maestro, entre as cidades de Restinga Sêca e São João do Polêsine, no Rio Grande do Sul, ganha escola de música, “projetada para unir funcionalidade, excelência acústica e integração com a natureza”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Filarmônica OntoArte Recanto Maestro (Forma) inaugura neste mês a Escola de Música Forma, novo espaço dedicado ao ensino de música sinfônica na região da Quarta Colônia, a cerca de 270 km de Porto Alegre, no Rio Grande do Sul. O prédio, de 590 m², foi construído no distrito Recanto Maestro, entre Restinga Sêca e São João do Polêsine, com investimento de R$ 3 milhões da Fundação Antonio Meneghetti e de apoiadores da Orquestra Jovem Recanto Maestro (OJRM) e da própria Forma. Segundo o release, a escola foi “projetada para unir funcionalidade, excelência acústica e integração com a natureza”.&lt;/p&gt;
-&lt;p&gt;O prédio abriga 12 salas de aula e práticas instrumentais, além de uma sala de ensaio e concertos de 140 m². A arquitetura, assinada por Nathalia Grutzmacher, inclui grandes esquadrias voltadas para o norte, que ampliam a entrada de luz natural e conectam os ambientes internos à paisagem do Recanto Maestro. O tratamento acústico foi desenvolvido em parceria com o engenheiro de som Marcos Abreu, falecido em julho deste ano.&lt;/p&gt;
-&lt;p&gt;A inauguração marca uma nova etapa para a Orquestra Jovem Recanto Maestro. Fundada em 2015 e responsável pelo ensino de música para mais de 890 crianças e jovens de oito municípios da região, a OJRM tem direção-geral do empresário Claudio Carrara, direção pedagógica do maestro Antônio Carlos Borges-Cunha e coordenação-executiva do músico Michael Penna. O projeto acompanha os estudantes desde a musicalização inicial até a participação em diferentes formações orquestrais, podendo culminar no ingresso na Filarmônica OntoArte Recanto Maestro. Um diferencial artístico do projeto é a presença do compositor residente Vagner Cunha, que desenvolve obras e arranjos exclusivos e inéditos para a orquestra e para a Forma.&lt;/p&gt;
-&lt;p&gt;A nova escola poderá ser conhecida pelo público em um concerto no sábado, dia 26 de setembro, em que se apresentará a Orquestra Jovem Recanto Maestro, em formação sinfônica, sob regência do maestro Julian Ramos. Os ingressos são gratuitos e poderão ser retirados antecipadamente pelo Sympla.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-09-26" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para mais detalhes do Roteiro Musical.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Nova Escola de Música Forma, no distrito Recanto Maestro, no Rio Grande do Sul (divulgação, Fundação Antonio Meneghetti)" data-entity-type="file" data-entity-uuid="9d13540f-5873-4635-9b21-fc68cc234b1b" src="http://concerto.com.br/sites/default/files/inline-images/w-Escola-de-Musica-FORMA---Credito-Fundacao-Antonio-Meneghetti_0.jpg" /&gt;
-&lt;figcaption&gt;Nova Escola de Música Forma, no distrito Recanto Maestro, no Rio Grande do Sul (divulgação, Fundação Antonio Meneghetti)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 21:01&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Escola-de-Musica-FORMA---Credito-Fundacao-Antonio-Meneghetti.jpg" width="900" height="516" alt="Nova Escola de Música Forma, no distrito Recanto Maestro, no Rio Grande do Sul (divulgação, Fundação Antonio Meneghetti)" title="Nova Escola de Música Forma, no distrito Recanto Maestro, no Rio Grande do Sul (divulgação, Fundação Antonio Meneghetti)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODMyMjkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=nIndhde37-phLI5ZnwdNwuoT61R3VI2Q2Drv8FBBENc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 21 Sep 2026 21:01:18 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283229 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Quarteto Atlas</title>
-  <link>http://concerto.com.br/roteiros/quarteto-atlas-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quarteto Atlas&lt;/span&gt;
+  <title>V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas </title>
+  <link>http://concerto.com.br/roteiros/v-encontro-da-abracello-e-iv-simposio-da-abracello-associacao-brasileira-de-3</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 21:00&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:19&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Projeto Villa-Lobos e os quartetos de cordas. Ricardo Amado e Carlos Mendes - violinos, Ricardo Taboada - viola e Ricardo Santoro - violoncelo. Programa: Villa-Lobos - Quarteto nº 1, nº 5 e nº 17. &lt;br /&gt;
+              &lt;div class="field__item"&gt;Concertos, simpósio acadêmico e encontros de violoncelistas. Favor confirmar horários e programação no Instagram: @abracello.&lt;br /&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-25T11:00:00Z" class="datetime"&gt;dom, 25/10/2026 - 11:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-12T19:00:00Z" class="datetime"&gt;seg, 12/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -439,7 +107,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -460,12 +128,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/210883" hreflang="pt-br"&gt;Centro Municipal de Referência da Música Carioca Artur da Távola (156 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos na bilheteria uma hora antes do espetáculo.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -473,30 +136,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 21 Sep 2026 21:00:51 +0000</pubDate>
+  <pubDate>Tue, 22 Sep 2026 16:19:01 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283226 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283317 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Quarteto Atlas</title>
-  <link>http://concerto.com.br/roteiros/quarteto-atlas-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quarteto Atlas&lt;/span&gt;
+  <title>V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas </title>
+  <link>http://concerto.com.br/roteiros/v-encontro-da-abracello-e-iv-simposio-da-abracello-associacao-brasileira-de-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:54&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:18&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Projeto Villa-Lobos e os quartetos de cordas. Ricardo Amado e Carlos Mendes - violinos, Ricardo Taboada - viola e Ricardo Santoro - violoncelo. Programa: Villa-Lobos - Quarteto nº 1, nº 5 e nº 17. Teatro da UFF. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 25 às 11h no Centro da Música Carioca Artur da Távola.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, simpósio acadêmico e encontros de violoncelistas. Continuidade até dia 12. Favor confirmar horários e programação no Instagram: @abracello.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-20T19:00:00Z" class="datetime"&gt;ter, 20/10/2026 - 19:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-11T19:00:00Z" class="datetime"&gt;dom, 11/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -507,7 +166,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2796" hreflang="pt-br"&gt;Niterói, RJ&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -528,12 +187,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-das-artes-da-uff" hreflang="und"&gt;Centro de Artes da UFF - Cine Arte UFF (525 lugares) e Teatro da UFF (396 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos na bilheteria uma hora antes do espetáculo.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -541,25 +195,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 21 Sep 2026 20:54:48 +0000</pubDate>
+  <pubDate>Tue, 22 Sep 2026 16:18:36 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283225 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283316 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-55</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
+  <title>V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas </title>
+  <link>http://concerto.com.br/roteiros/v-encontro-da-abracello-e-iv-simposio-da-abracello-associacao-brasileira-de-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:36&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:18&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Especial. Jovana Trifunovic – direção e violino. Jairo Chaves – viola. Programa: Piazzolla – Adiós Nonino, Oblivión, Tango Café 1930, Le Grand Tango e As quatro estações portenhas. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, simpósio acadêmico e encontros de violoncelistas. Continuidade até dia 12. Favor confirmar horários e programação no Instagram: @abracello.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-10T20:00:00Z" class="datetime"&gt;sab, 10/10/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-10T19:00:00Z" class="datetime"&gt;sab, 10/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -570,7 +225,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -591,12 +246,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -604,30 +254,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 21 Sep 2026 20:36:12 +0000</pubDate>
+  <pubDate>Tue, 22 Sep 2026 16:18:09 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283224 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283315 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-54</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
+  <title>V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas </title>
+  <link>http://concerto.com.br/roteiros/v-encontro-da-abracello-e-iv-simposio-da-abracello-associacao-brasileira-de-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 21/09/2026 - 20:35&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:17&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Especial. Jovana Trifunovic – direção e violino. Jairo Chaves – viola. Programa: Piazzolla – Adiós Nonino, Oblivión, Tango Café 1930, Le Grand Tango e As quatro estações portenhas. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 10 às 20h. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, simpósio acadêmico e encontros de violoncelistas. Continuidade até dia 12. Favor confirmar horários e programação no Instagram: @abracello.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-09T20:00:00Z" class="datetime"&gt;sex, 09/10/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-09T19:00:00Z" class="datetime"&gt;sex, 09/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -638,7 +284,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -659,12 +305,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -672,9 +313,256 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 21 Sep 2026 20:35:28 +0000</pubDate>
+  <pubDate>Tue, 22 Sep 2026 16:17:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283223 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283314 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas </title>
+  <link>http://concerto.com.br/roteiros/v-encontro-da-abracello-e-iv-simposio-da-abracello-associacao-brasileira-de-violoncelistas</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;V Encontro da Abracello e IV Simpósio da Abracello – Associação Brasileira de Violoncelistas &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:15&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, simpósio acadêmico e encontros de violoncelistas. Continuidade até dia 12. Favor confirmar horários e programação no Instagram: @abracello. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-08T19:00:00Z" class="datetime"&gt;qui, 08/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 22 Sep 2026 16:15:04 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283313 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica do Estado do Espírito Santo</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-do-estado-do-espirito-santo-380</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica do Estado do Espírito Santo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:13&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporada Manifestação do amor. Série Concertos sinfônicos. Helder Trefzger – regente. Ludmila Bauerfeldt – soprano. Programa: R. Strauss – Quatro últimas canções, Assim falou Zarathustra op. 30 e A canção dançante. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-01T20:00:00Z" class="datetime"&gt;qui, 01/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universit%C3%A1rio-ufes" hreflang="pt-br"&gt;Teatro Universitário - UFES &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 10.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 22 Sep 2026 16:13:30 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283312 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica do Estado do Espírito Santo</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-do-estado-do-espirito-santo-379</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica do Estado do Espírito Santo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:12&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporada Manifestação de amor.  Série Famílias. Sanny Souza – regente. Programa: J. Strauss Jr – Tritsch-Tratsch-Polka op. 214; Mozart – Marcha turca; John Williams – Harry Potter; Henry Mancini – A pantera cor-de-rosa; Klaus Badelt – Piratas do Caribe; Elodie Bouny – Suíte infância brasileira; Chiquinha Gonzaga – Forrobodó; e Nazareth – Tico-tico no fubá. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-11T11:00:00Z" class="datetime"&gt;dom, 11/10/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1489" hreflang="pt-br"&gt;Vila Velha, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/260259" hreflang="pt-br"&gt;Parque Cultural Casa do Governador&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 22 Sep 2026 16:12:11 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283311 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Coro da Osesp</title>
+  <link>http://concerto.com.br/roteiros/coro-da-osesp-197</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coro da Osesp&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 22/09/2026 - 16:10&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Coro Itinerante. Kaique Stumpf – regente. Programa: Bruckner – Locus iste e Os justi; Brahms – Geistliches lied op. 30; Fauré – Cantique de Jean Racine op. 11; Vaughan Williams – Three Shakespeare songs; Morten Lauridsen – Les chansons des roses 4 e 5; Danilo Guanaes Vaz – Mulungu fuloriô; Luiz Gonzaga – Asa branca; e Marlos Nobre – Cancioneiro de Lampião. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T16:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 16:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1433" hreflang="pt-br"&gt;Vinhedo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/mosteiro-de-sao-bento-vinhedo" hreflang="pt-br"&gt;Mosteiro de São Bento - Vinhedo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, distribuição de ingressos 1h30 antes do concerto, limitado 2 por pessoa.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 22 Sep 2026 16:10:59 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283310 at http://concerto.com.br</guid>
     </item>
 
   </channel>
