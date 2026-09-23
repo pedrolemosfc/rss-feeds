@@ -5,7 +5,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 22 Sep 2026 21:18:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 04:44:56 +0000</lastBuildDate>
 <item>
 <title>LEO JAIME</title>
 <link>https://bluenotesp.com/shows/leo-jaime/</link>
@@ -123,6 +123,13 @@
 <link>https://bluenotesp.com/shows/helga-nemetik-canta-fafa-de-belem/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/helga-nemetik-canta-fafa-de-belem/</guid>
 <pubDate>Thu, 03 Sep 2026 17:50:04 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>DANIEL DAIBEM TRIO</title>
+<link>https://bluenotesp.com/shows/daniel-daibem-trio/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/daniel-daibem-trio/</guid>
+<pubDate>Thu, 03 Sep 2026 17:49:11 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -347,13 +354,6 @@
 <link>https://bluenotesp.com/shows/demonios-da-garoa/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/demonios-da-garoa/</guid>
 <pubDate>Wed, 10 Jun 2026 18:12:39 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>MUSICMAN JAZZ – TRIBUTO A MILES DAVIS</title>
-<link>https://bluenotesp.com/shows/tributo-a-miles-davis-nefertiti/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-miles-davis-nefertiti/</guid>
-<pubDate>Wed, 10 Jun 2026 18:10:44 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>

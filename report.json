@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 55,
+    "items": 56,
     "ok": true,
-    "notes": "scraped 55 items"
+    "notes": "scraped 56 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 187,
+    "items": 188,
     "ok": true,
-    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -191,7 +191,7 @@
     "output": "feeds/kmm-blog.xml",
     "items": 10,
     "ok": true,
-    "notes": "mirrored 10 native items (WordPress site feed; /blog/feed/ is comments-only)",
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -261,6 +261,24 @@
     "name": "concerto",
     "source_url": "https://concerto.com.br/rss.xml",
     "output": "feeds/concerto.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
+    "name": "abti",
+    "source_url": "https://www.abti.org.br/feed/",
+    "output": "feeds/abti.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
+    "name": "buonny-blog",
+    "source_url": "https://buonny.com.br/feed/",
+    "output": "feeds/buonny-blog.xml",
     "items": 10,
     "ok": true,
     "notes": "mirrored 10 native items",
@@ -396,9 +414,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 19,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 53,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 53 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +468,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -515,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -672,24 +690,6 @@
     "kind": "venue-scrape"
   },
   {
-    "name": "abti",
-    "source_url": "https://www.abti.org.br/feed/",
-    "output": "feeds/abti.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
-    "kind": "native-mirror"
-  },
-  {
-    "name": "buonny-blog",
-    "source_url": "https://buonny.com.br/feed/",
-    "output": "feeds/buonny-blog.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
-    "kind": "native-mirror"
-  },
-  {
     "name": "itl-noticias",
     "source_url": "https://itl.org.br/noticias/",
     "output": "feeds/itl-noticias.xml",
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 25,
-    "ok": true,
-    "notes": "scraped 25 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   }
 ]
