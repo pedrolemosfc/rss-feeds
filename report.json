@@ -19,17 +19,17 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 56,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 56 items"
+    "notes": "scraped 55 items"
   },
   {
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 79,
+    "items": 78,
     "ok": true,
-    "notes": "scraped 79 items"
+    "notes": "scraped 78 items"
   },
   {
     "name": "guia-shows",
@@ -155,17 +155,17 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 188,
+    "items": 187,
     "ok": true,
-    "notes": "merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 174,
+    "items": 173,
     "ok": true,
-    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 58,
+    "items": 59,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 59 events",
     "kind": "venue-scrape"
   },
   {
@@ -324,9 +324,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 9,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 31,
+    "items": 32,
     "ok": true,
-    "notes": "scraped 31 events",
+    "notes": "scraped 32 events",
     "kind": "venue-scrape"
   },
   {
