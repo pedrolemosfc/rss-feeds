@@ -184,6 +184,11 @@
       "output": "feeds/ens-acontece.xml"
     },
     {
+      "name": "kmm-blog",
+      "source_url": "https://kmm.com.br/feed/",
+      "output": "feeds/kmm-blog.xml"
+    },
+    {
       "name": "nubank-parque-shows",
       "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
       "output": "feeds/nubank-parque-shows.xml"

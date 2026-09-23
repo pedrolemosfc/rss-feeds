@@ -60,6 +60,8 @@ Generated: 2026-09-22 21:20 UTC
   notes: mirrored 10 native items
 - **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
   notes: mirrored 10 native items
+- **kmm-blog** [OK] items=10 → `feeds/kmm-blog.xml`  source: https://kmm.com.br/feed/  
+  notes: mirrored 10 native items (WordPress site feed; /blog/feed/ is comments-only)
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  

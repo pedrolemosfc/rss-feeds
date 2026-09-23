@@ -879,6 +879,13 @@ VENUE_NATIVE_MIRRORS = [
         "insecure_ssl": True,
     },
     {
+        "source_url": "https://kmm.com.br/feed/",
+        "out_name": "kmm-blog.xml",
+        "title": "KMM — Blog",
+        "link": "https://kmm.com.br/blog/",
+        "description": "Espelho do RSS nativo do blog KMM (WordPress /feed/). /blog/feed/ é só comentários; site feed cobre posts recentes do blog.",
+    },
+    {
         "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
         "out_name": "nubank-parque-shows.xml",
         "title": "Nubank Parque — Shows",
