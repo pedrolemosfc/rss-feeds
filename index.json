@@ -479,6 +479,11 @@
       "name": "cnt-pesquisas",
       "source_url": "https://www.cnt.org.br/pesquisas",
       "output": "feeds/cnt-pesquisas.xml"
+    },
+    {
+      "name": "cafe-com-tony",
+      "source_url": "https://www.youtube.com/@cafecomtony/videos",
+      "output": "feeds/cafe-com-tony.xml"
     }
   ],
   "venue_impossible": [

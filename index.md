@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-23 03:27 UTC
+Generated: 2026-09-23 03:46 UTC
 
 ## Native feeds (not scraped)
 
@@ -179,6 +179,8 @@ Generated: 2026-09-23 03:27 UTC
   notes: scraped 39 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
+- **cafe-com-tony** [OK] items=25 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 25 events
 
 ## Combined feeds
 

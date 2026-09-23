@@ -2444,6 +2444,145 @@ def scrape_cnt_pesquisas(_html: str = "", _base: str = "") -> List[Dict[str, Any
 
 
 
+def scrape_cafe_com_tony(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """YouTube @cafecomtony (Café com Tony / Coffee with Tony | Podcast).
+
+    Official Atom (often 404/500 from this environment; Reader may reject channel URLs):
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCHWC7c5-y5Ii8ZGiDzVSx8Q
+
+    Prefer yt-dlp for reliable title/link/pubDate; fall back to Atom parse, then flat playlist.
+    """
+    import shutil
+    import subprocess
+
+    channel_id = "UCHWC7c5-y5Ii8ZGiDzVSx8Q"
+    channel_videos = "https://www.youtube.com/@cafecomtony/videos"
+    atom_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    limit = 25
+    items: List[Dict[str, Any]] = []
+
+    def _from_atom(body: str) -> List[Dict[str, Any]]:
+        out: List[Dict[str, Any]] = []
+        for em in re.finditer(r"<entry>([\s\S]*?)</entry>", body, re.I):
+            block = em.group(1)
+            tm = re.search(r"<title[^>]*>([\s\S]*?)</title>", block, re.I)
+            lm = re.search(
+                r'<link[^>]+rel=["\']alternate["\'][^>]+href=["\']([^"\']+)["\']',
+                block,
+                re.I,
+            ) or re.search(r'<link[^>]+href=["\'](https://www\.youtube\.com/watch\?v=[^"\']+)["\']', block, re.I)
+            pm = re.search(r"<published>([^<]+)</published>", block, re.I)
+            dm = re.search(r"<media:description[^>]*>([\s\S]*?)</media:description>", block, re.I)
+            vid = re.search(r"<yt:videoId>([^<]+)</yt:videoId>", block, re.I)
+            title = html_lib.unescape(re.sub(r"<[^>]+>", "", tm.group(1))).strip() if tm else ""
+            link = html_lib.unescape(lm.group(1)).strip() if lm else ""
+            if not link and vid:
+                link = f"https://www.youtube.com/watch?v={vid.group(1).strip()}"
+            if not title or not link:
+                continue
+            desc = html_lib.unescape(re.sub(r"<[^>]+>", " ", dm.group(1))).strip() if dm else "Café com Tony"
+            desc = re.sub(r"\s+", " ", desc).strip()
+            date_raw = (pm.group(1).strip() if pm else None)
+            out.append(item(title, link, desc or "Café com Tony", date_raw))
+            if len(out) >= limit:
+                break
+        return out
+
+    def _ytdlp_dump(args: List[str], timeout: int = 120) -> List[Dict[str, Any]]:
+        ytdlp = shutil.which("yt-dlp")
+        if not ytdlp:
+            return []
+        try:
+            proc = subprocess.run(
+                [ytdlp, *args, channel_videos],
+                capture_output=True,
+                text=True,
+                timeout=timeout,
+                check=False,
+            )
+        except (OSError, subprocess.TimeoutExpired):
+            return []
+        out: List[Dict[str, Any]] = []
+        for line in (proc.stdout or "").splitlines():
+            line = line.strip()
+            if not line.startswith("{"):
+                continue
+            try:
+                row = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if not isinstance(row, dict):
+                continue
+            vid = (row.get("id") or "").strip()
+            title = (row.get("title") or "").strip()
+            link = (row.get("url") or row.get("webpage_url") or "").strip()
+            if not link and vid:
+                link = f"https://www.youtube.com/watch?v={vid}"
+            if not title or not link:
+                continue
+            desc = (row.get("description") or "").strip() or "Café com Tony"
+            # Prefer ISO date; yt-dlp upload_date is YYYYMMDD
+            date_raw = None
+            ts = row.get("timestamp") or row.get("release_timestamp")
+            if isinstance(ts, (int, float)) and ts > 0:
+                date_raw = datetime.fromtimestamp(int(ts), tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            else:
+                ud = (row.get("upload_date") or "").strip()
+                if re.fullmatch(r"\d{8}", ud):
+                    date_raw = f"{ud[0:4]}-{ud[4:6]}-{ud[6:8]}"
+            thumb = None
+            thumbs = row.get("thumbnails") or []
+            if isinstance(thumbs, list) and thumbs:
+                last = thumbs[-1]
+                if isinstance(last, dict):
+                    thumb = last.get("url")
+            if thumb and desc:
+                desc = f"{desc} | thumb: {thumb}"
+            out.append(item(title, link, desc, date_raw))
+            if len(out) >= limit:
+                break
+        return out
+
+    # 1) Official Atom (when reachable)
+    body, err = fetch_raw(
+        atom_url,
+        timeout=20,
+        headers={"Accept": "application/atom+xml,application/xml,text/xml,*/*"},
+    )
+    if body and "<entry" in body:
+        items = _from_atom(body)
+
+    # 2) yt-dlp with full metadata (titles + upload dates)
+    if len(items) < 5:
+        items = _ytdlp_dump(
+            [
+                "--skip-download",
+                "--dump-json",
+                "--playlist-end",
+                str(limit),
+                "--no-warnings",
+            ],
+            timeout=180,
+        )
+
+    # 3) Flat playlist fallback (fast; may lack pubDate)
+    if len(items) < 5:
+        items = _ytdlp_dump(
+            [
+                "--flat-playlist",
+                "--dump-json",
+                "--playlist-end",
+                str(limit),
+                "--no-warnings",
+            ],
+            timeout=60,
+        )
+
+    return sort_items(dedupe_items(items))[:limit]
+
+
+
+
 VENUE_IMPOSSIBLE = [
     {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
@@ -2889,6 +3028,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "CNT — Pesquisas e Estudos",
         "description": "Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)",
         "scraper": scrape_cnt_pesquisas,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "cafe-com-tony",
+        "source_url": "https://www.youtube.com/@cafecomtony/videos",
+        "output": "cafe-com-tony.xml",
+        "title": "Coffee with Tony | Podcast",
+        "description": "Café com Tony (@cafecomtony) — recent YouTube uploads. Official Atom (often flaky): https://www.youtube.com/feeds/videos.xml?channel_id=UCHWC7c5-y5Ii8ZGiDzVSx8Q",
+        "scraper": scrape_cafe_com_tony,
         "skip_fetch": True,
         "language": "pt-BR",
     },

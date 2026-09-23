@@ -715,5 +715,14 @@
     "ok": true,
     "notes": "scraped 36 events",
     "kind": "venue-scrape"
+  },
+  {
+    "name": "cafe-com-tony",
+    "source_url": "https://www.youtube.com/@cafecomtony/videos",
+    "output": "feeds/cafe-com-tony.xml",
+    "items": 25,
+    "ok": true,
+    "notes": "scraped 25 events",
+    "kind": "venue-scrape"
   }
 ]
