@@ -5,7 +5,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 23 Sep 2026 04:47:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 11:37:57 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT/MDA mostra cenário eleitoral na reta final da campanha</title>
 <link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</link>
@@ -40,12 +40,6 @@
 <description>COP — Publicação no Correio Braziliense integra iniciativas do Sistema Transporte que antecedem a Conferência do Clima, em novembro, na Turquia</description>
 </item>
 <item>
-<title>Trilhos para o Amanhã: SEST SENAT inicia formação ferroviária com mais de 700 mulheres inscritas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</guid>
-<description>SEST SENAT — Curso Básico em Ferrovias inaugura portfólio de capacitações para o segmento, com turmas exclusivas para mulheres e apoio da ANTF e da ANPTrilhos</description>
-</item>
-<item>
 <title>Motorista Série A abre inscrições para edição 2026/2027</title>
 <link>https://www.cnt.org.br/imprensa/noticia/motorista-srie-a-abre-inscries-para-edio-20262027</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/motorista-srie-a-abre-inscries-para-edio-20262027</guid>
@@ -56,6 +50,12 @@
 <link>https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</guid>
 <description>ITL — Formação reúne 40 profissionais de empresas de transporte de diferentes modais e amplia a qualificação de lideranças do setor</description>
+</item>
+<item>
+<title>Trilhos para o Amanhã: SEST SENAT inicia formação ferroviária com mais de 700 mulheres inscritas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</guid>
+<description>SEST SENAT — Curso Básico em Ferrovias inaugura portfólio de capacitações para o segmento, com turmas exclusivas para mulheres e apoio da ANTF e da ANPTrilhos</description>
 </item>
 <item>
 <title>Sistema Transporte discute saúde mental e segurança jurídica em seminário na Itália</title>
@@ -88,6 +88,12 @@
 <description>ITL — João Victor Mendes recebeu a 38ª edição da honraria durante cerimônia que celebrou os 63 anos da entidade, em Brasília</description>
 </item>
 <item>
+<title>ITL forma 39 novos especialistas em Gestão de Recursos Humanos</title>
+<link>https://www.cnt.org.br/imprensa/noticia/itl-forma-39-novos-especialistas-em-gesto-de-recursos-humanos</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-forma-39-novos-especialistas-em-gesto-de-recursos-humanos</guid>
+<description>ITL — Quinta turma do curso concluiu formação com projetos voltados à inovação, produtividade, liderança e organização do trabalho</description>
+</item>
+<item>
 <title>Competitividade, infraestrutura e qualificação pautam reuniões das seções da CNT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/competitividade-infraestrutura-e-qualificao-pautam-reunies-das-sees-da-cnt</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/competitividade-infraestrutura-e-qualificao-pautam-reunies-das-sees-da-cnt</guid>
@@ -100,16 +106,16 @@
 <description>Poder Executivo — Ministério do Trabalho e Emprego atualiza exigências sobre instalações sanitárias, fornecimento de água e uso de módulos e contêineres em atividades fora de instalações permanentes</description>
 </item>
 <item>
-<title>Clima extremo amplia desafios para infraestrutura e operações de transporte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</guid>
-<description>COP — Impactos dos eventos extremos geram discussão sobre adaptação e resiliência no caminho para a COP31</description>
-</item>
-<item>
 <title>Sistema Transporte esclarece impactos da Reforma Tributária sobre o setor</title>
 <link>https://www.cnt.org.br/imprensa/noticia/masterclass-do-sistema-transporte-esclarece-impactos-da-reforma-tributaria</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/masterclass-do-sistema-transporte-esclarece-impactos-da-reforma-tributaria</guid>
 <description>Economia e negócios — Aula foi direcionada a empresários de cargas e passageiros; curso EaD gratuito sobre o tema foi lançado durante o evento</description>
+</item>
+<item>
+<title>Clima extremo amplia desafios para infraestrutura e operações de transporte</title>
+<link>https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</guid>
+<description>COP — Impactos dos eventos extremos geram discussão sobre adaptação e resiliência no caminho para a COP31</description>
 </item>
 <item>
 <title>ITL inaugura novo espaço para formação de lideranças do transporte</title>

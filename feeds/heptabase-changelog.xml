@@ -5,7 +5,21 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 04:46:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 11:37:16 +0000</lastBuildDate>
+<item>
+<title>v1.112.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11120</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11120</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<description>Whiteboard: Mini map</description>
+</item>
+<item>
+<title>Mobile app v1.40.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1400</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1400</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Better whiteboard navigation with minimap</description>
+</item>
 <item>
 <title>Mobile app v1.39.2</title>
 <link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1392</link>
@@ -551,20 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1844</guid>
 <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
 <description>Introduce a new subscription plan, 'Premium+', for users with higher AI usage.; Double the AI credits for all Premium plan users.; Fix the issue that some cells in tag table view could be broken.; Fix an issue where AI-suggested cards weren't loading in the Card Library right sidebar.</description>
-</item>
-<item>
-<title>v1.84.3</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1843</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1843</guid>
-<pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-<description>Able to export a whiteboard as an image from the whiteboard menu. (If it exceeds the size limits, only the central square area will be exported.); Enable all card types in the Card Library filter by default, and the selected filter state will now be preserved.; Fix an issue where some mermaid codes weren't displaying correctly.; Fix an issue where some users couldn't export content.; Fix an issue where images could be lost when performing certain operations on the whiteboard.; Fix an issue wh...</description>
-</item>
-<item>
-<title>Mobile app v1.32.7.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13272</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13272</guid>
-<pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-<description>Fix the issue where cards do not appear in the import panel.</description>
 </item>
 </channel>
 </rss>
