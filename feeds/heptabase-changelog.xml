@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 11:37:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:59:50 +0000</lastBuildDate>
+<item>
+<title>ChatGPT Plugin v0.1.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#chatgpt-plugin-v010</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#chatgpt-plugin-v010</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<description>ChatGPT Plugin: Search, read, create, edit, and organize your knowledge in ChatGPT</description>
+</item>
 <item>
 <title>v1.112.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11120</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1330</guid>
 <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
 <description>Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
-</item>
-<item>
-<title>v1.84.4</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1844</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1844</guid>
-<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-<description>Introduce a new subscription plan, 'Premium+', for users with higher AI usage.; Double the AI credits for all Premium plan users.; Fix the issue that some cells in tag table view could be broken.; Fix an issue where AI-suggested cards weren't loading in the Card Library right sidebar.</description>
 </item>
 </channel>
 </rss>
