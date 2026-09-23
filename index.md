@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-22 21:20 UTC
+Generated: 2026-09-23 03:27 UTC
 
 ## Native feeds (not scraped)
 
@@ -168,6 +168,17 @@ Generated: 2026-09-22 21:20 UTC
   notes: scraped 40 events
 - **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
   notes: scraped 50 events
+
+- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: mirrored 10 native items
+- **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
+  notes: mirrored 10 native items
+- **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
+  notes: scraped 50 events
+- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 39 events
+- **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
+  notes: scraped 36 events
 
 ## Combined feeds
 

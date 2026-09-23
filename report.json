@@ -186,6 +186,15 @@
     "kind": "native-mirror"
   },
   {
+    "name": "kmm-blog",
+    "source_url": "https://kmm.com.br/feed/",
+    "output": "feeds/kmm-blog.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items (WordPress site feed; /blog/feed/ is comments-only)",
+    "kind": "native-mirror"
+  },
+  {
     "name": "nubank-parque-shows",
     "source_url": "https://nubankparque.com/category/agenda/shows/feed/",
     "output": "feeds/nubank-parque-shows.xml",
@@ -660,6 +669,51 @@
     "items": 50,
     "ok": true,
     "notes": "scraped 50 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "abti",
+    "source_url": "https://www.abti.org.br/feed/",
+    "output": "feeds/abti.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
+    "name": "buonny-blog",
+    "source_url": "https://buonny.com.br/feed/",
+    "output": "feeds/buonny-blog.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
+    "kind": "native-mirror"
+  },
+  {
+    "name": "itl-noticias",
+    "source_url": "https://itl.org.br/noticias/",
+    "output": "feeds/itl-noticias.xml",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cnt-noticias",
+    "source_url": "https://www.cnt.org.br/",
+    "output": "feeds/cnt-noticias.xml",
+    "items": 39,
+    "ok": true,
+    "notes": "scraped 39 events",
+    "kind": "venue-scrape"
+  },
+  {
+    "name": "cnt-pesquisas",
+    "source_url": "https://www.cnt.org.br/pesquisas",
+    "output": "feeds/cnt-pesquisas.xml",
+    "items": 36,
+    "ok": true,
+    "notes": "scraped 36 events",
     "kind": "venue-scrape"
   }
 ]

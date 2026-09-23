@@ -227,6 +227,16 @@
       "name": "concerto",
       "source_url": "https://concerto.com.br/rss.xml",
       "output": "feeds/concerto.xml"
+    },
+    {
+      "name": "abti",
+      "source_url": "https://www.abti.org.br/feed/",
+      "output": "feeds/abti.xml"
+    },
+    {
+      "name": "buonny-blog",
+      "source_url": "https://buonny.com.br/feed/",
+      "output": "feeds/buonny-blog.xml"
     }
   ],
   "venue_scraped_feeds": [
@@ -454,6 +464,21 @@
       "name": "cly-blog",
       "source_url": "https://cly-blog.blogspot.com/",
       "output": "feeds/cly-blog.xml"
+    },
+    {
+      "name": "itl-noticias",
+      "source_url": "https://itl.org.br/noticias/",
+      "output": "feeds/itl-noticias.xml"
+    },
+    {
+      "name": "cnt-noticias",
+      "source_url": "https://www.cnt.org.br/",
+      "output": "feeds/cnt-noticias.xml"
+    },
+    {
+      "name": "cnt-pesquisas",
+      "source_url": "https://www.cnt.org.br/pesquisas",
+      "output": "feeds/cnt-pesquisas.xml"
     }
   ],
   "venue_impossible": [

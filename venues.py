@@ -941,6 +941,20 @@ VENUE_NATIVE_MIRRORS = [
         "link": "https://concerto.com.br/",
         "description": "Espelho do RSS da revista Concerto (não é calendário de casa de shows)",
     },
+    {
+        "source_url": "https://www.abti.org.br/feed/",
+        "out_name": "abti.xml",
+        "title": "ABTI — Notícias",
+        "link": "https://www.abti.org.br/",
+        "description": "Espelho do RSS nativo da ABTI (Associação Brasileira de Transporte Internacional). WordPress /feed/ — notícias, comunicados e eventos do setor.",
+    },
+    {
+        "source_url": "https://buonny.com.br/feed/",
+        "out_name": "buonny-blog.xml",
+        "title": "Buonny — Blog",
+        "link": "https://buonny.com.br/blog/",
+        "description": "Espelho do RSS nativo do blog Buonny (WordPress /feed/). /blog/feed/ é vazio (comentários); site feed cobre posts do blog de gerenciamento de risco/logística.",
+    },
 ]
 
 
@@ -2265,6 +2279,171 @@ def scrape_cafe_brasil_premium(_html: str = "", _base: str = "") -> List[Dict[st
     return sort_items(dedupe_items(items))
 
 
+
+def scrape_itl_noticias(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """ITL notícias via WordPress REST (native /feed/ returns HTML; RSS disabled)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # Category 1 = Notícias (main recurring stream on /noticias/)
+    for page in range(1, 4):
+        url = (
+            "https://itl.org.br/wp-json/wp/v2/posts"
+            f"?per_page=20&page={page}&categories=1"
+            "&_fields=id,date,link,title,excerpt"
+        )
+        body, err = fetch_raw(
+            url,
+            headers={"Accept": "application/json"},
+            timeout=40,
+        )
+        if err or not body:
+            break
+        try:
+            rows = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            link = (row.get("link") or "").strip()
+            title_obj = row.get("title") or {}
+            title = (title_obj.get("rendered") if isinstance(title_obj, dict) else "") or ""
+            title = html_lib.unescape(re.sub(r"<[^>]+>", "", title)).strip()
+            if not link or not title or link in seen:
+                continue
+            seen.add(link)
+            excerpt_obj = row.get("excerpt") or {}
+            excerpt = (excerpt_obj.get("rendered") if isinstance(excerpt_obj, dict) else "") or ""
+            excerpt = html_lib.unescape(re.sub(r"<[^>]+>", " ", excerpt))
+            excerpt = re.sub(r"\s+", " ", excerpt).strip()
+            date_raw = row.get("date") or row.get("date_gmt")
+            items.append(item(title, link, excerpt or "ITL", date_raw))
+        time.sleep(0.15)
+    return sort_items(dedupe_items(items))[:50]
+
+
+def scrape_cnt_noticias(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """CNT notícias via cms2 API (Angular SPA; native cdn rss.xml is stale podcasts)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    api = "https://api.cnt.org.br/cms2/api/PortalPublicacao/publicacao/listar-noticias"
+    for page in range(1, 5):
+        q = urllib.parse.urlencode(
+            {
+                "pagina": str(page),
+                "ordenacao": "DataPublicacao#DESC",
+                "idsExcluir": "",
+            }
+        )
+        body, err = fetch_raw(
+            f"{api}?{q}",
+            headers={
+                "Accept": "application/json",
+                "Content-Type": "application/json",
+            },
+            timeout=40,
+        )
+        if err or not body:
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        rows = (
+            ((data.get("data") or {}).get("retorno") or {}).get("itens")
+            if isinstance(data, dict)
+            else None
+        )
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            slug = (row.get("identificador") or "").strip()
+            title = (row.get("titulo") or "").strip()
+            if not slug or not title or slug in seen:
+                continue
+            seen.add(slug)
+            link = f"https://www.cnt.org.br/imprensa/noticia/{slug}"
+            desc = (row.get("chamada") or "").strip()
+            editoria = (row.get("editoria") or "").strip()
+            if editoria and desc:
+                desc = f"{editoria} — {desc}"
+            elif editoria:
+                desc = editoria
+            date_raw = row.get("dataPublicacao")
+            items.append(item(title, link, desc or "CNT", date_raw))
+        time.sleep(0.2)
+    return sort_items(dedupe_items(items))[:50]
+
+
+def scrape_cnt_pesquisas(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """CNT pesquisas/estudos via Documento/pesquisar (distinct from notícias)."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    api = "https://api.cnt.org.br/cms2/api/Documento/pesquisar"
+    # 12 per page; pull a few pages for ~36 recent publications.
+    for offset in (0, 12, 24):
+        payload = json.dumps(
+            {
+                "termo": "",
+                "idTema": "",
+                "idTemaTipo": "",
+                "ordenacao": "PesquisaDocumento.DataPublicacao#DESC",
+                "registrosIgnorados": offset,
+                "itensPorPagina": 12,
+            }
+        ).encode("utf-8")
+        body, err = fetch_raw(
+            api,
+            data=payload,
+            method="POST",
+            headers={
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+            },
+            timeout=40,
+        )
+        if err or not body:
+            break
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        rows = (
+            ((data.get("data") or {}).get("retorno") or {}).get("itens")
+            if isinstance(data, dict)
+            else None
+        )
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            doc_id = (row.get("idDocumento") or "").strip()
+            title = (row.get("titulo") or "").strip()
+            if not doc_id or not title or doc_id in seen:
+                continue
+            seen.add(doc_id)
+            link = (row.get("link") or "").strip()
+            if not link:
+                # No public landing page for some revistas/PDFs; stable unique URL.
+                link = f"https://www.cnt.org.br/pesquisas?documento={doc_id}"
+            desc = (row.get("descricao") or "").strip()
+            tema = (row.get("temaTipo") or row.get("tema") or "").strip()
+            if tema and desc:
+                desc = f"{tema} — {desc}"
+            elif tema:
+                desc = tema
+            date_raw = row.get("dataPublicacao") or row.get("dataCadastro")
+            items.append(item(title, link, desc or "CNT Pesquisas", date_raw))
+        time.sleep(0.2)
+    return sort_items(dedupe_items(items))[:50]
+
+
+
 VENUE_IMPOSSIBLE = [
     {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
@@ -2680,6 +2859,36 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "ClyBlog",
         "description": "ClyBlog (Blogger) — cinema, música, cotidianas e artes. Feed nativo desligado; scraped listing.",
         "scraper": scrape_cly_blog,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "itl-noticias",
+        "source_url": "https://itl.org.br/noticias/",
+        "output": "itl-noticias.xml",
+        "title": "ITL — Notícias",
+        "description": "Notícias do Instituto de Transporte e Logística (WordPress REST; /feed/ retorna HTML)",
+        "scraper": scrape_itl_noticias,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "cnt-noticias",
+        "source_url": "https://www.cnt.org.br/",
+        "output": "cnt-noticias.xml",
+        "title": "CNT — Notícias",
+        "description": "Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)",
+        "scraper": scrape_cnt_noticias,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "cnt-pesquisas",
+        "source_url": "https://www.cnt.org.br/pesquisas",
+        "output": "cnt-pesquisas.xml",
+        "title": "CNT — Pesquisas e Estudos",
+        "description": "Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)",
+        "scraper": scrape_cnt_pesquisas,
         "skip_fetch": True,
         "language": "pt-BR",
     },
