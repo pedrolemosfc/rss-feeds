@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-23 21:33 UTC
+Generated: 2026-09-24 04:52 UTC
 
 ## Native feeds (not scraped)
 
@@ -96,8 +96,8 @@ Generated: 2026-09-23 21:33 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 4 events
-- **bourbon-street** [OK] items=29 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 29 events
+- **bourbon-street** [OK] items=28 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 28 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -118,8 +118,8 @@ Generated: 2026-09-23 21:33 UTC
   notes: scraped 32 events
 - **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 11 events
-- **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 50 events
+- **casa-de-francisca** [OK] items=49 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 49 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=24 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -170,16 +170,16 @@ Generated: 2026-09-23 21:33 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 50 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 
 ## Combined feeds
 

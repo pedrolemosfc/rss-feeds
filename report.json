@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 49,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 49 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   }
 ]
