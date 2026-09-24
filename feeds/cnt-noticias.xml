@@ -5,7 +5,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 24 Sep 2026 11:47:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:13:27 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT/MDA mostra cenário eleitoral na reta final da campanha</title>
 <link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</link>
@@ -19,6 +19,18 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/quando-a-tecnologia-acelera-a-responsabilidade-precisa-acompanhar</guid>
 <pubDate>Mon, 14 Sep 2026 09:02:53 +0000</pubDate>
 <description>Artigo — A tecnologia fortalece o setor de transporte, mas seu avanço exige que inovação, governança e proteção de dados caminhem juntas para garantir segurança, eficiência e confiança</description>
+</item>
+<item>
+<title>CNT debate trabalho em plataformas digitais no Conselho Nacional de Justiça</title>
+<link>https://www.cnt.org.br/imprensa/noticia/cnt-debate-trabalho-em-plataformas-digitais-no-cnj</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-debate-trabalho-em-plataformas-digitais-no-cnj</guid>
+<description>Concorrência justa e segurança jurídica estiveram entre os temas relacionados à Convenção 193 da OIT</description>
+</item>
+<item>
+<title>Redução de emissões passa por renovação da frota</title>
+<link>https://www.cnt.org.br/imprensa/noticia/reducao-de-emissoes-passa-por-renovacao-da-frota</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/reducao-de-emissoes-passa-por-renovacao-da-frota</guid>
+<description>COP — Substituição de veículos antigos por modelos novos contribui para a descarbonização. Para avançar, transportadores demandam mais opções de crédito e financiamento</description>
 </item>
 <item>
 <title>Proteção 10 Anos: Quinto episódio da série mostra o combate à exploração sexual e ao tráfico de pessoas</title>
@@ -45,10 +57,10 @@
 <description>COP — Publicação no Correio Braziliense integra iniciativas do Sistema Transporte que antecedem a Conferência do Clima, em novembro, na Turquia</description>
 </item>
 <item>
-<title>ITL inicia 6ª turma da especialização em Gestão de Recursos Humanos em Belo Horizonte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</guid>
-<description>ITL — Formação reúne 40 profissionais de empresas de transporte de diferentes modais e amplia a qualificação de lideranças do setor</description>
+<title>Trilhos para o Amanhã: SEST SENAT inicia formação ferroviária com mais de 700 mulheres</title>
+<link>https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</guid>
+<description>SEST SENAT — Curso Básico em Ferrovias inaugura portfólio de capacitações para o segmento, com turmas exclusivas para mulheres e apoio da ANTF e da ANPTrilhos</description>
 </item>
 <item>
 <title>Motorista Série A abre inscrições para edição 2026/2027</title>
@@ -57,10 +69,10 @@
 <description>SEST SENAT — Competição do SEST SENAT reúne motoristas de caminhões e ônibus em jornada de avaliações técnicas, de saúde e comportamentais</description>
 </item>
 <item>
-<title>Trilhos para o Amanhã: SEST SENAT inicia formação ferroviária com mais de 700 mulheres</title>
-<link>https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/trilhos-para-o-amanh-sest-senat-inicia-formao-ferroviria-com-mais-de-700-mulheres-inscritas</guid>
-<description>SEST SENAT — Curso Básico em Ferrovias inaugura portfólio de capacitações para o segmento, com turmas exclusivas para mulheres e apoio da ANTF e da ANPTrilhos</description>
+<title>ITL inicia 6ª turma da especialização em Gestão de Recursos Humanos em Belo Horizonte</title>
+<link>https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-inicia-6-turma-da-especializao-em-gesto-de-recursos-humanos-em-belo-horizonte</guid>
+<description>ITL — Formação reúne 40 profissionais de empresas de transporte de diferentes modais e amplia a qualificação de lideranças do setor</description>
 </item>
 <item>
 <title>Sistema Transporte discute saúde mental e segurança jurídica na Itália</title>
@@ -87,16 +99,16 @@
 <description>Infraestrutura — País precisará investir R$ 2,03 trilhões se o objetivo for ampliar e modernizar a malha nacional, destacou a diretora executiva da CNT, Fernanda Rezende</description>
 </item>
 <item>
-<title>Diretor executivo do ITL é homenageado com a Medalha de Mérito do Transporte da NTC&amp;Logística</title>
-<link>https://www.cnt.org.br/imprensa/noticia/diretor-executivo-do-itl--homenageado-com-a-medalha-de-mrito-do-transporte-da-ntclogstica</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/diretor-executivo-do-itl--homenageado-com-a-medalha-de-mrito-do-transporte-da-ntclogstica</guid>
-<description>ITL — João Victor Mendes recebeu a 38ª edição da honraria durante cerimônia que celebrou os 63 anos da entidade, em Brasília</description>
-</item>
-<item>
 <title>ITL forma 39 novos especialistas em Gestão de Recursos Humanos</title>
 <link>https://www.cnt.org.br/imprensa/noticia/itl-forma-39-novos-especialistas-em-gesto-de-recursos-humanos</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-forma-39-novos-especialistas-em-gesto-de-recursos-humanos</guid>
 <description>ITL — Quinta turma do curso concluiu formação com projetos voltados à inovação, produtividade, liderança e organização do trabalho</description>
+</item>
+<item>
+<title>Diretor executivo do ITL é homenageado com a Medalha de Mérito do Transporte da NTC&amp;Logística</title>
+<link>https://www.cnt.org.br/imprensa/noticia/diretor-executivo-do-itl--homenageado-com-a-medalha-de-mrito-do-transporte-da-ntclogstica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/diretor-executivo-do-itl--homenageado-com-a-medalha-de-mrito-do-transporte-da-ntclogstica</guid>
+<description>ITL — João Victor Mendes recebeu a 38ª edição da honraria durante cerimônia que celebrou os 63 anos da entidade, em Brasília</description>
 </item>
 <item>
 <title>Competitividade, infraestrutura e qualificação pautam reuniões das seções da CNT</title>
@@ -235,18 +247,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/stf-define-critrios-objetivos-para-concesso-de-justia-gratuita-em-deciso-acompanhada-pela-cnt</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/stf-define-critrios-objetivos-para-concesso-de-justia-gratuita-em-deciso-acompanhada-pela-cnt</guid>
 <description>Institucional — Decisão estabelece presunção relativa de insuficiência para trabalhadores que recebem até R$ 5 mil e exige comprovação para rendas superiores; CNT participou do processo como amicus curiae</description>
-</item>
-<item>
-<title>Mais Motoristas prorroga prazo para envio de documentação até 14 de setembro</title>
-<link>https://www.cnt.org.br/imprensa/noticia/mais-motoristas-prorroga-prazo-para-envio-de-documentacao</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/mais-motoristas-prorroga-prazo-para-envio-de-documentacao</guid>
-<description>SEST SENAT — Candidatos devem enviar os documentos pelo Portal do Cliente do SEST SENAT; etapa é eliminatória</description>
-</item>
-<item>
-<title>Comissão do Senado aprova texto-base da PEC da Segurança Pública</title>
-<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-aprova-texto-base-da-pec-da-segurana-pblica</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-aprova-texto-base-da-pec-da-segurana-pblica</guid>
-<description>Multimodal — Proposta amplia atuação da PRF para ferrovias e hidrovias federais e reforça integração entre órgãos de segurança</description>
 </item>
 </channel>
 </rss>

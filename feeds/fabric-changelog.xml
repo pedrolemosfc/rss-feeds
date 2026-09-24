@@ -5,27 +5,27 @@
 <link>https://fabric.so/info/changelog</link>
 <description>Fabric.so product changelog</description>
 <language>en</language>
-<lastBuildDate>Thu, 24 Sep 2026 11:47:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:12:45 +0000</lastBuildDate>
 <item>
-<title>PDFs now load and work much faster in Fabric!</title>
-<link>https://fabric.so/info/changelog#pdfs-now-load-and-work-much-faster-in-fabric</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-3,-2026-pdfs-now-load-and-work-much-faster-in-fabric</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<description>📑 We've reworked Fabric's PDF viewer so that: Big files load faster Scrolling is smoother and quicker It can now handle huge files with rich content and 1000 pages! We hope that's much more enjoyable for you :)</description>
+<title>Better text editor</title>
+<link>https://fabric.so/info/changelog#better-text-editor</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-24,-2026-better-text-editor</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<description>📑 We've overhauled Fabric's text editor for a much better writing experience: Ability to apply style to multiple blocks Formatting UI no longer fights against mobile OS UI We built a new sync engine, with better performance and reliability across all internet connections We laid the foundations for offline mode :)</description>
 </item>
 <item>
-<title>Canvas improvements</title>
-<link>https://fabric.so/info/changelog#canvas-improvements</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-2,-2026-canvas-improvements</guid>
-<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-<description>🏎️ Fabric Canvas is now much faster and can handle much more content. We've been focused on performance and solved issues that were slowing down the canvas during fast interactions. Much more enjoyable and performs better on smaller devices like iPads.</description>
+<title>New! Readwise connection</title>
+<link>https://fabric.so/info/changelog#new-readwise-connection</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-23,-2026-new-readwise-connection</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<description>📖 Your Fabric now has a Readwise connector: Syncs all your existing Readwise highlights Each time you make a new highlight or annotations, it'll automatically be added to your Fabric! Save extracts and snippets that inspire you. (Note: the original source/book doesn't get brought into Fabric)</description>
 </item>
 <item>
-<title>Jump to a specific page in a PDF!</title>
-<link>https://fabric.so/info/changelog#jump-to-a-specific-page-in-a-pdf</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-1,-2026-jump-to-a-specific-page-in-a-pdf</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<description>✨ We've added the ability to quickly jump to a specific page in a PDF! No more scrolling to a particular page – just tap the page counter and type the page number you wish to skip to. A little update to make daily use more convenient.</description>
+<title>New! RSS feed support</title>
+<link>https://fabric.so/info/changelog#new-rss-feed-support</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-22,-2026-new-rss-feed-support</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<description>📣 Your Fabric now has RSS support! Subscribe to an RSS feed, and every new post will be automatically added to your Fabric. Stay up to date on the content you care about… automatically! We hope you enjoy it :)</description>
 </item>
 </channel>
 </rss>

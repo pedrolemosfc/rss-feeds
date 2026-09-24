@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 78,
+    "items": 77,
     "ok": true,
-    "notes": "scraped 78 items"
+    "notes": "scraped 77 items"
   },
   {
     "name": "guia-shows",
@@ -107,9 +107,9 @@
     "name": "page9-artes",
     "source_url": "https://page9.com/artes",
     "output": "out/page9-artes.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 items"
+    "notes": "scraped 20 items"
   },
   {
     "name": "musicalidade",
@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 30,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 30 items"
+    "notes": "scraped 31 items"
   },
   {
     "name": "noize",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 173,
+    "items": 172,
     "ok": true,
-    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -342,9 +342,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 4,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 49,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 49 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 17,
-    "ok": true,
-    "notes": "scraped 17 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
