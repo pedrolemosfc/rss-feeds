@@ -724,5 +724,14 @@
     "ok": true,
     "notes": "scraped 15 events",
     "kind": "venue-scrape"
+  },
+  {
+    "name": "instituto-care-programacao",
+    "source_url": "https://institutocare.org.br/programacao/",
+    "output": "feeds/instituto-care-programacao.xml",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
+    "kind": "venue-scrape"
   }
 ]

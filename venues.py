@@ -2583,6 +2583,64 @@ def scrape_cafe_com_tony(_html: str = "", _base: str = "") -> List[Dict[str, Any
 
 
 
+
+def scrape_instituto_care_programacao(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Instituto Çarê programação (CPT event archive). Native /feed/ returns HTML; RSS disabled."""
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    # 92 events total; keep newest ~50 by WP publish date
+    for page in range(1, 4):
+        url = (
+            "https://institutocare.org.br/wp-json/wp/v2/event"
+            f"?per_page=20&page={page}&orderby=date&order=desc"
+            "&_fields=id,date,link,title,yoast_head_json,class_list"
+        )
+        body, err = fetch_raw(
+            url,
+            headers={"Accept": "application/json"},
+            timeout=40,
+        )
+        if err or not body:
+            break
+        try:
+            rows = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            link = (row.get("link") or "").strip()
+            title_obj = row.get("title") or {}
+            title = (title_obj.get("rendered") if isinstance(title_obj, dict) else "") or ""
+            title = html_lib.unescape(re.sub(r"<[^>]+>", " ", title))
+            title = re.sub(r"\s+", " ", title).strip()
+            if not link or not title or link in seen:
+                continue
+            seen.add(link)
+            desc = ""
+            yoast = row.get("yoast_head_json") or {}
+            if isinstance(yoast, dict):
+                desc = (yoast.get("og_description") or "").strip()
+            # Núcleo from class_list e.g. core-livros / core-musica
+            nucleo = ""
+            for cls in row.get("class_list") or []:
+                if isinstance(cls, str) and cls.startswith("core-") and cls != "core-":
+                    nucleo = cls[5:].replace("-", " ").strip().title()
+                    break
+            if nucleo and desc:
+                desc = f"{nucleo} — {desc}"
+            elif nucleo:
+                desc = f"Instituto Çarê — {nucleo}"
+            elif not desc:
+                desc = "Instituto Çarê — Programação"
+            date_raw = row.get("date") or row.get("date_gmt")
+            items.append(item(title, link, desc, date_raw))
+        time.sleep(0.15)
+    return sort_items(dedupe_items(items))[:50]
+
+
 VENUE_IMPOSSIBLE = [
     {"name": "Itaú Cultural (Inti tickets)", "reason": "SPA byInti sem API; use itau-cultural-agenda.xml"},
 ]
@@ -3038,6 +3096,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "Coffee with Tony | Podcast",
         "description": "Café com Tony (@cafecomtony) — recent YouTube uploads. Official Atom (often flaky): https://www.youtube.com/feeds/videos.xml?channel_id=UCHWC7c5-y5Ii8ZGiDzVSx8Q",
         "scraper": scrape_cafe_com_tony,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "instituto-care-programacao",
+        "source_url": "https://institutocare.org.br/programacao/",
+        "output": "instituto-care-programacao.xml",
+        "title": "Instituto Çarê — Programação",
+        "description": "Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)",
+        "scraper": scrape_instituto_care_programacao,
         "skip_fetch": True,
         "language": "pt-BR",
     },

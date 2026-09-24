@@ -180,6 +180,8 @@ Generated: 2026-09-24 11:48 UTC
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
   notes: scraped 15 events
+- **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
+  notes: scraped 50 events
 
 ## Combined feeds
 

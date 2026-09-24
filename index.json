@@ -484,6 +484,11 @@
       "name": "cafe-com-tony",
       "source_url": "https://www.youtube.com/@cafecomtony/videos",
       "output": "feeds/cafe-com-tony.xml"
+    },
+    {
+      "name": "instituto-care-programacao",
+      "source_url": "https://institutocare.org.br/programacao/",
+      "output": "feeds/instituto-care-programacao.xml"
     }
   ],
   "venue_impossible": [
