@@ -441,18 +441,18 @@
     "name": "teatro-das-artes-sp",
     "source_url": "https://teatrodasartessp.com.br/programacao/",
     "output": "feeds/teatro-das-artes-sp.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 58,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 58 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 15,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {

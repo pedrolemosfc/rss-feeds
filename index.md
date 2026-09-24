@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-24 17:13 UTC
+Generated: 2026-09-24 21:34 UTC
 
 ## Native feeds (not scraped)
 
@@ -116,10 +116,10 @@ Generated: 2026-09-24 17:13 UTC
   notes: scraped 40 events
 - **audio-sp** [OK] items=32 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
   notes: scraped 32 events
-- **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
-  notes: scraped 11 events
-- **casa-de-francisca** [OK] items=55 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 55 events
+- **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
+  notes: scraped 12 events
+- **casa-de-francisca** [OK] items=58 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 58 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=24 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -128,8 +128,8 @@ Generated: 2026-09-24 17:13 UTC
   notes: scraped 17 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=15 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 15 events
+- **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 17 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -137,7 +137,7 @@ Generated: 2026-09-24 17:13 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=7 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  

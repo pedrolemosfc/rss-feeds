@@ -5,7 +5,13 @@
 <link>https://claude.com/blog</link>
 <description>Claude / Anthropic blog posts (scraped)</description>
 <language>en</language>
-<lastBuildDate>Thu, 24 Sep 2026 17:09:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 21:30:01 +0000</lastBuildDate>
+<item>
+<title>Claude Tag now supports personal connectors in channels</title>
+<link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
 <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
@@ -88,12 +94,6 @@
 <title>How healthcare organizations use Claude Tag</title>
 <link>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</link>
 <guid isPermaLink="true">https://claude.com/blog/how-healthcare-organizations-use-claude-tag</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Deploying AI from pilot to production</title>
-<link>https://claude.com/blog/deploying-ai-from-pilot-to-production</link>
-<guid isPermaLink="true">https://claude.com/blog/deploying-ai-from-pilot-to-production</guid>
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
