@@ -3,9 +3,9 @@
     "name": "folha-jazz",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
     "output": "out/folha-jazz.xml",
-    "items": 86,
+    "items": 85,
     "ok": true,
-    "notes": "scraped 86 items"
+    "notes": "scraped 85 items"
   },
   {
     "name": "folha-criticas-de-musica",
@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 55,
+    "items": 54,
     "ok": true,
-    "notes": "scraped 55 items"
+    "notes": "scraped 54 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 187,
+    "items": 185,
     "ok": true,
-    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 59,
+    "items": 58,
     "ok": true,
-    "notes": "scraped 59 events",
+    "notes": "scraped 58 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,27 +450,27 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 58,
+    "items": 59,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 59 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 24,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
