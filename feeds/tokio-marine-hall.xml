@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Fri, 25 Sep 2026 17:10:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Sep 2026 21:36:14 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.9</generator>
 	<item>
+		<title>OSWALDO MONTENEGRO</title>
+		<link>https://www.tokiomarinehall.com.br/oswaldo-montenegro-7/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 17:11:17 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5802</guid>
+
+					<description><![CDATA[<p>OSWALDO MONTENEGRO</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/oswaldo-montenegro-7/">OSWALDO MONTENEGRO</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tarja</title>
 		<link>https://www.tokiomarinehall.com.br/tarja-3/</link>
 		
@@ -164,22 +180,6 @@ Natal</p>
 		
 		
 			</item>
-		<item>
-		<title>ANGRA</title>
-		<link>https://www.tokiomarinehall.com.br/angra-6/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Fri, 15 May 2026 15:15:48 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5625</guid>
-
-					<description><![CDATA[<p>Angra</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/angra-6/">ANGRA</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-09-25 14:10:41 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-09-25 18:36:14 by W3 Total Cache
 -->

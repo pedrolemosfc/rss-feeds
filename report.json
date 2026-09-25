@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -180,18 +180,18 @@
     "name": "ens-acontece",
     "source_url": "https://acontece.ens.edu.br/feed/",
     "output": "feeds/ens-acontece.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error timed out>",
     "kind": "native-mirror"
   },
   {
     "name": "kmm-blog",
     "source_url": "https://kmm.com.br/feed/",
     "output": "feeds/kmm-blog.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "native-mirror"
   },
   {
@@ -279,9 +279,9 @@
     "name": "buonny-blog",
     "source_url": "https://buonny.com.br/feed/",
     "output": "feeds/buonny-blog.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "theatro-municipal",
     "source_url": "https://theatromunicipal.org.br/programacao/",
     "output": "feeds/theatro-municipal.xml",
-    "items": 8,
-    "ok": true,
-    "notes": "scraped 8 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error timed out>",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,18 +450,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 62,
+    "items": 63,
     "ok": true,
-    "notes": "scraped 62 events",
+    "notes": "scraped 63 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 10,
+    "items": 45,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 45 events",
     "kind": "venue-scrape"
   },
   {
