@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-25 11:53 UTC
+Generated: 2026-09-25 17:12 UTC
 
 ## Native feeds (not scraped)
 
@@ -96,8 +96,8 @@ Generated: 2026-09-25 11:53 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 5 events
-- **bourbon-street** [OK] items=27 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 27 events
+- **bourbon-street** [OK] items=28 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 28 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -118,10 +118,10 @@ Generated: 2026-09-25 11:53 UTC
   notes: scraped 32 events
 - **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 12 events
-- **casa-de-francisca** [OK] items=59 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 59 events
-- **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 9 events
+- **casa-de-francisca** [OK] items=62 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 62 events
+- **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 10 events
 - **cavern-club-sp** [OK] items=23 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 23 events
 - **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
@@ -150,8 +150,8 @@ Generated: 2026-09-25 11:53 UTC
   notes: scraped 80 events
 - **cabinet-magazine** [OK] items=80 → `feeds/cabinet-magazine.xml`  source: https://www.cabinetmagazine.org/  
   notes: scraped 80 events
-- **arena-sertaneja-fever** [OK] items=9 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
-  notes: scraped 9 events
+- **arena-sertaneja-fever** [OK] items=11 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
+  notes: scraped 11 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
 - **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
@@ -170,8 +170,8 @@ Generated: 2026-09-25 11:53 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=45 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 45 events
+- **cly-blog** [OK] items=10 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 10 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
