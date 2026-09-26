@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out"
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 24,
-    "ok": true,
-    "notes": "scraped 24 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
     "name": "page9-artes",
@@ -180,18 +180,18 @@
     "name": "ens-acontece",
     "source_url": "https://acontece.ens.edu.br/feed/",
     "output": "feeds/ens-acontece.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error timed out>",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
     "name": "kmm-blog",
     "source_url": "https://kmm.com.br/feed/",
     "output": "feeds/kmm-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -207,9 +207,9 @@
     "name": "terra-sp",
     "source_url": "https://terrasp.com/feed/",
     "output": "feeds/terra-sp.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
     "kind": "native-mirror"
   },
   {
@@ -279,9 +279,9 @@
     "name": "buonny-blog",
     "source_url": "https://buonny.com.br/feed/",
     "output": "feeds/buonny-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "theatro-municipal",
     "source_url": "https://theatromunicipal.org.br/programacao/",
     "output": "feeds/theatro-municipal.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error timed out>",
+    "items": 8,
+    "ok": true,
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,18 +405,18 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 12,
-    "ok": true,
-    "notes": "scraped 12 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
     "kind": "venue-scrape"
   },
   {
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 32,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 32 events",
+    "notes": "scraped 31 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,27 +450,27 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 63,
+    "items": 59,
     "ok": true,
-    "notes": "scraped 63 events",
+    "notes": "scraped 59 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "farol-conde-arena",
     "source_url": "https://farmacondearena.com.br/agenda",
     "output": "feeds/farol-conde-arena.xml",
-    "items": 7,
+    "items": 6,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 6 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 45,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,18 +720,18 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
     "name": "instituto-care-programacao",
     "source_url": "https://institutocare.org.br/programacao/",
     "output": "feeds/instituto-care-programacao.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   }
 ]

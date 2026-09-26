@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-25 21:39 UTC
+Generated: 2026-09-26 05:04 UTC
 
 ## Native feeds (not scraped)
 
@@ -32,8 +32,8 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
   notes: scraped 30 items
-- **correio-irlam-rocha-lima** [FAIL] items=0 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
-  notes: fetch failed: TimeoutError: The read operation timed out
+- **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
+  notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
@@ -42,8 +42,8 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 84 items
 - **claude-blog** [OK] items=15 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: scraped 15 items
-- **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 24 items
+- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
 - **page9-artes** [OK] items=20 → `out/page9-artes.xml`  source: https://page9.com/artes  
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
@@ -58,14 +58,14 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 100 items
 - **recall-changelog** [OK] items=10 → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
   notes: mirrored 10 native items
-- **ens-acontece** [FAIL] items=0 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
-  notes: fetch failed: URLError: <urlopen error timed out>
-- **kmm-blog** [FAIL] items=0 → `feeds/kmm-blog.xml`  source: https://kmm.com.br/feed/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
+  notes: mirrored 10 native items
+- **kmm-blog** [OK] items=10 → `feeds/kmm-blog.xml`  source: https://kmm.com.br/feed/  
+  notes: mirrored 10 native items
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
-- **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
-  notes: mirrored 10 native items
+- **terra-sp** [FAIL] items=0 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
+  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
 - **mis-sp** [OK] items=24 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
   notes: mirrored 24 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
@@ -80,14 +80,14 @@ Generated: 2026-09-25 21:39 UTC
   notes: mirrored 10 native items
 - **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
   notes: mirrored 10 native items
-- **buonny-blog** [FAIL] items=0 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
+  notes: mirrored 10 native items
 - **teatro-bradesco** [OK] items=58 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
   notes: scraped 58 events
 - **vibra-sp** [OK] items=25 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 25 events
-- **theatro-municipal** [FAIL] items=0 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
-  notes: fetch failed: URLError: <urlopen error timed out>
+- **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
+  notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **suhai-music-hall** [OK] items=10 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
@@ -96,8 +96,8 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 5 events
-- **bourbon-street** [OK] items=27 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 27 events
+- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 26 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -108,22 +108,22 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 22 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [OK] items=12 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: scraped 12 events
-- **btg-pactual-hall** [OK] items=17 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
-  notes: scraped 17 events
+- **komplexo-tempo** [FAIL] items=0 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
+- **btg-pactual-hall** [OK] items=16 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
+  notes: scraped 16 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=32 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 32 events
+- **audio-sp** [OK] items=31 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 31 events
 - **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 12 events
-- **casa-de-francisca** [OK] items=63 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 63 events
-- **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 9 events
-- **cavern-club-sp** [OK] items=23 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 23 events
+- **casa-de-francisca** [OK] items=59 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 59 events
+- **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 10 events
+- **cavern-club-sp** [OK] items=22 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 22 events
 - **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 17 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -137,11 +137,11 @@ Generated: 2026-09-25 21:39 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
-- **farol-conde-arena** [OK] items=7 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
-  notes: scraped 7 events
+- **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
+  notes: scraped 6 events
 - **tldb-livesets** [OK] items=80 → `feeds/tldb-livesets.xml`  source: https://tldb.co/  
   notes: scraped 80 events
 - **bona-eventim-venue** [FAIL] items=0 → `feeds/bona-eventim-venue.xml`  source: https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/  
@@ -154,8 +154,8 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 11 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
-- **fabric-changelog** [FAIL] items=0 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: no event items found
+- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: scraped 3 events
 - **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
@@ -170,18 +170,18 @@ Generated: 2026-09-25 21:39 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=45 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 45 events
+- **cly-blog** [OK] items=10 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 10 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
-- **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
-  notes: scraped 50 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
+- **instituto-care-programacao** [FAIL] items=0 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
+  notes: no event items found
 
 ## Combined feeds
 
