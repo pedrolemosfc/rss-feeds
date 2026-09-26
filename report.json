@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>"
+    "items": 24,
+    "ok": true,
+    "notes": "scraped 24 items"
   },
   {
     "name": "page9-artes",
@@ -207,9 +207,9 @@
     "name": "terra-sp",
     "source_url": "https://terrasp.com/feed/",
     "output": "feeds/terra-sp.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -387,9 +387,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 22,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 12,
+    "ok": true,
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 10,
+    "items": 45,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 45 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,18 +720,18 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
     "name": "instituto-care-programacao",
     "source_url": "https://institutocare.org.br/programacao/",
     "output": "feeds/instituto-care-programacao.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   }
 ]
