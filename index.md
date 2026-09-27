@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-27 17:01 UTC
+Generated: 2026-09-27 21:23 UTC
 
 ## Native feeds (not scraped)
 
@@ -66,8 +66,8 @@ Generated: 2026-09-27 17:01 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=23 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 23 native items
+- **mis-sp** [OK] items=22 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 22 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -94,8 +94,8 @@ Generated: 2026-09-27 17:01 UTC
   notes: scraped 10 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
-- **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
-  notes: scraped 5 events
+- **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
+  notes: scraped 4 events
 - **bourbon-street** [OK] items=25 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
   notes: scraped 25 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
@@ -170,8 +170,8 @@ Generated: 2026-09-27 17:01 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=10 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 10 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  

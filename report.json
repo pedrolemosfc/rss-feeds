@@ -216,9 +216,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "mirrored 23 native items",
+    "notes": "mirrored 22 native items",
     "kind": "native-mirror"
   },
   {
@@ -342,9 +342,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 5,
+    "items": 4,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 4 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
