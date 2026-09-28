@@ -3,7 +3,7 @@ name: Update RSS feeds
 on:
   schedule:
     # every 6 hours (UTC)
-    - cron: "15 */6 * * *"
+    - cron: "17 */2 * * *"
   workflow_dispatch:
 
 permissions:
