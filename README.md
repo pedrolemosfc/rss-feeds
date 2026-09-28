@@ -89,6 +89,7 @@ Um item RSS por show/evento anunciado. Espelhos nativos e scrapes; Content-Type 
 | Teatro das Artes SP | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/teatro-das-artes-sp.xml |
 | Casa de Francisca | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/casa-de-francisca.xml |
 | Jazz B | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/jazz-b.xml |
+| Hangar 110 — Agenda (todas as páginas) | https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/hangar-110.xml |
 
 ## Não foi possível
 

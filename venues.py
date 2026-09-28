@@ -2647,6 +2647,152 @@ VENUE_IMPOSSIBLE = [
 
 
 # scraper can be None meaning custom runner that ignores html fetch
+HANGAR110_BASE = "https://www.hangar110.com.br"
+HANGAR110_STATE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feeds", ".state", "hangar-110.json")
+HANGAR110_WEEKDAYS = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
+
+
+def _hangar110_norm(title: str) -> str:
+    t = html_lib.unescape(re.sub(r"<[^>]+>", " ", title or ""))
+    t = t.replace("\u2013", "-").replace("\u2014", "-")
+    return re.sub(r"\s+", " ", t).strip().lower()
+
+
+def _hangar110_load_state() -> Dict[str, Any]:
+    try:
+        with open(HANGAR110_STATE, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def _hangar110_save_state(state: Dict[str, Any]) -> None:
+    os.makedirs(os.path.dirname(HANGAR110_STATE), exist_ok=True)
+    with open(HANGAR110_STATE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
+        f.write("\n")
+
+
+def _hangar110_wp_posts() -> Dict[str, Dict[str, Any]]:
+    """Recent WP posts keyed by normalized title (each agenda show is a WP post)."""
+    out: Dict[str, Dict[str, Any]] = {}
+    for page in range(1, 4):
+        body, err = fetch_raw(
+            f"{HANGAR110_BASE}/wp-json/wp/v2/posts?per_page=100&page={page}"
+            "&orderby=date&order=desc&_fields=id,date_gmt,link,title,content",
+            headers={"Accept": "application/json"},
+        )
+        if err or not body:
+            break
+        try:
+            rows = json.loads(body)
+        except json.JSONDecodeError:
+            break
+        if not isinstance(rows, list) or not rows:
+            break
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            key = _hangar110_norm((row.get("title") or {}).get("rendered", ""))
+            if key and key not in out:
+                out[key] = row
+        if len(rows) < 100:
+            break
+    return out
+
+
+def scrape_hangar110(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
+    """Hangar 110 agenda: crawl ALL pagination pages (follow a.next until none),
+    enrich with WP REST posts (stable permalink GUID + publish date).
+    First-seen dates persisted in feeds/.state/hangar-110.json as fallback pubDate."""
+    shows: List[Dict[str, Any]] = []
+    url: Optional[str] = f"{HANGAR110_BASE}/agenda/"
+    visited = set()
+    while url and url not in visited and len(visited) < 20:
+        visited.add(url)
+        page, err = fetch_raw(url)
+        if err or not page:
+            if not shows:
+                raise RuntimeError(f"agenda fetch failed: {err}")
+            break
+        for blk in re.findall(r'<div class="item">(.*?)(?=<div class="item">|<div class="navigation">|</section>)', page, re.S):
+            tm = re.search(r"<h3>(.*?)</h3>", blk, re.S)
+            dm = re.search(r"<h3>\s*(\d{2})\.(\d{2})\.(\d{4})\s*</h3>", blk)
+            if not tm or not dm:
+                continue
+            sub = re.search(r"<p[^>]*>(.*?)</p>", blk, re.S)
+            lm = re.search(r'<a[^>]+href="([^"]+)"', blk)
+            shows.append({
+                "title": re.sub(r"\s+", " ", html_lib.unescape(re.sub(r"<[^>]+>", " ", tm.group(1)))).strip(),
+                "lineup": re.sub(r"\s+", " ", html_lib.unescape(re.sub(r"<[^>]+>", " ", sub.group(1)))).strip() if sub else "",
+                "date": datetime(int(dm.group(3)), int(dm.group(2)), int(dm.group(1)), 21, 0, tzinfo=timezone(timedelta(hours=-3))),
+                "ticket": html_lib.unescape(lm.group(1)).strip() if lm else "",
+            })
+        nm = re.search(r'<a[^>]*class="[^"]*\bnext\b[^"]*"[^>]*href="([^"]+)"', page) or re.search(
+            r'<a[^>]*href="([^"]+)"[^>]*class="[^"]*\bnext\b[^"]*"', page
+        )
+        url = urllib.parse.urljoin(url, html_lib.unescape(nm.group(1))) if nm else None
+        time.sleep(0.3)
+
+    posts = _hangar110_wp_posts()
+    state = _hangar110_load_state()
+    now = datetime.now(timezone.utc)
+    items: List[Dict[str, Any]] = []
+    seen = set()
+    for sh in shows:
+        skey = f"{sh['date']:%Y-%m-%d}|{_hangar110_norm(sh['title'])}"
+        post = posts.get(_hangar110_norm(sh["title"]))
+        prev = state.get(skey) or {}
+        guid = (post or {}).get("link") or prev.get("guid") or sh["ticket"] or f"{HANGAR110_BASE}/agenda/#{skey}"
+        if guid in seen:
+            continue
+        seen.add(guid)
+        first_seen = prev.get("first_seen") or now.strftime("%Y-%m-%dT%H:%M:%SZ")
+        pub = parse_date(post["date_gmt"] + "Z") if post and post.get("date_gmt") else None
+        pub = pub or parse_date(prev.get("published") or "") or parse_date(first_seen)
+        state[skey] = {
+            "guid": guid,
+            "first_seen": first_seen,
+            "published": pub.strftime("%Y-%m-%dT%H:%M:%SZ") if pub else None,
+            "title": sh["title"],
+        }
+        d = sh["date"]
+        dstr = f"{d:%d/%m/%Y} ({HANGAR110_WEEKDAYS[d.weekday()]})"
+        extra = ""
+        if post:
+            extra = re.sub(r"\s+", " ", html_lib.unescape(re.sub(r"<[^>]+>", " ", (post.get("content") or {}).get("rendered", "")))).strip()
+        parts = [f"Data: {dstr}"]
+        if sh["lineup"]:
+            parts.append(f"Line-up: {sh['lineup']}")
+        if extra and extra.lower() != sh["lineup"].lower():
+            parts.append(extra)
+        if "esgotad" in sh["title"].lower():
+            parts.append("Ingressos esgotados")
+        if sh["ticket"]:
+            host = urllib.parse.urlparse(sh["ticket"]).netloc.replace("www.", "")
+            parts.append(f"Ingressos ({host}): {sh['ticket']}")
+        parts.append("Local: Hangar 110 — Rua Rodolfo Miranda, 110, Bom Retiro, São Paulo")
+        parts.append(f"Agenda: {HANGAR110_BASE}/agenda/")
+        it = item(f"{d:%d/%m/%Y} — {sh['title']}", sh["ticket"] or guid, " · ".join(parts))
+        it["guid"] = guid
+        it["_dt"] = pub
+        it["pubDate"] = rfc822(pub)
+        items.append(it)
+
+    # prune state entries for shows long past
+    cutoff = now - timedelta(days=180)
+    for k in list(state.keys()):
+        try:
+            if datetime.strptime(k.split("|", 1)[0], "%Y-%m-%d").replace(tzinfo=timezone.utc) < cutoff:
+                del state[k]
+        except ValueError:
+            del state[k]
+    if items:
+        _hangar110_save_state(state)
+    return sort_items(items)
+
+
 VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
     {
         "name": "teatro-bradesco",
@@ -3106,6 +3252,16 @@ VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
         "title": "Instituto Çarê — Programação",
         "description": "Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)",
         "scraper": scrape_instituto_care_programacao,
+        "skip_fetch": True,
+        "language": "pt-BR",
+    },
+    {
+        "name": "hangar-110",
+        "source_url": "https://www.hangar110.com.br/agenda/",
+        "output": "hangar-110.xml",
+        "title": "Hangar 110 — Agenda",
+        "description": "Todos os shows da agenda do Hangar 110 (todas as páginas; GUID = permalink WP; pubDate = data de publicação WP)",
+        "scraper": scrape_hangar110,
         "skip_fetch": True,
         "language": "pt-BR",
     },
