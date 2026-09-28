@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 54,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 54 items"
+    "notes": "scraped 55 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 185,
+    "items": 186,
     "ok": true,
-    "notes": "merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 58,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -387,9 +387,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 21,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 21 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 16,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 30,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 30 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 16,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 10,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
