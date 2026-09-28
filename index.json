@@ -489,6 +489,11 @@
       "name": "instituto-care-programacao",
       "source_url": "https://institutocare.org.br/programacao/",
       "output": "feeds/instituto-care-programacao.xml"
+    },
+    {
+      "name": "hangar-110",
+      "source_url": "https://www.hangar110.com.br/agenda/",
+      "output": "feeds/hangar-110.xml"
     }
   ],
   "venue_impossible": [

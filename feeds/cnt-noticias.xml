@@ -5,7 +5,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 28 Sep 2026 13:55:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:40:40 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT/MDA mostra cenário eleitoral na reta final da campanha</title>
 <link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</link>
@@ -19,6 +19,12 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/quando-a-tecnologia-acelera-a-responsabilidade-precisa-acompanhar</guid>
 <pubDate>Mon, 14 Sep 2026 09:02:53 +0000</pubDate>
 <description>Artigo — A tecnologia fortalece o setor de transporte, mas seu avanço exige que inovação, governança e proteção de dados caminhem juntas para garantir segurança, eficiência e confiança</description>
+</item>
+<item>
+<title>Executive Program reúne empresários do transporte em imersão sobre futuro do setor</title>
+<link>https://www.cnt.org.br/imprensa/noticia/executive-program-rene-empresrios-do-transporte-em-imerso-sobre-futuro-do-setor</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/executive-program-rene-empresrios-do-transporte-em-imerso-sobre-futuro-do-setor</guid>
+<description>SEST SENAT — Terceira edição do programa reúne 81 participantes em atividades sobre liderança, inovação e tecnologia, em Embu das Artes (SP)</description>
 </item>
 <item>
 <title>Plano CNT de Transporte e Logística: um norte para a infraestrutura do país</title>
@@ -241,12 +247,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/fit-2026-executivo-da-microsoft-discute-cibersegurana-no-transporte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/fit-2026-executivo-da-microsoft-discute-cibersegurana-no-transporte</guid>
 <description>ITL — Thiago Galvão participa do evento ao lado dos especialistas Laura Schertel e João Eduardo Aparecido Luisi Vieira, que abordarão proteção de dados, regulação e riscos digitais</description>
-</item>
-<item>
-<title>SEST SENAT aproxima setor de transporte do ecossistema de inovação no Hacktown</title>
-<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-aproxima-setor-de-transporte-do-ecossistema-de-inovao-no-hacktown</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-aproxima-setor-de-transporte-do-ecossistema-de-inovao-no-hacktown</guid>
-<description>Tecnologia e inovação — Painel discutiu os desafios da matriz logística brasileira e o papel de dados, inteligência artificial e combustíveis sustentáveis na construção de um transporte mais competitivo e sustentável</description>
 </item>
 </channel>
 </rss>
