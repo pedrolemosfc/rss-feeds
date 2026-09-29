@@ -5,7 +5,7 @@
 <link>https://audiosp.com.br/programacao</link>
 <description>Shows do Audio SP (AJAX programacao_load.php)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 29 Sep 2026 08:40:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 16:34:55 +0000</lastBuildDate>
 <item>
 <title>JET 2027 South America Tour</title>
 <link>https://audiosp.com.br/1471-jet-2027-south-america-tour</link>
@@ -29,10 +29,24 @@
 </item>
 <item>
 <title>Freya Skye</title>
+<link>https://audiosp.com.br/1479-freya-skye</link>
+<guid isPermaLink="true">https://audiosp.com.br/1479-freya-skye</guid>
+<pubDate>Thu, 28 Jan 2027 12:00:00 +0000</pubDate>
+<description>Audio SP · 28 Janeiro 2027</description>
+</item>
+<item>
+<title>Freya Skye</title>
 <link>https://audiosp.com.br/1469-freya-skye</link>
 <guid isPermaLink="true">https://audiosp.com.br/1469-freya-skye</guid>
 <pubDate>Wed, 27 Jan 2027 12:00:00 +0000</pubDate>
 <description>Audio SP · 27 Janeiro 2027</description>
+</item>
+<item>
+<title>Réveillon Agrada Gregos</title>
+<link>https://audiosp.com.br/1475-reveillon-agrada-gregos</link>
+<guid isPermaLink="true">https://audiosp.com.br/1475-reveillon-agrada-gregos</guid>
+<pubDate>Thu, 31 Dec 2026 12:00:00 +0000</pubDate>
+<description>Audio SP · 31 Dezembro 2026</description>
 </item>
 <item>
 <title>Chico Chico</title>
@@ -126,6 +140,13 @@
 <description>Audio SP · 21 Novembro 2026</description>
 </item>
 <item>
+<title>Rael</title>
+<link>https://audiosp.com.br/1477-rael</link>
+<guid isPermaLink="true">https://audiosp.com.br/1477-rael</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+<description>Audio SP · 19 Novembro 2026</description>
+</item>
+<item>
 <title>Ty Segall</title>
 <link>https://audiosp.com.br/1445-ty-segall</link>
 <guid isPermaLink="true">https://audiosp.com.br/1445-ty-segall</guid>
@@ -168,6 +189,13 @@
 <description>Audio SP · 31 Outubro 2026</description>
 </item>
 <item>
+<title>Corrida das Blogueiras</title>
+<link>https://audiosp.com.br/1478-corrida-das-blogueiras</link>
+<guid isPermaLink="true">https://audiosp.com.br/1478-corrida-das-blogueiras</guid>
+<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+<description>Audio SP · 27 Outubro 2026</description>
+</item>
+<item>
 <title>Bailão Otaku</title>
 <link>https://audiosp.com.br/1448-bailao-otaku</link>
 <guid isPermaLink="true">https://audiosp.com.br/1448-bailao-otaku</guid>
@@ -180,6 +208,20 @@
 <guid isPermaLink="true">https://audiosp.com.br/1451-haddaway</guid>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
 <description>Audio SP · 23 Outubro 2026</description>
+</item>
+<item>
+<title>DMatch X Atlanta</title>
+<link>https://audiosp.com.br/1473-dmatch-x-atlanta</link>
+<guid isPermaLink="true">https://audiosp.com.br/1473-dmatch-x-atlanta</guid>
+<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+<description>Audio SP · 18 Outubro 2026</description>
+</item>
+<item>
+<title>Aniversário da Pocah</title>
+<link>https://audiosp.com.br/1476-aniversario-da-pocah</link>
+<guid isPermaLink="true">https://audiosp.com.br/1476-aniversario-da-pocah</guid>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+<description>Audio SP · 16 Outubro 2026</description>
 </item>
 <item>
 <title>The Gathering In Concert</title>
@@ -220,6 +262,12 @@
 <title>Peter Hook &amp; The Light 09 Março 2027</title>
 <link>https://audiosp.com.br/1472-peter-hook-e-the-light</link>
 <guid isPermaLink="true">https://audiosp.com.br/1472-peter-hook-e-the-light</guid>
+<description>Audio SP</description>
+</item>
+<item>
+<title>Lifehouse 13 Março 2027</title>
+<link>https://audiosp.com.br/1474-lifehouse</link>
+<guid isPermaLink="true">https://audiosp.com.br/1474-lifehouse</guid>
 <description>Audio SP</description>
 </item>
 </channel>

@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 56,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 56 items"
+    "notes": "scraped 57 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 187,
+    "items": 188,
     "ok": true,
-    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 31,
+    "items": 38,
     "ok": true,
-    "notes": "scraped 31 events",
+    "notes": "scraped 38 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 6,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 15,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -594,9 +594,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 11,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 7,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {

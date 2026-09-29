@@ -12,7 +12,7 @@
 	<atom:link href="https://kmm.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kmm.com.br/blog/</link>
 	<description>Espelho do RSS nativo do blog KMM (WordPress /feed/). /blog/feed/ é só comentários; site feed cobre posts recentes do blog.</description>
-	<lastBuildDate>Tue, 29 Sep 2026 08:39:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 16:34:07 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vale-Pedágio Obrigatório: entenda as regras e como funciona no transporte de cargas</title>
+		<link>https://kmm.com.br/blog/vale-pedagio-obrigatorio/</link>
+					<comments>https://kmm.com.br/blog/vale-pedagio-obrigatorio/#respond</comments>
+		
+		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 13:41:03 +0000</pubDate>
+				<category><![CDATA[Gestão]]></category>
+		<guid isPermaLink="false">https://kmm.com.br/?p=21367</guid>
+
+					<description><![CDATA[<p>O Vale-Pedágio Obrigatório é uma obrigação importante na contratação do transporte rodoviário de cargas e tem como principal objetivo evitar que o custo do pedágio seja arcado pelo transportador. Instituído pela Lei nº 10.209/2001 e atualmente regulamentado pela Resolução ANTT nº 6.024/2023, o mecanismo determina que o contratante antecipe ao transportador o valor necessário para [&#8230;]</p>
+<p>O post <a href="https://kmm.com.br/blog/vale-pedagio-obrigatorio/">Vale-Pedágio Obrigatório: entenda as regras e como funciona no transporte de cargas</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://kmm.com.br/blog/vale-pedagio-obrigatorio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Controle da jornada do motorista: como fazer e por que é importante para a transportadora</title>
 		<link>https://kmm.com.br/blog/controle-da-jornada-do-motorista/</link>
 					<comments>https://kmm.com.br/blog/controle-da-jornada-do-motorista/#respond</comments>
@@ -201,26 +220,6 @@
 ]]></description>
 		
 					<wfw:commentRss>https://kmm.com.br/blog/seguros-obrigatorios-antt/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Torre de controle: o que é, como funciona e por que ela é essencial para a logística moderna</title>
-		<link>https://kmm.com.br/blog/torre-de-controle/</link>
-					<comments>https://kmm.com.br/blog/torre-de-controle/#respond</comments>
-		
-		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 17:32:00 +0000</pubDate>
-				<category><![CDATA[Gestão]]></category>
-		<category><![CDATA[Tecnologia]]></category>
-		<guid isPermaLink="false">https://kmm.com.br/?p=20883</guid>
-
-					<description><![CDATA[<p>A torre de controle se tornou uma das principais aliadas das empresas que buscam mais eficiência, visibilidade e controle sobre suas operações logísticas. Em um cenário em que clientes exigem entregas cada vez mais rápidas, embarcadores cobram informações em tempo real e transportadoras precisam reduzir custos sem perder qualidade, acompanhar toda a operação de forma [&#8230;]</p>
-<p>O post <a href="https://kmm.com.br/blog/torre-de-controle/">Torre de controle: o que é, como funciona e por que ela é essencial para a logística moderna</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://kmm.com.br/blog/torre-de-controle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
