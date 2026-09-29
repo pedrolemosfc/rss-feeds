@@ -459,9 +459,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 7,
+    "items": 6,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 6 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 9,
+    "ok": true,
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
