@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-09-30 19:30 UTC
+Generated: 2026-09-30 23:59 UTC
 
 ## Native feeds (not scraped)
 
@@ -18,12 +18,12 @@ Generated: 2026-09-30 19:30 UTC
 
 ## Scraped feeds
 
-- **folha-jazz** [FAIL] items=0 → `out/folha-jazz.xml`  source: https://www1.folha.uol.com.br/folha-topicos/jazz/  
-  notes: no article items found (possible bot wall / JS-only page)
-- **folha-criticas-de-musica** [FAIL] items=0 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
-  notes: no article items found (possible bot wall / JS-only page)
-- **folha-show** [FAIL] items=0 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: no article items found (possible bot wall / JS-only page)
+- **folha-jazz** [OK] items=85 → `out/folha-jazz.xml`  source: https://www1.folha.uol.com.br/folha-topicos/jazz/  
+  notes: scraped 85 items
+- **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
+  notes: scraped 47 items
+- **folha-show** [OK] items=57 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 57 items
 - **guia-restaurantes** [OK] items=77 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 77 items
 - **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -116,10 +116,10 @@ Generated: 2026-09-30 19:30 UTC
   notes: scraped 40 events
 - **audio-sp** [OK] items=39 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
   notes: scraped 39 events
-- **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
-  notes: scraped 12 events
-- **casa-de-francisca** [OK] items=55 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 55 events
+- **teatro-das-artes-sp** [OK] items=11 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
+  notes: scraped 11 events
+- **casa-de-francisca** [OK] items=57 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 57 events
 - **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 9 events
 - **cavern-club-sp** [OK] items=20 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -137,7 +137,7 @@ Generated: 2026-09-30 19:30 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -187,7 +187,7 @@ Generated: 2026-09-30 19:30 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [FAIL] items=0 → `out/folha-musica-topicos.xml`  
-  notes: no successful part feeds to merge
+- **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=173 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])

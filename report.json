@@ -3,25 +3,25 @@
     "name": "folha-jazz",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
     "output": "out/folha-jazz.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no article items found (possible bot wall / JS-only page)"
+    "items": 85,
+    "ok": true,
+    "notes": "scraped 85 items"
   },
   {
     "name": "folha-criticas-de-musica",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/",
     "output": "out/folha-criticas-de-musica.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no article items found (possible bot wall / JS-only page)"
+    "items": 47,
+    "ok": true,
+    "notes": "scraped 47 items"
   },
   {
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no article items found (possible bot wall / JS-only page)"
+    "items": 57,
+    "ok": true,
+    "notes": "scraped 57 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no successful part feeds to merge"
+    "items": 187,
+    "ok": true,
+    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -441,18 +441,18 @@
     "name": "teatro-das-artes-sp",
     "source_url": "https://teatrodasartessp.com.br/programacao/",
     "output": "feeds/teatro-das-artes-sp.xml",
-    "items": 12,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
