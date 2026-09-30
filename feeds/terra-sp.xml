@@ -12,7 +12,7 @@
 	<atom:link href="https://terrasp.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://terrasp.com/</link>
 	<description>Espelho do RSS nativo do Terra SP</description>
-	<lastBuildDate>Wed, 30 Sep 2026 12:45:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Sep 2026 19:28:02 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -133,7 +133,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd0453270a3"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62be8801f"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -738,19 +738,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -903,7 +903,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd045397813"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62bef384c"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -1502,19 +1502,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -1667,7 +1667,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd045403ad1"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62bf4bdff"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -2257,19 +2257,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -2422,7 +2422,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd04545f426"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62bf98169"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -3012,19 +3012,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -3177,7 +3177,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd0454afed4"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62bfe2018"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -3767,19 +3767,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -3932,7 +3932,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd04550fd48"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62c0391a4"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -4522,19 +4522,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -4687,7 +4687,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd04556888f"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62c083c0a"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -5281,19 +5281,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -5446,7 +5446,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd0455bb5d1"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62c0cd7c5"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -6040,19 +6040,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -6205,7 +6205,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd0456142e2"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62c128d7a"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -6799,19 +6799,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -6860,20 +6860,20 @@ max-width: 230px;
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9507</post-id>	</item>
 		<item>
-		<title>21/11 Jorge Aragão</title>
-		<link>https://terrasp.com/eventos/24-09-jorge-aragao/</link>
+		<title>21/11 Seu Desejo e Silvânia &#038; Berg</title>
+		<link>https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/</link>
 		
-		<dc:creator><![CDATA[Borba]]></dc:creator>
-		<pubDate>Tue, 04 Aug 2026 12:52:34 +0000</pubDate>
+		<dc:creator><![CDATA[Terra SP]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 16:39:22 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://terrasp.com/?p=9295</guid>
+		<guid isPermaLink="false">https://terrasp.com/?p=9625</guid>
 
 					<description><![CDATA[‎ ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9295" class="elementor elementor-9295" data-elementor-post-type="post">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9625" class="elementor elementor-9625" data-elementor-post-type="post">
 				<div class="elementor-element elementor-element-dc5193d e-con-full e-flex e-con e-parent" data-id="dc5193d" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-33c5dad elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="33c5dad" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="2142" height="734" src="https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9454" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO.png 2142w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-300x103.png 300w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-1024x351.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-768x263.png 768w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-1536x526.png 1536w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-2048x702.png 2048w, https://terrasp.com/wp-content/uploads/2026/08/BANNER-JORGE-ATUALIZADO-150x51.png 150w" sizes="(max-width: 2142px) 100vw, 2142px" />													</div>
+													<img loading="lazy" decoding="async" width="1900" height="650" src="https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9626" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA.png 1900w, https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA-300x103.png 300w, https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA-1024x350.png 1024w, https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA-768x263.png 768w, https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA-1536x525.png 1536w, https://terrasp.com/wp-content/uploads/2026/09/BANNEER-SEU-DESEJO-DATA-ATUALIZADA-150x51.png 150w" sizes="(max-width: 1900px) 100vw, 1900px" />													</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-83724d9 e-con-full e-flex e-con e-parent" data-id="83724d9" data-element_type="container" data-core-v316-plus="true">
@@ -6964,7 +6964,7 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-22dc62d elementor-widget elementor-widget-wwp-elementor-static-breadcrumbs" data-id="22dc62d" data-element_type="widget" data-widget_type="wwp-elementor-static-breadcrumbs.default">
 				<div class="elementor-widget-container">
-			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd045662ba0"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
+			<ol class="wwp-elementor-breadcrumbs " id="breadcrumb-6abd62c17a861"><li class="visited"><a href="https://terrasp.com/"><span>Home</span></a></li><li class="visited"><a href="/programacao/"><span>Programação</span></a></li><li class="visited"><span>Pit Babe</span></li></ol><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[[],{"@type":"ListItem","position":1,"name":"Programa\u00e7\u00e3o","item":"\/programacao\/"},[]]}</script>		</div>
 				</div>
 					</div>
 				</div>
@@ -6972,18 +6972,18 @@ max-width: 230px;
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-155890f elementor-widget elementor-widget-text-editor" data-id="155890f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><b>21/11 </b>Sábado</p>						</div>
+							<p><b>21/11 </b>Sábado</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-2b1584a elementor-widget elementor-widget-heading" data-id="2b1584a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Show do Jorge Aragão no Terra SP
+			<h1 class="elementor-heading-title elementor-size-default">Show do seu desejo + silvênia &amp; berg
 
 
 </h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-79d1e2b elementor-widget elementor-widget-text-editor" data-id="79d1e2b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<div class="plan-content__hero-info astro-wsnwrbqg"><div id="plan-hero-info-wrapper" class="plan-hero__info-wrapper astro-eulym4nl"><strong>Jorge Aragão é mais do que show.</strong> É história viva em forma de melodia, poesia e percussão.<br /><br />Um convite pra quem sabe que<strong> o samba não é só música, é memória e alma.</strong></div></div>						</div>
+							<p><strong>São Paulo vai viver uma noite de muita música e nostalgia!</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" />&#x200d;<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png" alt="🔥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p> </p><p>No feriado de <strong>21 de novembro</strong>, o Terra SP recebe <strong>Seu Desejo, com Yara Tchê e Alessandro, e Silvânia &amp; Berg</strong> para uma noite especial.</p><p> </p><p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Garanta já seu ingresso!</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p><p> </p><p><strong>O que vai rolar:</strong></p><p> </p><p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png" alt="🎶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Shows de <strong>Seu Desejo — Yara Tchê e Alessandro — e Silvânia &amp; Berg</strong>, reunindo romantismo, forró e músicas para cantar do começo ao fim.</p><p> </p><p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png" alt="🔥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Uma noite especial para quem gosta de dançar, se apaixonar e cantar junto.</p><p> </p><p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f37b.png" alt="🍻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Bar completo para aproveitar a noite toda.</p><p> </p><p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f39f.png" alt="🎟" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Viva a experiência do <strong>camarote do Terra SP</strong>, com conforto e visão privilegiada do show.</p>						</div>
 				</div>
 					</div>
 				</div>
@@ -7002,7 +7002,7 @@ max-width: 230px;
 											</span>
 				</p>
 									<p class="elementor-icon-box-description">
-						<b>Data</b> 21 de novembro de 2026					</p>
+						<b>Data: </b>21 de novembro de 2026					</p>
 							</div>
 		</div>
 				</div>
@@ -7026,7 +7026,7 @@ max-width: 230px;
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-40bc418 elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-id="40bc418" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-element elementor-element-40bc418 elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-view-default elementor-widget elementor-widget-icon-box" data-id="40bc418" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -7039,7 +7039,7 @@ max-width: 230px;
 											</span>
 				</p>
 									<p class="elementor-icon-box-description">
-						<b> Previsão de início do show:</b> 00h 
+						<b> Previsão de início do show:</b> 15h 
 					</p>
 							</div>
 		</div>
@@ -7089,7 +7089,7 @@ max-width: 230px;
 				<div class="elementor-element elementor-element-56130e6 elementor-align-left elementor-widget elementor-widget-button" data-id="56130e6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://feverup.com/m/683985">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://feverup.com/m/729968">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="icon icon-brand-ingresso"></i>			</span>
@@ -7102,7 +7102,7 @@ max-width: 230px;
 				<div class="elementor-element elementor-element-203aabd elementor-align-left elementor-widget elementor-widget-button" data-id="203aabd" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send/?phone=5511932242747&#038;text=Ol%C3%A1%2C+gostaria+de+fazer+uma+reserva+para+o+show+do+Jorge+Arag%C3%A3o+&#038;type=phone_number&#038;app_absent=0">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send/?phone=5511932242747&#038;text=Ol%C3%A1%21+Gostaria+de+garantir+meu+camarote+pro+show+do+Seu+Desejo+e+Silv%C3%A2nia+%26+Berg.&#038;type=phone_number&#038;app_absent=0&#038;utm_">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="icon icon-camarote"></i>			</span>
@@ -7115,7 +7115,7 @@ max-width: 230px;
 				<div class="elementor-element elementor-element-881927e elementor-align-left elementor-widget elementor-widget-button" data-id="881927e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send/?phone=5511932242747&#038;text=Ol%C3%A1%21+Tenho+uma+d%C3%BAvida+sobre+o+show+do+Jorge+Arag%C3%A3o+no+Terra+SP+e+gostaria+de+mais+informa%C3%A7%C3%B5es&#038;type=phone_number&#038;app_absent=0">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send/?phone=5511932242747&#038;text=Ol%C3%A1%21+Tenho+d%C3%BAvidas+sobre+o+show+do+Seu+Desejo+e+Silv%C3%A2nia+%26+Berg.&#038;type=phone_number&#038;app_absent=0&#038;utm">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="icon icon-whatsapp"></i>			</span>
@@ -7570,19 +7570,19 @@ max-width: 230px;
 				</div>
 							</div>
 				</div>
-				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9295 post-9295 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+				<div data-elementor-type="loop-item" data-elementor-id="497" class="elementor elementor-497 swiper-slide e-loop-item e-loop-item-9625 post-9625 post type-post status-publish format-standard has-post-thumbnail hentry category-sem-categoria" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
 					<div class="elementor-section-wrap">
 						<div class="elementor-element elementor-element-790b315 e-flex e-con-boxed e-con e-parent" data-id="790b315" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-core-v316-plus="true">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-13a15d5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13a15d5" data-element_type="widget" id="car-prog" data-widget_type="theme-post-featured-image.default">
 				<div class="elementor-widget-container">
-														<a href="https://terrasp.com/eventos/24-09-jorge-aragao/">
-							<img loading="lazy" decoding="async" width="1254" height="1254" src="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png" class="attachment-full size-full wp-image-9455" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO.png 1254w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-1024x1024.png 1024w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/08/ASPECT-RATIO-JORGE-ATUALIZADO-96x96.png 96w" sizes="(max-width: 1254px) 100vw, 1254px" />								</a>
+														<a href="https://terrasp.com/eventos/21-11-seu-desejo-e-silvania-berg/">
+							<img loading="lazy" decoding="async" width="800" height="800" src="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png" class="attachment-full size-full wp-image-9627" alt="" srcset="https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA.png 800w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-300x300.png 300w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-150x150.png 150w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-768x768.png 768w, https://terrasp.com/wp-content/uploads/2026/09/ASPECT-RATIO-FEVER-DATA-ATUALIZADA-96x96.png 96w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-34475e6 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="34475e6" data-element_type="widget" data-widget_type="theme-post-title.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">21/11 Jorge Aragão</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">21/11 Seu Desejo e Silvânia &#038; Berg</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ae2e1cf elementor-widget elementor-widget-theme-post-excerpt" data-id="ae2e1cf" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
 				<div class="elementor-widget-container">
@@ -7633,6 +7633,6 @@ max-width: 230px;
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">9295</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">9625</post-id>	</item>
 	</channel>
 </rss>

@@ -3,25 +3,25 @@
     "name": "folha-jazz",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
     "output": "out/folha-jazz.xml",
-    "items": 85,
-    "ok": true,
-    "notes": "scraped 85 items"
+    "items": 0,
+    "ok": false,
+    "notes": "no article items found (possible bot wall / JS-only page)"
   },
   {
     "name": "folha-criticas-de-musica",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/",
     "output": "out/folha-criticas-de-musica.xml",
-    "items": 47,
-    "ok": true,
-    "notes": "scraped 47 items"
+    "items": 0,
+    "ok": false,
+    "notes": "no article items found (possible bot wall / JS-only page)"
   },
   {
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 57,
-    "ok": true,
-    "notes": "scraped 57 items"
+    "items": 0,
+    "ok": false,
+    "notes": "no article items found (possible bot wall / JS-only page)"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 187,
-    "ok": true,
-    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "items": 0,
+    "ok": false,
+    "notes": "no successful part feeds to merge"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -216,9 +216,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 20,
+    "items": 21,
     "ok": true,
-    "notes": "mirrored 20 native items",
+    "notes": "mirrored 21 native items",
     "kind": "native-mirror"
   },
   {
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 58,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 58 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -387,9 +387,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 38,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 38 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 15,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -639,9 +639,9 @@
     "name": "colossus",
     "source_url": "https://colossus.com/",
     "output": "feeds/colossus.xml",
-    "items": 76,
+    "items": 77,
     "ok": true,
-    "notes": "scraped 76 events",
+    "notes": "scraped 77 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 48,
+    "ok": true,
+    "notes": "scraped 48 events",
     "kind": "venue-scrape"
   },
   {

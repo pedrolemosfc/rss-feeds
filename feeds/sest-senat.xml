@@ -5,13 +5,13 @@
 <link>https://www.sestsenat.org.br/noticias</link>
 <description>Notícias do SEST SENAT (API publicador; SPA sem RSS nativo)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 30 Sep 2026 12:48:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 19:30:15 +0000</lastBuildDate>
 <item>
-<title>Mais Motoristas inicia convocação de 13.892 candidatos selecionados</title>
-<link>https://www.sestsenat.org.br/noticia/mais-motoristas-inicia-convocao-de-13892-candidatos-selecionados</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/mais-motoristas-inicia-convocao-de-13892-candidatos-selecionados</guid>
-<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Primeira chamada contempla candidatos que deverão assinar o Termo de Adesão e iniciar o processo de mudança de categoria da CNH</description>
+<title>Tecnologia e colaboração são temas de destaque no Executive Program, em São Paulo</title>
+<link>https://www.sestsenat.org.br/noticia/tecnologia-e-colaboracao-temas-de-destaque-executive-program</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/tecnologia-e-colaboracao-temas-de-destaque-executive-program</guid>
+<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Da exploração espacial às entregas por drones, especialistas relacionaram novas aplicações aos desafios das empresas do setor</description>
 </item>
 <item>
 <title>Segundo dia do Executive Program teve debates sobre os impactos da tecnologia no transporte</title>
@@ -19,6 +19,13 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/segundo-dia-do-ep-teve-debates-sobre-os-impactos-da-tecnologia</guid>
 <pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Lideranças do setor discutiram gestão de equipes, mudanças nas rotas de carga e preparação das operações para novos riscos</description>
+</item>
+<item>
+<title>Mais Motoristas inicia convocação de 13.892 candidatos selecionados</title>
+<link>https://www.sestsenat.org.br/noticia/mais-motoristas-inicia-convocao-de-13892-candidatos-selecionados</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/mais-motoristas-inicia-convocao-de-13892-candidatos-selecionados</guid>
+<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Primeira chamada contempla candidatos que deverão assinar o Termo de Adesão e iniciar o processo de mudança de categoria da CNH</description>
 </item>
 <item>
 <title>SEST SENAT e Azul firmam acordo para fortalecer formação de profissionais para a aviação</title>
@@ -278,13 +285,6 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sest-senat-divulga-ranking-com-os-20-melhores-motoristas-profissionais-do-brasil</guid>
 <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Após um ano de capacitação, avaliações e acompanhamento em saúde e desempenho, 20 motoristas de todas as regiões do país disputam a certificação nacional promovida pelo SEST SENAT</description>
-</item>
-<item>
-<title>Pernambuco recebe a final do melhor motorista do Brasil</title>
-<link>https://www.sestsenat.org.br/noticia/pernambuco-recebe-a-final-do-melhor-motorista-do-brasil</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/pernambuco-recebe-a-final-do-melhor-motorista-do-brasil</guid>
-<pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Mais de 8 mil profissionais de quase 3 mil empresas do transporte rodoviário de todo o país participaram do desafio nacional promovido pelo SEST SENAT</description>
 </item>
 </channel>
 </rss>
