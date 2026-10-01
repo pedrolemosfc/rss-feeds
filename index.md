@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-01 06:09 UTC
+Generated: 2026-10-01 13:32 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-10-01 06:09 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=57 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 57 items
+- **folha-show** [OK] items=56 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 56 items
 - **guia-restaurantes** [OK] items=77 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 77 items
 - **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -137,7 +137,7 @@ Generated: 2026-10-01 06:09 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -164,22 +164,22 @@ Generated: 2026-10-01 06:09 UTC
   notes: scraped 77 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=8 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 8 events
+- **antt-cargas-rodoviarias** [OK] items=1 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 1 events
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=49 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 49 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=19 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
@@ -187,7 +187,7 @@ Generated: 2026-10-01 06:09 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=186 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=173 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])

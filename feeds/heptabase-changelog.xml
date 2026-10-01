@@ -5,7 +5,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 06:08:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 13:31:24 +0000</lastBuildDate>
+<item>
+<title>Mobile app v1.40.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1401</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1401</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Kanban &amp; table views for tag databases.</description>
+</item>
 <item>
 <title>ChatGPT Plugin v0.1.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#chatgpt-plugin-v010</link>
@@ -558,13 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1850</guid>
 <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
 <description>App: Web card; Support GPT 5.4 model and remove GPT 5.2 model.; Fix an issue where searching for sources fails in the Highlight app.; Fix a "Minified React error #311" issue that was causing some users to fail to load content.; Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
-</item>
-<item>
-<title>Mobile app v1.33.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1330</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1330</guid>
-<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-<description>Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
 </item>
 </channel>
 </rss>
