@@ -5,7 +5,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:32:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:40:16 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT/MDA mostra cenário eleitoral na reta final da campanha</title>
 <link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</link>
@@ -19,6 +19,12 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/quando-a-tecnologia-acelera-a-responsabilidade-precisa-acompanhar</guid>
 <pubDate>Mon, 14 Sep 2026 09:02:53 +0000</pubDate>
 <description>Artigo — A tecnologia fortalece o setor de transporte, mas seu avanço exige que inovação, governança e proteção de dados caminhem juntas para garantir segurança, eficiência e confiança</description>
+</item>
+<item>
+<title>Como o transporte coletivo pode contribuir para reduzir emissões</title>
+<link>https://www.cnt.org.br/imprensa/noticia/como-o-transporte-coletivo-pode-contribuir-para-reduzir-emissoes</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/como-o-transporte-coletivo-pode-contribuir-para-reduzir-emissoes</guid>
+<description>COP — Estudos da CNT mostram o potencial da mobilidade coletiva entre as possibilidades analisadas pelo setor na preparação para a COP31</description>
 </item>
 <item>
 <title>Sistema Transporte defende integração entre modalidades para fortalecer a navegação</title>
@@ -241,12 +247,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/projeto-transporte-e-a-cop-ganha-hub-digital-sobre-transporte-e-clima</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-transporte-e-a-cop-ganha-hub-digital-sobre-transporte-e-clima</guid>
 <description>COP — Ambiente digital reúne produção técnica, notícias, imagens e acervo da atuação do Sistema nas Conferências das Partes e acompanha a preparação para Antália</description>
-</item>
-<item>
-<title>Feiras do Emprega Transporte reúnem mais de 3 mil vagas em setembro</title>
-<link>https://www.cnt.org.br/imprensa/noticia/feiras-emprega-transporte-renem-mais-de-3-mil-vagas-em-setembro</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/feiras-emprega-transporte-renem-mais-de-3-mil-vagas-em-setembro</guid>
-<description>SEST SENAT — Iniciativa do SEST SENAT será realizada entre os dias 14 e 25, com oportunidades em diferentes áreas e participação de empresas</description>
 </item>
 </channel>
 </rss>

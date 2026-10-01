@@ -5,27 +5,27 @@
 <link>https://fabric.so/info/changelog</link>
 <description>Fabric.so product changelog</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:31:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:39:42 +0000</lastBuildDate>
 <item>
-<title>Better text editor</title>
-<link>https://fabric.so/info/changelog#better-text-editor</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-24,-2026-better-text-editor</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<description>📑 We've overhauled Fabric's text editor for a much better writing experience: Ability to apply style to multiple blocks Formatting UI no longer fights against mobile OS UI We built a new sync engine, with better performance and reliability across all internet connections We laid the foundations for offline mode :)</description>
+<title>Tree planting</title>
+<link>https://fabric.so/info/changelog#tree-planting</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#oct-1,-2026-tree-planting</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<description>The first AI... that plants trees 🌳 From today, every subscriber helps Fabric plant mangrove trees in Brazil and Kenya. Mangrove trees are amazing because they protect shorelines, store carbon, and shelter marine life. Good tools leave things better than they found them, and that's what we aspire to be at Fabric. Fabric is a digital garden for your projects, ideas and inspiration. And now... a physical garden too 🌱 We're also working towards being 100% carbon and water neutral by 2030. This t...</description>
 </item>
 <item>
-<title>New! Readwise connection</title>
-<link>https://fabric.so/info/changelog#new-readwise-connection</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-23,-2026-new-readwise-connection</guid>
-<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-<description>📖 Your Fabric now has a Readwise connector: Syncs all your existing Readwise highlights Each time you make a new highlight or annotations, it'll automatically be added to your Fabric! Save extracts and snippets that inspire you. (Note: the original source/book doesn't get brought into Fabric)</description>
+<title>Better uploader</title>
+<link>https://fabric.so/info/changelog#better-uploader</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-30,-2026-better-uploader</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<description>⬆️ New fast uploader! Way faster upload performance More reliable on slow/weak internet Better management of uploads (cancel one or all) Should make daily use much better.</description>
 </item>
 <item>
-<title>New! RSS feed support</title>
-<link>https://fabric.so/info/changelog#new-rss-feed-support</link>
-<guid isPermaLink="true">https://fabric.so/info/changelog#sep-22,-2026-new-rss-feed-support</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<description>📣 Your Fabric now has RSS support! Subscribe to an RSS feed, and every new post will be automatically added to your Fabric. Stay up to date on the content you care about… automatically! We hope you enjoy it :)</description>
+<title>Video playback improvements</title>
+<link>https://fabric.so/info/changelog#video-playback-improvements</link>
+<guid isPermaLink="true">https://fabric.so/info/changelog#sep-29,-2026-video-playback-improvements</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<description>🎥 We've overhauled Fabric's video player for a much better viewing experience: Better handling of large formats Improved streaming performance, including on slow connections It's a big improvement and we really hope you enjoy it.</description>
 </item>
 </channel>
 </rss>

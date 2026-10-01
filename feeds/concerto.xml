@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 01 Oct 2026 13:29:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:37:29 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU0OCIsImRpc2xpa2VzIjoiMCJ9?token=PEYYBKbD0mcUZcJDT3Auvga9V-4ZskUU5JJwZcWXQWI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU0OCIsImRpc2xpa2VzIjoiMCJ9?token=EjdlnxCi9_kUZCLhJ3Lkh8KMPNGHzUZUwwU_K3GrKgg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;548&lt;/span&gt;
@@ -134,6 +134,11 @@
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/outubro-2026" hreflang="pt-br"&gt;Outubro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -142,6 +147,178 @@
   <pubDate>Thu, 01 Oct 2026 23:13:51 +0000</pubDate>
     <dc:creator>Nelson Rubens Kunze</dc:creator>
     <guid isPermaLink="false">283369 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Clara Peya - piano e compositora e Santi Careta - guitarra e compositor</title>
+  <link>http://concerto.com.br/roteiros/clara-peya-piano-e-compositora-e-santi-careta-guitarra-e-compositor</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Clara Peya - piano e compositora e Santi Careta - guitarra e compositor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 19:23&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Programa: obras do álbum Solilòquia, como: El glaciar del fin del mundo, Motel, Alfil, La hoguera, Bambú, Dafne, Miedo al Miedo, Pez fuera del agua, Metamorfosis, Ensoñación, Búho, Rescue, Puxi e Comecocos são revisitadas em versões que ampliam o universo sonoro das composições originais, explorando diferentes possibilidades de improvisação.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-06T20:00:00Z" class="datetime"&gt;ter, 06/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-ling" hreflang="und"&gt;Instituto Ling (300 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60. Vendas pelo site: www.institutoling.org.br ou na recepção do Instituto Ling: de segunda a sábado, das 10h30 às 20h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 Oct 2026 19:23:08 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283485 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/clara-peya-piano-e-compositora-e-santi-careta-guitarra-e-compositor#comments</comments>
+    </item>
+<item>
+  <title>Ibrachina Musical Project</title>
+  <link>http://concerto.com.br/roteiros/ibrachina-musical-project</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ibrachina Musical Project&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 19:17&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ibrachina Musical Project: duas culturas, uma só melodia. Celebração da amizade e o diálogo cultural entre Brasil e China. Participação: Grupo de Música Tradicional Chinesa e Big Band Municipal da Escola Municipal de Música de São Paulo. Maurício Laws - regente. Programa: clássicos da música brasileira e regravações de clássicos da música chinesa com ritmos e sonoridades brasileiras.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-07T19:00:00Z" class="datetime"&gt;sab, 07/11/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-municipal-0" hreflang="und"&gt;Theatro Municipal - Sala de Espetáculos (1500 lugares) e Salão Nobre (150 lugares) &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos pela plataforma INTI. Quem tiver ingresso on-line deve chegar com pelo menos 30 minutos de antecedência. A partir das 18h30, os ingressos de pessoas que não tiverem chegado serão disponibilizados para quem estiver na fila de espera.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 Oct 2026 19:17:27 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283484 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/ibrachina-musical-project#comments</comments>
+    </item>
+<item>
+  <title>Outubro 2026</title>
+  <link>http://concerto.com.br/content/outubro-2026</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Outubro 2026&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 19:11&lt;/span&gt;
+
+  &lt;div class="field field--name-field-cover field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Capa&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-capa_1026_72dpi.jpg" width="709" height="927" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista-pdf field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Arquivo Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="http://concerto.com.br/system/files/revistas/CardFlipbook-out26_1.pdf" type="application/pdf; length=169178"&gt;CardFlipbook-out26_1.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-publish-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data de publicação&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-01T12:00:00Z" class="datetime"&gt;qui, 01/10/2026 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-revista field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 Oct 2026 19:11:16 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283368 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Notícias do mundo musical</title>
@@ -240,6 +417,11 @@ Osesp ofereceu leitura que evidenciou como, à ira divina, Verdi responde com um
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/outubro-2026" hreflang="pt-br"&gt;Outubro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -311,6 +493,11 @@ Osesp ofereceu leitura que evidenciou como, à ira divina, Verdi responde com um
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/outubro-2026" hreflang="pt-br"&gt;Outubro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -321,70 +508,20 @@ Osesp ofereceu leitura que evidenciou como, à ira divina, Verdi responde com um
     <guid isPermaLink="false">283381 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Filarmônica de Minas Gerais anuncia temporada com Beethoven como eixo </title>
-  <link>http://concerto.com.br/node/283380</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais anuncia temporada com Beethoven como eixo &lt;/span&gt;
+  <title>Domenico Botelho Ensemble</title>
+  <link>http://concerto.com.br/roteiros/domenico-botelho-ensemble</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Domenico Botelho Ensemble&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 14:04&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Em sua programação para 2027, grupo vai interpretar as sinfonias, os concertos para piano e a ópera &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Fidelio&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; do compositor alemão&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A obra de Beethoven está no centro da nova temporada da Orquestra Filarmônica de Minas Gerais. Ao longo de 2027, o grupo vai interpretar as nove sinfonias, os cinco concertos para piano, o &lt;em&gt;Concerto para violino&lt;/em&gt; e a ópera &lt;em&gt;Fidelio&lt;/em&gt;, em homenagem aos 200 anos de morte do compositor. Diversos maestros e solistas vão se revezar nas apresentações das obras. &lt;/p&gt;
-&lt;p&gt;Fabio Mechetti, diretor artístico e regente titular da orquestra, vai comandar os músicos nas &lt;em&gt;Sinfonias nº 3, nº 6, nº 7&lt;/em&gt; e &lt;em&gt;nº 9&lt;/em&gt; (esta última fora da temporada de assinaturas). José Soares, regente associado da Filarmônica, fica responsável pelas &lt;em&gt;Sinfonias nº 1, nº 4 &lt;/em&gt;e &lt;em&gt;nº 5&lt;/em&gt;. E o maestro polonês Michal Nesterowicz rege a &lt;em&gt;Sinfonia nº 2&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;Os concertos para piano terão como solistas os pianistas Benedetto Lupo (&lt;em&gt;nº 1&lt;/em&gt;), Cristian Budu (&lt;em&gt;nº 2&lt;/em&gt;), Arnaldo Cohen (&lt;em&gt;nº 3&lt;/em&gt;), Sergio Tiempo (&lt;em&gt;nº 4&lt;/em&gt;) e Kristina Miller (&lt;em&gt;nº 5&lt;/em&gt;). A argentina Pilar Policano será a solista no &lt;em&gt;Concerto para violino e orquestra&lt;/em&gt;.  &lt;/p&gt;
-&lt;p&gt;Em &lt;em&gt;Fidelio&lt;/em&gt;, que encerra a temporada, o time de solistas é formado por Daniela Tabernig, Ewandro Stenzowski, Licio Bruno, Savio Sperandio, Raquel Paulin, Daniel Umbelino e Andrey Mira – em formato de concerto cênico, as apresentações terão direção de Ronaldo Zero. A regência será de Fabio Mechetti.  &lt;/p&gt;
-&lt;p&gt;Ainda no ciclo dedicado a Beethoven, serão interpretadas as aberturas &lt;em&gt;Egmont&lt;/em&gt;, &lt;em&gt;Coriolano&lt;/em&gt;, &lt;em&gt;A consagração da casa&lt;/em&gt;, &lt;em&gt;Fidelio&lt;/em&gt;, &lt;em&gt;Leonora nº 1&lt;/em&gt; e &lt;em&gt;Leonora nº 3&lt;/em&gt;, além de excertos de &lt;em&gt;As criaturas de Prometeu&lt;/em&gt;.  &lt;/p&gt;
-&lt;p&gt;Ao longo do ano, a Filarmônica fará 48 concertos em suas séries de assinaturas – Allegro (quintas), Presto (sextas), Vivace (quintas), Veloce (sextas) e Fora de Série (sábados). Uma novidade é que os concertos noturnos, que antes começavam às 20h30, foram adiantados e agora terão início às 20 horas. &lt;/p&gt;
-&lt;p&gt;O número de concertos em 2027 sobe para cerca de cem quando se considera as demais apresentações, em projetos como os Concertos para Juventude, Filarmônica em Câmara, Festival Tinta Fresca, Laboratório de Regência, concertos didáticos para escolas e instituições da rede pública, Filarmônica na Praça e a turnê estadual por Minas Gerais. &lt;/p&gt;
-&lt;p&gt;“Alguns dos concertos mais impactantes no palco da Sala Minas Gerais focarão em obras consagradas, como a &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, de Mahler, a &lt;em&gt;Sexta&lt;/em&gt;, de Dvorák, e a &lt;em&gt;Segunda sinfonia&lt;/em&gt; de Rachmaninov, assim como obras que serão apresentadas pela primeira vez, incluindo a encomenda de um &lt;em&gt;Concerto tríplice&lt;/em&gt; do compositor brasileiro André Mehmari, e a estreia de obra do compositor Jonas Hocherman, vencedor do último Festival Tinta Fresca, iniciativa pioneira da Filarmônica de Minas Gerais”, diz o maestro Fabio Mechetti. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A violoncelista Marina Martins (divulgação)" data-entity-type="file" data-entity-uuid="0088bd35-345c-4500-8238-5bc871c9f1a2" src="http://concerto.com.br/sites/default/files/inline-images/w-marina_martins.jpg" /&gt;
-&lt;figcaption&gt;A violoncelista Marina Martins (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;A abertura da temporada será em fevereiro, com o pianista Estefan Iatcekiw como solista no &lt;em&gt;Concerto para piano nº 1&lt;/em&gt;, de Franz Liszt, que será apresentado ao lado de &lt;em&gt;Terra Brasilis:&lt;/em&gt; &lt;em&gt;Fantasia sobre o Hino Nacional Brasileiro&lt;/em&gt;, de Clarice Assad, e da &lt;em&gt;Eroica&lt;/em&gt;, de Beethoven. No mesmo mês, Mechetti rege programa com as &lt;em&gt;Variações temporais: Beethoven revisitado&lt;/em&gt;, de Ronaldo Miranda, os &lt;em&gt;Choros nº 9&lt;/em&gt;, de Villa-Lobos, e Pilar Policano interpretando o &lt;em&gt;Concerto para violino&lt;/em&gt; de Beethoven. &lt;/p&gt;
-&lt;p&gt;Em março, José Soares recebe a soprano Camila Titinger para um programa em torno do classicismo, com &lt;em&gt;Exsultate Jubilate&lt;/em&gt;, de Mozart, e &lt;em&gt;Ah, perfido!&lt;/em&gt;, de Beethoven, interpretadas em diálogo com a &lt;em&gt;Sinfonia em três movimentos&lt;/em&gt; de Stravinsky. O maestro Michal Nesterowicz assume então a regência e comanda a Filarmônica, além da &lt;em&gt;Sinfonia nº 2&lt;/em&gt; de Beethoven, no &lt;em&gt;Concerto para orquestra&lt;/em&gt; de Lutoslawski.  &lt;/p&gt;
-&lt;p&gt;Abril começa com a presença de um dos grandes nomes do violino na atualidade, Vadim Gluzman, que será o solista no &lt;em&gt;Concerto para violino e orquestra&lt;/em&gt;, de Tchaikovsky, em programa no qual Mechetti rege também a &lt;em&gt;Sinfonia nº 1&lt;/em&gt; de Shostakovich. No segundo programa do mês, o solista será o contrabaixista Neto Bellotto, que vai apresentar o &lt;em&gt;Concerto para contrabaixo&lt;/em&gt; de Koussevitzky – Mechetti rege também nos concertos a &lt;em&gt;Sinfonia nº 2&lt;/em&gt; de Rachmaninov, e a &lt;em&gt;Abertura Coriolano&lt;/em&gt;, de Beethoven. &lt;/p&gt;
-&lt;p&gt;A violoncelista Marina Martins fará apresentações com a Filarmônica no início de maio, quando toca o &lt;em&gt;Concerto para violoncelo nº 6&lt;/em&gt;, de Boccherini, e o &lt;em&gt;Choro para violoncelo e orquestra&lt;/em&gt;, de Camargo Guarnieri, sob regência de Helder Trefzger, diretor da Orquestra Sinfônica do Espírito Santo. Também em maio, outro importante solista brasileiro se apresenta com a orquestra: o violista Rafaell Altino, que vai interpretar o &lt;em&gt;Concerto&lt;/em&gt; de William Walton, de quem se comemora os 125 anos de nascimento em 2027 – José Soares rege, nas mesmas datas, a &lt;em&gt;Rapsódia para orquestra&lt;/em&gt;, de Yuzo Toyama, e a &lt;em&gt;Quarta&lt;/em&gt; de Beethoven. &lt;/p&gt;
-&lt;p&gt;Em junho, tem início o ciclo dos concertos para piano de Beethoven, com o &lt;em&gt;nº 2&lt;/em&gt; e Cristian Budu, sob regência de Mechetti (o programa inclui a &lt;em&gt;Sinfonia nº 8&lt;/em&gt; do compositor e &lt;em&gt;Excelsior&lt;/em&gt;, de Wilhelm Stenhammar). Nos concertos seguintes, será a vez de Bendetto Lupo tocar o &lt;em&gt;Concerto nº 1&lt;/em&gt; e da Filarmônica homenagear o compositor brasileiro Osvaldo Lacerda por seu centenário, tocando a &lt;em&gt;Abertura para orquestra&lt;/em&gt; (fecha os concertos, com Mechetti, a &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Schumann). &lt;/p&gt;
-&lt;p&gt;Aluno de Arnaldo Cohen em Indiana, nos Estados Unidos, Hans-Derek Yu toca em julho o &lt;em&gt;Concerto para piano nº 3&lt;/em&gt;, de Bartók, sob regência de José Soares (&lt;em&gt;Prólogo e fantasia&lt;/em&gt;, de Walton, e a &lt;em&gt;Quinta &lt;/em&gt;de Beethoven, completam o programa). Cohen, então, assume o posto de solista no &lt;em&gt;Concerto nº 3&lt;/em&gt;, de Beethoven, que estará ao lado da &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, de Brahms, e do arranjo de Walton para &lt;em&gt;Sheep may safely graze&lt;/em&gt;, de Bach.  &lt;/p&gt;
-&lt;p&gt;Agosto começa com um concerto no qual os solistas serão músicos da orquestra: o oboísta Alexandre Barros, o clarinetista Marcus Julius Lander, o fagotista Adolfo Cabrerizo e a trompista Alma Maria Liebrecht tocam a &lt;em&gt;Sinfonia concertante K 297b&lt;/em&gt;, de Mozart, sob regência de Henrik Schaefer, diretor da Ópera de Gotemburgo, que apresenta ainda ao público uma obra pouco tocada, a &lt;em&gt;Sinfonia nº 8&lt;/em&gt;, de Niels Wilhelm Gade. Também em agosto, a Filarmônica vai receber o vencedor do Concurso Wieniawski para interpretar o &lt;em&gt;Concerto para violino nº 2&lt;/em&gt; do compositor, em programa no qual José Soares também rege a &lt;em&gt;Sinfonia nº 6&lt;/em&gt;, de Dvorák. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Fabio Mechetti (divulgação, Rafael Motta)" data-entity-type="file" data-entity-uuid="243bd71d-101e-4ec3-b6ba-a2ed235a66eb" src="http://concerto.com.br/sites/default/files/inline-images/w-Maestro-Fabio-Mechetti_FilarmonicaMG_foto-Rafael-Motta_-1024x682.jpg" /&gt;
-&lt;figcaption&gt;Fabio Mechetti (divulgação, Rafael Motta)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Aos 23 anos, e com vitórias em concursos importantes, o violoncelista italiano Ettore Pagano será o solista, em setembro, do &lt;em&gt;Concerto&lt;/em&gt; de Schumann, em apresentações nas quais a Filarmônica fará também a estreia mundial de &lt;em&gt;Pequena sinfonia do tempo&lt;/em&gt;, de Jonas Hocherman, vencedor do Tinta Fresca, concurso de composição da orquestra. &lt;/p&gt;
-&lt;p&gt;Setembro tem uma outra estreia mundial de uma obra encomendada pela Filarmônica: o &lt;em&gt;Concerto tríplice&lt;/em&gt; de André Mehmari, que terá o próprio compositor ao piano e o violinista Guido Sant’Anna e o violoncelista Rafael Cesário como solistas. A peça dialoga com Beethoven, que está no programa com a &lt;em&gt;Sinfonia nº 6, Pastoral&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;Outubro traz, no primeiro programa do mês, o início da trajetória sinfônica de dois compositores, com as &lt;em&gt;Sinfonias nº 1&lt;/em&gt; de Mahler e de Beethoven. Em novembro, Sergio Tiempo toca o &lt;em&gt;Concerto nº 4&lt;/em&gt;, de Beethoven, e José Soares rege a &lt;em&gt;Sinfonia nº 12, O ano 1917&lt;/em&gt;, de Shostakovich. Em dezembro, Kristina Miller toca o &lt;em&gt;Imperador&lt;/em&gt;; e, encerrando a temporada, vêm as apresentações da ópera &lt;em&gt;Fidelio&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FORA DE SÉRIE&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;“A série terá como tema central a ideia da Filarmônica e Suas Histórias, em que cada um dos oito concertos focará em descrições musicais de valores humanos como o amor a fé, a etnia, a história e assim por diante”, explica Mechetti. &lt;/p&gt;
-&lt;p&gt;Em março, o tema é Histórias de Fantasia, com peças de Mendelssohn (excertos de &lt;em&gt;Sonho de uma noite de verão&lt;/em&gt;), Humperdinck (&lt;em&gt;Abertura&lt;/em&gt; e &lt;em&gt;Voo da bruxa&lt;/em&gt; de &lt;em&gt;João e Maria&lt;/em&gt;), Grieg (&lt;em&gt;Suíte nº 1&lt;/em&gt; de &lt;em&gt;Peer Gynt&lt;/em&gt;) e Dukas (&lt;em&gt;Aprendiz de feiticeiro&lt;/em&gt;).  &lt;/p&gt;
-&lt;p&gt;Histórias de amor é o tema da primeira apresentação de abril, com destaque para a suíte &lt;em&gt;Pelléas e Mélisande&lt;/em&gt;, de Fauré, &lt;em&gt;Prelúdio e morte de amor de Isolda&lt;/em&gt;, de &lt;em&gt;Tristão e Isolda&lt;/em&gt;, de Wagner, e a &lt;em&gt;Abertura Romeu e Julieta&lt;/em&gt;, de Tchaikovsky. No mesmo mês, será apresentado o programa História dos Povos, no qual o violonista João Luiz vai tocar uma seleção de obras do cubano Leo Brouwer e a Filarmônica vai interpretar a &lt;em&gt;Suíte nº 1&lt;/em&gt; de &lt;em&gt;Descobrimento do Brasil&lt;/em&gt;, de Villa-Lobos, &lt;em&gt;Espanha&lt;/em&gt;, de Chabrier, e a &lt;em&gt;Sinfonia nº 1, Afro-americana&lt;/em&gt;, de William Grant Still.  &lt;/p&gt;
-&lt;p&gt;Histórias de guerra e a paz pautam o concerto de maio, com a suíte &lt;em&gt;Guerreiras do Amazonas&lt;/em&gt;, de Alexandre Guerra; &lt;em&gt;Trenodia para as vítimas de Hiroshima&lt;/em&gt;, de Penderecki; &lt;em&gt;A vitória de Wellington&lt;/em&gt;, de Beethoven; e a suíte &lt;em&gt;Guerra e Paz&lt;/em&gt;, de Prokofiev. Em julho, o tema é a fé: suíte da &lt;em&gt;Sinfonia dos Orixás&lt;/em&gt;, de Almeida Prado; &lt;em&gt;Três corais&lt;/em&gt;, de Bach, orquestrados por Respighi, de quem será tocada &lt;em&gt;Vitrais de Igreja&lt;/em&gt;.  &lt;/p&gt;
-&lt;p&gt;A mitologia leva ao palco da Sala Minas Gerais, em setembro, obras de Sibelius (&lt;em&gt;Pan e Eco&lt;/em&gt;), Liszt (&lt;em&gt;Orfeu&lt;/em&gt;), Berlioz (balé de &lt;em&gt;Os troianos&lt;/em&gt;), Ripper (suíte de &lt;em&gt;Onheama&lt;/em&gt;) e Beethoven (&lt;em&gt;As criaturas de Prometeu&lt;/em&gt;). Já em outubro, a Filarmônica narra histórias de aventura, com Wagner (prelúdio de &lt;em&gt;Lohengrin&lt;/em&gt;), Arutunian (&lt;em&gt;Concerto para trompete&lt;/em&gt;, com Marlon Humpherys-Lima como solista), John Williams (&lt;em&gt;Suíte E.T.&lt;/em&gt;) e Korngold (&lt;em&gt;Suíte O príncipe e o mendigo&lt;/em&gt;).  &lt;/p&gt;
-&lt;p&gt;O encerramento da Fora de Série, em novembro, será com um programa dedicado ao humor, com a participação do Duo Jatetpok, de piano, e do ator Chico Pelúcio como narrador. Entre os destaques do repertório estão &lt;em&gt;Os comediantes&lt;/em&gt;, de Kabalevsky, e &lt;em&gt;O carnaval dos animais&lt;/em&gt;, de Saint-Saëns. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O violinista Vadim Gluzman (divulgação)" data-entity-type="file" data-entity-uuid="896c38a7-7b58-4738-af78-38a9bff5558c" src="http://concerto.com.br/sites/default/files/inline-images/w-Vadim_Gluzman02-821x1200.jpg" /&gt;
-&lt;figcaption&gt;O violinista Vadim Gluzman (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ASSINATURAS&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Orquestra Filarmônica de Minas Gerais – Temporada 2027&lt;/strong&gt; &lt;br /&gt;
-Iniciada no final de setembro, a &lt;strong&gt;renovação de assinaturas&lt;/strong&gt;, sem trocas de séries ou assentos, vai até o dia 19 de outubro.  &lt;br /&gt;
-No mesmo período, deve-se comunicar a troca de assinaturas – a efetivação virá entre os dias 21 de outubro e 3 de novembro.  &lt;/p&gt;
-&lt;p&gt;Já &lt;strong&gt;novos assinantes&lt;/strong&gt; poderão adquirir seus pacotes entre os dias 5 de novembro e 20 de janeiro.  &lt;/p&gt;
-&lt;p&gt;O &lt;strong&gt;valor&lt;/strong&gt; para as séries individuais (Allegro, Vivace, Presto e Veloce), com dez concertos cada, vai de R$ 426 a R$ 1.684. A combinação de duas séries, com vinte concertos, custa de R$ 800 a R$ 3.168. Para a Fora de Série, com oito apresentações, os valores vão de R$ 360 a R$ 1.426. A Filarmônica também oferece a tabela Jovem Assinante, para jovens de 12 a 18 anos, com 75% de desconto nos valores. &lt;/p&gt;
-&lt;p&gt;Mais informações podem ser obtidas em: &lt;a href="http://www.filarmonica.art.br"&gt;www.filarmonica.art.br&lt;/a&gt;. &lt;br /&gt;
-Vendas: Bilheteria da Sala Minas Gerais (Belo Horizonte): de terça a sexta-feira, das 12h às 20h, e sábados, das 12h às 18h. &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 13:05&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Paisagens Sonoras. Programa: jazz contemporâneo, música brasileira e composições autorais.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-marina_martins.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-31T19:00:00Z" class="datetime"&gt;sab, 31/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -393,65 +530,61 @@ Vendas: Bilheteria da Sala Minas Gerais (Belo Horizonte): de terça a sexta-feir
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporadas 2027&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-justica-federal" hreflang="und"&gt;Centro Cultural Justiça Federal (142 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 01 Oct 2026 13:05:56 +0000</pubDate>
+  <pubDate>Thu, 01 Oct 2026 14:04:42 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283380 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283481 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>O cinema nunca foi mudo </title>
-  <link>http://concerto.com.br/node/283379</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;O cinema nunca foi mudo &lt;/span&gt;
+  <title>Cello Cascino - violão e voz </title>
+  <link>http://concerto.com.br/roteiros/cello-cascino-violao-e-voz</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cello Cascino - violão e voz &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 14:02&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Preciosidade da filmografia brasileira, &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Limite&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, de Mário Peixoto, será exibido com trilha composta por Leonardo Martinelli&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;No ano 1891, o maior inventor da história, Thomas Edison, lançou um aparelhinho que mostrava imagens em movimento através de um visor. Eram historinhas gravadas num celuloide que circulava na base de 16 fotos por segundo. Deu o nome de “cinetógrafo”. Depois chamou-o de “nickelodeon”, pois as pessoas pagavam um &lt;em&gt;nickel&lt;/em&gt; de 5 centavos para assistir uma das mais de 1.200 historinhas.  &lt;/p&gt;
-&lt;p&gt;Na França, os irmãos Auguste e Louis Lumière, que fabricavam equipamentos para fotografia, resolveram inverter o processo. A lente que mostrava os filmetes ao observador passou a projetá-los na parede, já que uma lâmpada incandescente – também inventada por Edison – os iluminava por trás. A curiosidade foi uma sensação em Paris. Mas os próprios irmãos Lumière não acreditavam no futuro daquela engenhoca. Declararam que talvez ela pudesse ser útil para o jornalismo. Georges Méliès, fabricante de brinquedos que chegou a produzir um pequeno e delicioso filme com enredo chamado &lt;em&gt;Viagem à lua&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;também desistiu do projeto e acabou a vida vendendo balas numa &lt;em&gt;gare&lt;/em&gt; de Paris.  &lt;/p&gt;
-&lt;p&gt;Estavam todos enganados. A “engenhoca”, ao chegar aos Estados Unidos, caiu nas mãos de David W. Griffith, que a transformou na fábrica cinematográfica que conhecemos. Ele fez dois longas-metragens com câmeras em movimento, edições dos filmes, ricos esquemas de iluminação, cenários gigantes, elencos de milhares de atores etc. etc. Então, inconformado com o “silêncio” dos filmes, passou a criar trilhas sonoras sinfônicas e grandiosas com obras de autores de música clássica. Seus filmes &lt;em&gt;Nascimento de uma nação &lt;/em&gt;e &lt;em&gt;Intolerância &lt;/em&gt;são considerados precursores do cinema moderno.  &lt;/p&gt;
-&lt;p&gt;A ideia de colocar música sob a tela deu certo de uma forma até mais simples. Meu pai, por exemplo, contou que, quando adolescente, frequentava no distante bairro da Lapa o pequeno cinema Recreio, onde um pianista filho de italianos criava deliciosos improvisos num piano de armário sob a tela e dava vida especial àqueles filmes. Fui até pesquisar sobre esse “tal” de filho de italianos: era Camargo Guarnieri. &lt;/p&gt;
-&lt;p&gt;Em Baden-Baden, no ano 1927, houve um festival de filmes mudos acompanhados de trilhas sonoras sinfônicas especialmente compostas pelos maiores autores eruditos do século XX. Engenheiros alemães chegaram a criar um mecanismo de informação dos andamentos das composições. Ele imprimia um ponto negro na borda dos filmes o qual, ao passar numa célula foto-elétrica, produzia um bip que era enviado ao maestro através de um “pilotônio”. Funcionando como um metrônomo, ele mantinha a rigorosa sincronia das músicas com os filmes.  &lt;/p&gt;
-&lt;p&gt;Quando morei em Baden-Baden na primeira metade dos anos de 1970, fiz inúmeros trabalhos para a&lt;em&gt; &lt;/em&gt;Südwestfunk, uma das oito emissoras de rádio e TV do primeiro canal da Alemanha, e por isso pude fuxicar seus arquivos e encontrar preciosidades. Gigantes do cinema e da música do século XX transformavam as composições sinfônicas em comentários sonoros que transformavam aqueles filmes em verdadeiras obras-primas. &lt;/p&gt;
-&lt;p&gt;Um dos filmes que mais me chamou a atenção foi um curta-metragem, &lt;em&gt;La petite Lili&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;com música de Darius Milhaud, produzido e dirigido pelo carioca Alberto Cavalcanti, grande nome da vanguarda cinematográfica francesa dos anos 1920 e da escola documentarista inglesa dos anos 1930, onde foi, além disso, concorrente de Hitchcock no nascimento do cinema de suspense. &lt;/p&gt;
-&lt;p&gt;No Brasil, dois filmes mudos que ganharam trilhas especiais são considerados dos mais importantes de nossa história cinematográfica: &lt;em&gt;Ganga bruta&lt;/em&gt;, de Humberto Mauro, e &lt;em&gt;Limite&lt;/em&gt;, de Mário Peixoto. &lt;em&gt;Ganga bruta&lt;/em&gt; foi considerado um dos cem grandes filmes do século XX pelo maior crítico do cinema francês, Georges Sadoul. O filme foi feito no fim da década de 1920, e sua trilha sonora sinfônica foi criada por Radamés Gnattali. Esta foi restaurada pelo maestro Leonardo Bruno, e eu tive a oportunidade de apresentá-la com exibição do filme em inúmeras cidades brasileiras, inclusive em Cataguases, no dia do centenário de nascimento de Humberto Mauro, que lá viveu e criou um cineclube.  &lt;/p&gt;
-&lt;p&gt;A outra preciosidade do cinema mudo brasileiro foi &lt;em&gt;Limite&lt;/em&gt;, de Mário Peixoto, de 1931. Cineasta “de um filme só”, Peixoto conseguiu colocá-lo no mais elevado patamar do cinema brasileiro e internacional. Além da Cinemateca Brasileira e da &lt;em&gt;Folha de S. Paulo&lt;/em&gt; o considerarem o maior filme brasileiro de todos os tempos, figuras como Orson Welles, Martin Scorsese, David Bowie e o próprio Georges Sadoul também o apontaram como um dos maiores da história.  &lt;/p&gt;
-&lt;p&gt;O filme faz uso de uma linguagem metafórica bastante sofisticada para relatar as convulsões emocionais de três personagens náufragos perdidos em um pequeno barco à deriva. Cansados, eles param de remar e se conformam com a morte breve. &lt;em&gt;Flashbacks &lt;/em&gt;exibem seus passados.  &lt;/p&gt;
-&lt;p&gt;A boa notícia deste mês é que o filme será apresentado na Estação Motiva Cultural, plenamente restaurado e com uma trilha sonora inédita e especialmente escrita para o evento, contando com a participação do Percorso Ensemble. A música é de autoria de Leonardo Martinelli, uma das mais destacadas figuras da nova geração de compositores paulistas. Imperdível.   &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Cena do filme Limite, de Mário Peixoto (reprodução)" data-entity-type="file" data-entity-uuid="7a1c542b-f71e-4677-817a-cce37c0fa513" src="http://concerto.com.br/sites/default/files/inline-images/w-limite.jpg" /&gt;
-&lt;figcaption&gt;Cena do filme Limite, de Mário Peixoto (reprodução)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-Exibição do filme &lt;em&gt;&lt;strong&gt;Limite&lt;/strong&gt;&lt;/em&gt;, de Mário Peixoto &lt;br /&gt;
-Trilha de Leonardo Martinelli &lt;br /&gt;
-Interpretação ao vivo com Percorso Ensemble &lt;br /&gt;
-Dia 28, Estação Motiva Cultural, São Paulo &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14856" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Júlio Medaglia&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 12:00&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Programa: obras de Tom Jobim, Edu Lobo, Chico Buarque, Chico Vervloet, Dominguinhos e Djavan. Teatro. &lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-limite.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-29T19:00:00Z" class="datetime"&gt;qui, 29/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -460,233 +593,45 @@ Dia 28, Estação Motiva Cultural, São Paulo &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Atrás da Pauta&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 12:00:49 +0000</pubDate>
-    <dc:creator>Júlio Medaglia</dc:creator>
-    <guid isPermaLink="false">283379 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Onde estão as óperas infantis? </title>
-  <link>http://concerto.com.br/node/283378</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Onde estão as óperas infantis? &lt;/span&gt;
+  
+&lt;/section&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Repertório brasileiro para crianças ainda é pequeno, apesar de iniciativas como &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;O menino maluquinho&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, de Ernani Aguiar, que a Ospa apresenta neste mês&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Desde pelo menos o século XIX, parte do repertório da música clássica é dedicada ao universo infantil. Schumann procurou capturar isso em &lt;em&gt;Cenas infantis&lt;/em&gt;. Compositores como Gabriel Fauré e Claude Debussy, inspirados nos filhos, compuseram, respectivamente, a &lt;em&gt;Suíte Dolly&lt;/em&gt; e &lt;em&gt;Children’s Corner&lt;/em&gt;, peças delicadas e graciosas que nascem mais como impressões do universo infantil pelo olhar de um adulto que propriamente dedicadas a crianças.  &lt;/p&gt;
-&lt;p&gt;É verdade que músicas feitas especialmente para os mais novos datam de tempos imemoriais: canções de ninar ou acalantos são registrados nas mais diferentes culturas: &lt;em&gt;Môkôcê cê-maká&lt;/em&gt;, algo como “dorme na rede”, é uma canção que os indígenas parecis do Mato Grosso utilizavam para acalentar suas crianças e que Villa-Lobos utilizou muitas vezes em sua obra. Já a bela e dura &lt;em&gt;Duerme negrito&lt;/em&gt; é uma canção de ninar do folclore latino-americano que ficou famosa na voz de cantores como Mercedes Sosa. &lt;/p&gt;
-&lt;p&gt;No século XX, surge uma nova vertente de composição, feita para o usufruto das crianças e também para a interação com elas. Entre os exemplos mais notáveis estão &lt;em&gt;Pedro e o lobo&lt;/em&gt;, de Prokofiev, em que cada personagem é representado por um instrumento da orquestra; e o &lt;em&gt;Guia da orquestra para jovens&lt;/em&gt;, de Benjamin Britten, que demonstra o papel de cada naipe através de variações musicais.  &lt;/p&gt;
-&lt;p&gt;No Brasil, Villa-Lobos, um apaixonado por crianças que nunca teve filhos, compôs vários ciclos para piano inspirado nelas, como &lt;em&gt;O carnaval das crianças&lt;/em&gt;, a &lt;em&gt;Prole do bebê &lt;/em&gt;e as &lt;em&gt;Cirandas&lt;/em&gt;. Instigado a fazer uma versão que as próprias crianças pudessem tocar, escreveu as &lt;em&gt;Cirandinhas&lt;/em&gt;, em que utilizou cantigas de roda do Brasil. Na década de 1950, já no fim da vida, ele escreveu uma ópera infantil, &lt;em&gt;A menina das nuvens&lt;/em&gt;, a partir de texto da escritora Lúcia Benedetti.  &lt;/p&gt;
-&lt;p&gt;Segundo a pesquisadora Alessandra Hartkopf, que mapeou as óperas brasileiras escritas entre 1950 e 2008, a obra de Villa-Lobos foi precedida por &lt;em&gt;Boiúna, a lenda da noite&lt;/em&gt;, escrita em 1955 por Walter Schulz Portoalegre. Ela enumera pouco mais de uma dúzia de títulos voltados ao público infantil, de autores como Mário Mascarenhas, Mário Ficarelli, Jorge Antunes, Ernani Aguiar, Tim Rescala, Calimerio Soares, Roberto Bürgel, Sergei Firsanov e Leonardo Sá. &lt;/p&gt;
-&lt;p&gt;Essas obras, ainda que não representem a totalidade do que foi composto, denunciam um repertório lírico voltado às crianças no Brasil. Algumas delas costumam ser reapresentadas com certa regularidade, como as óperas de Tim Rescala ou &lt;em&gt;O menino maluquinho&lt;/em&gt;, de Ernani Aguiar, inspirada no clássico de mesmo nome do escritor Ziraldo.  &lt;/p&gt;
-&lt;p&gt;Escrita em 1993 e estreada em 2002 em Juiz de Fora, a obra teve diversas reapresentações. Neste mês, em comemoração ao Dia das Crianças, &lt;em&gt;O menino maluquinho&lt;/em&gt; será encenada pela Orquestra Sinfônica de Porto Alegre, com direção musical de Manfredo Schmiedt e direção cênica de Flávio Leite. A história do menino travesso que usa uma panela na cabeça e é amado por todos foi adaptada por Maria Gessy de Sales, autora do libreto. A música de Ernani Aguiar, um divertimento em um ato, é empolgante e envolve as crianças na história, contada em cerca de 75 minutos.  &lt;/p&gt;
-&lt;p&gt;Infelizmente, ao que tudo indica, &lt;em&gt;O menino maluquinho&lt;/em&gt; deve ser a única ópera infantil levada ao palco para comemorar a data, ainda que outros espetáculos estejam sendo preparados por algumas das principais casas de música do Brasil. O Municipal de São Paulo, por exemplo, na semana do Dia das Crianças apresenta &lt;em&gt;Lendas brasileiras&lt;/em&gt;, cinco narrativas do folclore nacional que tratam do cuidado com a natureza, da convivência, da diversidade e da afetividade. Com direção-geral de Luiz Fernando Bongiovanni e regência de Wagner Polistchuk e Leonardo Labrada, o trabalho reúne dança, teatro, música ao vivo e contação de histórias.  &lt;/p&gt;
-&lt;p&gt;Também em São Paulo, o Theatro São Pedro tem &lt;em&gt;Brincando em cena&lt;/em&gt;, com a orquestra da casa dirigida por Emiliano Patarra e direção cênica de Felipe Venâncio. Com excelentes cantores e a apresentadora Danuza Novaes, o espetáculo percorre o mundo da imaginação fundindo música, teatro, ópera e improvisação. A Estação Motiva Cultural, por sua vez, apresenta um espetáculo da Palhaça Rubra, interpretada por Lu Lopes, que combina humor, improvisação e poesia. Além disso, a série infantil que acontece em todo último domingo do mês (e que a cada dois meses faz um concerto especial para bebês) tem o espetáculo &lt;em&gt;Babar, um elefante singular&lt;/em&gt;, com música de Francis Poulenc, teatro de bonecos e o pianista Antonio Vaz Lemes.  &lt;/p&gt;
-&lt;p&gt;Em duas apresentações na Sala São Paulo, uma das mais tradicionais séries infantis do país, Aprendiz de Maestro, da Tucca, conta a história do príncipe Tuquinha. O espetáculo, com direção musical do maestro João Maurício Galindo, tem a participação dos bonecos do grupo Pia Fraus e obras de Mussorgsky, Grieg, Prokofiev, Tchaikovsky, Bach e Paul Dukas.  &lt;/p&gt;
-&lt;p&gt;São todas iniciativas que agradarão aos pequenos e aos responsáveis, sem dúvidas. Mas uma pergunta fica no ar: por que temos tão poucas óperas infantis escritas no Brasil?  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Reprodução, Ziraldo)" data-entity-type="file" data-entity-uuid="ce60528f-cb13-4661-80f8-1bc67c2e27aa" src="http://concerto.com.br/sites/default/files/inline-images/w-menino%2Bmaluquinho_horizontes.jpg" /&gt;
-&lt;figcaption&gt;(Reprodução, Ziraldo)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Palhaça Rubra&lt;/strong&gt; &lt;br /&gt;
-Dias 10, 11 e 12, Estação Motiva Cultural, São Paulo &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Lendas brasileiras&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
-Dias 11 e 12, Theatro Municipal de São Paulo &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Orquestra Jovem do Estado&lt;/strong&gt; &lt;br /&gt;
-Dia 11, Sala São Paulo  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Brincando em cena&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
-Dias 11, 12, 17 e 18, Theatro São Pedro, São Paulo &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Babar, um elefante singular&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
-Dia 25, Estação Motiva Cultural, São Paulo &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;O menino maluquinho&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
-Dias 17 e 18, Casa da Ospa, Porto Alegre &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14719" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Camila Fresca&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 11:57&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-justica-federal" hreflang="und"&gt;Centro Cultural Justiça Federal (142 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-menino%2Bmaluquinho_horizontes.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Horizontes&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 70. Vendas: https://www.sympla.com.br/evento/cello-cascino-violao-e-voz/3515799?.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 01 Oct 2026 11:57:06 +0000</pubDate>
-    <dc:creator>Camila Fresca</dc:creator>
-    <guid isPermaLink="false">283378 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Criação como escuta </title>
-  <link>http://concerto.com.br/node/283377</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Criação como escuta &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Entrevista com o compositor Alexandre Guerra&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;O compositor Alexandre Guerra não para. Requisitado autor de trilhas para o cinema, trabalha atualmente em &lt;em&gt;Guido&lt;/em&gt;, novo filme de Jayme Monjardim – e esse é seu terceiro trabalho do ano nessa área. Na plataforma de concertos, não é diferente. Ele acaba de escrever a &lt;em&gt;Fantasia Carlos Gomes para piano e orquestra&lt;/em&gt;, dedicada a Sonia Rubinsky, e as &lt;em&gt;Danças oníricas&lt;/em&gt;, inspiradas em telas de Marc Chagall. Em novembro, lança a gravação do concerto para piano encomendado por Fabio Martino e inspirado no livro &lt;em&gt;O retrato de Dorian Gray&lt;/em&gt;, de Oscar Wilde, em registro feito pela Sinfônica de Piracicaba – para Martino, Guerra já havia escritos as &lt;em&gt;Variações sobre Edward Hopper&lt;/em&gt;, para piano solo, também lançadas em disco. Nos últimos doze meses, já foram 19 concertos sinfônicos com obras suas. E, em outubro, o Theatro Municipal de São Paulo apresenta o balé &lt;em&gt;Lendas brasileiras&lt;/em&gt;. Carlos Gomes, Chagall, Hopper, Oscar Wilde: a obra de Guerra mantém um diálogo com imagens, autores e outras manifestações artísticas. Antes da entrevista com a Revista CONCERTO, ele enviou um pequeno depoimento em que falava de seu processo de criação. “Em uma imagem, há sempre algo que escapa ao entendimento. E é o que escapa que me interessa como criador”, escreveu. É um bom ponto para iniciar a conversa. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Poderíamos começar falando um pouco mais sobre essa ideia.&lt;/strong&gt; &lt;br /&gt;
-Há sempre a busca por uma subjetividade. A própria história da arte mostra que a expressão continua existindo, independentemente da representação pictórica, do figurativo. A arte foi caminhando para a abstração, mas, ainda assim, continuou a provocar narrativas, coisas que a imagem sugeria, mas não determinava. É o território do subjetivo que, para mim, é muito interessante, instigante. Eu comecei bem menino escrevendo poesia, então meu processo de criação tem uma forma que não necessariamente está baseada em uma questão intrinsecamente musical. Ela busca assuntos capazes de provocar uma faísca que me mova no sentido da criação. Quando você entra no mar, precisa atravessar a arrebentação. É preciso ter motivação para entrar no mar, na água fria, para atravessar essas ondas. Você sabe que o investimento de energia vai ser grande. Com a criação, é a mesma coisa, pois é algo que vai mobilizar em você uma energia de travessia. Então, estar baseado em uma só disciplina não é o suficiente. Minha criação funciona quando estou realmente apaixonado, encantado por um assunto, que é capaz de me mobilizar para essa travessia. Vou dar um exemplo prático. Eu estava ouvindo as &lt;em&gt;Danças sinfônicas&lt;/em&gt; do Rachmaninov e me dei conta de que não tenho uma série sinfônica, uma suíte de danças sinfônicas. Só que: quem sou eu para escrever uma dança sinfônica depois de obras tão incríveis, né? As &lt;em&gt;Danças profanas e sagradas&lt;/em&gt; de Debussy, as danças de &lt;em&gt;West Side Story&lt;/em&gt;. Aí, pensei: vou trazer isso para meu território e escrever as &lt;em&gt;Danças oníricas&lt;/em&gt;, danças que são a desconstrução da própria dança, danças imaginadas, danças no sonho. Comecei a procurar uma imagem que me desse subsídio para essa ideia e encontrei nas pinturas de Marc Chagall, exatamente aquilo de que eu precisava, porque ele coloca nas pinturas o absurdo do surrealismo, mas uma mistura de personagens, um noivo e uma noiva, cenas campestres, rurais, tudo misturado, sempre como se estivesse do ponto de vista de uma grua, vendo esses elementos flutuando. Então seleciono imagens para os vários movimentos, e essas imagens servem de catapulta para me lançar no processo criativo e também de trilho, pois a música às vezes se coloca com a sedução da técnica, o desejo de complicar as coisas, e então você se afasta do território da imagem, perdendo esse território, esse lugar.  &lt;/p&gt;
-&lt;p&gt; &lt;strong&gt;Você falou em poesia. O que surge antes? O interesse pela música ou pela literatura, pelas artes plásticas?&lt;/strong&gt; &lt;br /&gt;
-A palavra “vocação” vem de &lt;em&gt;vocari&lt;/em&gt;, que significa “chamamento”. Quando você vai na etimologia da palavra, sai dessa coisa presunçosa da vocação, do talento. Pois ela transforma o talento em chamamento, você é convidado percorrer aquele lugar. No primeiro colegial, eu me inscrevi num concurso de poesia, mas eu escrevia muito pouco. Ainda assim, quando me sentei para escrever, parece que a poesia veio para mim. Foi um processo de escuta. Com a música, é a mesma coisa: meu processo criativo é um processo de escuta. Eu escuto as coisas e as transcrevo. Eu não me imponho sobre a música, eu acolho o que recebo. Agora, para não parecer tudo muito místico ou intuitivo, sou uma pessoa que vem de uma formação nos Estados Unidos, que estudou com Koellreutter, que tem interesse em linguagem, em recursos musicais. Meu processo de composição, portanto, passa por uma série de coisas. No caso das &lt;em&gt;Danças oníricas&lt;/em&gt;, por exemplo, fui buscar um idioma, uma linguagem, um território musical. Quando o pintor vai fazer uma tela, ele coloca na palheta um preset de tintas que ele vai usar e o revisita enquanto pinta. Como a palheta já está pré-pensada, ela gera uma unidade. Eu gosto dessa ideia de que procuro um território onde trafegar. E essa fica sendo a palheta para aquele movimento ou para aquela peça. As pessoas acham que faço música de filme e que, por isso, vou sempre na mesma direção, mas não é verdade. Já andei por todos os territórios: serialismo, polifonia, pandiatonismo… mas isso está sempre submetido a minha narrativa. A técnica nunca vai se impor à música, ela vai servir como cor, mas não vai ditar, porque, de novo, eu tenho que servir à minha escuta. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Como escolhe para qual formação escrever? &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Variações sobre Edward Hopper&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; é um ciclo para piano, já no caso de Dorian Gray você optou por um concerto para piano e orquestra.&lt;/strong&gt; &lt;br /&gt;
-A busca pelo tema é permanente em minha vida, e cada obra tem uma história diferente. Eu fiz um curso com o artista Sergio Fingermann, que dedicou algumas aulas a Edward Hopper. Eu me interessei tanto que fui investigar. Ao mesmo tempo, o Fábio Martino pediu que eu escrevesse algo para ele. E resolvi andar por esse território. A imagem é um gatilho, e aqui adicionei uma camada, que é a figura do Hopper, um solitário nos grandes centros, um &lt;em&gt;voyeur&lt;/em&gt; do mundo, que anda nos trens suspensos de Nova York, que passavam perto da janela de alguns apartamentos. Ele tinha um &lt;em&gt;insight&lt;/em&gt; sobre a intimidade das pessoas. Mais que a imagem, na pintura dele me chamou a atenção a contradição da solidão e do silêncio com a cidade. No caso do Dorian Gray, Fabio me pediu um concerto para piano. Não soube o que fazer, e um amigo, Thiago Tavares, que foi meu professor de regência, sugeriu o livro do Oscar Wilde. E Fábio é, de certa forma, um Dorian Gray, um eterno jovem, que exala essa juventude na vida e no modo de tocar, sempre com entusiasmo. E o livro trazia uma reflexão filosófica que me interessou. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Você falou agora de solidão ao citar Hopper. Gray também é, em algum sentido, um personagem solitário em meio à exuberância do mundo em que se insere. Em sua obra, há uma presença recorrente da noite, esse espaço de introspecção, como em &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Divagações sobre a noite&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;. &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Lugar ao vento&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; também toca nesse ponto. Você diria que a solidão é seu grande tema como artista? &lt;/strong&gt; &lt;br /&gt;
-Eu nunca abordei dessa forma, mas faz sentido. O trabalho de quem cria é extremamente solitário. Eu trabalho muito com o cineasta Jayme Monjardim. Nós nos conhecemos quando ele ouviu uma música minha. Ele olhava e dizia: “Onde você estava? Quem é você?”. Eu demorei um tempo a entender. Meu pai é português, minha mãe é filha de pai e mãe portugueses. Eu, na verdade, só fui montado no Brasil. Minhas peças talvez venham com algo de minha ancestralidade, talvez do fado. Isso não é tristeza, eu sou um cara até alegre, mas carrego uma dose de melancolia, que está impregnada em minhas obras. Mas, como eu disse, há coisas que fogem um pouco ao controle. Em parte, escolho o assunto, mas, no fim das contas, estou muito mais acolhendo que me impondo à música. Às vezes é muito frustrante, a música vai para um lugar que eu não queria, e isso dá uma inquietude e bastante insegurança também. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Quando você fala sobre Hopper, por exemplo, ou mesmo sobre o processo de criação, me parece que há um fascínio pela figura do criador, pelo ato de criar.&lt;/strong&gt; &lt;br /&gt;
-Totalmente. Eu me interesso muito por biografias, pelas trajetórias, pelos conflitos, pelas dúvidas. É uma coisa que emerge de forma quase improvável e incompreensível. Há duas coisas que são para mim uma mola propulsora: a história dos criadores e a criação em si. Sergio Fingermann conta que Picasso, pouco antes de morrer, projetava imagens de Rembrandt, de grandes pintores. Há sempre referências, não há quem tenha sido um bom autor, um bom compositor, sem ter trabalhado com referências. Seja como for, você vai desaguar no mesmo lugar, em quem você é. Alberto Iglesias, compositor de trilhas para Pedro Almodóvar, me disse o seguinte: “Olha, sempre começo uma trilha tentando fazer uma coisa completamente diferente do que já fiz, tentando romper comigo mesmo. E, no fim, percebo que cheguei a mim mesmo”. Então, a referência permite ao menos partir de outro lugar, expandir seu território, porque é inevitável voltar a si mesmo, e a gente às vezes não se aguenta mais. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Você poderia falar um pouco sobre &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Lendas brasileiras&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;? É um espetáculo com dança, teatro. Em que sentido escrever nesse contexto é diferente para você?&lt;/strong&gt; &lt;br /&gt;
-Foi minha primeira experiência escrevendo para balé. Luiz Fernando Bongiovanni, que era diretor do balé do Teatro Guaíra, tinha um projeto de balé infantil, mas não infantilizado, sem uma leitura das lendas meramente figurativa. Abria espaço para a subjetividade, para a liberdade. Mas era necessária uma narrativa, e ele criou um roteiro; por exemplo, a parte da mula sem cabeça começa com uma perseguição de um minuto, aí acontece isso, aquilo. Eu fiz como se fosse um filme. Bongiovanni queria ritmos brasileiros. Eu já fiz isso como músico popular, mas, na música de concerto, não é meu lugar, porque a obrigação de fazer música sinfônica dessa forma é uma coisa banal, e tem gente que faz bem e muito melhor que eu. Mas ali não tinha jeito… O que eu ia fazer? Uma valsa vienense? Então, fui atrás de referências, coisas de Guarnieri, Guerra-Peixe, aí mostrava para Bongiovanni e ele ia escolhendo o caminho.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Você finalizou há pouco uma fantasia para piano inspirada em Carlos Gomes, escrita para a pianista Sonia Rubinsky. Como surgiu o projeto?&lt;/strong&gt; &lt;br /&gt;
-O Brasil trata muito mal seus heróis. E eu me pego pensando em como algumas pessoas não são reverenciadas. Encontrei Sonia, e ela me contou uma ideia sobre Carlos Gomes, que estava muito abandonado, esquecido. Aí veio esse interesse na figura do herói maltratado. A figura dele é absolutamente icônica, com uma trajetória improvável e impressionante na Itália. Minha primeira ideia era usar músicas dele, para que as pessoas ouvissem. Então, no início de cada movimento, aparece a música dele como ele concebeu e orquestrou. Depois, eu transcorro sobre isso. A música dele é muito ligada ao século XIX italiano, é setorizada, e isso causa algumas desconexões. Por isso, acabei escolhendo não as árias famosas, mas os intermezzos e as aberturas, que são instrumentais. Tive até certa crise, pois a obra é despretensiosa e Sonia é uma pianista tão incrível. Mas, de novo, é aquela coisa do acolhimento. Eu acolhi o que veio para mim. Eu não me sentia no direito de apresentar a música dele e depois a entortar, desconstruir, fazer uma coisa que rompesse com aquilo. Eu queria que as pessoas transitassem no universo dele, nesse mundo do romantismo. Estiquei essa corda um pouquinho, claro, mas, apesar do sotaque contemporâneo, ela não se afastou dele. Eu não queria afrontar a música dele. E, se a música que você escreve é pequena perante a dele, melhor. Eu não tenho problema em ser só o levantador; como no vôlei, levanto a bola para ele cortar.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Obrigado pela entrevista. &lt;/strong&gt;&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Divulgação)" data-entity-type="file" data-entity-uuid="3611edb5-e8cc-43da-a075-515be82f2cf7" src="http://concerto.com.br/sites/default/files/inline-images/w-alexandre_guerra.jpg" /&gt;
-&lt;figcaption&gt;(Divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;Lendas brasileiras&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
-Dias 11 e 12, Theatro Municipal de São Paulo &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15017" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;João Luiz Sampaio&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 10:52&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/entrevista" hreflang="pt-br"&gt;Entrevista&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-alexandre_guerra.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Em conversa&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 10:52:34 +0000</pubDate>
-    <dc:creator>João Luiz Sampaio</dc:creator>
-    <guid isPermaLink="false">283377 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Para onde foram as vozes de outrora?  </title>
-  <link>http://concerto.com.br/node/283376</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Para onde foram as vozes de outrora?  &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Se transformarmos a ópera em teatro intelectual, o gênero vai perder um de seus elementos fundamentais &lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Não há mais grandes vozes. Os grandes cantores desapareceram.  &lt;/p&gt;
-&lt;p&gt;Esse é um velho mote. James Stark, cantor, professor de canto e musicólogo, escreveu o importante &lt;em&gt;Bel Canto: A History of Vocal Pedagogy &lt;/em&gt;(University of Toronto Press, 1999), livro em que fala da “&lt;em&gt;perennial decline of the art of singing&lt;/em&gt;”, ou do declínio perene da arte do canto. &lt;/p&gt;
-&lt;p&gt;Desde o século XVII, críticos e tratadistas se lamentam: não há mais vozes, ninguém mais sabe cantar. Gosto muito do &lt;em&gt;Guida teorico-pratica-elementare per lo studio del canto &lt;/em&gt;(1864), facilmente encontrado na internet, de autoria  de Francesco Lamperti, ilustre professor de canto em Milão. Começa firme: “&lt;em&gt;È una triste ma innegabile verità che il canto trovasi oggigiorno in uno stato di deplorabile decadenza&lt;/em&gt;” (É uma triste mas inegável verdade que o canto se encontra hoje em um estado de  &lt;br /&gt;
-deplorável decadência)… Isso no tempo em que cantavam Adelina Patti, Teresa Stolz, Jean-Baptiste Faure, Enrico Tamberlik, para citar apenas alguns! &lt;/p&gt;
-&lt;p&gt;Mas o velho mote ainda contém verdades. &lt;/p&gt;
-&lt;p&gt;O que desapareceu, em boa parte, foi a combinação entre dotes excepcionais e personalidades vocais reconhecíveis de imediato. Pavarotti, Caballé, Van Dam, Nilsson, Bergonzi, Corelli, Freni e Christa Ludwig pertenciam a um ecossistema que produzia estrelas operísticas como não existem mais. &lt;/p&gt;
-&lt;p&gt;Há grandes cantores em nossos dias, claro. Mas quem é hoje equivalente a Pavarotti? A resposta só pode ser: ninguém. Pavarotti reunia um conjunto excepcional de qualidades: emissão solar, timbre de identificação instantânea, facilidade no agudo, dicção maravilhosa, musicalidade impecável. O caráter extraordinário vale também para Caballé. Ainda há grandes sopranos, mas aquela coluna de ar, aquele legato quase imponderável, os pianíssimos sustentados no alto e a sensação de que o timbre etéreo pairava não encontram paralelo. &lt;/p&gt;
-&lt;p&gt;Quais as causas? Difícil especular. Há mudanças objetivas. Os teatros exigem repertório mais amplo e períodos mais longos de ensaio; as encenações são fisicamente mais exigentes; as carreiras impõem mais viagens e começam muito internacionalizadas; e há uma cultura vocal mais cautelosa. Isso pode proteger as vozes, mas produz, com frequência, cantores bastante corretos e cultivados e menos idiossincráticos. Quando ouvimos uma gravação antiga, às vezes bastam segundos para saber quem está cantando. Callas, Tebaldi, Gobbi, Christoff, Vickers, Corelli e Schwarzkopf não se confundem. Isso não ocorre com a maioria dos cantores atuais. &lt;/p&gt;
-&lt;p&gt;Outros pontos são o volume e a projeção. Há uma diferença que se percebe sobretudo dentro do teatro e que as gravações modernas podem mascarar. Del Monaco é um exemplo extremo: não se tratava apenas de cantar forte. Havia a densidade harmônica da voz, a concentração do som que fazia com que ela atravessasse a orquestra. Bidu Sayão possuía voz pequena e, no entanto, perfeitamente audível nos maiores auditórios. &lt;/p&gt;
-&lt;p&gt;Além disso, o canto contemporâneo valoriza a homogeneidade, o controle, a flexibilidade, a segurança, a beleza contínua da emissão. São qualidades desejáveis. Mas aquela violência individual da voz, como em Callas, Corelli, Del Monaco, Gobbi, Becchi, Nilsson, Mödl, Vickers, comportava também irregularidades que hoje talvez fossem corrigidas desde o conservatório. Às vezes penso que se aperfeiçoou o cantor e, por paradoxo, pasteurizou-se o instrumento. &lt;/p&gt;
-&lt;p&gt;A ópera ficou sem tempero porque ficou chique intelectualmente. Isso modificou, por consequência, aquilo que se espera do cantor. A importância crescente do diretor de cena, a leitura dramatúrgica das obras, a aproximação com o teatro contemporâneo, tudo isso produziu espetáculos algumas vezes inteligentes, mas deslocou o centro de gravidade. A montagem não é mais uma sustentação para o cantor; ela o inclui como um elemento entre outros. &lt;/p&gt;
-&lt;p&gt;A grande voz antiga tinha algo de inconveniente nesse sentido. Del Monaco entra e lança “Esultate!” sem pedir licença à encenação: apropria-se do teatro. É precisamente o &lt;em&gt;grand effet&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;expressão que a cultura operística contemporânea tende a pronunciar com certa desconfiança. &lt;/p&gt;
-&lt;p&gt;Há uma violência propriamente física, atlética, na ópera. Um ser humano, sem amplificação, produz um som capaz de atravessar cem músicos, atingir 2 mil ou 3 mil pessoas e fazer a sala inteira se arrepiar. Isso é parte da aberração maravilhosa que constitui o gênero. Se transformarmos a ópera em teatro intelectual, corremos o risco de domesticar essa monstruosidade crucial.  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luciano Pavarotti como Cavaradossi e Montserrat Caballé no papel-título de Tosca, de Puccini (divulgação, James Heffernan, Metropolitan Opera)" data-entity-type="file" data-entity-uuid="e8d8acec-8e59-4ebd-acfe-947472143440" src="http://concerto.com.br/sites/default/files/inline-images/w-pavarotti_caballe_tosca_0.jpg" /&gt;
-&lt;figcaption&gt;Luciano Pavarotti como Cavaradossi e Montserrat Caballé no papel-título de Tosca, de Puccini (divulgação, James Heffernan, Metropolitan Opera)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15068" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Jorge Coli&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 09:48&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-pavarotti_caballe_tosca.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Notas Soltas&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 09:48:13 +0000</pubDate>
-    <dc:creator>Jorge Coli</dc:creator>
-    <guid isPermaLink="false">283376 at http://concerto.com.br</guid>
+  <pubDate>Thu, 01 Oct 2026 14:02:32 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283480 at http://concerto.com.br</guid>
     </item>
 
   </channel>
