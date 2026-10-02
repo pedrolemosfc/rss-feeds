@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -342,9 +342,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 2,
+    "items": 3,
     "ok": true,
-    "notes": "scraped 2 events",
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 33,
-    "ok": true,
-    "notes": "scraped 33 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
