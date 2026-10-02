@@ -5,7 +5,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 02 Oct 2026 12:49:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 19:26:35 +0000</lastBuildDate>
+<item>
+<title>Boletim Unificado - Setembro 2026</title>
+<link>https://www.cnt.org.br/pesquisas?documento=a3e288e1-2b2a-4da3-9de8-38bba2acbb2f</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=a3e288e1-2b2a-4da3-9de8-38bba2acbb2f</guid>
+<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+<description>Boletins — Boletim Unificado - Setembro 2026</description>
+</item>
 <item>
 <title>Pesquisa CNT de Opinião - 170ª rodada</title>
 <link>https://data.cnt.org.br/sociedade/opiniao/pesquisa-cnt-de-opiniao-170-rodada/</link>
@@ -250,13 +257,6 @@
 <guid isPermaLink="true">https://data.cnt.org.br/destaques/viagem-segura-guia-cnt-de-seguranca-nas-rodovias-2025-2/</guid>
 <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
 <description>Estudos e Publicações — A CNT apresenta, neste guia, informações sobre o número, a natureza e as causas dos acidentes registrados nas rodovias federais brasileiras, articulando-as com um panorama das suas condições atuais, com base nos resultados da Pesquisa CNT de Rodovias 2025 . Essa publicação constitui uma relevante fonte de dados consolidados, contribuindo para que os usuários adotem comportamentos mais seguros e preventivos, reafirmando sua corresponsabilidade na preservação da vida e n...</description>
-</item>
-<item>
-<title>Relatório da Atuação Técnica e Institucional do Transporte e a COP30</title>
-<link>https://data.cnt.org.br/meio-ambiente-e-sustentabilidade/cop-30-2025/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/meio-ambiente-e-sustentabilidade/cop-30-2025/</guid>
-<pubDate>Fri, 06 Feb 2026 09:00:00 +0000</pubDate>
-<description>Estudos e Publicações — O Relatório da Atuação Técnica e Institucional do Transporte e a COP30 consolida o protagonismo do Sistema Transporte na conferência realizada em Belém (PA), reunindo ações, articulações e resultados do setor na agenda climática global. A publicação evidencia a presença qualificada do transporte brasileiro no maior evento climático do planeta e o papel do Brasil na construção de soluções para a descarbonização e a mobilidade sustentável. O documento apresenta a partici...</description>
 </item>
 </channel>
 </rss>

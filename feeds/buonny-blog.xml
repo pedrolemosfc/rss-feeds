@@ -12,13 +12,13 @@
 	<atom:link href="https://buonny.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://buonny.com.br/blog/</link>
 	<description>Espelho do RSS nativo do blog Buonny (WordPress /feed/). /blog/feed/ é vazio (comentários); site feed cobre posts do blog de gerenciamento de risco/logística.</description>
-	<lastBuildDate>Fri, 02 Oct 2026 12:47:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Oct 2026 19:24:14 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1</generator>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
 	<item>
 		<title>Gerenciamento de risco no transporte: estratégias para prevenir sinistros e proteger cargas</title>
 		<link>https://buonny.com.br/blog/gerenciamento-de-risco-no-transporte/</link>
