@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 1,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 1 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
