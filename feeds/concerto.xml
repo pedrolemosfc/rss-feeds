@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 01 Oct 2026 23:57:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:49:19 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU0OSIsImRpc2xpa2VzIjoiMCJ9?token=Ost5JeAoSEjeAcs6fFgQCJaAMvGTdxsXdkG9ZQeLx5E?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU0OSIsImRpc2xpa2VzIjoiMCJ9?token=4MWk67O8EnkARdNXezpx-LaI6ce-z8a7dO07IDQEjZ8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;549&lt;/span&gt;
@@ -80,6 +80,165 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Artistas do coletivo Ilumina se apresentam na Sala São Paulo</title>
+  <link>http://concerto.com.br/noticias/musica-classica/artistas-do-coletivo-ilumina-se-apresentam-na-sala-sao-paulo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Artistas do coletivo Ilumina se apresentam na Sala São Paulo&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No domingo, 4, coletivo Ilumina realiza concerto matinal gratuito na Sala São Paulo. A violista e fundadora Jennifer Stumm convida o pianista Cristian Budu, o contrabaixista Pedro Gadelha e o violonista João Camarero para obras que homenageiam os dez anos do organismo.&lt;/p&gt;
+&lt;p&gt;Em 2015, a violista americana Jennifer Stumm fundou o Ilumina. O coletivo, que começou em uma fazenda no interior do Estado, reúne atividades de formação e apresentações com músicos da América Latina e artistas convidados de diferentes países. Seus artistas realizaram concertos em festivais e salas de concerto como o Festival de Lucerna, o Festival Internacional de Edimburgo, o Kronberg Festival e o Concertgebouw de Amsterdã. O grupo está sob a presidência de Pedro Gadelha, contrabaixo solista da Osesp.&lt;/p&gt;
+&lt;p&gt;O repertório do concerto abrange diferentes períodos e gêneros musicais. A apresentação traz obras de compositores brasileiros como Basílio Itiberê, Radamés Gnattali, Villa-Lobos e João Pernambuco, além de peças do romântico Henri Vieuxtemps e do contemporâneo György Kurtág para viola e violoncelo solo. O &lt;em&gt;Concerto para piano nº 9 em mi bemol maior&lt;/em&gt;, &lt;em&gt;K 271&lt;/em&gt;,&lt;em&gt; Jeunehomme&lt;/em&gt;, de Mozart, encerra a apresentação.&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Veja&lt;u&gt; &lt;/u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-04"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt; &lt;/a&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/teatro-cultura-artistica-anuncia-temporada-2027" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Teatro Cultura Artística anuncia temporada 2027&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-anuncia-temporada-2027-com-beethoven-como-eixo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Minas Gerais anuncia temporada 2027 com Beethoven como eixo &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/curso-aborda-o-futuro-da-critica-musical-no-seculo-xxi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Curso aborda o futuro da crítica musical no século XXI&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/entrevista/simone-menezes-grava-album-com-orquestra-sinfonica-da-radio-de-viena" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Simone Menezes grava álbum com a Orquestra Sinfônica da Rádio de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/don-carlo-respira-como-monumento-sombrio-da-opera-do-seculo-xix-em-montagem-no" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Don Carlo’ respira como monumento sombrio da ópera do século XIX em montagem no Theatro Municipal&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Luiz Sampaio&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/no-elenco-na-orquestra-e-na-montagem-um-don-carlo-de-conviccao-dramatica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;No elenco, na orquestra e na montagem, um ‘Don Carlo’ de convicção dramática&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Jorge Coli&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Jennifer Stumm [Divulgação]" data-entity-type="file" data-entity-uuid="5f3461fb-99be-4504-8b37-a1dc3d108733" src="http://concerto.com.br/sites/default/files/inline-images/w-stumm.jpg" /&gt;
+&lt;figcaption&gt;Jennifer Stumm [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 02:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-stumm.jpg" width="900" height="917" alt="Jennifer Stumm [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0ODgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=K2OXZiT3W8GdwTlPw6w4YPSG73FFotNW1uAr_lGxM3w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Oct 2026 02:50:20 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283488 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title> Sinfônica Brasileira realiza festival dedicado a Brahms e Schumann</title>
+  <link>http://concerto.com.br/noticias/musica-classica/sinfonica-brasileira-realiza-festival-dedicado-brahms-e-schumann</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; Sinfônica Brasileira realiza festival dedicado a Brahms e Schumann&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 3, a Orquestra Sinfônica Brasileira apresenta o Festival Brahms Schumann na Sala Cecília Meireles, no Rio de Janeiro. Sob regência de José Soares, os músicos interpretam &lt;em&gt;Abertura trágica e variações sobre um tema de Haydn&lt;/em&gt;, de Brahms, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Schumann. Reapresentação ocorre no dia 4.&lt;/p&gt;
+&lt;p&gt;O festival segue até o dia 31 e coloca lado a lado duas das figuras centrais do Romantismo. Os compositores se conheceram em 1853, época em que Brahms ainda era um jovem em ascensão. Schumann reconheceu seu talento e, mais do que citá-lo como uma das revelações da música de concerto em seu artigo 'Neue Bahnen' ('Novos Caminhos'), apadrinhou-o como seu discípulo.&lt;/p&gt;
+&lt;p&gt;1853 também marcou a estreia da &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Schumann. Apesar do número com que foi catalogada, foi idealizada em 1841, meses depois do lançamento da &lt;em&gt;Sinfonia nº 1&lt;/em&gt;. Diferente da primeira obra, a nova composição em ré menor traz drama e intensidade, além de experimentações com a forma. No primeiro movimento, o compositor inverte a estrutura da tradicional forma-sonata ao desenvolver uma única ideia na exposição para, em seguida, apresentar novas informações no desenvolvimento. A primeira versão da obra estreou em 1841, mas foram necessários 12 anos até que uma versão revisada fosse aceita pelos editores. A obra foi então publicada e recebeu uma segunda estreia.&lt;/p&gt;
+&lt;p&gt;Nos dias 17 e 18, a regência fica a cargo de Neil Thomson e o repertório inclui a abertura &lt;em&gt;A noiva de Messina&lt;/em&gt; e &lt;em&gt;Abertura, Scherzo e Finale&lt;/em&gt;, de Schumann, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Brahms, que Thomson também rege em Goiânia.&lt;/p&gt;
+&lt;p&gt;Por fim, nos dias 31 de outubro e 1º de novembro, Marcelo Lehninger assume o pódio, interpretando o &lt;em&gt;Concerto para piano&lt;/em&gt; de Schumann, que terá o pianista Jean-Louis Steuermann como solista, e a Sinfonia nº 2, de Brahms.&lt;/p&gt;
+&lt;p&gt;Os músicos da OSB se apresentam também no dia 24, na Sala Cecília Meireles, em programa de música de câmara. No dia 11, o grupo faz concerto para a juventude no Teatro Carlos Gomes, sob regência de Fabrícia Medeiros.&lt;/p&gt;
+&lt;p&gt;Já a Orquestra Sinfônica Brasileira Jovem apresenta programas no dia 5, no Centro Cultural do Poder Judiciário, e nos dias 10 e 13, no Teatro Carlos Gomes, sob regência de Anderson Alves.&lt;/p&gt;
+&lt;p&gt;Veja&lt;u&gt; &lt;/u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-03"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt; &lt;/span&gt;&lt;/a&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/teatro-cultura-artistica-anuncia-temporada-2027" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Teatro Cultura Artística anuncia temporada 2027&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-anuncia-temporada-2027-com-beethoven-como-eixo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Minas Gerais anuncia temporada 2027 com Beethoven como eixo &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/curso-aborda-o-futuro-da-critica-musical-no-seculo-xxi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Curso aborda o futuro da crítica musical no século XXI&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/entrevista/simone-menezes-grava-album-com-orquestra-sinfonica-da-radio-de-viena" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Simone Menezes grava álbum com a Orquestra Sinfônica da Rádio de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/don-carlo-respira-como-monumento-sombrio-da-opera-do-seculo-xix-em-montagem-no" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Don Carlo’ respira como monumento sombrio da ópera do século XIX em montagem no Theatro Municipal&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Luiz Sampaio&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/no-elenco-na-orquestra-e-na-montagem-um-don-carlo-de-conviccao-dramatica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;No elenco, na orquestra e na montagem, um ‘Don Carlo’ de convicção dramática&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Jorge Coli&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="José Soares [Divulgação]" data-entity-type="file" data-entity-uuid="c40e87fd-9e14-4d16-a633-13680e711c83" src="http://concerto.com.br/sites/default/files/inline-images/w-jose_soares_2_0.jpg" /&gt;
+&lt;figcaption&gt;José Soares [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 02:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-jose_soares_2_0.jpg" width="900" height="598" alt="José Soares [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0ODciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=8b0mECAZCmLv_jKd111nYO9rSRM4IBazip45kFsV-vU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Oct 2026 02:33:46 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283487 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Prezada leitora, prezado leitor,</title>
@@ -147,6 +306,148 @@
   <pubDate>Thu, 01 Oct 2026 23:13:51 +0000</pubDate>
     <dc:creator>Nelson Rubens Kunze</dc:creator>
     <guid isPermaLink="false">283369 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Para além do movimento: a dança como direito e transformação social</title>
+  <link>http://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Por Renata Faila&lt;/strong&gt; &lt;em&gt;[é relações-públicas e atua como coordenadora de Comunicação e Marketing da São Paulo Companhia de Dança (SPCD)]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Existe algo profundamente potente quando a dança encontra um corpo que vive à margem de tantas oportunidades. Longe de ser apenas um passatempo ou uma ação assistencial para ocupar horas vagas, o acesso à arte no ambiente comunitário atua como uma ferramenta de acolhimento, cidadania e emancipação. Quando a sala de ensaio abre suas portas aos projetos sociais, o que se apresenta é uma oportunidade real de construir novos caminhos.&lt;/p&gt;
+&lt;p&gt;Essa transformação se consolida justamente quando o acolhimento humano caminha lado a lado com o rigor e a excelência técnica. Manter a exigência no ensino não significa rigidez ou criar barreiras, mas sim a afirmação de que todo jovem, independentemente de sua origem, merece o compromisso com uma formação de alto nível, onde a disciplina se torna a base para a construção do próprio repertório e da autonomia.&lt;/p&gt;
+&lt;p&gt;Em São Paulo, a fundadora e diretora do Ballet Paraisópolis, Mônica Tarragó, acompanha esse movimento há 14 anos. “A condição social não deve determinar o nível de formação artística que um jovem pode receber”, afirma Mônica. Ela destaca que a disciplina e o rigor do aprendizado ultrapassam a sala de aula: “Ao longo do percurso, o aluno percebe que é capaz de superar desafios pelo próprio esforço. Ele passa a reconhecer novas possibilidades para sua caminhada, dentro ou fora da dança”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Weverton Aguiar, Monica Tarragó, e Christian Casarin com alunos do Ballet Paraisópolis (divulgação, Vitoria Andregueti)" data-entity-type="file" data-entity-uuid="acc1210f-20e1-4197-bde4-b7ad78e09e6d" src="http://concerto.com.br/sites/default/files/inline-images/w-Monica-Tarragoo_Weverton-Aguiar-e-Christian-Casarin-com-alunos-do-Ballet-Paraisopolis_Vitoria-Andregueti.jpg" /&gt;
+&lt;figcaption&gt;Weverton Aguiar, Monica Tarragó, e Christian Casarin com alunos do Ballet Paraisópolis (divulgação, Vitoria Andregueti)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Essa mudança de comportamento é percebida inclusive pelas equipes pedagógicas das escolas de ensino formal da região, que relatam transformações na atitude e no compromisso dos estudantes após o ingresso no projeto. Para que o fim da formação não se tornasse um caminho sem perspectiva, o projeto criou em 2022, a Cia Ballet Paraisópolis, oferecendo aos bailarinos a oportunidade real de atuar profissionalmente na dança e devolver essa bagagem à comunidade dando aulas no próprio projeto. Paralelamente, parcerias para bolsas de estudo com o Centro Universitário Católico Ítalo Brasileiro garantem que eles também possam se graduar em diferentes áreas de interesse. Dessa forma, constrói-se um ciclo contínuo de autonomia, aonde o conhecimento retorna para a comunidade e novas possibilidades profissionais se abrem dentro e fora da dança.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Companhia Ballet Paraisópolis (divulgação, Marcelo Machado)" data-entity-type="file" data-entity-uuid="72814708-6670-4af7-b06a-f67ae6d5fd14" src="http://concerto.com.br/sites/default/files/inline-images/w-Cia-Ballet-Paraisopolis_Marcelo-Machado.jpg" /&gt;
+&lt;figcaption&gt;Companhia Ballet Paraisópolis (divulgação, Marcelo Machado)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;A RETRIBUIÇÃO E O TRABALHO PROFISSIONAL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A transição entre o aprendizado comunitário e a conquista do mercado de trabalho ganha corpo na história de Giovana Guimarães. Formada pelo projeto Ballet Paraisópolis e hoje bailarina de seu elenco profissional, a virada de chave aconteceu no final do processo formativo, quando decidiu obter o registro profissional (DRT) e viver da arte. Hoje, além de participar dos ensaios das criações da companhia, Giovana retribui o aprendizado atuando como assistente nas aulas dos novos alunos da comunidade. “É uma troca muito gostosa, pois já estive desse lado um dia. A responsabilidade aumenta, mas vem junto com a satisfação de trabalhar com o que sempre sonhei”, conta. Ao pisar no palco, ela reafirma o impacto do acesso à formação: “Não venho de um lugar de privilégios, mas, quando estou no palco, provo que é possível realizar um sonho quando se tem vontade e determinação”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Giovana Guimarães em cena com a Companhia Ballet Paraisópolis (acervo pessoal)" data-entity-type="file" data-entity-uuid="7cf26f95-4792-4c6e-aa0b-928fc512c7a9" src="http://concerto.com.br/sites/default/files/inline-images/w-Giovana-Guimaraes-em-cena-com-a-Cia_2.jpg" /&gt;
+&lt;figcaption&gt;Giovana Guimarães em cena com a Companhia Ballet Paraisópolis (acervo pessoal)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Essa mesma força de reescrita social fundamenta o trabalho do Instituto Sonhe, que articula suas ações entre os desafios do centro da capital paulista e as comunidades rurais do Sertão de Pernambuco. A presidente da instituição, Joana Machado, revela que a dança consegue fazer pontes únicas porque “o corpo é uma linguagem que antecede muitas outras”. Em territórios marcados por tantas ausências e distâncias, a arte oferece um porto seguro onde cada criança encontra o direito fundamental de ser vista e reconhecida. “Existe um professor que sabe o seu nome, percebe sua ausência e celebra suas conquistas. A autoestima não é trabalhada apenas dizendo a criança que ela é capaz, mas quando ela experimenta ser capaz, quando consegue executar um movimento difícil depois de semanas tentando, quando veste um figurino ou mesmo quando sua família a vê no palco”, reflete Joana. Para o instituto, o investimento contínuo e a parceria com a sociedade civil são indispensáveis para garantir a permanência das ações, pois “sonhar também precisa ser aprendido”: amplia-se o repertório para que a criança perceba que existe muito mais nela do que aquilo que as circunstâncias imediatas dizem a seu respeito.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Joana Machado, presidente do Instituto Sonhe (acervo pessoal)" data-entity-type="file" data-entity-uuid="5bde2857-02ad-450a-8c4a-d71c56141720" src="http://concerto.com.br/sites/default/files/inline-images/w-Joana-Machado-Acervo-Pessoal.jpg" /&gt;
+&lt;figcaption&gt;Joana Machado, presidente do Instituto Sonhe (acervo pessoal)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;O DIREITO DE IMAGINAR O FUTURO &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Em Belo Horizonte, esse compromisso com a democratização do acesso fundamenta a história do Corpo Cidadão, projeto nascido da proximidade com o Grupo Corpo e idealizado por Miriam Pederneiras. A instituição atua sob a premissa de que a formação artística em territórios de vulnerabilidade não pode oferecer uma experiência de qualidade inferior. "O primeiro compromisso é o acolhimento; cada criança chega com seu ritmo, sua história e suas inseguranças. Mas acreditamos que esses jovens têm direito ao melhor que pudermos oferecer: bons professores, referências importantes e vivências estéticas capazes de ampliar seus horizontes", afirma Miriam.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Crianças do projeto Corpo Cidadão (acervo pessoal)" data-entity-type="file" data-entity-uuid="ad18e8ec-92df-41b5-bbec-a02eddca7263" src="http://concerto.com.br/sites/default/files/inline-images/w-Criancas-do-projeto-Corpo-Cidadao_acervo-Pessoal.jpg" /&gt;
+&lt;figcaption&gt;Crianças do projeto Corpo Cidadão (acervo pessoal)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;A vivência contínua nas oficinas e no Grupo Experimental de Dança (GED) desenvolve a disciplina, o trabalho coletivo e a atenção ao outro, fatores que se traduzem na transformação da autoimagem e da permanência escolar. Para a diretora, a experiência nos palcos é apenas a dimensão mais visível de uma conquista cidadã muito mais profunda: “Preservamos valores como generosidade e compromisso com a excelência, que é dar o melhor de si. A cidadania passa por uma criança compreender que tem direito à cultura, à expressão, à cidade e o direito de imaginar um futuro para si, seja na dança ou em qualquer outra escolha profissional”, conclui.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A ESTRUTURA PÚBLICA COMO PONTE DE PERMANÊNCIA E OPORTUNIDADE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A ampliação das oportunidades na dança exige também políticas públicas estruturadas para que o talento acesse e permaneça no ambiente de formação. Criada pelo Governo do Estado de São Paulo e gerida pela Associação Pró-Dança, a São Paulo Escola de Dança (SPED) atua como um centro de formação profissional e continuada 100% gratuito. Além do rigor técnico em múltiplos estilos, a instituição se destaca por políticas afirmativas, bolsas de permanência e pontes diretas com a cena profissional e acadêmica.&lt;/p&gt;
+&lt;p&gt;Vinda de Mogi das Cruzes (SP), Ana Heloísa Souza Silva enfrentou a rotina diária de deslocamentos de trem para cursar Técnicas da Dança aos 16 anos. Ao longo da formação, ingressou no Projeto Especial, que funcionou como um grupo de dança da escola, participou de apresentações e viveu a experiência de dançar com a São Paulo Companhia de Dança na Sala São Paulo. O aprendizado abriu portas internacionais: Ana Heloísa foi aprovada para estudar em Marselha, na França. “A São Paulo Escola de Dança me ensinou muito a ir atrás e acreditar que a carreira na dança é possível. Ver uma escola dessa estrutura, gratuita, com contatos diários, inspira e mostra que não é um sonho distante”, relata.&lt;/p&gt;
+&lt;p&gt;Para a maranhense Dallyyla Amazzymba, que se mudou para a capital paulista para cursar Dança e Performance, o acesso à bolsa de permanência foi decisivo para sua manutenção na cidade. Na SPED, o incentivo à pesquisa artística abriu portas para o mercado profissional – como o convite para integrar a Cia Diário – e impulsionou sua aprovação no vestibular da Unicamp. Dallyyla defende a importância do compromisso institucional com a diversidade: “Não é só abrir a porta, é ter políticas afirmativas que permitam que a gente continue aqui. Escancarar as portas para o público preto, para povos originários e LGBTQIAPN+ é garantir que a galera não só acesse, mas consiga iniciar e ir até o final”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A VISÃO DA BASE: CIDADANIA, BEM-ESTAR E REDE COMUNITÁRIA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Essa visão de acolhimento e perspectiva de futuro fundamenta a atuação de Nelma Darzi, fundadora e diretora da Petite Danse e do projeto Dançar a Vida, no Rio de Janeiro. Ao longo de mais de 16 anos de trajetória, a iniciativa demonstra que a formação em dança gera impactos que ultrapassam a busca pelo palco profissional. “A dança trabalha muito a autoestima, muda a imagem corporal que os jovens têm de si mesmos e abre uma perspectiva maior de vida, mesmo para aqueles que não querem viver da arte no futuro”, explica Nelma. Ela destaca que o aprendizado da disciplina e a convivência comunitária impulsionam a mobilidade social: “Muitos ex-alunos me relatam que são os primeiros dentro da família a cursar uma faculdade, em áreas como administração, fisioterapia e recursos humanos. A dança desperta essa ambição legítima de buscar um futuro melhor”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Espetáculo “O Pássaro de Toda Cor” do Projeto Dançar a Vida (RJ) (acervo Petite Danse)" data-entity-type="file" data-entity-uuid="b1907631-45a3-49b9-a7ec-3fde0627c5c0" src="http://concerto.com.br/sites/default/files/inline-images/w-Espetaculo-O-Passaro-de-Toda-Cor-do-Projeto-Dancar-a-Vida-%28RJ%29-Acervo-Pessoal.jpg" /&gt;
+&lt;figcaption&gt;Espetáculo &lt;em&gt;O Pássaro de Toda Cor&lt;/em&gt; do Projeto Dançar a Vida (RJ) (acervo Petite Danse)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Na estrutura da instituição, a busca pela alta performance não é tratada como um filtro excludente, mas como uma consequência natural para quem assim o deseja. A prioridade do projeto permanece voltada à saúde mental e ao equilíbrio emocional dos alunos. “Ninguém precisa ser o primeiro bailarino para ser feliz na dança; pode-se atuar em companhias menores, no corpo de baile, ou seguir como professor e coreógrafo. Nosso maior propósito é que eles conquistem sua autonomia financeira e tenham uma condição de vida superior à que a família pôde proporcionar”, pontua a diretora.&lt;/p&gt;
+&lt;p&gt;Essa rede de emancipação estende-se também aos familiares dos estudantes. Como o projeto não possui patrocínio integral para cobrir todos os custos individuais, a instituição orienta e estimula mães e pais a desenvolverem iniciativas próprias de trabalho e renda – como a venda de refeições, transporte e prestação de serviços – transformando a necessidade de custear figurinos e viagens em um exercício de autonomia e empreendedorismo local. “Orientamos os pais para que não criem uma dependência de que o projeto tem que dar tudo. Essa mobilização mostra a eles que são capazes, gerando uma verdadeira corrente do bem dentro da comunidade”, conclui Nelma.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OPORTUNIDADE &lt;/strong&gt;– O caminho entre a primeira oportunidade no projeto social e o topo da cena internacional se reflete na trajetória de Mayara Magri, hoje primeira bailarina do consagrado The Royal Ballet, em Londres. Formada pelo projeto Dançar a Vida, mencionado acima, Mayara ingressou no balé aos oito anos por meio de uma bolsa de estudos. “Foi absolutamente decisivo”, relata a bailarina. “Eu era apenas uma menina que gostava de dançar e tive acesso a professores, disciplina e a um universo que foi abrindo os meus sonhos. Essa foi a primeira porta que precisou ser aberta para que todas as outras – o Prix de Lausanne, a Royal Ballet School e o Royal Ballet – fossem possíveis. Nunca consigo separar aonde cheguei de onde comecei”. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Nelma Darzi e Mayara Magri (acervo pessoal)" data-entity-type="file" data-entity-uuid="f483d6ea-c87f-4017-a3ec-66be6b722a75" src="http://concerto.com.br/sites/default/files/inline-images/w-Nelma-Darzi-e-Mayara-Magri-Acervo-Pessoal.jpg" /&gt;
+&lt;figcaption&gt;Nelma Darzi e Mayara Magri (acervo pessoal)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Mayara defende que um projeto social jamais deve reduzir a régua da exigência técnica: “O mundo profissional é extremamente exigente. Se queremos dar a um jovem a possibilidade real de seguir carreira, precisamos oferecer ferramentas e excelência para que ele dispute em igualdade de condições nos maiores palcos do mundo”. Aos jovens que estão dando os primeiros passos nas comunidades brasileiras, a bailarina deixa uma mensagem de paciência e perseverança: “Sonhem grande, mas não tenham tanta pressa de chegar. Aproveitem a formação, escutem seus professores e entendam que nem todo caminho vai ser linear. E nunca se esqueçam de quem ajudou a abrir as primeiras portas”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Mayara Magri em O Lago dos Cisnes, na Royal Opera House, em Londres (divulgação, Andre Uspenski – Royal Opera House)" data-entity-type="file" data-entity-uuid="02890317-5729-4486-988c-aab1c8af3971" src="http://concerto.com.br/sites/default/files/inline-images/w-Mayara-Magri-em-O-Lago-dos-Cisnes-na-Royal-Opera-House-em-Londres_Andre-Uspenski_Royal-Opera-House.jpg" /&gt;
+&lt;figcaption&gt;Mayara Magri em &lt;em&gt;O Lago dos Cisnes&lt;/em&gt;, na Royal Opera House, em Londres (divulgação, Andre Uspenski – Royal Opera House)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Esse percurso de superação de barreiras territoriais e sociais se reflete também na caminhada de Layne Lins, hoje bailarina do elenco da São Paulo Companhia de Dança (SPCD), sob direção artística de Inês Bogéa. Sua história começou em Teresina (PI), quando, ainda aluna da Escola Municipal Porfírio Cordão, ingressou no Cordão Grupo de Dança. “Eu mesma fui lá, sem ter uma roupa adequada para fazer uma aula de balé, e de alguma forma o professor viu um potencial em mim. Aquilo me acendeu uma vontade imensa de me dedicar”, relembra. A certeza da vocação veio aos dez anos, ao ouvir de um jurado, em um festival em Fortaleza (CE), que ela brilhava no palco.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Layne Lins em cena com a SPCD (divulgação, Manoela Belinello)" data-entity-type="file" data-entity-uuid="967b1e91-1ed7-4b93-a426-4f4924edf54b" src="http://concerto.com.br/sites/default/files/inline-images/w-Layne-Lins-em-cena-com-a-SPCD-div_Iari-Davies.jpg" /&gt;
+&lt;figcaption&gt;Layne Lins em cena com a SPCD (divulgação, Manoela Belinello)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;O amadurecimento técnico de Layne foi construído na sua rápida adequação a palcos diversos – de praças no interior a grandes teatros –, bagagem que ela carrega para a rotina de exigência da SPCD. Para a bailarina, integrar a Companhia representa a realização de um caminho que antes parecia inalcançável. “Toda a minha entrega é para a minha criança interior de dez anos, por todas as pessoas que me motivaram e por nunca esquecer tudo o que passei para me tornar a bailarina que sou hoje. Eu sei o poder que a dança faz na vida das pessoas e levo isso como uma responsabilidade. Não necessariamente fazer com que alguém se torne um bailarino, mas entregar uma arte que transforma. Ninguém sai o mesmo depois de um espetáculo”.&lt;/p&gt;
+&lt;p&gt;As experiências reunidas nessas diferentes realidades comprovam que investir em projetos sociais de dança não é uma ação assistencial, mas um compromisso real com o fomento e o futuro da cultura no Brasil. A verdadeira força dessas iniciativas está em permitir que cada jovem descubra e reivindique a dimensão do seu próprio talento. Garantir estrutura, permanência e afeto a esse trabalho é assegurar que o ponto de partida de um indivíduo jamais limite as suas escolhas.&lt;/p&gt;
+&lt;p&gt;Clique nos links abaixo para saber mais sobre os projetos e companhias:&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://balletparaisopolis.org.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Ballet Paraisópolis&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.institutosonhe.org/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Instituto Sonhe&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://petitedanse.com.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Petite Danse&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://dancaravida.com/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Projeto Dançar a Vida&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://grupocorpo.com.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Grupo Corpo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://corpocidadao.org.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Corpo Cidadão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://spcd.com.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Companhia de Dança&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://spescoladedanca.org.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;São Paulo Escola de Dança&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 21:20&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Cia-Ballet-Paraisopolis_Marcelo-Machado.jpg" width="900" height="600" alt="Companhia Ballet Paraisópolis (divulgação, Marcelo Machado)" title="Companhia Ballet Paraisópolis (divulgação, Marcelo Machado)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/danca" hreflang="pt-br"&gt;Dança&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3255" hreflang="pt-br"&gt;Dança em diálogo&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/subhomes/danca-em-dialogo" hreflang="pt-br"&gt;Dança em diálogo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0ODYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=05BoDGgDszuKxuVl7h-rvTMrCsfhhF2eM-6aEmqDYVo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 Oct 2026 21:20:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283486 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Clara Peya - piano e compositora e Santi Careta - guitarra e compositor</title>
@@ -428,208 +729,6 @@ Osesp ofereceu leitura que evidenciou como, à ira divina, Verdi responde com um
   <pubDate>Thu, 01 Oct 2026 15:16:54 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283382 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Cultura Artística apresenta Jordi Savall, Igor Levit, Lang Lang e Hélène Grimaud </title>
-  <link>http://concerto.com.br/node/283381</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cultura Artística apresenta Jordi Savall, Igor Levit, Lang Lang e Hélène Grimaud &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Programação 2027 tem ainda a presença de orquestras como a Filarmônica de Dresden e a Orquestra Revolucionária e Romântica, além da Academia Internacional Bach&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;O Teatro Cultura Artística terá catorze atrações na sua série de concertos em 2027 – e já abre o ano com um conjunto de apresentações que deve marcar o ano: a integral dos quartetos de cordas de Beethoven em concertos entre os dias 30 de março e 4 de abril, com o renomado Quarteto Belcea.  &lt;/p&gt;
-&lt;p&gt;No próximo ano, lembram-se os 200 anos da morte de Beethoven. E outros grupos e artistas também vão interpretar obras do compositor ao longo da temporada. No dia 8 de setembro, Igor Levit, celebrado pela gravação integral das sonatas do compositor, fará recitais dedicados às sonatas &lt;em&gt;A tempestade&lt;/em&gt;, &lt;em&gt;Appassionata&lt;/em&gt; e &lt;em&gt;Waldstein&lt;/em&gt;. Hélène Grimaud, por sua vez, vai unir em suas apresentações de novembro a &lt;em&gt;Sonata op. 111&lt;/em&gt; com a &lt;em&gt;Sonata D 960&lt;/em&gt;, de Schubert. &lt;/p&gt;
-&lt;p&gt;Lang Lang, que se apresenta nos dias 20 e 22 de setembro, em concertos extra-assinatura, também incluiu o autor em seus recitais, que terão ainda obras de Albéniz, Granados e Liszt. E a Filarmônica de Dresden, sob regência da norueguesa Tabita Berglund, interpreta obras de Beethoven, Wagner e Mozart, com o violinista Guido Sant’Anna como solista. &lt;/p&gt;
-&lt;p&gt;O Cultura Artística também mantém, em 2027, a tradição de trazer ao Brasil grupos importantes do movimento de música historicamente informada. O primeiro deles na nova temporada, no dia 2 de maio, será o Hespèrion XXI, que virá a São Paulo acompanhado dos Solistas da Capela Real da Catalunha e do Ensemble Tembembe, sob regência de Jordi Savall – o programa é dedicado a peças das tradições musicais europeias, indígenas e criollas.  &lt;/p&gt;
-&lt;p&gt;No dia 17 de outubro, a atração é a Orquestra Revolucionária e Romântica, em concerto sob regência de Pablo Heras-Casado e obras de Weber, Mendelssohn e Schubert. E, por fim, nos dias 7, 9 e 10 de novembro, é a vez da Academia Internacional Bach de Stuttgart, sob a direção de Hans-Christoph Rademann, com obras cuja temática é a finitude humana: a &lt;em&gt;Sinfonia fúnebre&lt;/em&gt;, de Joseph Martin Kraus, e o &lt;em&gt;Réquiem&lt;/em&gt;, de Mozart. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Hélène Grimaud (divulgação, DG, Mat Hennek)" data-entity-type="file" data-entity-uuid="1f3b3263-cd15-45f5-91cd-898ebf0d4bc7" src="http://concerto.com.br/sites/default/files/inline-images/w-Helene-Grimaud_Credit-Mat-Hennek-DG.jpg" /&gt;
-&lt;figcaption&gt;Hélène Grimaud (divulgação, DG, Mat Hennek)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;A Academia de Câmara de Potsdam vai se apresentar nos dias 15 e 16 de junho, sob a direção de François Leleux, também oboísta, e com o flautista Emmanuel Pahud como solista (o repertório inclui obras de Haydn, Mozart, Rossini e Schubert). No dia 29 de agosto, é a vez da Amsterdam Sinfonietta, com direção de Candida Thompson, solos do violoncelista Altstaedt e obras de Carl Philipp Emanuel Bach, Lutoslawski, Tchaikovsky, Mendelssohn e Jörg Widmann. Nos dias 1º e 2 de setembro, a Orquestra Sinfônica de Lucerna retorna ao Brasil sob a batuta do maestro Michael Sanderling e com a violoncelista russa Anastasia Kobekina, que será a solista no &lt;em&gt;Concerto para violoncelo em dó maior&lt;/em&gt;, de Haydn.  &lt;/p&gt;
-&lt;p&gt;O canto também terá protagonismo, com recitais do baritenor Michael Spyres e o pianista Mathieu Pordoy (4 de maio); da mezzo soprano russa Aigul Akhmetshina, acompanhada do pianista Jonathan Papp (16 de maio); e da soprano Lisette Oropesa com o pianista Ángel Rodríguez (29 de julho). A temporada inclui ainda recital da pianista francesa Lise de la Salle com peças de Scriabin, C. P. E. Bach, Chopin, Schubert, Brahms e Glass (20 de junho). &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OUTRAS SÉRIES&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A série de violão terá cinco atrações: Rémy Patel (13 de abril); Aniello Desiderio (dia 1º de junho); Laura Lootens (6 de julho); Jason Vieaux (dia 10 de agosto); e o Duo Siqueira Lima (16 de novembro). Na série de jazz, se apresentam o guitarrista John Pizzarelli (dia 15 de abril); o pianista Bill Charlap (3 de agosto), o Branford Marsalis Quartet com Dianne Reeves (dia 9 de setembro); e o Artemis Jazz, quinteto idealizado pela pianista Renee Rosnes (11 de novembro).  &lt;/p&gt;
-&lt;p&gt;A programação dos Concertos Matinais começa no dia 14 de março, com Emmanuele Baldini e André Mehmari. Outros destaques incluem os Os Músicos de Capella, sob a direção de Luís Otávio Santos (dia 11 de abril); a pianista e pesquisadora Danieli Longo, com obras de Edmundo Villani-Côrtes (dia 18 de abril); um grupo formado pelo pianista Fabio Martino e os violinistas Gabriela Queiroz e Michael Machado, pelo violista Tiago Vieira e pela violoncelista Lisiane de los Santos (20 de junho); o duo Lucas Thomazinho e Gustavo Scudeler (dia 4 de julho); o Curtis on Tour (dia 26 de setembro); a soprano Manuela Korossy e pianista Erika Ribeiro (dia 28 de novembro); e a violonista Gabriele Leite (5 de dezembro).  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Jordi Savall (divulgação)" data-entity-type="file" data-entity-uuid="b40f03f5-c726-4409-b6df-bfb92ce2cd3e" src="http://concerto.com.br/sites/default/files/inline-images/w-Jordi-Savall1_0.jpg" /&gt;
-&lt;figcaption&gt;Jordi Savall (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Assinaturas&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;strong&gt;Renovações e trocas&lt;/strong&gt;: de 5 a 16 de outubro &lt;br /&gt;
-&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: de 9 de novembro a 8 de janeiro  &lt;br /&gt;
-&lt;strong&gt;Vendas&lt;/strong&gt;: pelo site culturaartistica.org ou presencialmente no teatro: Rua Nestor Pestana, 196 &lt;br /&gt;
-&lt;strong&gt;Ingressos avulsos&lt;/strong&gt;: um mês antes de cada apresentação em: &lt;a href="http://www.culturaartistica.org"&gt;www.culturaartistica.org&lt;/a&gt; &lt;br /&gt;
-&lt;strong&gt;Informações&lt;/strong&gt;: tel. (11) 3256-0223 &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 14:13&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Helene-Grimaud_Credit-Mat-Hennek-DG.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporadas 2027&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/outubro-2026" hreflang="pt-br"&gt;Outubro 2026&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 14:13:25 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283381 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Domenico Botelho Ensemble</title>
-  <link>http://concerto.com.br/roteiros/domenico-botelho-ensemble</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Domenico Botelho Ensemble&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 14:04&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Paisagens Sonoras. Programa: jazz contemporâneo, música brasileira e composições autorais.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-31T19:00:00Z" class="datetime"&gt;sab, 31/10/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-justica-federal" hreflang="und"&gt;Centro Cultural Justiça Federal (142 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 14:04:42 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283481 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Cello Cascino - violão e voz </title>
-  <link>http://concerto.com.br/roteiros/cello-cascino-violao-e-voz</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cello Cascino - violão e voz &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 01/10/2026 - 14:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Programa: obras de Tom Jobim, Edu Lobo, Chico Buarque, Chico Vervloet, Dominguinhos e Djavan. Teatro. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-29T19:00:00Z" class="datetime"&gt;qui, 29/10/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-justica-federal" hreflang="und"&gt;Centro Cultural Justiça Federal (142 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 70. Vendas: https://www.sympla.com.br/evento/cello-cascino-violao-e-voz/3515799?.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 01 Oct 2026 14:02:32 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283480 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -5,7 +5,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 01 Oct 2026 23:58:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:49:34 +0000</lastBuildDate>
 <item>
 <title>NÁ OZZETTI E MARCELO GHELFI</title>
 <link>https://bluenotesp.com/shows/na-ozzetti-e-marcelo-ghelfi/</link>
@@ -49,6 +49,13 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>RS EXPERIENCE – STONES WEEKEND</title>
+<link>https://bluenotesp.com/shows/rs-experience-stones-weekend/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/rs-experience-stones-weekend/</guid>
+<pubDate>Wed, 16 Sep 2026 16:21:15 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>THALES LION FARMER TOCA SANTANA</title>
 <link>https://bluenotesp.com/shows/thales-lion-farmer-toca-santana/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/thales-lion-farmer-toca-santana/</guid>
@@ -74,6 +81,13 @@
 <link>https://bluenotesp.com/shows/prazer-lissa/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/prazer-lissa/</guid>
 <pubDate>Thu, 10 Sep 2026 14:39:39 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>TEARS FOR FEARS EXPERIENCE</title>
+<link>https://bluenotesp.com/shows/tears-for-fears-experience/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/tears-for-fears-experience/</guid>
+<pubDate>Tue, 08 Sep 2026 13:38:27 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -336,24 +350,10 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>BEATLES E ELVIS BY JOÃO SUPLICY</title>
-<link>https://bluenotesp.com/shows/beatles-e-elvis-by-joao-suplicy/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/beatles-e-elvis-by-joao-suplicy/</guid>
-<pubDate>Thu, 03 Sep 2026 17:14:53 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
 <title>TRIBUTO A JOHN COLTRANE &amp; JOHNNY HARTMAN</title>
 <link>https://bluenotesp.com/shows/tributo-a-john-coltrane-johnny-hartman-musicman-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-johnny-hartman-musicman-jazz/</guid>
 <pubDate>Wed, 10 Jun 2026 18:17:36 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>ELIS REGINA – FALSO BRILHANTE 50 ANOS</title>
-<link>https://bluenotesp.com/shows/elis-regina-falso-brilhante-50-anos-por-carina-assencio/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/elis-regina-falso-brilhante-50-anos-por-carina-assencio/</guid>
-<pubDate>Wed, 10 Jun 2026 18:14:16 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>
