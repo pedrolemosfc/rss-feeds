@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 03 Oct 2026 05:26:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 11:48:05 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1MSIsImRpc2xpa2VzIjoiMCJ9?token=eqcnjQXK7T5A5VxGQSReCbgHkOA0uTK7LshLWB5ZCtI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1MSIsImRpc2xpa2VzIjoiMCJ9?token=v-2TTMt9naBUzpeZmhHUhWw2Y70DVXrrJeJ0JPk1Wbc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;551&lt;/span&gt;
@@ -80,6 +80,90 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Morre aos 72 anos o maestro Roberto Tibiriçá</title>
+  <link>http://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Morreu nesta madrugada o maestro Roberto Tibiriçá. Uma das grandes personalidades do meio musical brasileiro, que esteve à frente das principais orquestras do país, ele estava com 72 anos e tratava um câncer.&lt;/p&gt;
+&lt;p&gt;Nascido em São Paulo, Tibiriçá começou sua relação com a música pelo piano, aos 8 anos de idade. Estudou com Dinorah de Carvalho, Antonio Bezzan e Gilberto Tinetti e se aproximou da pianista Guiomar Novaes, a quem acompanhou em seus últimos anos de vida. “Lembro, ainda pequeno, de ir ao Theatro Municipal para ouvir a Guiomar. Cheguei sem gravata, me barraram na entrada, mas demos um jeito... nos sentamos na terceira fila. Quando ela começou a tocar, eu quase dei um salto da cadeira, olhos arregalados, coração aos pulos. Decidi ali: queria estudar com ela. Passei dias ligando para a casa de Guiomar, até que ela me atendeu, explicou que não dava aulas e me indicou para Dinorá de Carvalho, que havia ido com ela para o Conservatório de Paris estudar com Isidore Phillippe. Mas quando vinha das turnês, eu tocava e ela me orientava”, lembrou ele em entrevista à Revista CONCERTO.&lt;/p&gt;
+&lt;p&gt;Com o tempo, porém, o interesse pela regência acabou se impondo. Ele contava que “queria mais som” e, então, passou a estudar de forma autodidata. Até que se deu o encontro com Eleazar de Carvalho, no início dos anos 1980. No Festival de Inverno de Campos do Jordão, atuou como pianista em ensaios com a Orquestra Sinfônica do Estado de São Paulo e passou a ter aulas com o maestro, com quem trabalharia por dezoito anos. “Fiquei como assistente dele na Osesp e ele me orientou nessa formação. O Eleazar me deu uma carta de recomendação e fui estudar com Lukas Foss em Nova York. Lá também eu conheci Zubin Mehta, que era diretor da Filarmônica de Nova York. Ele me influenciou muito ao dizer três coisas que um maestro sempre precisa ter em mente: seja humilde, tenha muita paciência e pergunte sempre.”&lt;/p&gt;
+&lt;p&gt;Paralelamente, desde 1974, atuava também como diretor artístico em gravadoras. Na RGE/Fermata, foi o responsável pelo início dos registros comerciais de música clássica em gravadoras brasileiras: entre os projetos que encabeçou, estiveram os últimos discos de Guiomar Novaes, dedicado à música brasileira, e de Magda Tagliaferro – este último pela gravadora Copacabana, da qual também foi diretor artístico. Anos mais tarde, ele também comandaria uma gravação de Pedro e o lobo, de Prokofiev, que tinha a cantora Rita Lee como narradora e ele na regência.&lt;/p&gt;
+&lt;p&gt;Nos anos 1980, além do posto de assistente de Eleazar de Carvalho na Osesp, Tibiriçá passou um ano como regente assistente no Teatro São Carlos de Lisboa, onde seu repertório girou em torno da ópera – o maestro dizia que, apesar do contato que teve ao longo de toda a sua trajetória com o gênero, sempre se viu como um regente sinfônico, o que não o impediu de fazer trabalhos importantes na área, como as estreias no Brasil de &lt;em&gt;The Rape of Lucretia&lt;/em&gt; e &lt;em&gt;Sonho de uma noite de verão&lt;/em&gt;, de Britten.&lt;/p&gt;
+&lt;p&gt;As duas obras foram apresentadas já em seu período na Orquestra Sinfônica Brasileira, à qual chegou, em 1994, primeiro como diretor adjunto e, um ano depois, como diretor artístico e regente titular. “Fui chamado pelos músicos para estar à frente da orquestra e encontrei um grupo muito desfalcado, ganhando o equivalente a 200 dólares por mês. Eu me dediquei inteiramente à orquestra, conseguimos realizar muita coisa. Com eles, vivi uma emoção enorme ao reger a Sinfonia nº 2 de Mahler, na Enseada de Botafogo, pelo projeto Aquarius, para mais de cem mil pessoas.”&lt;/p&gt;
+&lt;p&gt;Quando lembrava sua trajetória, Tibiriçá brincava com o que chamava de “sina”: se ver, frequentemente, com a missão de recomeçar ao lado de orquestras em busca de reestruturação. Foi assim quando, em 2000, ele iniciou seu período com a Orquesta Petrobrás Pró-Música, mais tarde rebatizada de Petrobras Sinfônica, que àquela altura sofria com incertezas no que diz respeito ao financiamento. Durante seu período com o grupo, a Opes consolidou-se na cena musical do Rio de Janeiro, com uma programação que tinha como destaque a presença de solistas nacionais e internacionais. “As pessoas me criticavam, diziam que eu só regia solistas, mas o plano era esse, atrair grandes músicos que pudessem se unir à orquestra e dar a ela visibilidade ainda maior”, explicou. O talento para atuar ao lado de solistas, por sinal, era uma de suas grandes marcas, o que ele atribuía ao seu início como pianista. Com a Opes, ele gravou, em 2002, um disco com o &lt;em&gt;Concerto para piano em formas brasileiras&lt;/em&gt;, de Hekel Tavares, tendo como solista o pianista Arnaldo Cohen, e os &lt;em&gt;Choros nº 6&lt;/em&gt;, de Villa-Lobos.&lt;/p&gt;
+&lt;p&gt;Tibiriçá também fez com a orquestra ciclos como o da obra para piano de Rachmaninov, com solos de Barry Douglas, em 2002. “Amparada pela regência apaixonada de Roberto Tibiriçá, que frisou tudo que a obra tem de vitalidade, Douglas coroou sua interpretação do &lt;em&gt;Concerto nº 3&lt;/em&gt; com uma coda de jogar o teatro no chão”, escreveu no jornal &lt;em&gt;O Estado de S.Paulo&lt;/em&gt; o crítico Lauro Machado Coelho. “Tibiriçá vem fazenda da OPPM, uma das orquestras mais significativas do país. Trata-se de um maestro muito seguro, que obtém visível empatia com os solistas aos quais acompanha”, completou o crítico.&lt;/p&gt;
+&lt;p&gt;Ao final de 2003, Tibiriçá deixou a Petrobras Pró-Música e retornou para São Paulo, onde, em 2005, assumiu o posto de diretor artístico do Instituto Baccarelli. Em conversa com a CONCERTO, ele lembrou do primeiro contato com o projeto. “Quando era estudante, costumava tocar órgão, ensaiar e arranjar músicas para o maestro Sílvio Baccarelli. Anos depois, quando ainda estava no Rio, ouvia falar do Instituto e de seu trabalho junto à comunidade carente de Heliópolis, e quando voltei para São Paulo, fui convidado para assumir sua direção artística. Confesso que, no princípio, estava ressabiado e cheio de preconceitos. Quando, por fim, fui conhecer o Instituto, na hora que entrei ouvi o som de uma viola que tocava uma suíte de Bach. Era um de nossos alunos, um rapaz muito humilde, que tocava como um anjo. Saí da sala e comecei a chorar, sabendo que aquele seria o projeto da minha vida.”&lt;/p&gt;
+&lt;p&gt;Com a Orquestra Sinfônica Heliópolis, Tibiriçá esteve envolvido em projetos como a turnê europeia do grupo, em 2010, quando os músicos se apresentaram em cidades alemãs tendo o violinista Shlomo Mintz como solista. “Discípulo de Eleazar de Carvalho, Roberto Tibiriçá tem um gestual econômico, voltado apenas para a estrutura musical. As frases, conduzidas com gentileza e elegância, estão sempre sob controle”, escreveu Sidney Molina na &lt;em&gt;Folha de S.Paulo&lt;/em&gt; ao comentar o concerto na Sala São Paulo no qual a sinfônica se despediu do público brasileiro antes de viajar. Um ano depois, em 2011, o maestro deixaria o projeto, sendo substituído por Isaac Karabtchevsky.&lt;/p&gt;
+&lt;p&gt;Entre 2010 e 2013, atuou como maestro titular da Orquestra Sinfônica de Minas Gerais, no Palácio das Artes, de Belo Horizonte, com a qual realizou produções de óperas como &lt;em&gt;Tosca&lt;/em&gt; e &lt;em&gt;La bohème&lt;/em&gt;, de Puccini. Sua ligação com a vida musical mineira foi bastante próxima, e em 2024, ele recebeu o título de Doutor Honoris Causa pela Universidade Federal de Minas Gerais. Na época, celebrou o reconhecimento e se disse contente de, com a titulação, poder pensar na possibilidade de dar aulas em universidade. A formação de novos regentes foi sempre uma preocupação, que ele atribuía a exemplos como o de Eleazar de Carvalho. Em 2008, por sinal, ele lançou pela editora Algol, o livro &lt;em&gt;O regente sem orquestra&lt;/em&gt;, que mais tarde ganharia nova edição, em 2021.&lt;/p&gt;
+&lt;p&gt;“O regente é um instrumentista que não consegue tocar seu instrumento, a orquestra ou coro, na frequência que desejaria. E, quando este lhe é dado, ele não pode se dar ao luxo de errar: deve preparar-se para as diversas reações do grupo e reagir com um novo comando, um novo gesto. Tudo isso em uma fração de segundo. É imprescindível, portanto, que ele tenha todo esse repertório gestual automatizado antes da interação com a orquestra ou o coro”, anotou na apresentação da obra.&lt;/p&gt;
+&lt;p&gt;No início dos anos 2020, Tibiriçá se reaproximou da Osesp, voltando a reger o grupo como convidado em projetos como a estreia mundial da ópera &lt;em&gt;Cartas portuguesas&lt;/em&gt;, de João Guilherme Ripper. Com o grupo, ele gravou também um disco com obras de Camargo Guarnieri: os choros para clarinete, viola e violoncelo e orquestra, com Ovanir Buosi, Horácio Schaefer e Matias de Oliveira Pinto, além de &lt;em&gt;Flor de Tremembé&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Em 2022, Tibiriçá começou a escrever aquele que seria seu último capítulo à frente de uma orquestra, assumindo o comando da Orquestra Sinfônica do Paraná. Criou uma série de concertos no Museu Oscar Niemeyer, em Curitiba, além da programação regular de apresentações no Teatro Guaíra. Ao celebrar 40 anos, em 2025, a orquestra iniciou um novo ciclo, com um investimento de cerca de R$ 6 milhões para aquisição de instrumentos: um piano Steinway, uma harpa de pedais, um órgão eletrônico, uma celesta, um cravo, dois contrabaixos de cinco cordas e dois trompetes de rotor.&lt;/p&gt;
+&lt;p&gt;“Estou dedicado à Sinfônica do Paraná. Estamos empenhados na construção da concha acústica para os concertos no Teatro Guaíra, reestruturando a orquestra, trazendo grandes nomes com a ajuda do Instituto de Apoio à Orquestra Sinfônica do Paraná (IAOSP), fazendo concertos para jovens com ingressos a 10 e 20 reais. Vejo que o público não é mais exclusivamente grisalho. Eu prometi ao Eleazar, lá atrás, que eu levaria adiante os concursos que ele criou; faço parte dessa linhagem da regência e quero deixar um legado artístico e na área pedagógica também. E continuar a fazer música sempre preservando a qualidade artística – por pelo menos mais dez anos”, disse ele em entrevista à CONCERTO em 2024.&lt;/p&gt;
+&lt;p&gt;A morte pôs fim a seus planos. Mas não a seu legado.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Amigos e colegas lamentam a perda do maestro&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;"Uma perda inestimável para a música brasileira e para todos aqueles que tiveram a oportunidade de conviver com ele", afirmou o compositor João Guilherme Ripper. "Tibiriçá foi um maestro completo. Sempre fui grato a ele por ter programado minha primeira obra sinfônica com a Orquestra Sinfônica Brasileira quando eu apenas iniciava a carreira de compositor. Ficamos amigos e, mais tarde, nos tornamos confrades na Academia Brasileira de Música. Colaboramos artisticamente muitas vezes no decorrer dos anos. Por triste coincidência, eu havia convidado Tibiriçá para reger justamente o concerto de abertura do Festival Brahms-Schumann que a OSB inicia este final de semana na Sala, convite que ele teve que declinar por causa do agravamento dos problemas de saúde. Dedico a ele este concerto."&lt;/p&gt;
+&lt;p&gt;"Recebi com muita tristeza a notícia da partida do Tibiriçá", afirmou Eric Herrero, diretor artístico do Theatro Municipal do Rio de Janeiro. "Além da enorme importância para a música no Brasil, foi um colega tão querido, com quem tive a oportunidade de compartilhar momentos inesquecíveis da minha carreira. O Roberto tinha a mesma visão a respeito da importância social da música e a necessidade de formação de público. Seu legado é gigantesco nesse sentido também."&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" data-entity-type="file" data-entity-uuid="915c2852-28eb-4350-9920-dc5edf315d18" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0.jpg" /&gt;
+&lt;figcaption&gt;O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 03/10/2026 - 11:00&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Foto-credKlinsman-Santana_0.jpg" width="900" height="600" alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" title="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=x4HRmVSi52WGGCwvJXNKFcdHiLL9METTDtgZx7Z_LZs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 03 Oct 2026 11:00:08 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283508 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Teatro Estadual de Araras recebe 3º Encontro de Ópera Brasileira</title>
@@ -140,10 +224,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=MKCPoUScTysJ5XD7PrSGDswVbJ7-tsUhevfNoFW2pCI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kGjomKHcmI2zjGVjP-eziCHQ8Bwud5f3o-2JeCgVfBA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -503,69 +587,6 @@
   <pubDate>Fri, 02 Oct 2026 14:02:55 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283499 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupo Andante CoralUSP</title>
-  <link>http://concerto.com.br/roteiros/grupo-andante-coralusp</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Andante CoralUSP&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 13:59&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetáculo Mátria. Tiago Pinheiro - regente. Programa: diferentes períodos e correntes da música que construíram a musicalidade de coral brasileira, traçando um fio pelos cantos tradicionais ameríndios, a música coral europeia, cantos de candomblé e o que denominam “Brasil sincrético”, apresentando alguns dos frutos da mistura destas ancestralidades.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-03T17:00:00Z" class="datetime"&gt;sab, 03/10/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/256193" hreflang="pt-br"&gt;Casa Museu Ema Klabin (170 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, contribuição voluntária.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 13:59:50 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283498 at http://concerto.com.br</guid>
     </item>
 
   </channel>

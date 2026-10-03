@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-03 05:29 UTC
+Generated: 2026-10-03 11:50 UTC
 
 ## Native feeds (not scraped)
 
@@ -137,7 +137,7 @@ Generated: 2026-10-03 05:29 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -154,8 +154,8 @@ Generated: 2026-10-03 05:29 UTC
   notes: scraped 10 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
-- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: scraped 3 events
+- **fabric-changelog** [FAIL] items=0 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: no event items found
 - **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
@@ -178,8 +178,8 @@ Generated: 2026-10-03 05:29 UTC
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=20 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
