@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 03 Oct 2026 16:28:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:25:44 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1MSIsImRpc2xpa2VzIjoiMCJ9?token=v-2TTMt9naBUzpeZmhHUhWw2Y70DVXrrJeJ0JPk1Wbc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=wBosK373EdAdlVwZVzWzEtyCwWMpkLOyCCFHKwuklzM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;551&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;554&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,11 +82,60 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
+  <title>2026_Dellarte_ate19out_CARD</title>
+  <link>http://concerto.com.br/node/283511</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_Dellarte_ate19out_CARD&lt;/span&gt;
+
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/2026_Dellarte_ate19out_CARD.jpg" width="380" height="490" alt="2026_Dellarte_ate19out_CARD" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 03/10/2026 - 20:06&lt;/span&gt;
+
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://sis.ingresso.dellarte.com.br/loja/setores/94/vikingur-olafsson-piano&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;03&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 03 Oct 2026 20:06:13 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283511 at http://concerto.com.br</guid>
+    </item>
+<item>
   <title>Morre aos 72 anos o maestro Roberto Tibiriçá</title>
   <link>http://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Morreu nesta madrugada o maestro Roberto Tibiriçá. Uma das grandes personalidades do meio musical brasileiro, que esteve à frente das principais orquestras do país, ele estava com 72 anos e tratava um câncer.&lt;/p&gt;
+&lt;p&gt;O velório do maestro será realizado no Theatro Municipal de São Paulo neste sábado, das 18h às 22h, e amanhã, domingo, das 8h às 12h. O enterro acontece amanhã no Cemitério São Paulo, às 13h.&lt;/p&gt;
 &lt;p&gt;Nascido em São Paulo, Tibiriçá começou sua relação com a música pelo piano, aos 8 anos de idade. Estudou com Dinorah de Carvalho, Antonio Bezzan e Gilberto Tinetti e se aproximou da pianista Guiomar Novaes, a quem acompanhou em seus últimos anos de vida. “Lembro, ainda pequeno, de ir ao Theatro Municipal para ouvir a Guiomar. Cheguei sem gravata, me barraram na entrada, mas demos um jeito... nos sentamos na terceira fila. Quando ela começou a tocar, eu quase dei um salto da cadeira, olhos arregalados, coração aos pulos. Decidi ali: queria estudar com ela. Passei dias ligando para a casa de Guiomar, até que ela me atendeu, explicou que não dava aulas e me indicou para Dinorá de Carvalho, que havia ido com ela para o Conservatório de Paris estudar com Isidore Phillippe. Mas quando vinha das turnês, eu tocava e ela me orientava”, lembrou ele em entrevista à Revista CONCERTO.&lt;/p&gt;
 &lt;p&gt;Com o tempo, porém, o interesse pela regência acabou se impondo. Ele contava que “queria mais som” e, então, passou a estudar de forma autodidata. Até que se deu o encontro com Eleazar de Carvalho, no início dos anos 1980. No Festival de Inverno de Campos do Jordão, atuou como pianista em ensaios com a Orquestra Sinfônica do Estado de São Paulo e passou a ter aulas com o maestro, com quem trabalharia por dezoito anos. “Fiquei como assistente dele na Osesp e ele me orientou nessa formação. O Eleazar me deu uma carta de recomendação e fui estudar com Lukas Foss em Nova York. Lá também eu conheci Zubin Mehta, que era diretor da Filarmônica de Nova York. Ele me influenciou muito ao dizer três coisas que um maestro sempre precisa ter em mente: seja humilde, tenha muita paciência e pergunte sempre.”&lt;/p&gt;
 &lt;p&gt;Paralelamente, desde 1974, atuava também como diretor artístico em gravadoras. Na RGE/Fermata, foi o responsável pelo início dos registros comerciais de música clássica em gravadoras brasileiras: entre os projetos que encabeçou, estiveram os últimos discos de Guiomar Novaes, dedicado à música brasileira, e de Magda Tagliaferro – este último pela gravadora Copacabana, da qual também foi diretor artístico. Anos mais tarde, ele também comandaria uma gravação de Pedro e o lobo, de Prokofiev, que tinha a cantora Rita Lee como narradora e ele na regência.&lt;/p&gt;
@@ -105,6 +154,9 @@
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Amigos e colegas lamentam a perda do maestro&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;"Uma perda inestimável para a música brasileira e para todos aqueles que tiveram a oportunidade de conviver com ele", afirmou o compositor João Guilherme Ripper. "Tibiriçá foi um maestro completo. Sempre fui grato a ele por ter programado minha primeira obra sinfônica com a Orquestra Sinfônica Brasileira quando eu apenas iniciava a carreira de compositor. Ficamos amigos e, mais tarde, nos tornamos confrades na Academia Brasileira de Música. Colaboramos artisticamente muitas vezes no decorrer dos anos. Por triste coincidência, eu havia convidado Tibiriçá para reger justamente o concerto de abertura do Festival Brahms-Schumann que a OSB inicia este final de semana na Sala, convite que ele teve que declinar por causa do agravamento dos problemas de saúde. Dedico a ele este concerto."&lt;/p&gt;
 &lt;p&gt;"Recebi com muita tristeza a notícia da partida do Tibiriçá", afirmou Eric Herrero, diretor artístico do Theatro Municipal do Rio de Janeiro. "Além da enorme importância para a música no Brasil, foi um colega tão querido, com quem tive a oportunidade de compartilhar momentos inesquecíveis da minha carreira. O Roberto tinha a mesma visão a respeito da importância social da música e a necessidade de formação de público. Seu legado é gigantesco nesse sentido também."&lt;/p&gt;
+&lt;p&gt;“Sinto muito pela partida precoce do Tibiriçá”, lamentou Nelson Rubens Kunze, diretor-editor da Revista CONCERTO. “Estudei com ele no início dos anos 1980, no Conservatório do Brooklin. Foi um músico de imenso talento, ótimo pianista também, de grande sensibilidade. E foi um amigo, me chamava de Nelsinho e me incentivou muito quando fui estudar na Alemanha. Depois, realizou essa carreira incrível, apesar de todos os obstáculos e dificuldades que enfrentou. Era um apaixonado, sempre super dedicado ao trabalho, deixou sua marca e muita boa música por todas as orquestras pelas quais passou. Era um querido, ficamos um pouco mais sozinhos por aqui. Descanse em paz, Tibiriçá.”&lt;/p&gt;
+&lt;p&gt;Em nota, Fundação Orquestra Sinfônica Brasileira manifestou pesar pela morte do maestro: "A Fundação Orquestra Sinfônica Brasileira lamenta profundamente o falecimento do maestro Roberto Tibiriçá, figura de grande importância para a música de concerto no Brasil e para a história da OSB. Tibiriçá construiu uma trajetória marcada pela dedicação à música sinfônica e pela atuação à frente de importantes orquestras brasileiras e estrangeiras. Em 1994, assumiu a Direção Artística e a regência titular da Orquestra Sinfônica Brasileira, cargo que ocupou em um período importante da história da instituição. A OSB se solidariza com seus familiares, amigos, alunos e admiradores, e agradece por sua contribuição à música e à cultura brasileira."&lt;/p&gt;
+&lt;!--/data/user/0/com.samsung.android.app.notes/files/clipdata/clipdata_bodytext_261003_100007_125.sdocx--&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" data-entity-type="file" data-entity-uuid="915c2852-28eb-4350-9920-dc5edf315d18" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0.jpg" /&gt;
 &lt;figcaption&gt;O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]&lt;/figcaption&gt;
@@ -142,7 +194,33 @@
           &lt;/div&gt;
 &lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
   
-  
+    
+&lt;article data-comment-user-id="18957" id="comment-926" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1791054921"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18957" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18957" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Emerson Souza&lt;/span&gt; em sab, 03/10/2026 - 19:15&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/926#comment-926" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/926#comment-926" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Me considero um PRIVILEGIADO…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Me considero um PRIVILEGIADO  por ter sido comandado pelo Maestro Tibiriçá como bolsista da orquestra do festival de inverno de Campos do Jordão, na minha pequinês musical tive a oportunidade de ouvir suas instruções,  que para alguns parecia "rispidez" pra mim foi um dos maiores ensinamentos de disciplina e reverência, não só a liderança, mas a arte, aprendi a tratar a música com o respeito que ela merece.&lt;br /&gt;
+Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração apaixonado pelas pessoas, a família e as tradições simples da vida.&lt;br /&gt;
+  Obrigado música por ter me apresentando o Maestro Roberto Tibiriçá!&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=926&amp;2=denunciar" token="7-i_Dc1mO2tGLES21lfG2fnexNzQSbTeayDMsR0_010"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+
 
   
 &lt;/section&gt;
@@ -151,10 +229,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=x4HRmVSi52WGGCwvJXNKFcdHiLL9METTDtgZx7Z_LZs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=ZPNdsIld2CC7CYBxy9Gt7eLdURBYAUCNsLqOArB4egY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;50&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -224,10 +302,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kGjomKHcmI2zjGVjP-eziCHQ8Bwud5f3o-2JeCgVfBA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=RFHtatoWuhRmakZxaVb0gnxrOzUCiZbW4z_IRDNY7hc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -524,69 +602,6 @@
   <pubDate>Fri, 02 Oct 2026 15:42:12 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283500 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra de Cordas do Guri de São Paulo</title>
-  <link>http://concerto.com.br/roteiros/orquestra-de-cordas-do-guri-de-sao-paulo-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Cordas do Guri de São Paulo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 14:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Programa: Programa: Henry Purcell – The Fairy Queen Z. 629; Vivaldi – Concerto para cordas em dó menor RV 120; Ernst Mahle – Concertino para violoncelo e cordas; Helmut May – Dez estudos para orquestra de cordas: Estudo nº 5 para viola, Estudo nº 7 para violoncelos e Estudo nº 11 para contrabaixos; e Nadia Boulanger – Chanson.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-11T11:00:00Z" class="datetime"&gt;dom, 11/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/256193" hreflang="pt-br"&gt;Casa Museu Ema Klabin (170 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, contribuição voluntária.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 14:02:55 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283499 at http://concerto.com.br</guid>
     </item>
 
   </channel>
