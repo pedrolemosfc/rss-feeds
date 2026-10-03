@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 02 Oct 2026 23:51:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:26:18 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1MSIsImRpc2xpa2VzIjoiMCJ9?token=cAZHsJs9Q99UxcnGPVRCejHTIrbgX-AZObtSNIu7CSU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1MSIsImRpc2xpa2VzIjoiMCJ9?token=eqcnjQXK7T5A5VxGQSReCbgHkOA0uTK7LshLWB5ZCtI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;551&lt;/span&gt;
@@ -80,6 +80,206 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Teatro Estadual de Araras recebe 3º Encontro de Ópera Brasileira</title>
+  <link>http://concerto.com.br/noticias/opera/teatro-estadual-de-araras-recebe-3o-encontro-de-opera-brasileira</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Estadual de Araras recebe 3º Encontro de Ópera Brasileira&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O Teatro Estadual de Araras recebe, nos dias 2 e 3, o 3º Encontro de Ópera Brasileira. O evento tem curadoria e direção artística de Paulo Esper e vai apresentar duas óperas: &lt;em&gt;Uma noite no castelo&lt;/em&gt;, de Henrique Alves de Mesquita, e &lt;em&gt;Domitila&lt;/em&gt;, de João Guilherme Ripper. &lt;/p&gt;
+&lt;p&gt;Após as apresentações, os artistas vão participar de conversas com o público a respeito das obras. Da ópera &lt;em&gt;Uma noite no castelo&lt;/em&gt;, participam Cristiane Mesquita (que também assina a direção cênica), Marcello Mesquita, Max Costa, Marcus Ouros e outros, com Marcio Arruda ao piano. &lt;em&gt;Domitila&lt;/em&gt; será interpretada pela soprano Maria Solle Galevi e por um conjunto de câmara.&lt;/p&gt;
+&lt;p&gt;A base para a ópera de Mesquita, que estreou em 1870, foi um libreto do francês Paul de Kock (1794-1871), que se passa na França de meados do século XIX. No centro da trama está um jovem conde que gastava sem cerimônias sua fortuna em Paris, até que resolve atender um pedido de sua falecida mãe: pagar o dote de casamento de uma aldeã por quem ela tinha especial carinho. O retorno à aldeia natal, no entanto, o coloca em contato com uma farsa urdida pela administradora das terras da família, revelada, ao final, pelo mordomo da família.&lt;/p&gt;
+&lt;p&gt;A estreia da ópera foi um sucesso de público e crítica. O crítico França Junior escreveu no &lt;em&gt;Jornal da Tarde&lt;/em&gt; do Rio de Janeiro, após a estreia, que a ópera era como “um pequeno ramalhete exalando a suave fragrância das mimosas flores da primavera”. O relato continua, com o crítico afirmando que o nome do compositor “se acha gravado em caracteres tão brilhantes nos fastos da nossa música nascente, que pronunciá-lo é recordar um por um de seus triunfos”.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Domitila&lt;/em&gt;, por sua vez, foi construída como um monólogo no qual a Marquesa de Santos prepara-se para deixar a corte de D. Pedro I, de quem era amante, sob o impacto da notícia de um novo casamento do imperador. Ela abre um baú e se depara com um maço de cartas recebidas ao longo do relacionamento. Começa, então, a relê-las e a relembrar a história de paixão vivida pelos dois.&lt;/p&gt;
+&lt;p&gt;Ripper poderia ter escrito um ciclo de canções a partir dos textos. Mas optou por dar a eles um contexto dramático, como comentou em uma entrevista de 2023. “Ao longo da leitura, fui percebendo que, se eu colocasse aquelas cartas, não em uma ordem cronológica, mas em uma sequência dramática, eu poderia contar uma história com princípio, meio e fim”, explicou. “Ela canta as cartas, mas não como seria em um ciclo de canções: ela revive aquela história e, por isso, precisa atuar.”&lt;/p&gt;
+&lt;p&gt;“Todas as cartas, ou quase todas, da ópera são de D. Pedro para ela, porque poucas missivas dela para ele sobreviveram. Mas a última carta, a da despedida, me impressionou muito pela forma forte e digna com que ela se dirige a ele. Ela abandona o tratamento informal, não o chama mais de ‘vosmecê’, adota o tratamento majestático, passa a chamá-lo de ‘Vossa Majestade’. Essa catarse pela qual ela passa relendo as cartas é exatamente o rito de passagem de que ela precisava para ir embora”, completa o compositor.&lt;/p&gt;
+&lt;p&gt;O encontro é realizado pela Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo, por meio da APAA (Associação Paulista dos Amigos da Arte).&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A soprano Maria Solle Galevi como Domitila [Divulgação]" data-entity-type="file" data-entity-uuid="9099dfa3-0ed1-482b-908e-3e2fa948e705" src="http://concerto.com.br/sites/default/files/inline-images/w-DOMITILA-.jpg" /&gt;
+&lt;figcaption&gt;A soprano Maria Solle Galevi como Domitila [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 23:35&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-DOMITILA-.jpg" width="900" height="513" alt="A soprano Maria Solle Galevi como Domitila [Divulgação]" title="A soprano Maria Solle Galevi como Domitila [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=MKCPoUScTysJ5XD7PrSGDswVbJ7-tsUhevfNoFW2pCI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Oct 2026 23:35:52 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283507 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica Arcos Brasileiros</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-arcos-brasileiros</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Arcos Brasileiros&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 20:40&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto A voz do tempo e da terra. Fernando Gomes - direção artística e regente. Participação: Kelly Silva e Paulo Veríssimo - cantores. Fernando Gomes - arranjos. Programa: músicas de Gilberto Gil, Caetano Veloso, Vinicius de Moraes e Baden Powell, Renato Teixeira, Luedji Luna e Zeca Pagodinho, entre outros. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-10T14:00:00Z" class="datetime"&gt;sab, 10/10/2026 - 14:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-olido" hreflang="pt-br"&gt;Centro Cultural Olido (236 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/a-voz-do-tempo-e-da-terra---concerto-de-estreia-da-orquestra-sinfonica-arcos-brasileiros/3593806.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Oct 2026 20:40:28 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283505 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Balé Romeu e Julieta, de Prokofiev</title>
+  <link>http://concerto.com.br/roteiros/bale-romeu-e-julieta-de-prokofiev-27</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Balé Romeu e Julieta, de Prokofiev&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 20:25&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ensaio aberto. Balé e Orquestra Sinfônica do Theatro Municipal. Luiz Fernando Bongiovanni – direção, concepção e coreografia. Hélio Bejani — direção geral. Tobias Volkmann — regente. Márcia Jaqueline e Cícero Gomes - bailarinos. René Sato – remontagem e assistência de direção. Edson Bueno – direção teatral e dramaturgia. Hélio Bejani e Jorge Texeira – supervisão artística. René Sato, Mônica Barbosa, Filipe Moreira e Jorge Texeira – ensaiadores. Renato Theobaldo e Cleverson Luiz Cavalheiro – cenografia. Marilda Fontes – figurinos. Ana Luzia de Simoni – iluminação. Carla Marins – design gráfico. Apresentações dias 7, 8, 9 e 10 às 19h e dia 11 às 17h. Palestra gratuita antes do espetáculo.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-06T19:00:00Z" class="datetime"&gt;ter, 06/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-municipal-1" hreflang="pt-br"&gt;Theatro Municipal (2361 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 30 a R$ 90. Vendas: http://theatromunicipal.rj.gov.br/romeu-e-julieta-musica-de-sergei-prokofiev-com-o-ballet-e-a-ostm/ ou na bilheteria do teatro.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Oct 2026 20:25:16 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283504 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Teatro da Universidade Estadual de Feira de Santana - UEFS</title>
@@ -366,202 +566,6 @@
   <pubDate>Fri, 02 Oct 2026 13:59:50 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283498 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupo 12 em Ponto CoralUSP</title>
-  <link>http://concerto.com.br/roteiros/grupo-12-em-ponto-coralusp</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo 12 em Ponto CoralUSP&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 13:57&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Clube da Esquina em cena. Eduardo Fernandes - regente. Programa: canções dos discos Clube da Esquina, de Lô Borges e Milton Nascimento.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-03T11:00:00Z" class="datetime"&gt;sab, 03/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/256193" hreflang="pt-br"&gt;Casa Museu Ema Klabin (170 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, contribuição voluntária.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 13:57:02 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283497 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Espetáculo O pianista e o poeta</title>
-  <link>http://concerto.com.br/roteiros/espetaculo-o-pianista-e-o-poeta-6</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculo O pianista e o poeta&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 13:54&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;João Carlos Martins - piano e Gabriel Chalita - escritor. Programa: obras de Bach, Chopin, Beethoven, Schubert e Ennio Morricone dialogam com textos de Cora Coralina, Manuel de Barros, Clarice Lispector e Fernando Pessoa, entremeados por uma conversa sobre memória, amizade, arte, envelhecimento, reinvenção e a capacidade de seguir criando - temas que atravessam especialmente a trajetória de João Carlos Martins.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-22T20:00:00Z" class="datetime"&gt;qui, 22/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-faap" hreflang="und"&gt;Teatro Faap&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 90 a R$120. Vendas:  https://teatrofaap.showare.com.br/?sw_sc=internet ou na bilheteria do teatro, de quarta a sábado, das 14h às 20h, e domingos, das 14h às 17h. Em dias de espetáculo, a bilheteria permanece aberta até o início do espetáculo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 13:54:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283496 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Espetáculo O pianista e o poeta</title>
-  <link>http://concerto.com.br/roteiros/espetaculo-o-pianista-e-o-poeta-5</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculo O pianista e o poeta&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 13:53&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;João Carlos Martins - piano e Gabriel Chalita - escritor. Programa: obras de Bach, Chopin, Beethoven, Schubert e Ennio Morricone dialogam com textos de Cora Coralina, Manuel de Barros, Clarice Lispector e Fernando Pessoa, entremeados por uma conversa sobre memória, amizade, arte, envelhecimento, reinvenção e a capacidade de seguir criando - temas que atravessam especialmente a trajetória de João Carlos Martins.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 22 às 20h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T20:00:00Z" class="datetime"&gt;qua, 21/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-faap" hreflang="und"&gt;Teatro Faap&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 90 a R$120. Vendas:  https://teatrofaap.showare.com.br/?sw_sc=internet ou na bilheteria do teatro, de quarta a sábado, das 14h às 20h, e domingos, das 14h às 17h. Em dias de espetáculo, a bilheteria permanece aberta até o início do espetáculo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 13:53:51 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283495 at http://concerto.com.br</guid>
     </item>
 
   </channel>
