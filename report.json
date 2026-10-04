@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out"
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -297,9 +297,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 24,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "farol-conde-arena",
     "source_url": "https://farmacondearena.com.br/agenda",
     "output": "feeds/farol-conde-arena.xml",
-    "items": 6,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 49,
-    "ok": true,
-    "notes": "scraped 49 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   }
 ]

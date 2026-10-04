@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 03 Oct 2026 21:25:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:44:24 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=wBosK373EdAdlVwZVzWzEtyCwWMpkLOyCCFHKwuklzM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=z__vYBvdPgLUR9xqU4W6Hc65kQfIHhpZnwKh4MM45sU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;554&lt;/span&gt;
@@ -107,12 +107,12 @@
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;4&lt;/div&gt;
+              &lt;div class="field__item"&gt;15&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;1&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -229,10 +229,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=ZPNdsIld2CC7CYBxy9Gt7eLdURBYAUCNsLqOArB4egY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=SlFqq_WZYnyB1_eWesdVf7C9qTEzC8o1O1NfhL2vQZ0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;50&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;53&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -302,10 +302,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=RFHtatoWuhRmakZxaVb0gnxrOzUCiZbW4z_IRDNY7hc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=vQDN_p7dmpdf_lLLDhHOepb-cI0RArMphI0JDQaOeaY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;

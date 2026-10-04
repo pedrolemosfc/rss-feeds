@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-03 21:28 UTC
+Generated: 2026-10-04 00:46 UTC
 
 ## Native feeds (not scraped)
 
@@ -32,8 +32,8 @@ Generated: 2026-10-03 21:28 UTC
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
   notes: scraped 30 items
-- **correio-irlam-rocha-lima** [FAIL] items=0 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
-  notes: fetch failed: TimeoutError: The read operation timed out
+- **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
+  notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
@@ -84,8 +84,8 @@ Generated: 2026-10-03 21:28 UTC
   notes: mirrored 10 native items
 - **teatro-bradesco** [OK] items=56 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
   notes: scraped 56 events
-- **vibra-sp** [OK] items=24 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
-  notes: scraped 24 events
+- **vibra-sp** [OK] items=23 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
+  notes: scraped 23 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
@@ -122,8 +122,8 @@ Generated: 2026-10-03 21:28 UTC
   notes: scraped 56 events
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
-- **cavern-club-sp** [OK] items=23 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 23 events
+- **cavern-club-sp** [OK] items=22 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 22 events
 - **manifesto-bar** [OK] items=18 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 18 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -140,8 +140,8 @@ Generated: 2026-10-03 21:28 UTC
   notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
-- **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
-  notes: scraped 6 events
+- **farol-conde-arena** [OK] items=5 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
+  notes: scraped 5 events
 - **tldb-livesets** [OK] items=80 → `feeds/tldb-livesets.xml`  source: https://tldb.co/  
   notes: scraped 80 events
 - **bona-eventim-venue** [FAIL] items=0 → `feeds/bona-eventim-venue.xml`  source: https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/  
@@ -170,20 +170,20 @@ Generated: 2026-10-03 21:28 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=49 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 49 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
-- **hangar-110** [OK] items=20 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
-  notes: scraped 20 events
+- **hangar-110** [OK] items=19 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
+  notes: scraped 19 events
 
 ## Combined feeds
 
