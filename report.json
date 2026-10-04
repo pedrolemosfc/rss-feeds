@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -387,9 +387,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 12,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 40,
+    "items": 38,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 38 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 56,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 56 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -594,9 +594,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 10,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 26,
+    "ok": true,
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {

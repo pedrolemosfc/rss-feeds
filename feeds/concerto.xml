@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 04 Oct 2026 00:44:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 08:31:51 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=z__vYBvdPgLUR9xqU4W6Hc65kQfIHhpZnwKh4MM45sU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=Qb0dWkSk3F16pSSw7YN4drONB7uTTdH5BWay5sfpseU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;554&lt;/span&gt;
@@ -107,7 +107,7 @@
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;15&lt;/div&gt;
+              &lt;div class="field__item"&gt;63&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
@@ -151,12 +151,31 @@
 &lt;p&gt;Em 2022, Tibiriçá começou a escrever aquele que seria seu último capítulo à frente de uma orquestra, assumindo o comando da Orquestra Sinfônica do Paraná. Criou uma série de concertos no Museu Oscar Niemeyer, em Curitiba, além da programação regular de apresentações no Teatro Guaíra. Ao celebrar 40 anos, em 2025, a orquestra iniciou um novo ciclo, com um investimento de cerca de R$ 6 milhões para aquisição de instrumentos: um piano Steinway, uma harpa de pedais, um órgão eletrônico, uma celesta, um cravo, dois contrabaixos de cinco cordas e dois trompetes de rotor.&lt;/p&gt;
 &lt;p&gt;“Estou dedicado à Sinfônica do Paraná. Estamos empenhados na construção da concha acústica para os concertos no Teatro Guaíra, reestruturando a orquestra, trazendo grandes nomes com a ajuda do Instituto de Apoio à Orquestra Sinfônica do Paraná (IAOSP), fazendo concertos para jovens com ingressos a 10 e 20 reais. Vejo que o público não é mais exclusivamente grisalho. Eu prometi ao Eleazar, lá atrás, que eu levaria adiante os concursos que ele criou; faço parte dessa linhagem da regência e quero deixar um legado artístico e na área pedagógica também. E continuar a fazer música sempre preservando a qualidade artística – por pelo menos mais dez anos”, disse ele em entrevista à CONCERTO em 2024.&lt;/p&gt;
 &lt;p&gt;A morte pôs fim a seus planos. Mas não a seu legado.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Amigos e colegas lamentam a perda do maestro&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;"Uma perda inestimável para a música brasileira e para todos aqueles que tiveram a oportunidade de conviver com ele", afirmou o compositor João Guilherme Ripper. "Tibiriçá foi um maestro completo. Sempre fui grato a ele por ter programado minha primeira obra sinfônica com a Orquestra Sinfônica Brasileira quando eu apenas iniciava a carreira de compositor. Ficamos amigos e, mais tarde, nos tornamos confrades na Academia Brasileira de Música. Colaboramos artisticamente muitas vezes no decorrer dos anos. Por triste coincidência, eu havia convidado Tibiriçá para reger justamente o concerto de abertura do Festival Brahms-Schumann que a OSB inicia este final de semana na Sala, convite que ele teve que declinar por causa do agravamento dos problemas de saúde. Dedico a ele este concerto."&lt;/p&gt;
-&lt;p&gt;"Recebi com muita tristeza a notícia da partida do Tibiriçá", afirmou Eric Herrero, diretor artístico do Theatro Municipal do Rio de Janeiro. "Além da enorme importância para a música no Brasil, foi um colega tão querido, com quem tive a oportunidade de compartilhar momentos inesquecíveis da minha carreira. O Roberto tinha a mesma visão a respeito da importância social da música e a necessidade de formação de público. Seu legado é gigantesco nesse sentido também."&lt;/p&gt;
-&lt;p&gt;“Sinto muito pela partida precoce do Tibiriçá”, lamentou Nelson Rubens Kunze, diretor-editor da Revista CONCERTO. “Estudei com ele no início dos anos 1980, no Conservatório do Brooklin. Foi um músico de imenso talento, ótimo pianista também, de grande sensibilidade. E foi um amigo, me chamava de Nelsinho e me incentivou muito quando fui estudar na Alemanha. Depois, realizou essa carreira incrível, apesar de todos os obstáculos e dificuldades que enfrentou. Era um apaixonado, sempre super dedicado ao trabalho, deixou sua marca e muita boa música por todas as orquestras pelas quais passou. Era um querido, ficamos um pouco mais sozinhos por aqui. Descanse em paz, Tibiriçá.”&lt;/p&gt;
-&lt;p&gt;Em nota, Fundação Orquestra Sinfônica Brasileira manifestou pesar pela morte do maestro: "A Fundação Orquestra Sinfônica Brasileira lamenta profundamente o falecimento do maestro Roberto Tibiriçá, figura de grande importância para a música de concerto no Brasil e para a história da OSB. Tibiriçá construiu uma trajetória marcada pela dedicação à música sinfônica e pela atuação à frente de importantes orquestras brasileiras e estrangeiras. Em 1994, assumiu a Direção Artística e a regência titular da Orquestra Sinfônica Brasileira, cargo que ocupou em um período importante da história da instituição. A OSB se solidariza com seus familiares, amigos, alunos e admiradores, e agradece por sua contribuição à música e à cultura brasileira."&lt;/p&gt;
-&lt;!--/data/user/0/com.samsung.android.app.notes/files/clipdata/clipdata_bodytext_261003_100007_125.sdocx--&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Orquestras, amigos e colegas lamentam a perda do maestro&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;"Uma perda inestimável para a música brasileira e para todos aqueles que tiveram a oportunidade de conviver com ele. Tibiriçá foi um maestro completo. Sempre fui grato a ele por ter programado minha primeira obra sinfônica com a Orquestra Sinfônica Brasileira quando eu apenas iniciava a carreira de compositor. Ficamos amigos e, mais tarde, nos tornamos confrades na Academia Brasileira de Música. Colaboramos artisticamente muitas vezes no decorrer dos anos. Por triste coincidência, eu havia convidado Tibiriçá para reger justamente o concerto de abertura do Festival Brahms-Schumann que a OSB inicia este final de semana na Sala, convite que ele teve que declinar por causa do agravamento dos problemas de saúde. Dedico a ele este concerto."&lt;br /&gt;
+&lt;strong&gt;João Guilherme Ripper&lt;/strong&gt;, compositor&lt;/p&gt;
+&lt;p&gt;“Sinto muito pela partida precoce do Tibiriçá. Estudei com ele no início dos anos 1980, no Conservatório do Brooklin. Foi um músico de imenso talento, ótimo pianista também, de grande sensibilidade. E foi um amigo, me chamava de Nelsinho e me incentivou muito quando fui estudar na Alemanha. Depois, realizou essa carreira incrível, apesar de todos os obstáculos e dificuldades que enfrentou. Era um apaixonado, sempre super dedicado ao trabalho, deixou sua marca e muita boa música por todas as orquestras pelas quais passou. Era um querido, ficamos um pouco mais sozinhos por aqui. Descanse em paz, Tibiriçá.”&lt;br /&gt;
+&lt;strong&gt;Nelson Rubens Kunze&lt;/strong&gt;, diretor-editor da Revista CONCERTO&lt;/p&gt;
+&lt;p&gt;"Um dos melhores maestros brasileiros! Amigo e professor, ele me acompanhou ao piano quando eu tinha 12 anos de idade e me deu aula de regência e me preparou para o Concurso Jovem Maestro da Osesp em 1994. Eleazar de Carvalho o respeitava muito e dizia que ele tirava um som lindo da orquestra, um “som escuro”.  Muitas qualidades e muito querido. Saudades! Serei eternamente grato. Fique com Deus!"&lt;br /&gt;
+&lt;strong&gt;Roberto Minczuk&lt;/strong&gt;, maestro&lt;/p&gt;
+&lt;p&gt;"Querido Roberto, hoje você descansou. Inesquecíveis os nossos concertos com a Sinfônica do Paraná: primeiro, um Ravel muito especial; e, por último, no início deste ano, o divertido Festival Gershwin, com a Rhapsody in blue e o Concerto em fá. Estar no palco com você era dividir ideias, transcender a música e emocionar. Fora do palco, era dividir histórias, rir muito e aprender tanto com o seu caminho de vida. A você, querido Maestro, o nosso último Bravo! Você deixa saudades. Descanse em paz."&lt;br /&gt;
+&lt;strong&gt;Fabio Martino&lt;/strong&gt;, pianista&lt;/p&gt;
+&lt;p&gt;"Recebi com muita tristeza a notícia da partida do Tibiriçá. Além da enorme importância para a música no Brasil, foi um colega tão querido, com quem tive a oportunidade de compartilhar momentos inesquecíveis da minha carreira. O Roberto tinha a mesma visão a respeito da importância social da música e a necessidade de formação de público. Seu legado é gigantesco nesse sentido também."&lt;br /&gt;
+&lt;strong&gt;Eric Herrero&lt;/strong&gt;, diretor do Theatro Municipal do Rio de Janeiro&lt;/p&gt;
+&lt;p&gt;"A Fundação Orquestra Sinfônica Brasileira lamenta profundamente o falecimento do maestro Roberto Tibiriçá, figura de grande importância para a música de concerto no Brasil e para a história da OSB. Tibiriçá construiu uma trajetória marcada pela dedicação à música sinfônica e pela atuação à frente de importantes orquestras brasileiras e estrangeiras. Em 1994, assumiu a Direção Artística e a regência titular da Orquestra Sinfônica Brasileira, cargo que ocupou em um período importante da história da instituição. A OSB se solidariza com seus familiares, amigos, alunos e admiradores, e agradece por sua contribuição à música e à cultura brasileira."&lt;br /&gt;
+&lt;strong&gt;Fundação Orquestra Sinfônica Brasileira&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Sua história com a Osesp começou no Festival de Campos do Jordão, ao lado de Eleazar de Carvalho, de quem foi discípulo e assistente. Duas vezes vencedor do nosso Concurso para Jovens Regentes, foi maestro convidado frequente da Orquestra, especialmente nos anos de Eleazar. Nos últimos anos, voltou a estar conosco em momentos marcantes. Regeu a Osesp em diversos espetáculos com a São Paulo Companhia de Dança. Em plena pandemia, conduziu a estreia mundial da ópera Cartas portuguesas, de João Guilherme Ripper, num período em que sua presença e generosidade foram fundamentais. Com a orquestra, gravou ainda obras de Camargo Guarnieri para o selo Naxos. Herdeiro da linhagem de Eleazar, Tibiriçá dedicou a vida à música brasileira e à formação de novos regentes. Nossos sentimentos à família, aos amigos e a todos que tiveram o privilégio de fazer música com ele."&lt;br /&gt;
+&lt;strong&gt;Fundação Osesp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Hoje nos despedimos com o coração apertado de Roberto Tibiriçá, uma das grandes personalidades da música brasileira. Maestro e diretor artístico da Orquestra Sinfônica Heliópolis entre 2005 e 2011, esteve à frente do grupo em projetos como a turnê europeia em 2010 que passou pela Inglaterra, Alemanha e Holanda. Agradecemos por toda parceria e colaboração que o maestro teve conosco e com nosso trabalho social, além do legado inestimável que deixa para a música clássica."&lt;br /&gt;
+&lt;strong&gt;Instituto Baccarelli&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"O Theatro Municipal de São Paulo lamenta profundamente a morte do maestro Roberto Tibiriçá, um dos nomes fundamentais da música de concerto no Brasil. Ao longo de sua carreira, esteve à frente da Orquestra Sinfônica Municipal em diversas ocasiões. O legado de Roberto Tibiriçá permanece na música brasileira, nas orquestras que regeu e, sobretudo, nas gerações de músicos que tiveram suas trajetórias marcadas por seu trabalho e dedicação à formação musical."&lt;br /&gt;
+&lt;strong&gt;Theatro Municipal de São Paulo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Ao longo de sua trajetória, Roberto Tibiriçá esteve à frente de algumas das principais orquestras brasileiras e internacionais e trabalhou com grandes solistas. Dedicou especial atenção à música brasileira, realizando primeiras audições, gravações e projetos de valorização de compositores nacionais, além de desenvolver importante atuação na formação de jovens músicos e regentes, na formação de novos intérpretes e na criação de novas plateias."&lt;br /&gt;
+&lt;strong&gt;Academia Brasileira de Música&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Ao longo dos anos, Tibiriçá esteve conosco em diversas ocasiões, tornando-se um convidado frequente e, mais que isso, um grande amigo. Sua música, sua generosidade e os tantos momentos compartilhados com nossos músicos e nossa equipe fazem parte da nossa história. Nos solidarizamos com seus familiares, amigos e todos que tiveram o privilégio de conviver e fazer música ao seu lado. A música brasileira perde um grande maestro. Nós perdemos um amigo."&lt;br /&gt;
+&lt;strong&gt;Filarmônica de Minas Gerais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Hoje nos despedimos, com profunda tristeza, de Roberto Tibiriçá, nosso maestro titular, amigo e parte fundamental da história da Orquestra Sinfônica do Paraná e do IAOSP. Após quase duas décadas de relação com a OSP e quatro temporadas à frente da Orquestra como maestro titular, Roberto deixa uma marca profunda em nossa história. Foi maestro no sentido mais pleno da palavra: conduziu nossa Orquestra musical e tecnicamente, mas, sobretudo, humanamente. Em cada ensaio, concerto e encontro, havia nele um profundo respeito pela música e pelas pessoas que a faziam acontecer. Sua partida representa uma perda imensa para todos nós. Fica a gratidão pelo privilégio da convivência, pelos momentos compartilhados e por tudo o que pudemos aprender ao seu lado. À sua família, aos seus amigos, aos músicos e a todos que compartilharam sua caminhada, manifestamos nossos mais sinceros sentimentos. O Instituto de Apoio à Orquestra Sinfônica do Paraná lamenta profundamente sua partida e será sempre grato por seus ensinamentos, por sua dedicação e por tudo o que Roberto deixou em nossa história. Obrigado por tudo, Maestro. Descanse em paz."&lt;br /&gt;
+&lt;strong&gt;Instituto de Apoio à Orquestra Sinfônica do Paraná&lt;/strong&gt;&lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" data-entity-type="file" data-entity-uuid="915c2852-28eb-4350-9920-dc5edf315d18" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0.jpg" /&gt;
 &lt;figcaption&gt;O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]&lt;/figcaption&gt;
@@ -229,10 +248,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=SlFqq_WZYnyB1_eWesdVf7C9qTEzC8o1O1NfhL2vQZ0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=-OWRiiFpS84ngE-cRlh_zwtOug9sPElLP5eg_XkwUSw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;53&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;58&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -302,10 +321,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=vQDN_p7dmpdf_lLLDhHOepb-cI0RArMphI0JDQaOeaY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yQxNd6ydpSNf7RdCsqNQNpcxo86Fp3fbPAiu3xPgep4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
