@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 04 Oct 2026 08:31:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 15:25:51 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=Qb0dWkSk3F16pSSw7YN4drONB7uTTdH5BWay5sfpseU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NCIsImRpc2xpa2VzIjoiMCJ9?token=uJdow300q1ZZkkuh0_hzYOlDis5_8O72IrY9DVZ_veI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;554&lt;/span&gt;
@@ -80,6 +80,86 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>2º Concurso Nacional de Piano do Instituto Pedro Gordilho anuncia vencedores </title>
+  <link>http://concerto.com.br/noticias/reportagem/2o-concurso-nacional-de-piano-do-instituto-pedro-gordilho-anuncia-vencedores</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2º Concurso Nacional de Piano do Instituto Pedro Gordilho anuncia vencedores &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Nove pianistas concorreram na final, realizada em Brasília nos dias 25 e 26 de setembro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O 2º Concurso Nacional de Piano do Instituto Pedro Gordilho (IPG) divulgou os vencedores da edição 2026, após dois dias de apresentações presenciais em Brasília. A final, realizada em 25 e 26 de setembro, reuniu nove jovens pianistas selecionados entre 38 candidatos provenientes de 12 estados, além do Distrito Federal e dois participantes residentes no exterior.&lt;/p&gt;
+&lt;p&gt;O primeiro lugar foi concedido ao paulista Luís Henrique Leite Andrade Araújo, que faz graduação na ECA-USP sob orientação de Luciana Sayure. Luís também venceu o Prêmio Instituto Piano Brasileiro, destinado à melhor interpretação de obra brasileira para piano. O segundo lugar ficou com Arthur Dante Novaes Teixeira, da Bahia, que recebeu ainda menção honrosa pela melhor interpretação da peça de confronto. O Prêmio Revelação foi atribuído ao paulista Matheus Enzo de Faria Oshiro, enquanto a menção honrosa geral foi concedida à capixaba Sara de Vasconcelos Canal.&lt;/p&gt;
+&lt;p&gt;As apresentações finais incluíram recitais de 30 a 40 minutos, com obras de livre escolha e a peça de confronto da edição, “Tema para Karla”, do compositor Mario Olinto, que integrou a comissão julgadora ao lado de Alda de Mattos, Alexandre Dias, Ana Paula Gordilho Pessoa e Bruno Belthoise.&lt;/p&gt;
+&lt;p&gt;O concurso oferece premiação em dinheiro (R$ 15 mil para o primeiro lugar, R$ 7 mil para o segundo e R$ 5 mil para o pianista revelação) além de oportunidades de apresentação. O vencedor atuará como solista da Orquestra Sinfônica do Teatro Nacional Claudio Santoro, e os premiados participarão de recitais promovidos pelo IPG.&lt;/p&gt;
+&lt;p&gt;A edição contou com apoio da Casa Thomas Jefferson e do Instituto Piano Brasileiro, além da participação do público presencial e online, que acompanhou as transmissões pelo YouTube e redes sociais. &lt;/p&gt;
+&lt;p&gt;O vencedor do 1º Concurso Nacional de Piano do Instituto Pedro Gordilho, realizado no ano passado, foi o pianista paulista Jordan Alexander, que atualmente realiza seu mestrado na Universidade de Zurique, com Konstantin Scherbakov. Naquela oportunidade, o pianista Matheus Oshiro ficou com a segunda colocação e Arthur Dante recebeu o prêmio revelação.&lt;/p&gt;
+&lt;p&gt;[&lt;u&gt;&lt;a href="https://www.youtube.com/@institutopedrogordilho8271" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para assistir às provas finais do 2º Concurso Nacional de Piano do Instituto Pedro Gordilho, que foram transmitidas ao vivo pelo YouTube.]&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" data-entity-type="file" data-entity-uuid="4326f47e-e287-4f6d-83c1-538f855f4d4d" src="http://concerto.com.br/sites/default/files/inline-images/w-PedroGordilho_LuisHenriqueAraujo_YouTube.jpg" /&gt;
+&lt;figcaption&gt;O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 04/10/2026 - 11:05&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-PedroGordilho_LuisHenriqueAraujo_YouTube.jpg" width="869" height="566" alt="O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" title="O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3301" hreflang="pt-br"&gt;Concurso Nacional de Piano Pedro Gordilho&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=OCbNBTVOEooZ7MMLIZ8L6j_4hVSKmPz11UtJm-rAw5A?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 04 Oct 2026 11:05:06 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283512 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>2026_Dellarte_ate19out_CARD</title>
@@ -107,7 +187,7 @@
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;63&lt;/div&gt;
+              &lt;div class="field__item"&gt;158&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
@@ -239,6 +319,56 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
       &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=926&amp;2=denunciar" token="7-i_Dc1mO2tGLES21lfG2fnexNzQSbTeayDMsR0_010"&gt;&lt;/drupal-render-placeholder&gt;
   &lt;/div&gt;
 &lt;/article&gt;
+  
+&lt;article data-comment-user-id="18962" id="comment-927" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1791110021"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18962" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18962" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Cristina Ortiz&lt;/span&gt; em dom, 04/10/2026 - 10:33&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/927#comment-927" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/927#comment-927" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Obrigada, grande Roberto,…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Obrigada, grande Roberto, por sua presença nos palcos do mundo e por nossas colaborações seja no Rio, São Paulo, Belo Horizonte ou Caracas; sempre com seu sério preparo a serviço da Música e uma total ausência do Ego ... Grata por sua especial gentileza e humildade, mais a óbvia magia de sua batuta!&lt;br /&gt;
+O Brasil perde seu maior regente dos últimos anos!&lt;br /&gt;
+RIP&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=927&amp;2=denunciar" token="LmwzbigCYZ5fq2VhSXkm_Ux8sNcsRTsFV0x54dqkWu8"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+  
+&lt;article data-comment-user-id="17055" id="comment-928" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1791115668"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/17055" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/17055" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;MARCOS CHRISPIM&lt;/span&gt; em dom, 04/10/2026 - 12:07&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/928#comment-928" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/928#comment-928" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nossas condolências aos…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nossas condolências aos familiares e amigos, alunos e que conviveram com esse grande mestre Roberto Tibirica+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=928&amp;2=denunciar" token="SRIEcyacTF95EyuMnHhikrb9FDRBy1IAyKyz2EWgreQ"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
 
 
   
@@ -248,10 +378,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=-OWRiiFpS84ngE-cRlh_zwtOug9sPElLP5eg_XkwUSw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=ajF82adImwfnSEZsgb-pGm-wFbX5bQxilX53_euLMtU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;58&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;65&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -321,10 +451,10 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yQxNd6ydpSNf7RdCsqNQNpcxo86Fp3fbPAiu3xPgep4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=ucG2XDZjyniI6KpxCy5Z412Eij3IAOZNbqONofGF_VQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -552,75 +682,6 @@ Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração
   <pubDate>Fri, 02 Oct 2026 15:45:08 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283502 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica da Bahia</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-bahia-327</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Bahia&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 15:42&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Belchior Sinfônico. Carlos Prazeres - regente. Participação: João Cavalcanti - voz e Marcelo Caldi - sanfona. Programa: músicas de Belchior. Sala Principal. &lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 24 às 20h no Teatro da Universidade Estadual de Feira de Santana, BA.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T20:00:00Z" class="datetime"&gt;sex, 23/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1387" hreflang="pt-br"&gt;Salvador, BA&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-castro-alves" hreflang="und"&gt;Teatro Castro Alves (1554 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60 a R$ 100. Vendas na bilheteria do teatro ou pela plataforma Sympla.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 15:42:12 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283500 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 26,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
