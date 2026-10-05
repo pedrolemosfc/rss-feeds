@@ -5,7 +5,21 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 05 Oct 2026 14:53:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:45:18 +0000</lastBuildDate>
+<item>
+<title>Sepultura</title>
+<link>https://www.cinejoia.com.br/eventos/sepultura/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/sepultura/</guid>
+<pubDate>Mon, 05 Oct 2026 12:00:53 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Toy Dolls</title>
+<link>https://www.cinejoia.com.br/eventos/toy-dolls/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/toy-dolls/</guid>
+<pubDate>Mon, 05 Oct 2026 11:30:13 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>M.I.A</title>
 <link>https://www.cinejoia.com.br/eventos/m-i-a/</link>
@@ -340,20 +354,6 @@
 <link>https://www.cinejoia.com.br/eventos/shawn-james/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/shawn-james/</guid>
 <pubDate>Tue, 12 May 2026 17:37:56 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>lamparina</title>
-<link>https://www.cinejoia.com.br/eventos/lamparina-2/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/lamparina-2/</guid>
-<pubDate>Fri, 08 May 2026 15:22:25 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Só Os Loucos Sabem</title>
-<link>https://www.cinejoia.com.br/eventos/so-os-loucos-sabem/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/so-os-loucos-sabem/</guid>
-<pubDate>Mon, 27 Apr 2026 18:22:34 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

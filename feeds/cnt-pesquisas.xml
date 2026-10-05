@@ -5,13 +5,20 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 05 Oct 2026 14:55:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:46:59 +0000</lastBuildDate>
 <item>
 <title>Boletim Unificado - Setembro 2026</title>
 <link>https://www.cnt.org.br/pesquisas?documento=a3e288e1-2b2a-4da3-9de8-38bba2acbb2f</link>
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=a3e288e1-2b2a-4da3-9de8-38bba2acbb2f</guid>
 <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
 <description>Boletins — Boletim Unificado - Setembro 2026</description>
+</item>
+<item>
+<title>Setembro/2026 - O transporte no centro das discussões</title>
+<link>https://www.cnt.org.br/pesquisas?documento=d52bc757-667d-46cf-94ed-a4db2728e199</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d52bc757-667d-46cf-94ed-a4db2728e199</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<description>Revista — A edição de setembro da Revista CNT Transporte Atual destacou o 11º Fórum CNT de Debates, que reuniu presidenciáveis para apresentar propostas sobre infraestrutura, investimentos, segurança e regulação no transporte. A edição também abordou os desafios da dragagem para a navegabilidade dos rios, com destaque para o Tapajós, e a aproximação entre o transporte e o meio jurídico no Conexão Legal 2026. Na entrevista, Jordi Gual, professor da IESE Business School, analisa a transformação...</description>
 </item>
 <item>
 <title>Pesquisa CNT de Opinião - 170ª rodada</title>
@@ -250,13 +257,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d592d584-4279-4dc1-abb4-18908c53b9f4</guid>
 <pubDate>Fri, 20 Feb 2026 09:00:00 +0000</pubDate>
 <description>Revista — A primeira edição da Revista CNT Transporte Atual de 2026 destaca a entrevista com o presidente do Sistema Transporte, Vander Costa, que apresenta as prioridades institucionais para o ano. Na reportagem de capa, o destaque é implementação gradual da reforma tributária e seus impactos para o transporte. A edição analisa, ainda, o avanço do Novo Marco Legal do Transporte Público Coletivo Urbano, projeto busca recuperar a sustentabilidade econômico-financeira e a segurança jurídica do ...</description>
-</item>
-<item>
-<title>Viagem Segura - Guia CNT de Segurança nas Rodovias Brasileiras 2026</title>
-<link>https://data.cnt.org.br/destaques/viagem-segura-guia-cnt-de-seguranca-nas-rodovias-2025-2/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/destaques/viagem-segura-guia-cnt-de-seguranca-nas-rodovias-2025-2/</guid>
-<pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
-<description>Estudos e Publicações — A CNT apresenta, neste guia, informações sobre o número, a natureza e as causas dos acidentes registrados nas rodovias federais brasileiras, articulando-as com um panorama das suas condições atuais, com base nos resultados da Pesquisa CNT de Rodovias 2025 . Essa publicação constitui uma relevante fonte de dados consolidados, contribuindo para que os usuários adotem comportamentos mais seguros e preventivos, reafirmando sua corresponsabilidade na preservação da vida e n...</description>
 </item>
 </channel>
 </rss>

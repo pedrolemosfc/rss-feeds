@@ -5,7 +5,7 @@
 <link>https://salasaopaulo.art.br/salasp/pt/programacao-ingressos</link>
 <description>Concertos da Sala São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 05 Oct 2026 14:53:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:45:00 +0000</lastBuildDate>
 <item>
 <title>Concerto 1647</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1647?date=2026-10-05T23:30:00.000Z</link>
@@ -187,12 +187,6 @@
 <description>Sala São Paulo</description>
 </item>
 <item>
-<title>Concerto 1738</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1738?date=2026-10-25T13:50:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1738?date=2026-10-25T13:50:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
 <title>Concerto 1656</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1656?date=2026-10-25T19:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1656?date=2026-10-25T19:00:00.000Z</guid>
@@ -244,6 +238,12 @@
 <title>Concerto 1615</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1615?date=2026-11-01T21:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1615?date=2026-11-01T21:00:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
+<title>Concerto 1856</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/1856?date=2026-11-04T22:30:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1856?date=2026-11-04T22:30:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 </channel>

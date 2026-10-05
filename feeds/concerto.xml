@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 05 Oct 2026 14:53:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:44:31 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=5eokg091cKdz4piR6J2yf-Mx-fL4YD9Cw1CkJeytCvg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=NbexTntZzPX4G3AqIC6OfuFUdadl42NrkhJ169M5hLo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;557&lt;/span&gt;
@@ -82,13 +82,229 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro</title>
-  <link>http://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;
+  <title>Igreja Ascensão</title>
+  <link>http://concerto.com.br/node/283519</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Igreja Ascensão&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Bento Gonçalves, 2394 - Centro - Tel. (51) 99166-6623 - https://www.luteranos.com.br/paroquia/novo-hamburgo-ascensao &lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 20:56&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Novo Hamburgo, RS&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 20:56:07 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283519 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra de Sopros de Novo Hamburgo</title>
+  <link>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Sopros de Novo Hamburgo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 20:51&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Igrejas. Memória, luz e esperança. Lincoln da Gama Lobo - regente. Participação: Gabriel Ludwig - violino. Programa: Otto M. Schwarz - The Story of Anne Frank e Lux Aeterna; Ennio Morricone - Cinema Paradiso; Debussy - Clair de Lune; Frank Ticheli - Rest; Piazzolla - Ave Maria; e Puccini - Nessun Dorma.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-07T19:30:00Z" class="datetime"&gt;qua, 07/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1650" hreflang="pt-br"&gt;Novo Hamburgo, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283519" hreflang="pt-br"&gt;Igreja Ascensão&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada antecipada pela TKTR.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 20:51:31 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283520 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Camerata Sesi-ES</title>
+  <link>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-68</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Camerata Sesi-ES&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 19:52&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporada Pop: Especial Natiruts. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T19:30:00Z" class="datetime"&gt;sex, 23/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-sesi-16" hreflang="und"&gt;Teatro do Sesi Vitória&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 40 a R$ 80. Vendas: https://bileto.sympla.com.br/event/127376?share_id=1-copiarlink. Entrada solidária: R$ 40, mediante a doação de um dos seguintes itens: 1 galão de 5 litros de água sanitária; kit com 10 frascos de detergente; 1 caixa de sabão em pó; ou 1 galão de 5 litros de desinfetante.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 19:52:39 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283518 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Camerata Sesi-ES</title>
+  <link>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-67</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Camerata Sesi-ES&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 19:48&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporada Clássica: Mozart.  Isaac Gonçalves - regente. Programa: obras de Mozart. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-09T19:30:00Z" class="datetime"&gt;sex, 09/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-sesi-16" hreflang="und"&gt;Teatro do Sesi Vitória&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60. Vendas: https://bileto.sympla.com.br/event/127350?share_id=1-copiarlink. Entrada solidária: R$ 30, mediante a doação de um dos seguintes itens: 1 galão de 5 litros de água sanitária; kit com 10 frascos de detergente; 1 caixa de sabão em pó; 1 galão de 5 litros de desinfetante; ou fralda descartável geriátrica ou infantil.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 19:48:58 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283517 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Dellarte anuncia recital do pianista Vikingur Ólafsson no Rio de Janeiro</title>
+  <link>http://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingur-olafsson-no-rio-de-janeiro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte anuncia recital do pianista Vikingur Ólafsson no Rio de Janeiro&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Vikingur Ólafsson fará recital no Theatro Municipal do Rio de Janeiro no dia 19 de outubro, pela série O Globo/Dellarte de Concertos Internacionais. &lt;/p&gt;
 &lt;p&gt;Ólafsson substitui o pianista Daniil Trifonov, que viria ao Brasil em outubro e também cancelou suas apresentações com a Filarmônica de Berlim, em São Paulo, pela temporada da Tucca – os concertos na Sala São Paulo também terá a participação do artista islandês.&lt;/p&gt;
-&lt;p&gt;O programa terá obras de Bach (&lt;em&gt;Prelúdio em mi maior, BWV 854 &lt;/em&gt;e &lt;em&gt;Partita nº 6 em mi menor, BWV 830&lt;/em&gt;), Beethoven (&lt;em&gt;Sonata em mi menor, Op. 90&lt;/em&gt; e &lt;em&gt;Sonata em mi maior, Op. 109&lt;/em&gt;) e Schubert (&lt;em&gt;Sonata em mi menor, D. 566&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;No recital no Rio de Janeiro, o programa terá obras de Bach (&lt;em&gt;Prelúdio em mi maior, BWV 854 &lt;/em&gt;e &lt;em&gt;Partita nº 6 em mi menor, BWV 830&lt;/em&gt;), Beethoven (&lt;em&gt;Sonata em mi menor, Op. 90&lt;/em&gt; e &lt;em&gt;Sonata em mi maior, Op. 109&lt;/em&gt;) e Schubert (&lt;em&gt;Sonata em mi menor, D. 566&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;Grande nome do piano internacional, Víkingur Ólafsson esteve em São Paulo em 2024, quando se apresentou com a Osesp e fez recital solo na Sala São Paulo. Nos últimos anos, ele tem se dedicado em especial à obra de Bach, sobre a qual falou à Revista CONCERTO em sua última visita ao país.&lt;/p&gt;
 &lt;p&gt;“Depois de terminar minha educação musical na Juilliard, aos 24 anos, achei que tocar Bach realmente podia me ajudar a melhorar e crescer como músico – afinal, não há pensamento oculto ou fora de foco, ou passagem borrada; Bach revela sua base fundamental como músico. Então sua música me ajudou a me tornar meu próprio professor de música, aquela que é a principal transição na vida de qualquer músico”, disse. &lt;/p&gt;
 &lt;p&gt;“O modo como as estruturas musicais de Bach se traduzem facilmente em poesia, e como a poesia está sempre se modificando, é o que faz de Bach o compositor mais importante da minha vida – e, no meu ponto de vista, o compositor mais importante que já houve”, completou.&lt;/p&gt;
@@ -148,10 +364,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=jQO-F2AAtCbZKVRUsA2s2fdRPmfDnoRWFoIc40xJbyw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=iIZvlByQijBqgufhaCu48Y_Qz9OzC6DdZGvO7GNQ2zs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -170,7 +386,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A versão para balé de uma história imortalizada por Shakespeare ganhou a música de Prokofiev em 1940 – ou melhor, estreou em 1940, na República Tcheca, depois de seis anos de idas e vindas entre o compositor e as companhias Kirov de Leningrado e Bolshoi de Moscou: a primeira não aceitou o tema proposto e a segunda recusou o resultado, considerando a partitura difícil demais para ser coreografada. Prokofiev, então dedicou-se a criar as duas primeiras suítes orquestrais com os temas do balé (a terceira foi composta em 1946). Mas, em 1938, a ideia do balé voltou à baila. Hoje, é considerada uma das joias do balé clássico.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Romeu e Julieta&lt;/em&gt; volta ao palco do Theatro Municipal do Rio de Janeiro em temporada de 7 a 11 de outubro, com a mesma montagem que foi apresentada em 2024: Orquestra Sinfônica e Ballet da casa, direção, concepção e coreografia de Luiz Fernando Bongiovanni, regência de Tobias Volkmann e direção geral de Hélio Bejani. No elenco, os primeiros bailarinos Márcia Jaqueline, Cícero Gomes, Juliana Valadão e os solistas Gabriela Cidade e Rodrigo Hermesmeyer.&lt;/p&gt;
 &lt;p&gt;“O balé &lt;em&gt;Romeu e Julieta &lt;/em&gt;composto por Prokofiev tem algumas das mais belas páginas de música escrita para orquestra sinfônica em todos os tempos”, diz o regente. “É uma música que envolve o público com sua paixão, teatralidade, força expressiva, belas harmonias e cores orquestrais. Emociona a todos com uma capacidade imensa de transmitir a força deste amor proibido através das mais belas melodias.”&lt;/p&gt;
-&lt;p&gt;O Municipal carioca já recebeu muitas versões de &lt;em&gt;Romeu e Julieta&lt;/em&gt;– uma delas foi a de John Cranko, criada em 1958 para o Ballet do Teatro Alla Scala de Milão. Em 1962, revisada, foi apresentada em 1962 pelo Stuttgart Ballet, com a brasileira Márcia Haydée e Richard Cragun nos papéis-título. Essa versão chegou ao Rio de Janeiro em 1981, com um elenco mais do que estelar: Ana Botafogo, Áurea Hammerli, Márcia Haydée e Natalia Makarova revezando-se como Julieta e Fernando Bujones, Fernando Mendes, Richard Cragun e Stephen Jefferies no papel de Romeu. Márcia dirigiu em 2011 uma nova montagem no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;O Municipal carioca já recebeu muitas versões de &lt;em&gt;Romeu e Julieta &lt;/em&gt;– uma delas foi a de John Cranko, criada em 1958 para o Ballet do Teatro Alla Scala de Milão. Em 1962, revisada, foi apresentada pelo Stuttgart Ballet, com a brasileira Márcia Haydée e Richard Cragun nos papéis-título. Essa versão chegou ao Rio de Janeiro em 1981, com um elenco mais do que estelar: Ana Botafogo, Áurea Hammerli, Márcia Haydée e Natalia Makarova revezando-se como Julieta e Fernando Bujones, Fernando Mendes, Richard Cragun e Stephen Jefferies no papel de Romeu. Márcia dirigiu em 2011 uma nova montagem no Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-10-07" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
@@ -229,10 +445,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=oaVAE5bMoR6cFj8mCm6dIrbPmZg8Nf2J60TH-_Jj-50?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=G0oZRj2YXUoUyfb9tNilCAWv8cab-8wJAK2L8lrTuo4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -311,10 +527,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=yHM5agKVE3wLtoQNp4iJMrN3VbxWDwJSYq4YIpo4mjI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=y_nDR98ZBxiRbs3HKACeqkAknNytTdXgMbQCDQ4TDrg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -420,177 +636,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=9PDemimKqfmucYv4Q2LXkPPSo9Rk9IeEIjW0VZ9RiS8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sun, 04 Oct 2026 23:03:25 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283506 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky </title>
-  <link>http://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Primeira edição contempla metais com prêmios em dinheiro e oportunidade de atuação como solista; inscrições vão até 28 de outubro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Orquestra Petrobras Sinfônica (Opes) abriu as inscrições para o Concurso de Solistas Maestro Isaac Karabtchevsky, iniciativa voltada ao incentivo de novos talentos. Em sua primeira edição, o certame recebe candidatos brasileiros de até 40 anos nas categorias trompa, trompete, trombone e tuba. As inscrições seguem até 28 de outubro de 2026.&lt;/p&gt;
-&lt;p&gt;O processo seletivo está dividido em três fases eliminatórias. Na primeira, os participantes deverão enviar um vídeo executando o primeiro movimento do concerto correspondente ao instrumento escolhido. Os aprovados avançam para uma fase presencial, com pianista acompanhador. A etapa final consiste em uma apresentação com a Orquestra Petrobras Sinfônica, quando serão avaliados critérios como musicalidade, técnica instrumental, estilo e performance ao lado da orquestra.&lt;/p&gt;
-&lt;p&gt;A banca examinadora será composta por integrantes da própria Petrobras Sinfônica: o regente titular maestro Isaac Karabtchevsky, o regente associado maestro Felipe Prazeres, o spalla Ricardo Amado, o presidente do Conselho Diretor Carlos Mendes, a representante da Diretoria Artística Camila Bastos e o líder de naipe de cada instrumento avaliado.&lt;/p&gt;
-&lt;p&gt;Os vencedores receberão premiações em dinheiro e oportunidades de atuação como solistas. O primeiro colocado ganhará R$ 8 mil e se apresentará com a orquestra em 2027, em data a ser definida. O segundo colocado também será solista em concerto no mesmo ano e receberá R$ 5 mil. O terceiro lugar será premiado com R$ 3 mil.&lt;/p&gt;
-&lt;p&gt;Fundada por Armando Prazeres e gerida pelos próprios músicos, a Orquestra Petrobras Sinfônica, que em 2026 completa 51 anos, tem o maestro Isaac Karabtchevsky como diretor artístico e regente titular. Além do concurso, a Opes mantém a Academia Juvenil, programa dedicado à formação musical e prática orquestral de jovens instrumentistas.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;&lt;a href="https://petrobrasinfonica.com.br/wp-content/uploads/2022/09/Edital_01-2026_Concurso-de-Solistas-metais.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;a href="https://petrobrasinfonica.com.br/wp-content/uploads/2022/09/Edital_01-2026_Concurso-de-Solistas-metais.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/a&gt;para acessar o edital.&lt;br /&gt;
-&lt;u&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtD-saocA66S3T1nAHusR757yDQJLfQb3yW7IGSC14_cDyA/viewform" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o formulário de inscrições.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(divulgação, Daniel Ebendinger)" data-entity-type="file" data-entity-uuid="80668b37-8bd2-43a1-be7b-d473aa5b4785" src="http://concerto.com.br/sites/default/files/inline-images/w-Opes-Karabtchevsky_Daniel-Ebendinger_1.jpg" /&gt;
-&lt;figcaption&gt;Maestro Isaac Karabtchevsky rege a Opes (divulgação, Daniel Ebendinger)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 04/10/2026 - 17:51&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Opes-Karabtchevsky_Daniel-Ebendinger_1.jpg" width="900" height="600" alt="Maestro Isaac Karabtchevsky rege a Opes (divulgação, Daniel Ebendinger)" title="Maestro Isaac Karabtchevsky rege a Opes (divulgação, Daniel Ebendinger)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1750" hreflang="pt-br"&gt;Orquestra Petrobras Sinfônica&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=sjJ5XC6QX16Ookauj2pi-YlzutZwYgOGoBCDh_kiIXw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sun, 04 Oct 2026 17:51:41 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283513 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2º Concurso Nacional de Piano do Instituto Pedro Gordilho anuncia vencedores </title>
-  <link>http://concerto.com.br/noticias/reportagem/2o-concurso-nacional-de-piano-do-instituto-pedro-gordilho-anuncia-vencedores</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2º Concurso Nacional de Piano do Instituto Pedro Gordilho anuncia vencedores &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Nove pianistas concorreram na final, realizada em Brasília nos dias 25 e 26 de setembro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;O 2º Concurso Nacional de Piano do Instituto Pedro Gordilho (IPG) divulgou os vencedores da edição 2026, após dois dias de apresentações presenciais em Brasília. A final, realizada em 25 e 26 de setembro, reuniu nove jovens pianistas selecionados entre 38 candidatos provenientes de 12 estados, além do Distrito Federal e dois participantes residentes no exterior.&lt;/p&gt;
-&lt;p&gt;O primeiro lugar foi concedido ao paulista Luís Henrique Leite Andrade Araújo, que faz graduação na ECA-USP sob orientação de Luciana Sayure. Luís também venceu o Prêmio Instituto Piano Brasileiro, destinado à melhor interpretação de obra brasileira para piano. O segundo lugar ficou com Arthur Dante Novaes Teixeira, da Bahia, que recebeu ainda menção honrosa pela melhor interpretação da peça de confronto. O Prêmio Revelação foi atribuído ao paulista Matheus Enzo de Faria Oshiro, enquanto a menção honrosa geral foi concedida à capixaba Sara de Vasconcelos Canal.&lt;/p&gt;
-&lt;p&gt;As apresentações finais incluíram recitais de 30 a 40 minutos, com obras de livre escolha e a peça de confronto da edição, “Tema para Karla”, do compositor Mario Olinto, que integrou a comissão julgadora ao lado de Alda de Mattos, Alexandre Dias, Ana Paula Gordilho Pessoa e Bruno Belthoise.&lt;/p&gt;
-&lt;p&gt;O concurso oferece premiação em dinheiro (R$ 15 mil para o primeiro lugar, R$ 7 mil para o segundo e R$ 5 mil para o pianista revelação) além de oportunidades de apresentação. O vencedor atuará como solista da Orquestra Sinfônica do Teatro Nacional Claudio Santoro, e os premiados participarão de recitais promovidos pelo IPG.&lt;/p&gt;
-&lt;p&gt;A edição contou com apoio da Casa Thomas Jefferson e do Instituto Piano Brasileiro, além da participação do público presencial e online, que acompanhou as transmissões pelo YouTube e redes sociais. &lt;/p&gt;
-&lt;p&gt;O vencedor do 1º Concurso Nacional de Piano do Instituto Pedro Gordilho, realizado no ano passado, foi o pianista paulista Jordan Alexander, que atualmente realiza seu mestrado na Universidade de Zurique, com Konstantin Scherbakov. Naquela oportunidade, o pianista Matheus Oshiro ficou com a segunda colocação e Arthur Dante recebeu o prêmio revelação.&lt;/p&gt;
-&lt;p&gt;[&lt;u&gt;&lt;a href="https://www.youtube.com/@institutopedrogordilho8271" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para assistir às provas finais do 2º Concurso Nacional de Piano do Instituto Pedro Gordilho, que foram transmitidas ao vivo pelo YouTube.]&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" data-entity-type="file" data-entity-uuid="4326f47e-e287-4f6d-83c1-538f855f4d4d" src="http://concerto.com.br/sites/default/files/inline-images/w-PedroGordilho_LuisHenriqueAraujo_YouTube.jpg" /&gt;
-&lt;figcaption&gt;O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 04/10/2026 - 11:05&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-PedroGordilho_LuisHenriqueAraujo_YouTube.jpg" width="869" height="566" alt="O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" title="O pianista Luís Henrique Leite Andrade Araújo em apresentação na final (reprodução YouTube)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3301" hreflang="pt-br"&gt;Concurso Nacional de Piano Pedro Gordilho&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=_N5t6qXk3vmGE3ckWCoab0vAwY_alS76GghLIN6kKz0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=1KbjDsEh-CwcDS4NZDHxDotjjJ6klBQJId8xe9I3Vx8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
@@ -600,240 +646,9 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 &lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 04 Oct 2026 11:05:06 +0000</pubDate>
+  <pubDate>Sun, 04 Oct 2026 23:03:25 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283512 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_Dellarte_ate19out_CARD</title>
-  <link>http://concerto.com.br/node/283511</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_Dellarte_ate19out_CARD&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/2026_Dellarte_ate19out_CARD.jpg" width="380" height="490" alt="2026_Dellarte_ate19out_CARD" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 03/10/2026 - 20:06&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://sis.ingresso.dellarte.com.br/loja/setores/94/vikingur-olafsson-piano&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;03&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;331&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;5&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sat, 03 Oct 2026 20:06:13 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283511 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Morre aos 72 anos o maestro Roberto Tibiriçá</title>
-  <link>http://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Morreu nesta madrugada o maestro Roberto Tibiriçá. Uma das grandes personalidades do meio musical brasileiro, que esteve à frente das principais orquestras do país, ele estava com 72 anos e tratava um câncer.&lt;/p&gt;
-&lt;p&gt;O velório do maestro será realizado no Theatro Municipal de São Paulo neste sábado, das 18h às 22h, e amanhã, domingo, das 8h às 12h. O enterro acontece amanhã no Cemitério São Paulo, às 13h.&lt;/p&gt;
-&lt;p&gt;Nascido em São Paulo, Tibiriçá começou sua relação com a música pelo piano, aos 8 anos de idade. Estudou com Dinorah de Carvalho, Antonio Bezzan e Gilberto Tinetti e se aproximou da pianista Guiomar Novaes, a quem acompanhou em seus últimos anos de vida. “Lembro, ainda pequeno, de ir ao Theatro Municipal para ouvir a Guiomar. Cheguei sem gravata, me barraram na entrada, mas demos um jeito... nos sentamos na terceira fila. Quando ela começou a tocar, eu quase dei um salto da cadeira, olhos arregalados, coração aos pulos. Decidi ali: queria estudar com ela. Passei dias ligando para a casa de Guiomar, até que ela me atendeu, explicou que não dava aulas e me indicou para Dinorá de Carvalho, que havia ido com ela para o Conservatório de Paris estudar com Isidore Phillippe. Mas quando vinha das turnês, eu tocava e ela me orientava”, lembrou ele em entrevista à Revista CONCERTO.&lt;/p&gt;
-&lt;p&gt;Com o tempo, porém, o interesse pela regência acabou se impondo. Ele contava que “queria mais som” e, então, passou a estudar de forma autodidata. Até que se deu o encontro com Eleazar de Carvalho, no início dos anos 1980. No Festival de Inverno de Campos do Jordão, atuou como pianista em ensaios com a Orquestra Sinfônica do Estado de São Paulo e passou a ter aulas com o maestro, com quem trabalharia por dezoito anos. “Fiquei como assistente dele na Osesp e ele me orientou nessa formação. O Eleazar me deu uma carta de recomendação e fui estudar com Lukas Foss em Nova York. Lá também eu conheci Zubin Mehta, que era diretor da Filarmônica de Nova York. Ele me influenciou muito ao dizer três coisas que um maestro sempre precisa ter em mente: seja humilde, tenha muita paciência e pergunte sempre.”&lt;/p&gt;
-&lt;p&gt;Paralelamente, desde 1974, atuava também como diretor artístico em gravadoras. Na RGE/Fermata, foi o responsável pelo início dos registros comerciais de música clássica em gravadoras brasileiras: entre os projetos que encabeçou, estiveram os últimos discos de Guiomar Novaes, dedicado à música brasileira, e de Magda Tagliaferro – este último pela gravadora Copacabana, da qual também foi diretor artístico. Anos mais tarde, ele também comandaria uma gravação de Pedro e o lobo, de Prokofiev, que tinha a cantora Rita Lee como narradora e ele na regência.&lt;/p&gt;
-&lt;p&gt;Nos anos 1980, além do posto de assistente de Eleazar de Carvalho na Osesp, Tibiriçá passou um ano como regente assistente no Teatro São Carlos de Lisboa, onde seu repertório girou em torno da ópera – o maestro dizia que, apesar do contato que teve ao longo de toda a sua trajetória com o gênero, sempre se viu como um regente sinfônico, o que não o impediu de fazer trabalhos importantes na área, como as estreias no Brasil de &lt;em&gt;The Rape of Lucretia&lt;/em&gt; e &lt;em&gt;Sonho de uma noite de verão&lt;/em&gt;, de Britten.&lt;/p&gt;
-&lt;p&gt;As duas obras foram apresentadas já em seu período na Orquestra Sinfônica Brasileira, à qual chegou, em 1994, primeiro como diretor adjunto e, um ano depois, como diretor artístico e regente titular. “Fui chamado pelos músicos para estar à frente da orquestra e encontrei um grupo muito desfalcado, ganhando o equivalente a 200 dólares por mês. Eu me dediquei inteiramente à orquestra, conseguimos realizar muita coisa. Com eles, vivi uma emoção enorme ao reger a Sinfonia nº 2 de Mahler, na Enseada de Botafogo, pelo projeto Aquarius, para mais de cem mil pessoas.”&lt;/p&gt;
-&lt;p&gt;Quando lembrava sua trajetória, Tibiriçá brincava com o que chamava de “sina”: se ver, frequentemente, com a missão de recomeçar ao lado de orquestras em busca de reestruturação. Foi assim quando, em 2000, ele iniciou seu período com a Orquesta Petrobrás Pró-Música, mais tarde rebatizada de Petrobras Sinfônica, que àquela altura sofria com incertezas no que diz respeito ao financiamento. Durante seu período com o grupo, a Opes consolidou-se na cena musical do Rio de Janeiro, com uma programação que tinha como destaque a presença de solistas nacionais e internacionais. “As pessoas me criticavam, diziam que eu só regia solistas, mas o plano era esse, atrair grandes músicos que pudessem se unir à orquestra e dar a ela visibilidade ainda maior”, explicou. O talento para atuar ao lado de solistas, por sinal, era uma de suas grandes marcas, o que ele atribuía ao seu início como pianista. Com a Opes, ele gravou, em 2002, um disco com o &lt;em&gt;Concerto para piano em formas brasileiras&lt;/em&gt;, de Hekel Tavares, tendo como solista o pianista Arnaldo Cohen, e os &lt;em&gt;Choros nº 6&lt;/em&gt;, de Villa-Lobos.&lt;/p&gt;
-&lt;p&gt;Tibiriçá também fez com a orquestra ciclos como o da obra para piano de Rachmaninov, com solos de Barry Douglas, em 2002. “Amparada pela regência apaixonada de Roberto Tibiriçá, que frisou tudo que a obra tem de vitalidade, Douglas coroou sua interpretação do &lt;em&gt;Concerto nº 3&lt;/em&gt; com uma coda de jogar o teatro no chão”, escreveu no jornal &lt;em&gt;O Estado de S.Paulo&lt;/em&gt; o crítico Lauro Machado Coelho. “Tibiriçá vem fazenda da OPPM, uma das orquestras mais significativas do país. Trata-se de um maestro muito seguro, que obtém visível empatia com os solistas aos quais acompanha”, completou o crítico.&lt;/p&gt;
-&lt;p&gt;Ao final de 2003, Tibiriçá deixou a Petrobras Pró-Música e retornou para São Paulo, onde, em 2005, assumiu o posto de diretor artístico do Instituto Baccarelli. Em conversa com a CONCERTO, ele lembrou do primeiro contato com o projeto. “Quando era estudante, costumava tocar órgão, ensaiar e arranjar músicas para o maestro Sílvio Baccarelli. Anos depois, quando ainda estava no Rio, ouvia falar do Instituto e de seu trabalho junto à comunidade carente de Heliópolis, e quando voltei para São Paulo, fui convidado para assumir sua direção artística. Confesso que, no princípio, estava ressabiado e cheio de preconceitos. Quando, por fim, fui conhecer o Instituto, na hora que entrei ouvi o som de uma viola que tocava uma suíte de Bach. Era um de nossos alunos, um rapaz muito humilde, que tocava como um anjo. Saí da sala e comecei a chorar, sabendo que aquele seria o projeto da minha vida.”&lt;/p&gt;
-&lt;p&gt;Com a Orquestra Sinfônica Heliópolis, Tibiriçá esteve envolvido em projetos como a turnê europeia do grupo, em 2010, quando os músicos se apresentaram em cidades alemãs tendo o violinista Shlomo Mintz como solista. “Discípulo de Eleazar de Carvalho, Roberto Tibiriçá tem um gestual econômico, voltado apenas para a estrutura musical. As frases, conduzidas com gentileza e elegância, estão sempre sob controle”, escreveu Sidney Molina na &lt;em&gt;Folha de S.Paulo&lt;/em&gt; ao comentar o concerto na Sala São Paulo no qual a sinfônica se despediu do público brasileiro antes de viajar. Um ano depois, em 2011, o maestro deixaria o projeto, sendo substituído por Isaac Karabtchevsky.&lt;/p&gt;
-&lt;p&gt;Entre 2010 e 2013, atuou como maestro titular da Orquestra Sinfônica de Minas Gerais, no Palácio das Artes, de Belo Horizonte, com a qual realizou produções de óperas como &lt;em&gt;Tosca&lt;/em&gt; e &lt;em&gt;La bohème&lt;/em&gt;, de Puccini. Sua ligação com a vida musical mineira foi bastante próxima, e em 2024, ele recebeu o título de Doutor Honoris Causa pela Universidade Federal de Minas Gerais. Na época, celebrou o reconhecimento e se disse contente de, com a titulação, poder pensar na possibilidade de dar aulas em universidade. A formação de novos regentes foi sempre uma preocupação, que ele atribuía a exemplos como o de Eleazar de Carvalho. Em 2008, por sinal, ele lançou pela editora Algol, o livro &lt;em&gt;O regente sem orquestra&lt;/em&gt;, que mais tarde ganharia nova edição, em 2021.&lt;/p&gt;
-&lt;p&gt;“O regente é um instrumentista que não consegue tocar seu instrumento, a orquestra ou coro, na frequência que desejaria. E, quando este lhe é dado, ele não pode se dar ao luxo de errar: deve preparar-se para as diversas reações do grupo e reagir com um novo comando, um novo gesto. Tudo isso em uma fração de segundo. É imprescindível, portanto, que ele tenha todo esse repertório gestual automatizado antes da interação com a orquestra ou o coro”, anotou na apresentação da obra.&lt;/p&gt;
-&lt;p&gt;No início dos anos 2020, Tibiriçá se reaproximou da Osesp, voltando a reger o grupo como convidado em projetos como a estreia mundial da ópera &lt;em&gt;Cartas portuguesas&lt;/em&gt;, de João Guilherme Ripper. Com o grupo, ele gravou também um disco com obras de Camargo Guarnieri: os choros para clarinete, viola e violoncelo e orquestra, com Ovanir Buosi, Horácio Schaefer e Matias de Oliveira Pinto, além de &lt;em&gt;Flor de Tremembé&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Em 2022, Tibiriçá começou a escrever aquele que seria seu último capítulo à frente de uma orquestra, assumindo o comando da Orquestra Sinfônica do Paraná. Criou uma série de concertos no Museu Oscar Niemeyer, em Curitiba, além da programação regular de apresentações no Teatro Guaíra. Ao celebrar 40 anos, em 2025, a orquestra iniciou um novo ciclo, com um investimento de cerca de R$ 6 milhões para aquisição de instrumentos: um piano Steinway, uma harpa de pedais, um órgão eletrônico, uma celesta, um cravo, dois contrabaixos de cinco cordas e dois trompetes de rotor.&lt;/p&gt;
-&lt;p&gt;“Estou dedicado à Sinfônica do Paraná. Estamos empenhados na construção da concha acústica para os concertos no Teatro Guaíra, reestruturando a orquestra, trazendo grandes nomes com a ajuda do Instituto de Apoio à Orquestra Sinfônica do Paraná (IAOSP), fazendo concertos para jovens com ingressos a 10 e 20 reais. Vejo que o público não é mais exclusivamente grisalho. Eu prometi ao Eleazar, lá atrás, que eu levaria adiante os concursos que ele criou; faço parte dessa linhagem da regência e quero deixar um legado artístico e na área pedagógica também. E continuar a fazer música sempre preservando a qualidade artística – por pelo menos mais dez anos”, disse ele em entrevista à CONCERTO em 2024.&lt;/p&gt;
-&lt;p&gt;A morte pôs fim a seus planos. Mas não a seu legado.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Orquestras, amigos e colegas lamentam a perda do maestro&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;"Uma perda inestimável para a música brasileira e para todos aqueles que tiveram a oportunidade de conviver com ele. Tibiriçá foi um maestro completo. Sempre fui grato a ele por ter programado minha primeira obra sinfônica com a Orquestra Sinfônica Brasileira quando eu apenas iniciava a carreira de compositor. Ficamos amigos e, mais tarde, nos tornamos confrades na Academia Brasileira de Música. Colaboramos artisticamente muitas vezes no decorrer dos anos. Por triste coincidência, eu havia convidado Tibiriçá para reger justamente o concerto de abertura do Festival Brahms-Schumann que a OSB inicia este final de semana na Sala, convite que ele teve que declinar por causa do agravamento dos problemas de saúde. Dedico a ele este concerto."&lt;br /&gt;
-&lt;strong&gt;João Guilherme Ripper&lt;/strong&gt;, compositor&lt;/p&gt;
-&lt;p&gt;“Sinto muito pela partida precoce do Tibiriçá. Estudei com ele no início dos anos 1980, no Conservatório do Brooklin. Foi um músico de imenso talento, ótimo pianista também, de grande sensibilidade. E foi um amigo, me chamava de Nelsinho e me incentivou muito quando fui estudar na Alemanha. Depois, realizou essa carreira incrível, apesar de todos os obstáculos e dificuldades que enfrentou. Era um apaixonado, sempre super dedicado ao trabalho, deixou sua marca e muita boa música por todas as orquestras pelas quais passou. Era um querido, ficamos um pouco mais sozinhos por aqui. Descanse em paz, Tibiriçá.”&lt;br /&gt;
-&lt;strong&gt;Nelson Rubens Kunze&lt;/strong&gt;, diretor-editor da Revista CONCERTO&lt;/p&gt;
-&lt;p&gt;"Um dos melhores maestros brasileiros! Amigo e professor, ele me acompanhou ao piano quando eu tinha 12 anos de idade e me deu aula de regência e me preparou para o Concurso Jovem Maestro da Osesp em 1994. Eleazar de Carvalho o respeitava muito e dizia que ele tirava um som lindo da orquestra, um “som escuro”.  Muitas qualidades e muito querido. Saudades! Serei eternamente grato. Fique com Deus!"&lt;br /&gt;
-&lt;strong&gt;Roberto Minczuk&lt;/strong&gt;, maestro&lt;/p&gt;
-&lt;p&gt;"Querido Roberto, hoje você descansou. Inesquecíveis os nossos concertos com a Sinfônica do Paraná: primeiro, um Ravel muito especial; e, por último, no início deste ano, o divertido Festival Gershwin, com a Rhapsody in blue e o Concerto em fá. Estar no palco com você era dividir ideias, transcender a música e emocionar. Fora do palco, era dividir histórias, rir muito e aprender tanto com o seu caminho de vida. A você, querido Maestro, o nosso último Bravo! Você deixa saudades. Descanse em paz."&lt;br /&gt;
-&lt;strong&gt;Fabio Martino&lt;/strong&gt;, pianista&lt;/p&gt;
-&lt;p&gt;"Recebi com muita tristeza a notícia da partida do Tibiriçá. Além da enorme importância para a música no Brasil, foi um colega tão querido, com quem tive a oportunidade de compartilhar momentos inesquecíveis da minha carreira. O Roberto tinha a mesma visão a respeito da importância social da música e a necessidade de formação de público. Seu legado é gigantesco nesse sentido também."&lt;br /&gt;
-&lt;strong&gt;Eric Herrero&lt;/strong&gt;, diretor do Theatro Municipal do Rio de Janeiro&lt;/p&gt;
-&lt;p&gt;"A Fundação Orquestra Sinfônica Brasileira lamenta profundamente o falecimento do maestro Roberto Tibiriçá, figura de grande importância para a música de concerto no Brasil e para a história da OSB. Tibiriçá construiu uma trajetória marcada pela dedicação à música sinfônica e pela atuação à frente de importantes orquestras brasileiras e estrangeiras. Em 1994, assumiu a Direção Artística e a regência titular da Orquestra Sinfônica Brasileira, cargo que ocupou em um período importante da história da instituição. A OSB se solidariza com seus familiares, amigos, alunos e admiradores, e agradece por sua contribuição à música e à cultura brasileira."&lt;br /&gt;
-&lt;strong&gt;Fundação Orquestra Sinfônica Brasileira&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Sua história com a Osesp começou no Festival de Campos do Jordão, ao lado de Eleazar de Carvalho, de quem foi discípulo e assistente. Duas vezes vencedor do nosso Concurso para Jovens Regentes, foi maestro convidado frequente da Orquestra, especialmente nos anos de Eleazar. Nos últimos anos, voltou a estar conosco em momentos marcantes. Regeu a Osesp em diversos espetáculos com a São Paulo Companhia de Dança. Em plena pandemia, conduziu a estreia mundial da ópera Cartas portuguesas, de João Guilherme Ripper, num período em que sua presença e generosidade foram fundamentais. Com a orquestra, gravou ainda obras de Camargo Guarnieri para o selo Naxos. Herdeiro da linhagem de Eleazar, Tibiriçá dedicou a vida à música brasileira e à formação de novos regentes. Nossos sentimentos à família, aos amigos e a todos que tiveram o privilégio de fazer música com ele."&lt;br /&gt;
-&lt;strong&gt;Fundação Osesp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Hoje nos despedimos com o coração apertado de Roberto Tibiriçá, uma das grandes personalidades da música brasileira. Maestro e diretor artístico da Orquestra Sinfônica Heliópolis entre 2005 e 2011, esteve à frente do grupo em projetos como a turnê europeia em 2010 que passou pela Inglaterra, Alemanha e Holanda. Agradecemos por toda parceria e colaboração que o maestro teve conosco e com nosso trabalho social, além do legado inestimável que deixa para a música clássica."&lt;br /&gt;
-&lt;strong&gt;Instituto Baccarelli&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"O Theatro Municipal de São Paulo lamenta profundamente a morte do maestro Roberto Tibiriçá, um dos nomes fundamentais da música de concerto no Brasil. Ao longo de sua carreira, esteve à frente da Orquestra Sinfônica Municipal em diversas ocasiões. O legado de Roberto Tibiriçá permanece na música brasileira, nas orquestras que regeu e, sobretudo, nas gerações de músicos que tiveram suas trajetórias marcadas por seu trabalho e dedicação à formação musical."&lt;br /&gt;
-&lt;strong&gt;Theatro Municipal de São Paulo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Ao longo de sua trajetória, Roberto Tibiriçá esteve à frente de algumas das principais orquestras brasileiras e internacionais e trabalhou com grandes solistas. Dedicou especial atenção à música brasileira, realizando primeiras audições, gravações e projetos de valorização de compositores nacionais, além de desenvolver importante atuação na formação de jovens músicos e regentes, na formação de novos intérpretes e na criação de novas plateias."&lt;br /&gt;
-&lt;strong&gt;Academia Brasileira de Música&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Ao longo dos anos, Tibiriçá esteve conosco em diversas ocasiões, tornando-se um convidado frequente e, mais que isso, um grande amigo. Sua música, sua generosidade e os tantos momentos compartilhados com nossos músicos e nossa equipe fazem parte da nossa história. Nos solidarizamos com seus familiares, amigos e todos que tiveram o privilégio de conviver e fazer música ao seu lado. A música brasileira perde um grande maestro. Nós perdemos um amigo."&lt;br /&gt;
-&lt;strong&gt;Filarmônica de Minas Gerais&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Hoje nos despedimos, com profunda tristeza, de Roberto Tibiriçá, nosso maestro titular, amigo e parte fundamental da história da Orquestra Sinfônica do Paraná e do IAOSP. Após quase duas décadas de relação com a OSP e quatro temporadas à frente da Orquestra como maestro titular, Roberto deixa uma marca profunda em nossa história. Foi maestro no sentido mais pleno da palavra: conduziu nossa Orquestra musical e tecnicamente, mas, sobretudo, humanamente. Em cada ensaio, concerto e encontro, havia nele um profundo respeito pela música e pelas pessoas que a faziam acontecer. Sua partida representa uma perda imensa para todos nós. Fica a gratidão pelo privilégio da convivência, pelos momentos compartilhados e por tudo o que pudemos aprender ao seu lado. À sua família, aos seus amigos, aos músicos e a todos que compartilharam sua caminhada, manifestamos nossos mais sinceros sentimentos. O Instituto de Apoio à Orquestra Sinfônica do Paraná lamenta profundamente sua partida e será sempre grato por seus ensinamentos, por sua dedicação e por tudo o que Roberto deixou em nossa história. Obrigado por tudo, Maestro. Descanse em paz."&lt;br /&gt;
-&lt;strong&gt;Instituto de Apoio à Orquestra Sinfônica do Paraná&lt;/strong&gt;&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" data-entity-type="file" data-entity-uuid="915c2852-28eb-4350-9920-dc5edf315d18" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0.jpg" /&gt;
-&lt;figcaption&gt;O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 03/10/2026 - 11:00&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Foto-credKlinsman-Santana_0.jpg" width="900" height="600" alt="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" title="O maestro Roberto Tibiriçá [Divulgação/Klinsman Santana]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-    
-&lt;article data-comment-user-id="18957" id="comment-926" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1791054921"&gt;&lt;/mark&gt;
-
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18957" class="profile"&gt;
-  &lt;/article&gt;
-
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18957" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Emerson Souza&lt;/span&gt; em sab, 03/10/2026 - 19:15&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/926#comment-926" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/926#comment-926" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Me considero um PRIVILEGIADO…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Me considero um PRIVILEGIADO  por ter sido comandado pelo Maestro Tibiriçá como bolsista da orquestra do festival de inverno de Campos do Jordão, na minha pequinês musical tive a oportunidade de ouvir suas instruções,  que para alguns parecia "rispidez" pra mim foi um dos maiores ensinamentos de disciplina e reverência, não só a liderança, mas a arte, aprendi a tratar a música com o respeito que ela merece.&lt;br /&gt;
-Anos depois pude conhecer outro Tibiriçá fora do pódio, um homem de coração apaixonado pelas pessoas, a família e as tradições simples da vida.&lt;br /&gt;
-  Obrigado música por ter me apresentando o Maestro Roberto Tibiriçá!&lt;/p&gt;
-&lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=926&amp;2=denunciar" token="7-i_Dc1mO2tGLES21lfG2fnexNzQSbTeayDMsR0_010"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-  
-&lt;article data-comment-user-id="18962" id="comment-927" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1791110021"&gt;&lt;/mark&gt;
-
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/18962" class="profile"&gt;
-  &lt;/article&gt;
-
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/18962" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Cristina Ortiz&lt;/span&gt; em dom, 04/10/2026 - 10:33&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/927#comment-927" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/927#comment-927" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Obrigada, grande Roberto,…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Obrigada, grande Roberto, por sua presença nos palcos do mundo e por nossas colaborações seja no Rio, São Paulo, Belo Horizonte ou Caracas; sempre com seu sério preparo a serviço da Música e uma total ausência do Ego ... Grata por sua especial gentileza e humildade, mais a óbvia magia de sua batuta!&lt;br /&gt;
-O Brasil perde seu maior regente dos últimos anos!&lt;br /&gt;
-RIP&lt;/p&gt;
-&lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=927&amp;2=denunciar" token="LmwzbigCYZ5fq2VhSXkm_Ux8sNcsRTsFV0x54dqkWu8"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-  
-&lt;article data-comment-user-id="17055" id="comment-928" class="comment js-comment"&gt;
-    &lt;mark class="hidden" data-comment-timestamp="1791115668"&gt;&lt;/mark&gt;
-
-  &lt;footer class="comment__meta"&gt;
-    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/17055" class="profile"&gt;
-  &lt;/article&gt;
-
-    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/17055" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;MARCOS CHRISPIM&lt;/span&gt; em dom, 04/10/2026 - 12:07&lt;/p&gt;
-
-        
-    &lt;a href="http://concerto.com.br/comment/928#comment-928" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
-  &lt;/footer&gt;
-
-  &lt;div class="content"&gt;
-          
-      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/928#comment-928" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Nossas condolências aos…&lt;/a&gt;&lt;/h3&gt;
-      
-        
-            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Nossas condolências aos familiares e amigos, alunos e que conviveram com esse grande mestre Roberto Tibirica+&lt;/p&gt;
-&lt;/div&gt;
-      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=928&amp;2=denunciar" token="SRIEcyacTF95EyuMnHhikrb9FDRBy1IAyKyz2EWgreQ"&gt;&lt;/drupal-render-placeholder&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=J9m0CjiANQ5e6a6o46K77PHGbxm3B3Lo5JLBV2ocS6w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;80&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sat, 03 Oct 2026 11:00:08 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283508 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283506 at http://concerto.com.br</guid>
     </item>
 
   </channel>
