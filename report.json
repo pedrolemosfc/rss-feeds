@@ -270,9 +270,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 56,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 56 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 54,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "cine-joia",
     "source_url": "https://www.cinejoia.com.br/agenda/",
     "output": "feeds/cine-joia.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -558,9 +558,9 @@
     "name": "tldb-livesets",
     "source_url": "https://tldb.co/",
     "output": "feeds/tldb-livesets.xml",
-    "items": 80,
-    "ok": true,
-    "notes": "scraped 80 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 19,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   }
 ]
