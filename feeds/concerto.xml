@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 05 Oct 2026 05:51:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:53:02 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NiIsImRpc2xpa2VzIjoiMCJ9?token=WZ0VWMxAnyElFeH7FcjjBdaRqISfItz4Q1kg0KD-MeA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=5eokg091cKdz4piR6J2yf-Mx-fL4YD9Cw1CkJeytCvg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;556&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;557&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,359 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro</title>
+  <link>http://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Vikingur Ólafsson fará recital no Theatro Municipal do Rio de Janeiro no dia 19 de outubro, pela série O Globo/Dellarte de Concertos Internacionais. &lt;/p&gt;
+&lt;p&gt;Ólafsson substitui o pianista Daniil Trifonov, que viria ao Brasil em outubro e também cancelou suas apresentações com a Filarmônica de Berlim, em São Paulo, pela temporada da Tucca – os concertos na Sala São Paulo também terá a participação do artista islandês.&lt;/p&gt;
+&lt;p&gt;O programa terá obras de Bach (&lt;em&gt;Prelúdio em mi maior, BWV 854 &lt;/em&gt;e &lt;em&gt;Partita nº 6 em mi menor, BWV 830&lt;/em&gt;), Beethoven (&lt;em&gt;Sonata em mi menor, Op. 90&lt;/em&gt; e &lt;em&gt;Sonata em mi maior, Op. 109&lt;/em&gt;) e Schubert (&lt;em&gt;Sonata em mi menor, D. 566&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Grande nome do piano internacional, Víkingur Ólafsson esteve em São Paulo em 2024, quando se apresentou com a Osesp e fez recital solo na Sala São Paulo. Nos últimos anos, ele tem se dedicado em especial à obra de Bach, sobre a qual falou à Revista CONCERTO em sua última visita ao país.&lt;/p&gt;
+&lt;p&gt;“Depois de terminar minha educação musical na Juilliard, aos 24 anos, achei que tocar Bach realmente podia me ajudar a melhorar e crescer como músico – afinal, não há pensamento oculto ou fora de foco, ou passagem borrada; Bach revela sua base fundamental como músico. Então sua música me ajudou a me tornar meu próprio professor de música, aquela que é a principal transição na vida de qualquer músico”, disse. &lt;/p&gt;
+&lt;p&gt;“O modo como as estruturas musicais de Bach se traduzem facilmente em poesia, e como a poesia está sempre se modificando, é o que faz de Bach o compositor mais importante da minha vida – e, no meu ponto de vista, o compositor mais importante que já houve”, completou.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista Vikingur Ólafsson [Divulgação]" data-entity-type="file" data-entity-uuid="e985e2a9-dbaa-43c5-b6a5-f25570f86732" src="http://concerto.com.br/sites/default/files/inline-images/w-Vikingur_Olafsson_0%20%281%29.jpg" /&gt;
+&lt;figcaption&gt;O pianista Vikingur Ólafsson [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 13:45&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Vikingur_Olafsson_0%20%281%29.jpg" width="900" height="600" alt="O pianista Vikingur Ólafsson [Divulgação]" title="O pianista Vikingur Ólafsson [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=jQO-F2AAtCbZKVRUsA2s2fdRPmfDnoRWFoIc40xJbyw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 13:45:51 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283516 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro</title>
+  <link>http://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A versão para balé de uma história imortalizada por Shakespeare ganhou a música de Prokofiev em 1940 – ou melhor, estreou em 1940, na República Tcheca, depois de seis anos de idas e vindas entre o compositor e as companhias Kirov de Leningrado e Bolshoi de Moscou: a primeira não aceitou o tema proposto e a segunda recusou o resultado, considerando a partitura difícil demais para ser coreografada. Prokofiev, então dedicou-se a criar as duas primeiras suítes orquestrais com os temas do balé (a terceira foi composta em 1946). Mas, em 1938, a ideia do balé voltou à baila. Hoje, é considerada uma das joias do balé clássico.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Romeu e Julieta&lt;/em&gt; volta ao palco do Theatro Municipal do Rio de Janeiro em temporada de 7 a 11 de outubro, com a mesma montagem que foi apresentada em 2024: Orquestra Sinfônica e Ballet da casa, direção, concepção e coreografia de Luiz Fernando Bongiovanni, regência de Tobias Volkmann e direção geral de Hélio Bejani. No elenco, os primeiros bailarinos Márcia Jaqueline, Cícero Gomes, Juliana Valadão e os solistas Gabriela Cidade e Rodrigo Hermesmeyer.&lt;/p&gt;
+&lt;p&gt;“O balé &lt;em&gt;Romeu e Julieta &lt;/em&gt;composto por Prokofiev tem algumas das mais belas páginas de música escrita para orquestra sinfônica em todos os tempos”, diz o regente. “É uma música que envolve o público com sua paixão, teatralidade, força expressiva, belas harmonias e cores orquestrais. Emociona a todos com uma capacidade imensa de transmitir a força deste amor proibido através das mais belas melodias.”&lt;/p&gt;
+&lt;p&gt;O Municipal carioca já recebeu muitas versões de &lt;em&gt;Romeu e Julieta&lt;/em&gt;– uma delas foi a de John Cranko, criada em 1958 para o Ballet do Teatro Alla Scala de Milão. Em 1962, revisada, foi apresentada em 1962 pelo Stuttgart Ballet, com a brasileira Márcia Haydée e Richard Cragun nos papéis-título. Essa versão chegou ao Rio de Janeiro em 1981, com um elenco mais do que estelar: Ana Botafogo, Áurea Hammerli, Márcia Haydée e Natalia Makarova revezando-se como Julieta e Fernando Bujones, Fernando Mendes, Richard Cragun e Stephen Jefferies no papel de Romeu. Márcia dirigiu em 2011 uma nova montagem no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-10-07" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Cena do balé 'Romeu e Julieta' [Divulgação]" data-entity-type="file" data-entity-uuid="031c0a6e-4631-44ac-820c-5ca44d579ada" src="http://concerto.com.br/sites/default/files/inline-images/w-romeu_julieta.jpeg" /&gt;
+&lt;figcaption&gt;Cena do balé 'Romeu e Julieta' [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 13:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-romeu_julieta.jpeg" width="900" height="600" alt="Cena do balé 'Romeu e Julieta' [Divulgação]" title="Cena do balé 'Romeu e Julieta' [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/danca" hreflang="pt-br"&gt;Dança&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=oaVAE5bMoR6cFj8mCm6dIrbPmZg8Nf2J60TH-_Jj-50?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 13:33:55 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283515 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Bandolinista Avi Avital faz concerto pela série da Tucca</title>
+  <link>http://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A série de concertos internacionais da Tucca recebe nesta segunda-feira, 5, na Sala São Paulo, o bandolinista Avi Avital para apresentações com a Orquestra Barroca SP 440 e obras de Vivaldi e Bach.&lt;/p&gt;
+&lt;p&gt;Avital é responsável por colocar seu instrumento de maneira definitiva no cenário da música clássica, se voltando tanto ao repertório antigo quanto a novas obras – ele já foi responsável pela estreia de mais de cem peças, muitas escritas a seu pedido.&lt;/p&gt;
+&lt;p&gt;Seu trabalho propõe uma releitura da tradição musical do ocidente e do oriente – propondo entre elas diálogo estimulante. Questionado em uma entrevista a respeito de sua relação com o bandolim, Avital definiu-se como “um cavaleiro montando em seu cavalo”. “Eu o conheço muito bem, minhas mãos se lembram de cada curva dele. Eu tenho profunda compreensão a respeito de como ele funciona e, quando estou no palco, ele se torna parte de mim.”&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Prepare-se&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Em outubro, a Tucca traz de volta a São Paulo, após 26, anos a Filarmônica de Berlim para dois concertos na Sala São Paulo. As apresentações contam com a regência do maestro titular Kirill Petrenko. No dia 18, o programa tem o &lt;em&gt;Concerto para piano nº 1&lt;/em&gt; de Brahms, com solos de um dos grandes nomes do instrumento da atualidade, Vikingur Ólafsson; e &lt;em&gt;Assim falou Zarathustra&lt;/em&gt;, poema sinfônico de Richard Strauss. Já no dia 19, serão apresentadas as &lt;em&gt;Variações enigma&lt;/em&gt;, de Elgar, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Tchaikovsky. &lt;/p&gt;
+&lt;p&gt;A série da Tucca inclui ainda, nos dias 24 e 25, a série Aprendiz de Maestro, com o programa Aprendiz de feiticeiro, com participação do grupo teatral Pia Fraus e obras de Saint-Saëns, Dukas, Mussorgsky, Prokofiev, Tchaikovsky, Bach e Grieg. A regência é de João Maurício Galindo e de Daniel Warren.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-05" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" data-entity-type="file" data-entity-uuid="9c3a1d9f-59ce-4476-8672-3f8fbce66435" src="http://concerto.com.br/sites/default/files/inline-images/w-AviAvital_c_HaraldHoffmann.jpg" /&gt;
+&lt;figcaption&gt;O bandolinista Avi Avital [Divulgação/Harald Hoffmann]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 11:09&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-AviAvital_c_HaraldHoffmann.jpg" width="800" height="579" alt="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" title="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=yHM5agKVE3wLtoQNp4iJMrN3VbxWDwJSYq4YIpo4mjI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 05 Oct 2026 11:09:56 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283514 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Prepare-se: destaques da programação musical da semana</title>
+  <link>http://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Programação da semana tem recitais dos pianistas Piotr Alexewicz e Olga Pashchenko; nova produção da opereta &lt;em&gt;O morcego&lt;/em&gt;, de Strauss, no Theatro São Pedro de São Paulo; o balé &lt;em&gt;Romeu e Julieta&lt;/em&gt;, de Prokofiev, no Theatro Municipal do Rio de Janeiro; Fabio Zanon com a Osesp; e agenda dedicada às crianças. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Segunda-feira, dia 5&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O bandolinista &lt;strong&gt;Avi Avital&lt;/strong&gt; se apresenta com a Orquestra Barroca SP 440 na Sala São Paulo. O concerto é promovido pela Tucca Música pela Cura e o programa traz os concertos &lt;em&gt;BWV 1056&lt;/em&gt; e &lt;em&gt;BWV 1041, &lt;/em&gt;de Bach, e &lt;em&gt;RV 425&lt;/em&gt; e &lt;em&gt;RV 565,&lt;/em&gt; de Vivaldi.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Terça-feira, dia 6&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Em São Paulo, &lt;strong&gt;The Moscow Ballet&lt;/strong&gt; traz releitura do clássico &lt;em&gt;Cinderela, &lt;/em&gt;no Teatro Bradesco. Com reapresentação no dia 7, o espetáculo conta com os bailarinos Oksana Bondareva e Leonardo de Checchi.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt; Academia de Ópera do Theatro São Pedro e Orquestra Jovem do Theatro São Pedro &lt;/strong&gt;realizam montagem da opereta &lt;em&gt;O morcego&lt;/em&gt;, de Johann Strauss II, no Theatro São Pedro. Priscila Bomfin é a diretora musical, Ronaldo Zero é o diretor cênico.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quarta-feira, dia 7&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Balé&lt;/strong&gt; e a &lt;strong&gt;Orquestra Sinfônica do Theatro Municipal do Rio de Janeiro&lt;/strong&gt; interpretam &lt;em&gt;Romeu e Julieta&lt;/em&gt;, de Prokofiev. Com coreografia de Reginaldo Oliveira, a produção conta com a regência de Tobias Volkmann. Reapresentações ocorrem nos dias 8, 9, 10 e 11. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quinta-feira, dia 8&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica do Estado de São Paulo &lt;/strong&gt;convida Fábio Zanon para o concerto Um mergulho na música japonesa. Regida por Jac van Steen, orquestra e solista interpretam obras de Toru Takemitsu. &lt;em&gt;Sonho lúcido&lt;/em&gt;, de Noriko Baba, e a &lt;em&gt;Sinfonia nº 6 &lt;/em&gt;de Dvořák completam o programa.&lt;/p&gt;
+&lt;p&gt;A cantora&lt;strong&gt; Tatiana Parra&lt;/strong&gt; e o pianista &lt;strong&gt;Vardan Ovsepian&lt;/strong&gt; apresentam músicas do álbum &lt;em&gt;The flight of the hidden heart&lt;/em&gt;, na Sala Beatriz Segall, em São Paulo. O repertório mistura referências da música brasileira, do jazz, da música de concerto e das tradições armênias. &lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Minas Gerais&lt;/strong&gt; realiza o concerto O Maestro de Capela, no Palácio das Artes. Sob regência de André Brandt, a orquestra convida o baixo-barítono Felipe Oliveira para interpretar a ópera&lt;em&gt; Il maestro di cappella&lt;/em&gt;, de Domenico Cimarosa.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sexta-feira, dia 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Os bailarinos &lt;strong&gt;Beatriz Sano&lt;/strong&gt; e &lt;strong&gt;Eduardo Fukushima&lt;/strong&gt; apresentam &lt;em&gt;Horizonte&lt;/em&gt; na Estação Motiva Cultural. A concepção, direção e performance da obra são de Sano e Fukushima, que contam com a música de Chico Libholz, criação de luz e espaço de Hideki Matsuka, dramaturgia de Júlia Rocha e figurinos de Rita Comparato. A produção é da associação cultural Corpo Rastreado.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica da Universidade Estadual de Londrina&lt;/strong&gt; se apresenta no Cine Teatro Ouro Verde, em Londrina. Jovana Trifunovic, que toca o violino, rege a orquestra e recebe o violista Jairo Chaves para interpretar obras de Astor Piazzolla. O programa se repete no dia 10. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, dia 10&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Ligia Amadio rege a &lt;strong&gt;Orquestra Sinfônica da USP&lt;/strong&gt; no Centro Cultural Camargo Guarnieri. A orquestra convida o violinista Claudio Micheletti para interpretar o &lt;em&gt;Concerto para violino op. 64&lt;/em&gt;, de Mendelssohn. A &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, &lt;em&gt;Italiana&lt;/em&gt;, completa o programa. A entrada é franca.&lt;/p&gt;
+&lt;p&gt;Em Ouro Branco, começa a&lt;strong&gt; 20ª Semana da Música de Ouro Branco&lt;/strong&gt;, na Casa da Música de Ouro Branco. Charles Russin rege o concerto de abertura com a Jovem Orquestra de Ouro Branco e convida o oboísta Alexandre Barros, a clarinetista Paula Pires e o violinista Mikhail Bugaev. O evento é coordenado por Kênia Libânio e segue até o dia 17. No dia 11, o festival recebe o pianista Claudio Dauelsberg.&lt;/p&gt;
+&lt;p&gt;O 5º Festival Chopin continua com recital do pianista &lt;strong&gt;Piotr Alexewicz&lt;/strong&gt;, no Teatro Cultura Artística. O programa inclui a &lt;em&gt;Polonaise-Fantaisie op. 61&lt;/em&gt;, os &lt;em&gt;Noturnos nº 1 e nº 2 op. 9 &lt;/em&gt;e o &lt;em&gt;Andante Spianato e Grande Polonaise brillante op. 22&lt;/em&gt;. Obras de Debussy e Rachmaninov integram o repertório. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Domingo, dia 11&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A pianista &lt;strong&gt;Olga Pashchenko&lt;/strong&gt; realiza recital matinal no Teatro Cultura Artística. Ela toca &lt;em&gt;O Ano&lt;/em&gt;, &lt;em&gt;H 385&lt;/em&gt;, de Fanny Mendelssohn.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Experimental de Repertório e o Balé da Cidade de São Paulo &lt;/strong&gt;homenageiam a semana da criança no Theatro Municipal de São Paulo. Sob regência de Wagner Polistchuk e Leonardo Labrada, músicos e bailarinos interpretam &lt;em&gt;Lendas brasileiras&lt;/em&gt;, de Alexandre Guerra.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Sala São Paulo&lt;/strong&gt; também recebe dois concertos que celebram a infância. No período da manhã, Mônica Giardini rege o São Paulo Wind Ensemble em &lt;em&gt;O pequeno príncipe, conto musical baseado na obra de Antoine de Saint-Exupéry&lt;/em&gt;, de Angelo Sormani, com narração de Mário Spatizziani. À tarde, Claudio Cruz rege a Orquestra Jovem do Estado em um programa com trilhas sonoras de filmes.&lt;/p&gt;
+&lt;p&gt;Na &lt;strong&gt;Estação Motiva Cultural&lt;/strong&gt;, a série Primeiros Acordes, voltada ao público infantil, continua com o espetáculo Vitrolinha, com a Palhaça Rubra. Por fim, o Coro da Osesp e Coro Infantil da Osesp apresentam obras de compositores brasileiros, sob regência de Kaique Stumpf.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" data-entity-type="file" data-entity-uuid="561e038a-d456-42a3-9e04-ed62511ac596" src="http://concerto.com.br/sites/default/files/inline-images/w_pianista_piotr.jpg" /&gt;
+&lt;figcaption&gt;O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/teatro-cultura-artistica-anuncia-temporada-2027" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Teatro Cultura Artística anuncia temporada 2027&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-anuncia-temporada-2027-com-beethoven-como-eixo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Minas Gerais anuncia temporada 2027 com Beethoven como eixo &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/curso-aborda-o-futuro-da-critica-musical-no-seculo-xxi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Curso aborda o futuro da crítica musical no século XXI&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/entrevista/simone-menezes-grava-album-com-orquestra-sinfonica-da-radio-de-viena" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Simone Menezes grava álbum com a Orquestra Sinfônica da Rádio de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/don-carlo-respira-como-monumento-sombrio-da-opera-do-seculo-xix-em-montagem-no" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Don Carlo’ respira como monumento sombrio da ópera do século XIX em montagem no Theatro Municipal&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Luiz Sampaio&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/no-elenco-na-orquestra-e-na-montagem-um-don-carlo-de-conviccao-dramatica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;No elenco, na orquestra e na montagem, um ‘Don Carlo’ de convicção dramática&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Jorge Coli&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 04/10/2026 - 23:03&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w_pianista_piotr.jpg" width="900" height="601" alt="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" title="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=9PDemimKqfmucYv4Q2LXkPPSo9Rk9IeEIjW0VZ9RiS8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 04 Oct 2026 23:03:25 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283506 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky </title>
@@ -94,6 +447,16 @@
 &lt;p&gt;Fundada por Armando Prazeres e gerida pelos próprios músicos, a Orquestra Petrobras Sinfônica, que em 2026 completa 51 anos, tem o maestro Isaac Karabtchevsky como diretor artístico e regente titular. Além do concurso, a Opes mantém a Academia Juvenil, programa dedicado à formação musical e prática orquestral de jovens instrumentistas.&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;&lt;a href="https://petrobrasinfonica.com.br/wp-content/uploads/2022/09/Edital_01-2026_Concurso-de-Solistas-metais.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;a href="https://petrobrasinfonica.com.br/wp-content/uploads/2022/09/Edital_01-2026_Concurso-de-Solistas-metais.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/a&gt;para acessar o edital.&lt;br /&gt;
 &lt;u&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtD-saocA66S3T1nAHusR757yDQJLfQb3yW7IGSC14_cDyA/viewform" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o formulário de inscrições.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="(divulgação, Daniel Ebendinger)" data-entity-type="file" data-entity-uuid="80668b37-8bd2-43a1-be7b-d473aa5b4785" src="http://concerto.com.br/sites/default/files/inline-images/w-Opes-Karabtchevsky_Daniel-Ebendinger_1.jpg" /&gt;
 &lt;figcaption&gt;Maestro Isaac Karabtchevsky rege a Opes (divulgação, Daniel Ebendinger)&lt;/figcaption&gt;
@@ -147,10 +510,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=y0mdCWWWgjtK308xM3PxoGpJkIm5YVdRI17NF-pKliE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=sjJ5XC6QX16Ookauj2pi-YlzutZwYgOGoBCDh_kiIXw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -227,10 +590,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=hhfyen8rs_wEMrPcGkUN1337H-zCuQ926qosyD47xdQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=_N5t6qXk3vmGE3ckWCoab0vAwY_alS76GghLIN6kKz0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -267,12 +630,12 @@
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;250&lt;/div&gt;
+              &lt;div class="field__item"&gt;331&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;3&lt;/div&gt;
+              &lt;div class="field__item"&gt;5&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -458,10 +821,10 @@ RIP&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=-oO-dY9DWg5I3FDN1HDKb7x5XZqwbe42H3RoQos_SuU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=J9m0CjiANQ5e6a6o46K77PHGbxm3B3Lo5JLBV2ocS6w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;77&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;80&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -471,233 +834,6 @@ RIP&lt;/p&gt;
   <pubDate>Sat, 03 Oct 2026 11:00:08 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283508 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Teatro Estadual de Araras recebe 3º Encontro de Ópera Brasileira</title>
-  <link>http://concerto.com.br/noticias/opera/teatro-estadual-de-araras-recebe-3o-encontro-de-opera-brasileira</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Estadual de Araras recebe 3º Encontro de Ópera Brasileira&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O Teatro Estadual de Araras recebe, nos dias 2 e 3, o 3º Encontro de Ópera Brasileira. O evento tem curadoria e direção artística de Paulo Esper e vai apresentar duas óperas: &lt;em&gt;Uma noite no castelo&lt;/em&gt;, de Henrique Alves de Mesquita, e &lt;em&gt;Domitila&lt;/em&gt;, de João Guilherme Ripper. &lt;/p&gt;
-&lt;p&gt;Após as apresentações, os artistas vão participar de conversas com o público a respeito das obras. Da ópera &lt;em&gt;Uma noite no castelo&lt;/em&gt;, participam Cristiane Mesquita (que também assina a direção cênica), Marcello Mesquita, Max Costa, Marcus Ouros e outros, com Marcio Arruda ao piano. &lt;em&gt;Domitila&lt;/em&gt; será interpretada pela soprano Maria Solle Galevi e por um conjunto de câmara.&lt;/p&gt;
-&lt;p&gt;A base para a ópera de Mesquita, que estreou em 1870, foi um libreto do francês Paul de Kock (1794-1871), que se passa na França de meados do século XIX. No centro da trama está um jovem conde que gastava sem cerimônias sua fortuna em Paris, até que resolve atender um pedido de sua falecida mãe: pagar o dote de casamento de uma aldeã por quem ela tinha especial carinho. O retorno à aldeia natal, no entanto, o coloca em contato com uma farsa urdida pela administradora das terras da família, revelada, ao final, pelo mordomo da família.&lt;/p&gt;
-&lt;p&gt;A estreia da ópera foi um sucesso de público e crítica. O crítico França Junior escreveu no &lt;em&gt;Jornal da Tarde&lt;/em&gt; do Rio de Janeiro, após a estreia, que a ópera era como “um pequeno ramalhete exalando a suave fragrância das mimosas flores da primavera”. O relato continua, com o crítico afirmando que o nome do compositor “se acha gravado em caracteres tão brilhantes nos fastos da nossa música nascente, que pronunciá-lo é recordar um por um de seus triunfos”.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Domitila&lt;/em&gt;, por sua vez, foi construída como um monólogo no qual a Marquesa de Santos prepara-se para deixar a corte de D. Pedro I, de quem era amante, sob o impacto da notícia de um novo casamento do imperador. Ela abre um baú e se depara com um maço de cartas recebidas ao longo do relacionamento. Começa, então, a relê-las e a relembrar a história de paixão vivida pelos dois.&lt;/p&gt;
-&lt;p&gt;Ripper poderia ter escrito um ciclo de canções a partir dos textos. Mas optou por dar a eles um contexto dramático, como comentou em uma entrevista de 2023. “Ao longo da leitura, fui percebendo que, se eu colocasse aquelas cartas, não em uma ordem cronológica, mas em uma sequência dramática, eu poderia contar uma história com princípio, meio e fim”, explicou. “Ela canta as cartas, mas não como seria em um ciclo de canções: ela revive aquela história e, por isso, precisa atuar.”&lt;/p&gt;
-&lt;p&gt;“Todas as cartas, ou quase todas, da ópera são de D. Pedro para ela, porque poucas missivas dela para ele sobreviveram. Mas a última carta, a da despedida, me impressionou muito pela forma forte e digna com que ela se dirige a ele. Ela abandona o tratamento informal, não o chama mais de ‘vosmecê’, adota o tratamento majestático, passa a chamá-lo de ‘Vossa Majestade’. Essa catarse pela qual ela passa relendo as cartas é exatamente o rito de passagem de que ela precisava para ir embora”, completa o compositor.&lt;/p&gt;
-&lt;p&gt;O encontro é realizado pela Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo, por meio da APAA (Associação Paulista dos Amigos da Arte).&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A soprano Maria Solle Galevi como Domitila [Divulgação]" data-entity-type="file" data-entity-uuid="9099dfa3-0ed1-482b-908e-3e2fa948e705" src="http://concerto.com.br/sites/default/files/inline-images/w-DOMITILA-.jpg" /&gt;
-&lt;figcaption&gt;A soprano Maria Solle Galevi como Domitila [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 23:35&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-DOMITILA-.jpg" width="900" height="513" alt="A soprano Maria Solle Galevi como Domitila [Divulgação]" title="A soprano Maria Solle Galevi como Domitila [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIxIiwiZGlzbGlrZXMiOiIwIn0%3D?token=EYIyMNuL_PU_4LXrZwf2iHfQrU6TS5duZ6bAQQwWhM4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;21&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 23:35:52 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283507 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica Arcos Brasileiros</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-arcos-brasileiros</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Arcos Brasileiros&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 20:40&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto A voz do tempo e da terra. Fernando Gomes - direção artística e regente. Participação: Kelly Silva e Paulo Veríssimo - cantores. Fernando Gomes - arranjos. Programa: músicas de Gilberto Gil, Caetano Veloso, Vinicius de Moraes e Baden Powell, Renato Teixeira, Luedji Luna e Zeca Pagodinho, entre outros. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-10T14:00:00Z" class="datetime"&gt;sab, 10/10/2026 - 14:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-olido" hreflang="pt-br"&gt;Centro Cultural Olido (236 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/a-voz-do-tempo-e-da-terra---concerto-de-estreia-da-orquestra-sinfonica-arcos-brasileiros/3593806.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 20:40:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283505 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Balé Romeu e Julieta, de Prokofiev</title>
-  <link>http://concerto.com.br/roteiros/bale-romeu-e-julieta-de-prokofiev-27</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Balé Romeu e Julieta, de Prokofiev&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 20:25&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Ensaio aberto. Balé e Orquestra Sinfônica do Theatro Municipal. Luiz Fernando Bongiovanni – direção, concepção e coreografia. Hélio Bejani — direção geral. Tobias Volkmann — regente. Márcia Jaqueline e Cícero Gomes - bailarinos. René Sato – remontagem e assistência de direção. Edson Bueno – direção teatral e dramaturgia. Hélio Bejani e Jorge Texeira – supervisão artística. René Sato, Mônica Barbosa, Filipe Moreira e Jorge Texeira – ensaiadores. Renato Theobaldo e Cleverson Luiz Cavalheiro – cenografia. Marilda Fontes – figurinos. Ana Luzia de Simoni – iluminação. Carla Marins – design gráfico. Apresentações dias 7, 8, 9 e 10 às 19h e dia 11 às 17h. Palestra gratuita antes do espetáculo.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-06T19:00:00Z" class="datetime"&gt;ter, 06/10/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-municipal-1" hreflang="pt-br"&gt;Theatro Municipal (2361 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 30 a R$ 90. Vendas: http://theatromunicipal.rj.gov.br/romeu-e-julieta-musica-de-sergei-prokofiev-com-o-ballet-e-a-ostm/ ou na bilheteria do teatro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 20:25:16 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283504 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Teatro da Universidade Estadual de Feira de Santana - UEFS</title>
-  <link>http://concerto.com.br/node/283501</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro da Universidade Estadual de Feira de Santana - UEFS&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Av. Transnordestina, s/nº - Novo Horizonte - Tel. (75) 3161-8000 - https://www.uefs.br/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 02/10/2026 - 15:45&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Feira de Santana, BA&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Fri, 02 Oct 2026 15:45:34 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283501 at http://concerto.com.br</guid>
     </item>
 
   </channel>

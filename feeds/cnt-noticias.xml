@@ -5,13 +5,12 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 05 Oct 2026 05:55:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:55:11 +0000</lastBuildDate>
 <item>
-<title>Pesquisa CNT/MDA mostra cenário eleitoral na reta final da campanha</title>
-<link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-mostra-cenario-eleitoral-na-reta-final-da-campanha</guid>
-<pubDate>Tue, 15 Sep 2026 09:00:04 +0000</pubDate>
-<description>Política — Lula tem 40,6% e Flávio Bolsonaro, 30,4%, no primeiro turno; em eventual segundo turno, Lula registra 47,3% e Flávio, 40%, com diferença de 7,3 pontos</description>
+<title>Arquitetura que cuida: espaços que fortalecem o cuidado ao trabalhador do transporte e a sua família</title>
+<link>https://www.cnt.org.br/imprensa/noticia/arquitetura-que-cuida-espacos-que-fortalecem-o-cuidado-ao-trabalhador-do-transporte</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/arquitetura-que-cuida-espacos-que-fortalecem-o-cuidado-ao-trabalhador-do-transporte</guid>
+<description>ESG — O SEST SENAT investe na arquitetura de suas Unidades Operacionais com o objetivo de promover saúde, educação, bem-estar e inclusão</description>
 </item>
 <item>
 <title>Pesquisa CNT/MDA mostra cenário eleitoral às vésperas do primeiro turno</title>
@@ -20,16 +19,16 @@
 <description>Política — Lula aparece com 43,1% das intenções de voto estimuladas no primeiro turno, seguido por Flávio Bolsonaro, com 38,0%. Já no segundo turno, Lula tem 47,3% e Flávio, 43,1%</description>
 </item>
 <item>
-<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
-<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
-<description>SEST SENAT</description>
-</item>
-<item>
 <title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
 <description>Inclusão e diversidade — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
+</item>
+<item>
+<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
+<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
+<description>SEST SENAT</description>
 </item>
 <item>
 <title>Feiras Emprega Transporte já registram 21,4 mil participantes; confira programação de outubro</title>
@@ -200,16 +199,16 @@
 <description>Poder Executivo — Ministério do Trabalho e Emprego atualiza exigências sobre instalações sanitárias, fornecimento de água e uso de módulos e contêineres em atividades fora de instalações permanentes</description>
 </item>
 <item>
-<title>Clima extremo amplia desafios para infraestrutura e operações de transporte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</guid>
-<description>COP — Impactos dos eventos extremos geram discussão sobre adaptação e resiliência no caminho para a COP31</description>
-</item>
-<item>
 <title>Sistema Transporte esclarece impactos da Reforma Tributária sobre o setor</title>
 <link>https://www.cnt.org.br/imprensa/noticia/masterclass-do-sistema-transporte-esclarece-impactos-da-reforma-tributaria</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/masterclass-do-sistema-transporte-esclarece-impactos-da-reforma-tributaria</guid>
 <description>Economia e negócios — Aula foi direcionada a empresários de cargas e passageiros; curso EaD gratuito sobre o tema foi lançado durante o evento</description>
+</item>
+<item>
+<title>Clima extremo amplia desafios para infraestrutura e operações de transporte</title>
+<link>https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/clima-extremo-amplia-desafios-para-infraestrutura-e-operacoes-de-transporte</guid>
+<description>COP — Impactos dos eventos extremos geram discussão sobre adaptação e resiliência no caminho para a COP31</description>
 </item>
 <item>
 <title>ITL inaugura novo espaço para formação de lideranças do transporte</title>
