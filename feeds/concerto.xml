@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 06 Oct 2026 06:30:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 15:17:46 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=-fHa2SbDQljJcUP79NUcTbItDtQeylytAGIJVBWREN4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=Ss9z0fUukxrDOGU1fTsqDvq32iPsX-syxCsbFQESpDY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;557&lt;/span&gt;
@@ -80,6 +80,704 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>CULTURA ARTÍSTICA</title>
+  <link>http://concerto.com.br/noticias/sao-paulo/cultura-artistica-9</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;CULTURA ARTÍSTICA&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p class="text-align-center" data-end="5" data-start="0" dir="auto"&gt;&lt;strong&gt;&lt;span style="font-size:18px;"&gt;&lt;span style="color:#7f0000;"&gt;CULTURA ARTÍSTICA&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="text-align-center" data-end="5" data-start="0" dir="auto"&gt;&lt;strong&gt;TEMPORADA 2027&lt;/strong&gt;&lt;br /&gt;
+[Programação sujeita a alterações]&lt;/p&gt;
+&lt;p class="text-align-center"&gt;&lt;strong&gt;Assinaturas&lt;/strong&gt;:&lt;br /&gt;
+Concertos internacionais, Jazz e MPB, Violão, Matinais e Extra-assinaturas&lt;br /&gt;
+&lt;strong&gt;Renovações e trocas&lt;/strong&gt;: de 5 a 16 de outubro.&lt;br /&gt;
+&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: de 9 de novembro a 8 de janeiro.&lt;br /&gt;
+Informações e assinaturas: tel. (11) 3256-0223 – &lt;a href="https://culturaartistica.org/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;https://culturaartistica.org/&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="text-align-center"&gt;Teatro Cultura Artística&lt;br /&gt;
+Rua Nestor Pestana, 196 – Consolação.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color:#2c3e50;"&gt;PROGRAMAÇÃO&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="5" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MARÇO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="103" data-start="7" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="54" data-start="7"&gt;Dia 14 de março às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50.&lt;/p&gt;
+&lt;p data-end="162" data-start="105" dir="auto"&gt;&lt;strong data-end="126" data-start="105"&gt;EMMANUELE BALDINI&lt;/strong&gt;, violino&lt;br /&gt;
+&lt;strong data-end="155" data-start="138"&gt;ANDRÉ MEHMARI&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="280" data-start="164" dir="auto"&gt;Johann Sebastian Bach&lt;br /&gt;
+Sonata para violino e baixo contínuo BWV 1023&lt;br /&gt;
+Partita para violino nº 2 BWV 1004&lt;br /&gt;
+Chacona&lt;/p&gt;
+&lt;p data-end="333" data-start="282" dir="auto"&gt;André Mehmari&lt;br /&gt;
+Choro perpétuo&lt;br /&gt;
+Conversas com Bach&lt;/p&gt;
+&lt;p data-end="434" data-start="335" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="382" data-start="335"&gt;Dia 30 de março às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="455" data-start="436" dir="auto"&gt;&lt;strong data-end="455" data-start="436"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="600" data-start="457" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 3 op. 18 nº 3&lt;br /&gt;
+Quarteto de cordas nº 16 op. 135&lt;br /&gt;
+Quarteto de cordas nº 8 op. 59 nº 2, Razumovsky&lt;/p&gt;
+&lt;p data-end="699" data-start="602" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="649" data-start="602"&gt;Dia 31 de março às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="720" data-start="701" dir="auto"&gt;&lt;strong data-end="720" data-start="701"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="858" data-start="722" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 2 op. 18 nº 2&lt;br /&gt;
+Quarteto de cordas nº 11 op. 95, Serioso&lt;br /&gt;
+Quarteto de cordas nº 14 op. 131&lt;/p&gt;
+&lt;p data-end="865" data-start="860" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ABRIL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="970" data-start="867" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="914" data-start="867"&gt;Dia 1º de abril às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Extra-assinatura&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="991" data-start="972" dir="auto"&gt;&lt;strong data-end="991" data-start="972"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="1110" data-start="993" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 1 op. 18 nº 1&lt;br /&gt;
+Quarteto de cordas nº 13 op. 130&lt;br /&gt;
+A grande fuga op. 133&lt;/p&gt;
+&lt;p data-end="1214" data-start="1112" dir="auto"&gt;&lt;strong data-end="1158" data-start="1112"&gt;&lt;span style="color:#2980b9;"&gt;Dia 2 de abril às 20h00 | Grande Auditório&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+Extra-assinatura&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="1235" data-start="1216" dir="auto"&gt;&lt;strong data-end="1235" data-start="1216"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="1386" data-start="1237" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 4 op. 18 nº 4&lt;br /&gt;
+Quarteto de cordas nº 10 op. 74, Harpa&lt;br /&gt;
+Quarteto de cordas nº 7 op. 59 nº 1, Razumovsky&lt;/p&gt;
+&lt;p data-end="1490" data-start="1388" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1434" data-start="1388"&gt;Dia 3 de abril às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Extra-assinatura&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="1511" data-start="1492" dir="auto"&gt;&lt;strong data-end="1511" data-start="1492"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="1656" data-start="1513" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 5 op. 18 nº 5&lt;br /&gt;
+Quarteto de cordas nº 9 op. 59 nº 3, Razumovsky&lt;br /&gt;
+Quarteto de cordas nº 12 op. 127&lt;/p&gt;
+&lt;p data-end="1758" data-start="1658" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1704" data-start="1658"&gt;Dia 4 de abril às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360.&lt;/p&gt;
+&lt;p data-end="1779" data-start="1760" dir="auto"&gt;&lt;strong data-end="1779" data-start="1760"&gt;QUARTETO BELCEA&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="1874" data-start="1781" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Quarteto de cordas nº 6 op. 18 nº 6&lt;br /&gt;
+Quarteto de cordas nº 15 op. 132&lt;/p&gt;
+&lt;p data-end="1972" data-start="1876" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1923" data-start="1876"&gt;Dia 11 de abril às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50.&lt;/p&gt;
+&lt;p data-end="2033" data-start="1974" dir="auto"&gt;&lt;strong data-end="1999" data-start="1974"&gt;OS MÚSICOS DE CAPELLA&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="2024" data-start="2002"&gt;LUÍS OTÁVIO SANTOS&lt;/strong&gt;, direção&lt;/p&gt;
+&lt;p data-end="2075" data-start="2035" dir="auto"&gt;François Couperin&lt;br /&gt;
+L’Apothéose de Lully&lt;/p&gt;
+&lt;p data-end="2106" data-start="2077" dir="auto"&gt;Marin Marais&lt;br /&gt;
+Sonata em trio&lt;/p&gt;
+&lt;p data-end="2139" data-start="2108" dir="auto"&gt;Jean-Philippe Rameau&lt;br /&gt;
+Chaconne&lt;/p&gt;
+&lt;p data-end="2240" data-start="2141" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2188" data-start="2141"&gt;Dia 13 de abril às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Marrom&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 190.&lt;/p&gt;
+&lt;p data-end="2264" data-start="2242" dir="auto"&gt;&lt;strong data-end="2256" data-start="2242"&gt;RÉMY PATEL&lt;/strong&gt;, violão&lt;/p&gt;
+&lt;p data-end="2264" data-start="2242" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="2387" data-start="2287" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2334" data-start="2287"&gt;Dia 15 de abril às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Amarela&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690.&lt;/p&gt;
+&lt;p data-end="2424" data-start="2389" dir="auto"&gt;&lt;strong data-end="2408" data-start="2389"&gt;JOHN PIZZARELLI&lt;/strong&gt;, guitarra e voz&lt;/p&gt;
+&lt;p data-end="2424" data-start="2389" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="2543" data-start="2447" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2494" data-start="2447"&gt;Dia 18 de abril às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50.&lt;/p&gt;
+&lt;p data-end="2569" data-start="2545" dir="auto"&gt;&lt;strong data-end="2562" data-start="2545"&gt;DANIELI LONGO&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="2690" data-is-last-node="" data-is-only-node="" data-start="2571" dir="auto"&gt;Edmundo Villani-Côrtes&lt;br /&gt;
+Cinco ponteios&lt;br /&gt;
+Sonata nº 2, A lenda dos Alatás&lt;br /&gt;
+Ritmata nº 3&lt;br /&gt;
+Cinco miniaturas brasileiras&lt;/p&gt;
+&lt;p data-end="4" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MAIO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="104" data-start="6" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="51" data-start="6"&gt;Dia 2 de maio às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="339" data-start="106" dir="auto"&gt;&lt;strong data-end="122" data-start="106"&gt;JORDI SAVALL&lt;/strong&gt;, viola da gamba&lt;br /&gt;
+&lt;strong data-end="158" data-start="141"&gt;HESPÈRION XXI&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="182" data-start="161"&gt;ENSEMBLE TEMBEMBÉ&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;SOLISTAS DA CAPELA REAL DA CATALINHA&lt;/strong&gt;:&lt;br /&gt;
+&lt;em&gt;Elionor Martínez&lt;/em&gt;, soprano; &lt;em&gt;David Sagastume&lt;/em&gt;, contratenor; &lt;em&gt;Víctor Sordo&lt;/em&gt;, tenor e &lt;em&gt;Mauro Borgioni&lt;/em&gt;, baixo &lt;/p&gt;
+&lt;p data-end="496" data-start="341" dir="auto"&gt;Obras de Francisco Correa de Arauxo, Gaspar Fernandes, Gaspar Sanz, Juan García de Zéspedes, Mateo Flecha, Santiago de Murcia e Anônimos latino-americanos.&lt;/p&gt;
+&lt;p data-end="594" data-start="498" dir="auto"&gt;&lt;strong data-end="543" data-start="498"&gt;&lt;span style="color:#2980b9;"&gt;Dia 4 de maio às 20h00 | Grande Auditório&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="653" data-start="596" dir="auto"&gt;&lt;strong data-end="614" data-start="596"&gt;MICHAEL SPYRES&lt;/strong&gt;, baritenor&lt;br /&gt;
+&lt;strong data-end="646" data-start="628"&gt;MATHIEU PORDOY&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="697" data-start="655" dir="auto"&gt;Giuseppe Verdi&lt;br /&gt;
+Seleção de árias de ópera&lt;/p&gt;
+&lt;p data-end="798" data-start="699" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="745" data-start="699"&gt;Dia 16 de maio às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="862" data-start="800" dir="auto"&gt;&lt;strong data-end="821" data-start="800"&gt;AIGUL AKHMETSHINA&lt;/strong&gt;, mezzosoprano&lt;br /&gt;
+&lt;strong data-end="855" data-start="838"&gt;JONATHAN PAPP&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="883" data-is-last-node="" data-is-only-node="" data-start="864" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="5" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;JUNHO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="105" data-start="7" dir="auto"&gt;&lt;strong data-end="53" data-start="7"&gt;&lt;span style="color:#2980b9;"&gt;Dia 3 de junho às 20h00 | Grande Auditório&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+Série Amarela&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360&lt;/p&gt;
+&lt;p data-end="128" data-start="107" dir="auto"&gt;&lt;strong data-end="128" data-start="107"&gt;BILL CHARLAP TRIO&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="234" data-start="130" dir="auto"&gt;Grandes clássicos da tradição jazzística, revelando novas possibilidades expressivas a cada performance.&lt;/p&gt;
+&lt;p data-end="330" data-start="236" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="282" data-start="236"&gt;Dia 6 de junho às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="396" data-start="332" dir="auto"&gt;&lt;strong data-end="381" data-start="332"&gt;DUO ELO ANTIQUO&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Júlia Abdalla &lt;/em&gt;e &lt;em&gt;Angelo Nagao&lt;/em&gt;, flautas doces&lt;/p&gt;
+&lt;p data-end="487" data-start="398" dir="auto"&gt;Georg Philipp Telemann&lt;br /&gt;
+Sonata nº 6&lt;br /&gt;
+Sonata canônica nº 1&lt;br /&gt;
+Fantasia nº 3&lt;br /&gt;
+Sonata nº 3&lt;/p&gt;
+&lt;p data-end="556" data-start="489" dir="auto"&gt;Joseph Bodin de Boismortier&lt;br /&gt;
+Sonata nº 1 op. 2&lt;br /&gt;
+Sonata nº 5 op. 2&lt;/p&gt;
+&lt;p data-end="656" data-start="558" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="605" data-start="558"&gt;Dia 10 de junho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Marrom&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 190&lt;/p&gt;
+&lt;p data-end="687" data-start="658" dir="auto"&gt;&lt;strong data-end="679" data-start="658"&gt;ANIELLO DESIDERIO&lt;/strong&gt;, violão&lt;/p&gt;
+&lt;p data-end="743" data-start="689" dir="auto"&gt;Federico Moreno Torroba&lt;br /&gt;
+Burgalesa&lt;br /&gt;
+Suíte castelhana&lt;/p&gt;
+&lt;p data-end="784" data-start="745" dir="auto"&gt;Enrique Granados&lt;br /&gt;
+Dança espanhola nº 5&lt;/p&gt;
+&lt;p data-end="847" data-start="786" dir="auto"&gt;Manuel María Ponce&lt;br /&gt;
+Variações sobre "Folia de España" e fuga&lt;/p&gt;
+&lt;p data-end="966" data-start="849" dir="auto"&gt;Stephen Goss&lt;br /&gt;
+Verismo (obra dedicada a Aniello Desiderio – estreia brasileira e estreia mundial do último movimento)&lt;/p&gt;
+&lt;p data-end="1063" data-start="968" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1015" data-start="968"&gt;Dia 13 de junho às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="1121" data-start="1065" dir="auto"&gt;&lt;strong data-end="1084" data-start="1065"&gt;OLIVER NEUBAUER&lt;/strong&gt;, violino&lt;br /&gt;
+&lt;strong data-end="1114" data-start="1096"&gt;CHAEYOUNG PARK&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="1195" data-start="1123" dir="auto"&gt;Wolfgang Amadeus Mozart&lt;br /&gt;
+Sonata para piano e violino nº 18 K 301 (293a)&lt;/p&gt;
+&lt;p data-end="1232" data-start="1197" dir="auto"&gt;Olivier Messiaen&lt;br /&gt;
+Tema e variações&lt;/p&gt;
+&lt;p data-end="1276" data-start="1234" dir="auto"&gt;Nathan Milstein&lt;br /&gt;
+Paganiniana para violino&lt;/p&gt;
+&lt;p data-end="1323" data-start="1278" dir="auto"&gt;John Corigliano&lt;br /&gt;
+Sonata para violino e piano&lt;/p&gt;
+&lt;p data-end="1486" data-start="1325" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1372" data-start="1325"&gt;Dia 15 de junho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+&lt;strong data-end="1437" data-start="1390"&gt;&lt;span style="color:#2980b9;"&gt;Dia 16 de junho às 20h00 | Grande Auditório&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="1581" data-start="1488" dir="auto"&gt;&lt;strong data-end="1521" data-start="1488"&gt;ACADEMIA DE CÂMARA DE POTSDAM&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="1572" data-start="1553"&gt;FRANÇOIS LELEUX&lt;/strong&gt;, direção&lt;br /&gt;
+&lt;strong data-end="1542" data-start="1524"&gt;EMMANUEL PAHUD&lt;/strong&gt;, flauta&lt;/p&gt;
+&lt;p data-end="1581" data-start="1488" dir="auto"&gt;Franz Joseph Haydn&lt;br /&gt;
+Sinfonia nº 83, A galinha&lt;/p&gt;
+&lt;p data-end="1700" data-start="1631" dir="auto"&gt;Wolfgang Amadeus Mozart&lt;br /&gt;
+Concerto para flauta e orquestra nº 1 K 313&lt;/p&gt;
+&lt;p data-end="1777" data-start="1702" dir="auto"&gt;Gioachino Rossini&lt;br /&gt;
+Guilherme Tell, paráfrase para flauta, oboé e orquestra&lt;/p&gt;
+&lt;p data-end="1815" data-start="1779" dir="auto"&gt;Franz Schubert&lt;br /&gt;
+Sinfonia nº 5 D 485&lt;/p&gt;
+&lt;p data-end="1912" data-start="1817" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1864" data-start="1817"&gt;Dia 20 de junho às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="2067" data-start="1914" dir="auto"&gt;&lt;strong data-end="1931" data-start="1914"&gt;FABIO MARTINO&lt;/strong&gt;, piano&lt;br /&gt;
+&lt;strong data-end="1961" data-start="1941"&gt;GABRIELA QUEIROZ&lt;/strong&gt;, violino&lt;br /&gt;
+&lt;strong data-end="1992" data-start="1973"&gt;MICHAEL MACHADO&lt;/strong&gt;, violino&lt;br /&gt;
+&lt;strong data-end="2020" data-start="2004"&gt;TIAGO VIEIRA&lt;/strong&gt;, viola&lt;br /&gt;
+&lt;strong data-end="2055" data-start="2030"&gt;LISIANE DE LOS SANTOS&lt;/strong&gt;, violoncelo&lt;/p&gt;
+&lt;p data-end="2176" data-start="2069" dir="auto"&gt;Henrique Oswald&lt;br /&gt;
+Piccolo quartetto op. 5&lt;br /&gt;
+Quarteto de cordas op. 26&lt;br /&gt;
+Quinteto para piano e cordas op. 18&lt;/p&gt;
+&lt;p data-end="2278" data-start="2178" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2225" data-start="2178"&gt;Dia 20 de junho às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="2307" data-start="2280" dir="auto"&gt;&lt;strong data-end="2300" data-start="2280"&gt;LISE DE LA SALLE&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="2446" data-start="2309" dir="auto"&gt;Obras de Alexander Scriabin, Carl Philipp Emanuel Bach, Frédéric Chopin, Federico Mompou, Franz Schubert, Johannes Brahms e Philip Glass.&lt;/p&gt;
+&lt;p data-end="2609" data-start="2448" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2495" data-start="2448"&gt;Dia 29 de junho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="2560" data-start="2513"&gt;Dia 30 de junho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="2709" data-start="2611" dir="auto"&gt;&lt;strong data-end="2647" data-start="2611"&gt;ORQUESTRA FILARMÔNICA DE DRESDEN&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="2669" data-start="2650"&gt;TABITA BERGLUND&lt;/strong&gt;, direção&lt;br /&gt;
+&lt;strong data-end="2700" data-start="2681"&gt;GUIDO SANT'ANNA&lt;/strong&gt;, violino&lt;/p&gt;
+&lt;p data-end="2747" data-start="2711" dir="auto"&gt;Richard Wagner&lt;br /&gt;
+Idílio de Siegfried&lt;/p&gt;
+&lt;p data-end="2794" data-start="2749" dir="auto"&gt;Max Bruch&lt;br /&gt;
+Concerto para violino nº 1 op. 26&lt;/p&gt;
+&lt;p data-end="2839" data-is-last-node="" data-is-only-node="" data-start="2796" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Sinfonia nº 7 op. 92&lt;/p&gt;
+&lt;p data-end="5" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;JULHO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="101" data-start="7" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="53" data-start="7"&gt;Dia 4 de julho às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="164" data-start="103" dir="auto"&gt;&lt;strong data-end="123" data-start="103"&gt;LUCAS THOMAZINHO&lt;/strong&gt;, piano&lt;br /&gt;
+&lt;strong data-end="153" data-start="133"&gt;GUSTAVO SCUDELER&lt;/strong&gt;, clarinete&lt;/p&gt;
+&lt;p data-end="231" data-start="166" dir="auto"&gt;Johannes Brahms&lt;br /&gt;
+Sonata para clarinete e piano nº 1 op. 120 nº 1&lt;/p&gt;
+&lt;p data-end="281" data-start="233" dir="auto"&gt;Franz Liszt&lt;br /&gt;
+Doze estudos transcendentais S 139&lt;/p&gt;
+&lt;p data-end="380" data-start="283" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="329" data-start="283"&gt;Dia 6 de julho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Marrom&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 190&lt;/p&gt;
+&lt;p data-end="407" data-start="382" dir="auto"&gt;&lt;strong data-end="399" data-start="382"&gt;LAURA LOOTENS&lt;/strong&gt;, violão&lt;/p&gt;
+&lt;p data-end="428" data-start="409" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="526" data-start="430" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="477" data-start="430"&gt;Dia 29 de julho às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="585" data-start="528" dir="auto"&gt;&lt;strong data-end="547" data-start="528"&gt;LISETTE OROPESA&lt;/strong&gt;, soprano&lt;br /&gt;
+&lt;strong data-end="578" data-start="559"&gt;ÁNGEL RODRÍGUEZ&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="606" data-is-last-node="" data-is-only-node="" data-start="587" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;section data-testid="conversation-turn-18" data-turn="assistant" data-turn-id="request-69a73880-17f8-832a-ad51-d51d1c85e758-5" data-turn-id-container="request-69a73880-17f8-832a-ad51-d51d1c85e758-5" dir="auto"&gt;
+&lt;p data-end="6" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGOSTO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="104" data-start="8" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="56" data-start="8"&gt;Dia 10 de agosto às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="162" data-start="106" dir="auto"&gt;&lt;strong data-end="126" data-start="106"&gt;JORDAN ALEXANDER&lt;/strong&gt;, piano&lt;br /&gt;
+&lt;strong data-end="152" data-start="136"&gt;SAMUEL ALVES&lt;/strong&gt;, saxofone&lt;/p&gt;
+&lt;p data-end="329" data-start="164" dir="auto"&gt;Radamés Gnattali&lt;br /&gt;
+Caminho da saudade&lt;br /&gt;
+Brasiliana nº 7&lt;br /&gt;
+Uma rosa para Pixinguinha&lt;br /&gt;
+Carinhosa&lt;br /&gt;
+Negaceando&lt;br /&gt;
+Valsa triste&lt;br /&gt;
+Concertino para saxofone&lt;br /&gt;
+Papo de anjo&lt;/p&gt;
+&lt;p data-end="430" data-start="331" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="379" data-start="331"&gt;Dia 10 de agosto às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Marrom&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 190&lt;/p&gt;
+&lt;p data-end="456" data-start="432" dir="auto"&gt;&lt;strong data-end="448" data-start="432"&gt;JASON VIEAUX&lt;/strong&gt;, violão&lt;/p&gt;
+&lt;p data-end="477" data-start="458" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="580" data-start="479" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="527" data-start="479"&gt;Dia 29 de agosto às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="685" data-start="582" dir="auto"&gt;&lt;strong data-end="607" data-start="582"&gt;AMSTERDAM SINFONIETTA&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="630" data-start="610"&gt;CANDIDA THOMPSON&lt;/strong&gt;, direção e violino&lt;br /&gt;
+&lt;strong data-end="673" data-start="652"&gt;NICOLAS ALTSTAEDT&lt;/strong&gt;, violoncelo&lt;/p&gt;
+&lt;p data-end="718" data-start="687" dir="auto"&gt;Jörg Widmann&lt;br /&gt;
+Adagio (estreia)&lt;/p&gt;
+&lt;p data-end="792" data-start="720" dir="auto"&gt;Carl Philipp Emanuel Bach&lt;br /&gt;
+Concerto para violoncelo Wq. 172 em lá maior&lt;/p&gt;
+&lt;p data-end="845" data-start="794" dir="auto"&gt;Witold Lutosławski&lt;br /&gt;
+Grave para violoncelo e cordas&lt;/p&gt;
+&lt;p data-end="923" data-start="847" dir="auto"&gt;Piotr Ilitch Tchaikovsky&lt;br /&gt;
+Pezzo capriccioso para violoncelo e cordas op. 62&lt;/p&gt;
+&lt;p data-end="1009" data-is-last-node="" data-is-only-node="" data-start="925" dir="auto"&gt;Felix Mendelssohn&lt;br /&gt;
+Quarteto de cordas nº 6 op. 80 (versão para orquestra de cordas)&lt;/p&gt;
+&lt;section data-testid="conversation-turn-20" data-turn="assistant" data-turn-id="request-69a73880-17f8-832a-ad51-d51d1c85e758-6" data-turn-id-container="request-69a73880-17f8-832a-ad51-d51d1c85e758-6" dir="auto"&gt;
+&lt;p data-end="8" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;SETEMBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="176" data-start="10" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="59" data-start="10"&gt;Dia 2 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br data-end="77" data-start="74" /&gt;&lt;br /&gt;
+&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="127" data-start="77"&gt;Dia 10 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="283" data-start="178" dir="auto"&gt;&lt;strong data-end="212" data-start="178"&gt;ORQUESTRA SINFÔNICA DE LUCERNA&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="237" data-start="215"&gt;MICHAEL SANDERLING&lt;/strong&gt;, direção&lt;br /&gt;
+&lt;strong data-end="271" data-start="249"&gt;ANASTASIA KOBEKINA&lt;/strong&gt;, violoncelo&lt;/p&gt;
+&lt;p data-end="327" data-start="285" dir="auto"&gt;Edvard Grieg&lt;br /&gt;
+Excertos da Suíte Peer Gynt&lt;/p&gt;
+&lt;p data-end="391" data-start="329" dir="auto"&gt;Franz Joseph Haydn&lt;br /&gt;
+Concerto para violoncelo nº 1 Hob. VIIb/1&lt;/p&gt;
+&lt;p data-end="432" data-start="393" dir="auto"&gt;Robert Schumann&lt;br /&gt;
+Sinfonia nº 4 op. 120&lt;/p&gt;
+&lt;p data-end="532" data-start="434" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="483" data-start="434"&gt;Dia 8 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="555" data-start="534" dir="auto"&gt;&lt;strong data-end="548" data-start="534"&gt;IGOR LEVIT&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="758" data-start="557" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Sonata para piano nº 17 op. 31 nº 2, A tempestade&lt;br /&gt;
+Sonata para piano nº 23 op. 57, Appassionata&lt;br /&gt;
+Sonata para piano nº 10 op. 14 nº 2&lt;br /&gt;
+Sonata para piano nº 21 op. 53, Waldstein&lt;/p&gt;
+&lt;p data-end="861" data-start="760" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="809" data-start="760"&gt;Dia 9 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Amarela&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="917" data-start="863" dir="auto"&gt;&lt;strong data-end="892" data-start="863"&gt;BRANFORD MARSALIS QUARTET&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="912" data-start="895"&gt;DIANNE REEVES&lt;/strong&gt;, voz&lt;/p&gt;
+&lt;p data-end="1033" data-start="919" dir="auto"&gt;Homenagem ao centenário de John Coltrane. Projeto inspirado no histórico álbum &lt;em data-end="1032" data-start="998"&gt;John Coltrane and Johnny Hartman&lt;/em&gt;.&lt;/p&gt;
+&lt;p data-end="1133" data-start="1035" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1085" data-start="1035"&gt;Dia 19 de setembro às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="1192" data-start="1135" dir="auto"&gt;&lt;strong data-end="1152" data-start="1135"&gt;ETTORE PAGANO&lt;/strong&gt;, violoncelo&lt;br /&gt;
+&lt;strong data-end="1185" data-start="1167"&gt;ARACELI CHACON&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="1213" data-start="1194" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="1375" data-start="1215" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1265" data-start="1215"&gt;Dia 20 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="1318" data-start="1268"&gt;Dia 22 de setembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Extra-assinatura&lt;br /&gt;
+Ingressos avulsos: R$ 90 a R$ 1.200&lt;/p&gt;
+&lt;p data-end="1397" data-start="1377" dir="auto"&gt;&lt;strong data-end="1390" data-start="1377"&gt;LANG LANG&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="1436" data-start="1399" dir="auto"&gt;Wolfgang Amadeus Mozart&lt;br /&gt;
+Rondó K 485&lt;/p&gt;
+&lt;p data-end="1512" data-start="1438" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Sonata nº 8 op. 13, Patética&lt;br /&gt;
+Sonata nº 31 op. 110&lt;/p&gt;
+&lt;p data-end="1557" data-start="1514" dir="auto"&gt;Isaac Albéniz&lt;br /&gt;
+Suíte espanhola nº 1 op. 47&lt;/p&gt;
+&lt;p data-end="1620" data-start="1559" dir="auto"&gt;Enrique Granados&lt;br /&gt;
+Goyescas&lt;br /&gt;
+Quejas, o la maja y el ruiseñor&lt;/p&gt;
+&lt;p data-end="1695" data-start="1622" dir="auto"&gt;Franz Liszt&lt;br /&gt;
+Consolação nº 2 S 172&lt;br /&gt;
+Venezia e Napoli S 162&lt;br /&gt;
+Tarantella&lt;/p&gt;
+&lt;p data-end="1795" data-start="1697" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1747" data-start="1697"&gt;Dia 26 de setembro às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="1888" data-start="1797" dir="auto"&gt;&lt;strong data-end="1813" data-start="1797"&gt;ROBERTO DÍAZ&lt;/strong&gt;, viola e direção&lt;br /&gt;
+&lt;strong data-end="1888" data-start="1833"&gt;QUARTETO EM RESIDÊNCIA DO CURTIS INSTITUTE OF MUSIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p data-end="1988" data-start="1890" dir="auto"&gt;Obra para quarteto de cordas a ser anunciada (encomenda para o Curtis Institute / estreia mundial)&lt;/p&gt;
+&lt;p data-end="2039" data-is-last-node="" data-is-only-node="" data-start="1990" dir="auto"&gt;Johannes Brahms&lt;br /&gt;
+Quinteto de cordas nº 2 op. 111&lt;/p&gt;
+&lt;p data-end="7" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;OUTUBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="111" data-start="9" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="58" data-start="9"&gt;Dia 17 de outubro às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="187" data-start="113" dir="auto"&gt;&lt;strong data-end="153" data-start="113"&gt;ORQUESTRA REVOLUCIONÁRIA E ROMÂNTICA&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="178" data-start="156"&gt;PABLO HERAS-CASADO&lt;/strong&gt;, direção&lt;/p&gt;
+&lt;p data-end="236" data-start="189" dir="auto"&gt;Carl Maria von Weber&lt;br /&gt;
+Oberon J. 306&lt;br /&gt;
+Abertura&lt;/p&gt;
+&lt;p data-end="286" data-start="238" dir="auto"&gt;Felix Mendelssohn&lt;br /&gt;
+Concerto para violino op. 64&lt;/p&gt;
+&lt;p data-end="334" data-start="288" dir="auto"&gt;Franz Schubert&lt;br /&gt;
+Sinfonia nº 9 D 944, A Grande&lt;/p&gt;
+&lt;p data-end="344" data-start="336" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;NOVEMBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="581" data-start="346" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="395" data-start="346"&gt;Dia 7 de novembro às 17h30 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Vermelha&lt;br /&gt;
+&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="464" data-start="415"&gt;Dia 9 de novembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="532" data-start="482"&gt;Dia 10 de novembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Azul&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="666" data-start="583" dir="auto"&gt;&lt;strong data-end="627" data-start="583"&gt;ACADEMIA INTERNACIONAL BACH DE STUTTGART&lt;/strong&gt;&lt;br /&gt;
+&lt;strong data-end="657" data-start="630"&gt;HANS-CHRISTOPH RADEMANN&lt;/strong&gt;, direção&lt;/p&gt;
+&lt;p data-end="719" data-start="668" dir="auto"&gt;Joseph Martin Kraus&lt;br /&gt;
+Sinfonia em dó menor, Fúnebre&lt;/p&gt;
+&lt;p data-end="760" data-start="721" dir="auto"&gt;Wolfgang Amadeus Mozart&lt;br /&gt;
+Réquiem K 626&lt;/p&gt;
+&lt;p data-end="864" data-start="762" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="812" data-start="762"&gt;Dia 11 de novembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Amarela&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 360&lt;/p&gt;
+&lt;p data-end="1035" data-start="866" dir="auto"&gt;&lt;strong data-end="882" data-start="866"&gt;ARTEMIS JAZZ&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Renee Rosnes&lt;/em&gt;, piano &lt;br /&gt;
+&lt;em&gt;Ingrid Jensen&lt;/em&gt;, trompete &lt;br /&gt;
+&lt;em&gt;Nicole Glover&lt;/em&gt;, saxofone tenor &lt;br /&gt;
+&lt;em&gt;Noriko Ueda&lt;/em&gt;, contrabaixo &lt;br /&gt;
+&lt;em&gt;Allison Miller&lt;/em&gt;, bateria &lt;/p&gt;
+&lt;p data-end="1132" data-start="1037" dir="auto"&gt;Repertório do álbum &lt;em data-end="1076" data-start="1057"&gt;Sketches of Miles&lt;/em&gt;, que celebra o centenário de nascimento de Miles Davis.&lt;/p&gt;
+&lt;p data-end="1235" data-start="1134" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1184" data-start="1134"&gt;Dia 16 de novembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Marrom&lt;br /&gt;
+Ingressos avulsos: R$ 190 / R$ 50&lt;/p&gt;
+&lt;p data-end="1310" data-start="1237" dir="auto"&gt;&lt;strong data-end="1258" data-start="1237"&gt;DUO SIQUEIRA LIMA&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Fernando Lima &lt;/em&gt;e &lt;em&gt;Cecilia Siqueira&lt;/em&gt;, violões&lt;/p&gt;
+&lt;p data-end="1331" data-start="1312" dir="auto"&gt;Programa a definir.&lt;/p&gt;
+&lt;p data-end="1431" data-start="1333" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1383" data-start="1333"&gt;Dia 28 de novembro às 11h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="1488" data-start="1433" dir="auto"&gt;&lt;strong data-end="1452" data-start="1433"&gt;MANUELA KOROSSY&lt;/strong&gt;, soprano&lt;br /&gt;
+&lt;strong data-end="1481" data-start="1464"&gt;ÉRIKA RIBEIRO&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="1617" data-start="1490" dir="auto"&gt;Árias e canções de Antônio Carlos Gomes, Claude Debussy, Giuseppe Verdi, Francesco Cilea, Heitor Villa-Lobos e Manuel de Falla.&lt;/p&gt;
+&lt;p data-end="1720" data-start="1619" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="1669" data-start="1619"&gt;Dia 30 de novembro às 20h00 | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Série Branca&lt;br /&gt;
+Ingressos avulsos: R$ 50 a R$ 690&lt;/p&gt;
+&lt;p data-end="1747" data-start="1722" dir="auto"&gt;&lt;strong data-end="1740" data-start="1722"&gt;HÉLÈNE GRIMAUD&lt;/strong&gt;, piano&lt;/p&gt;
+&lt;p data-end="1803" data-start="1749" dir="auto"&gt;Ludwig van Beethoven&lt;br /&gt;
+Sonata para piano nº 32 op. 111&lt;/p&gt;
+&lt;p data-end="1851" data-is-last-node="" data-is-only-node="" data-start="1805" dir="auto"&gt;Franz Schubert&lt;br /&gt;
+Sonata para piano nº 21 D 960&lt;/p&gt;
+&lt;/section&gt;
+&lt;form autocomplete="off" data-type="unified-composer"&gt;
+&lt;p data-end="8" data-start="0" dir="auto"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;DEZEMBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end="105" data-start="10" dir="auto"&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong data-end="57" data-start="10"&gt;Dia 5 de dezembro às 11h | Grande Auditório&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Concertos Matinais&lt;br /&gt;
+Ingressos avulsos: R$ 50&lt;/p&gt;
+&lt;p data-end="133" data-start="107" dir="auto"&gt;&lt;strong data-end="125" data-start="107"&gt;GABRIELE LEITE&lt;/strong&gt;, violão&lt;/p&gt;
+&lt;p data-end="225" data-start="135" dir="auto"&gt;Heitor Villa-Lobos&lt;br /&gt;
+Melodia Sentimental&lt;br /&gt;
+Mazurka-Choro&lt;br /&gt;
+Schottish-Choro&lt;br /&gt;
+Prelúdio nº 2&lt;/p&gt;
+&lt;p data-end="301" data-start="227" dir="auto"&gt;Lina Pires de Campos&lt;br /&gt;
+Prelúdio nº 2&lt;br /&gt;
+Prelúdio nº 3&lt;br /&gt;
+Ponteio e toccatina&lt;/p&gt;
+&lt;p data-end="371" data-start="303" dir="auto"&gt;Aníbal Augusto Sardinha (Garoto)&lt;br /&gt;
+Lamentos do morro&lt;br /&gt;
+Jorge do Fusa&lt;/p&gt;
+&lt;p data-end="423" data-start="373" dir="auto"&gt;Dilermando Reis&lt;br /&gt;
+Se ela perguntar&lt;br /&gt;
+Dr. Sabe-Tudo&lt;/p&gt;
+&lt;p data-end="468" data-start="425" dir="auto"&gt;Chiquinha Gonzaga&lt;br /&gt;
+Corta-jaca&lt;br /&gt;
+Lua branca&lt;/p&gt;
+&lt;p data-end="522" data-start="470" dir="auto"&gt;João Pernambuco&lt;br /&gt;
+Sons de carrilhões&lt;br /&gt;
+Brasileirinho&lt;/p&gt;
+&lt;p data-end="553" data-start="524" dir="auto"&gt;Gabriele Leite&lt;br /&gt;
+Nano estudos&lt;/p&gt;
+&lt;p data-end="580" data-start="555" dir="auto"&gt;Marco Pereira&lt;br /&gt;
+Bate-coxa&lt;/p&gt;
+&lt;p data-end="605" data-is-last-node="" data-is-only-node="" data-start="582" dir="auto"&gt;Paulo Bellinati&lt;br /&gt;
+Jongo&lt;/p&gt;
+&lt;/form&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 16:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/l-CulturaArtistica2020_1_0_0_0_0_0.png" width="307" height="169" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/sao-paulo" hreflang="pt-br"&gt;São Paulo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/subhomes/temporadas-2027" hreflang="pt-br"&gt;Temporadas 2027&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=LS8ZG6BzSjTfH4MrqqelfhDm74p1Lor6ENV9Qlopspk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Oct 2026 16:42:24 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283440 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo </title>
+  <link>http://concerto.com.br/noticias/reportagem/12-violoncelos-da-filarmonica-de-berlim-farao-concerto-na-sala-sao-paulo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Tradicional conjunto tocará no dia 17, véspera das apresentações da orquestra alemã&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Os 12 Violoncelos da Filarmônica de Berlim se apresentam na Sala São Paulo no sábado, 17 de outubro, às 21h, em um concerto extra promovido pelo Tucca Música pela Cura. A apresentação antecede as duas noites da orquestra completa, que sobe ao palco nos dias 18 e 19 sob regência de Kirill Petrenko. Será a primeira vez que músicos da filarmônica se apresentam na Sala São Paulo e a primeira visita da instituição ao Brasil em 26 anos.&lt;/p&gt;
+&lt;p&gt;Criado em 1972 dentro da própria filarmônica, o grupo 12 Violoncelos da Filarmônica de Berlim surgiu após uma gravação radiofônica do &lt;em&gt;Hymnus&lt;/em&gt;, para doze violoncelos, de Julius Klengel. Desde então, fez sucessivas renovações de seus integrantes mantendo uma agenda independente de turnês e concertos e ao longo de mais de cinco décadas.&lt;/p&gt;
+&lt;p&gt;O programa do concerto na Sala São Paulo começa justamente com o &lt;em&gt;Hymnus&lt;/em&gt;, peça que originou o conjunto. Na primeira parte, o repertório terá ainda obras de Françaix, Mendelssohn e canções francesas como &lt;em&gt;Sous les ponts de Paris&lt;/em&gt;, &lt;em&gt;Fleur de Paris &lt;/em&gt;e &lt;em&gt;La vie en rose&lt;/em&gt;. Depois do intervalo, o grupo percorre o jazz e trilhas do cinema, com &lt;em&gt;Caravan&lt;/em&gt;, &lt;em&gt;Lullaby of Birdland&lt;/em&gt;, &lt;em&gt;As Time Goes By&lt;/em&gt;, &lt;em&gt;Clap Yo' Hands&lt;/em&gt; e o tema de &lt;em&gt;Prenda-me se for capaz&lt;/em&gt;, de John Williams. Também integra o programa &lt;em&gt;South American Getaway&lt;/em&gt;, de Burt Bacharach, além de três obras de Piazzolla: &lt;em&gt;Tres minutos con la realidad&lt;/em&gt;, &lt;em&gt;Adiós Nonino&lt;/em&gt; e &lt;em&gt;Fuga y misterio&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Os ingressos custam entre R$ 300 e R$ 800 (inteira) e de R$ 150 a R$ 400 (meia-entrada). Toda a renda será destinada ao tratamento de crianças e adolescentes com câncer atendidos pela Tucca em parceria com o Santa Marcelina Saúde. &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-17" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para mais informações do Roteiro Musical.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" data-entity-type="file" data-entity-uuid="375aef3d-f5ac-4950-8ae7-afb082e0a079" src="http://concerto.com.br/sites/default/files/inline-images/w-12-celli_by_Peter_Adamik.jpg" /&gt;
+&lt;figcaption&gt;Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 11:49&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-12-celli_by_Peter_Adamik.jpg" width="900" height="606" alt="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" title="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2153" hreflang="pt-br"&gt;Filarmônica de Berlim&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=7oAgdgrocLdSPqltpFkXWNkRlCu2O1T4-_wF6y3z-mw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Oct 2026 11:49:43 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283525 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS</title>
+  <link>http://concerto.com.br/noticias/sao-paulo/tucca-musica-pela-cura-concertos-internacionais-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;&lt;span style="font-size:18px;"&gt;TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="text-align-center"&gt;&lt;strong&gt;TEMPORADA 2027&lt;/strong&gt;&lt;br /&gt;
+[Programação sujeita a alterações]&lt;/p&gt;
+&lt;p class="text-align-center"&gt;&lt;strong&gt;Assinaturas&lt;/strong&gt;: R$ 450,00 a R$ 4.170,00&lt;br /&gt;
+&lt;strong&gt;Renovação de assinatura&lt;/strong&gt;: até 16 de outubro, de R$ 450,00 a R$ 3.500,00 &lt;br /&gt;
+&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: de 19 de outubro a 9 de novembro, de  R$ 450,00 a R$ 3.753,00&lt;/p&gt;
+&lt;p class="text-align-center"&gt;&lt;strong&gt;Aquisição&lt;/strong&gt;: WhatsApp (11) 97567-5387 ou e-mail: &lt;a href="vendas@tucca.org.br" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;vendas@tucca.org.br&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p class="text-align-center"&gt;&lt;strong&gt;Ingressos avulsos&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href="https://tucca.byinti.com/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;https://tucca.byinti.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2c3e50;"&gt;&lt;strong&gt;PROGRAMAÇÃO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MARÇO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 9 de março | Sala São Paulo&lt;br /&gt;
+Dia 10 de março | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EGBERTO GISMONTI&lt;/strong&gt;&lt;br /&gt;
+80 anos de um dos grandes nomes da música brasileira&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 31 de março | Catedral da Sé&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ANDREAS STAIER, cravo&lt;/strong&gt;&lt;br /&gt;
+As Variações Goldberg e o som do cravo&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ABRIL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 14 de abril | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AMARO FREITAS&lt;/strong&gt;&lt;br /&gt;
+Lançamento do quinto disco&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 27 de abril | Teatro Cultura Artística&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MAKOTO OZONE e AVISHAI COHEN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MAIO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 12 de maio | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TOM JOBIM 100&lt;/strong&gt;&lt;br /&gt;
+Centenário celebrado com músicos de diferentes países&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;URIEL HERMAN&lt;/strong&gt; (Israel), piano&lt;br /&gt;
+&lt;strong&gt;PEDRITO MARTINEZ&lt;/strong&gt; (Cuba), percussão&lt;br /&gt;
+&lt;strong&gt;VARIJASHREE VENUGOPAL &lt;/strong&gt;(Índia), cantora&lt;br /&gt;
+&lt;strong&gt;LENNA BAHULE&lt;/strong&gt; (Moçambique), cantora&lt;br /&gt;
+&lt;strong&gt;SEU JORGE&lt;/strong&gt;, cantor&lt;br /&gt;
+&lt;strong&gt;AMANDA MARIA&lt;/strong&gt;, cantora&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;JUNHO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 26 de junho | Sala São Paulo&lt;br /&gt;
+Dia 27 de junho | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ORQUESTRA SINFÔNICA HELIÓPOLIS&lt;br /&gt;
+NEIL THOMSON&lt;/strong&gt;, regente&lt;/p&gt;
+&lt;p&gt;AMADEUS&lt;br /&gt;
+Cine-concerto&lt;/p&gt;
+&lt;p&gt;Lançado em 1984 e baseado na peça de Peter Shaffer, o longa "Amadeus", de Miloš Forman, acompanha a rivalidade entre Mozart e Antonio Salieri e se tornou um dos filmes mais lembrados sobre música clássica, com oito Oscars, entre eles o de melhor filme. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGOSTO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 4 de agosto | Teatro Cultura Artística&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KSENIJA SIDOROVA, acordeón e SÃO PAULO CHAMBER SOLOISTS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obras de Piazzolla e Gershwin, entre outros.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;OUTUBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 27 de outubro | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ANNE-SOPHIE MUTTER e MUTTER'S VIRTUOSI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VIVALDI&lt;br /&gt;
+As quatro estações&lt;/p&gt;
+&lt;p&gt;AFTAB DARVISHI&lt;br /&gt;
+Obras da compositora iraniana&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;NOVEMBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 8 de novembro | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:null;"&gt;&lt;strong&gt;BRUNO DE SÁ, sopranista e HARMONIA DEL PARNÀS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;strong&gt;Marian Rosa Montagut&lt;/strong&gt;, direção&lt;/p&gt;
+&lt;p&gt;O barroco espanhol em espetáculo cênico-musical.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 11:22&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/tucca-logo27-5.jpg" width="260" height="228" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/sao-paulo" hreflang="pt-br"&gt;São Paulo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/subhomes/temporadas-2027" hreflang="pt-br"&gt;Temporadas 2027&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=tde6KHnfv_DpPlIqUk7vUEhGh35qkfOvnSyDmDEu4w0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Oct 2026 11:22:53 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283522 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Academia de Ópera do Theatro São Pedro interpreta opereta 'O morcego', de Strauss II</title>
@@ -148,10 +846,10 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=40wXQcc1MopTuTj0PJ2am4YCm_j05H5ENoXH_l2QcYI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=axt6AQck2tOeg7XljvmhoQcrhap_ojVPTfIE2GHROwo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -188,6 +886,7 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
   <pubDate>Mon, 05 Oct 2026 20:56:07 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283519 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/node/283519#comments</comments>
     </item>
 <item>
   <title>Orquestra de Sopros de Novo Hamburgo</title>
@@ -251,6 +950,7 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
   <pubDate>Mon, 05 Oct 2026 20:51:31 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283520 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-2#comments</comments>
     </item>
 <item>
   <title>Orquestra Camerata Sesi-ES</title>
@@ -314,6 +1014,7 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
   <pubDate>Mon, 05 Oct 2026 19:52:39 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283518 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-68#comments</comments>
     </item>
 <item>
   <title>Orquestra Camerata Sesi-ES</title>
@@ -377,250 +1078,7 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
   <pubDate>Mon, 05 Oct 2026 19:48:58 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283517 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Dellarte anuncia recital do pianista Vikingur Ólafsson no Rio de Janeiro</title>
-  <link>http://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingur-olafsson-no-rio-de-janeiro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte anuncia recital do pianista Vikingur Ólafsson no Rio de Janeiro&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Vikingur Ólafsson fará recital no Theatro Municipal do Rio de Janeiro no dia 19 de outubro, pela série O Globo/Dellarte de Concertos Internacionais. &lt;/p&gt;
-&lt;p&gt;Ólafsson substitui o pianista Daniil Trifonov, que viria ao Brasil em outubro e também cancelou suas apresentações com a Filarmônica de Berlim, em São Paulo, pela temporada da Tucca – os concertos na Sala São Paulo também terá a participação do artista islandês.&lt;/p&gt;
-&lt;p&gt;No recital no Rio de Janeiro, o programa terá obras de Bach (&lt;em&gt;Prelúdio em mi maior, BWV 854 &lt;/em&gt;e &lt;em&gt;Partita nº 6 em mi menor, BWV 830&lt;/em&gt;), Beethoven (&lt;em&gt;Sonata em mi menor, Op. 90&lt;/em&gt; e &lt;em&gt;Sonata em mi maior, Op. 109&lt;/em&gt;) e Schubert (&lt;em&gt;Sonata em mi menor, D. 566&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Grande nome do piano internacional, Víkingur Ólafsson esteve em São Paulo em 2024, quando se apresentou com a Osesp e fez recital solo na Sala São Paulo. Nos últimos anos, ele tem se dedicado em especial à obra de Bach, sobre a qual falou à Revista CONCERTO em sua última visita ao país.&lt;/p&gt;
-&lt;p&gt;“Depois de terminar minha educação musical na Juilliard, aos 24 anos, achei que tocar Bach realmente podia me ajudar a melhorar e crescer como músico – afinal, não há pensamento oculto ou fora de foco, ou passagem borrada; Bach revela sua base fundamental como músico. Então sua música me ajudou a me tornar meu próprio professor de música, aquela que é a principal transição na vida de qualquer músico”, disse. &lt;/p&gt;
-&lt;p&gt;“O modo como as estruturas musicais de Bach se traduzem facilmente em poesia, e como a poesia está sempre se modificando, é o que faz de Bach o compositor mais importante da minha vida – e, no meu ponto de vista, o compositor mais importante que já houve”, completou.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O pianista Vikingur Ólafsson [Divulgação]" data-entity-type="file" data-entity-uuid="e985e2a9-dbaa-43c5-b6a5-f25570f86732" src="http://concerto.com.br/sites/default/files/inline-images/w-Vikingur_Olafsson_0%20%281%29.jpg" /&gt;
-&lt;figcaption&gt;O pianista Vikingur Ólafsson [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 13:45&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Vikingur_Olafsson_0%20%281%29.jpg" width="900" height="600" alt="O pianista Vikingur Ólafsson [Divulgação]" title="O pianista Vikingur Ólafsson [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=qRKwXyglWCmiIw_zhZk_4RsGworYUYAkxHJ2yLxo68Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 13:45:51 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283516 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro</title>
-  <link>http://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A versão para balé de uma história imortalizada por Shakespeare ganhou a música de Prokofiev em 1940 – ou melhor, estreou em 1940, na República Tcheca, depois de seis anos de idas e vindas entre o compositor e as companhias Kirov de Leningrado e Bolshoi de Moscou: a primeira não aceitou o tema proposto e a segunda recusou o resultado, considerando a partitura difícil demais para ser coreografada. Prokofiev, então dedicou-se a criar as duas primeiras suítes orquestrais com os temas do balé (a terceira foi composta em 1946). Mas, em 1938, a ideia do balé voltou à baila. Hoje, é considerada uma das joias do balé clássico.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Romeu e Julieta&lt;/em&gt; volta ao palco do Theatro Municipal do Rio de Janeiro em temporada de 7 a 11 de outubro, com a mesma montagem que foi apresentada em 2024: Orquestra Sinfônica e Ballet da casa, direção, concepção e coreografia de Luiz Fernando Bongiovanni, regência de Tobias Volkmann e direção geral de Hélio Bejani. No elenco, os primeiros bailarinos Márcia Jaqueline, Cícero Gomes, Juliana Valadão e os solistas Gabriela Cidade e Rodrigo Hermesmeyer.&lt;/p&gt;
-&lt;p&gt;“O balé &lt;em&gt;Romeu e Julieta &lt;/em&gt;composto por Prokofiev tem algumas das mais belas páginas de música escrita para orquestra sinfônica em todos os tempos”, diz o regente. “É uma música que envolve o público com sua paixão, teatralidade, força expressiva, belas harmonias e cores orquestrais. Emociona a todos com uma capacidade imensa de transmitir a força deste amor proibido através das mais belas melodias.”&lt;/p&gt;
-&lt;p&gt;O Municipal carioca já recebeu muitas versões de &lt;em&gt;Romeu e Julieta &lt;/em&gt;– uma delas foi a de John Cranko, criada em 1958 para o Ballet do Teatro Alla Scala de Milão. Em 1962, revisada, foi apresentada pelo Stuttgart Ballet, com a brasileira Márcia Haydée e Richard Cragun nos papéis-título. Essa versão chegou ao Rio de Janeiro em 1981, com um elenco mais do que estelar: Ana Botafogo, Áurea Hammerli, Márcia Haydée e Natalia Makarova revezando-se como Julieta e Fernando Bujones, Fernando Mendes, Richard Cragun e Stephen Jefferies no papel de Romeu. Márcia dirigiu em 2011 uma nova montagem no Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-10-07" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Cena do balé 'Romeu e Julieta' [Divulgação]" data-entity-type="file" data-entity-uuid="031c0a6e-4631-44ac-820c-5ca44d579ada" src="http://concerto.com.br/sites/default/files/inline-images/w-romeu_julieta.jpeg" /&gt;
-&lt;figcaption&gt;Cena do balé 'Romeu e Julieta' [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 13:33&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-romeu_julieta.jpeg" width="900" height="600" alt="Cena do balé 'Romeu e Julieta' [Divulgação]" title="Cena do balé 'Romeu e Julieta' [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/danca" hreflang="pt-br"&gt;Dança&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=TLUPjVO7RP-KRn_YKJgivNEVtSZcF0bOKUHeCHlZtx0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 13:33:55 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283515 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Bandolinista Avi Avital faz concerto pela série da Tucca</title>
-  <link>http://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A série de concertos internacionais da Tucca recebe nesta segunda-feira, 5, na Sala São Paulo, o bandolinista Avi Avital para apresentações com a Orquestra Barroca SP 440 e obras de Vivaldi e Bach.&lt;/p&gt;
-&lt;p&gt;Avital é responsável por colocar seu instrumento de maneira definitiva no cenário da música clássica, se voltando tanto ao repertório antigo quanto a novas obras – ele já foi responsável pela estreia de mais de cem peças, muitas escritas a seu pedido.&lt;/p&gt;
-&lt;p&gt;Seu trabalho propõe uma releitura da tradição musical do ocidente e do oriente – propondo entre elas diálogo estimulante. Questionado em uma entrevista a respeito de sua relação com o bandolim, Avital definiu-se como “um cavaleiro montando em seu cavalo”. “Eu o conheço muito bem, minhas mãos se lembram de cada curva dele. Eu tenho profunda compreensão a respeito de como ele funciona e, quando estou no palco, ele se torna parte de mim.”&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Prepare-se&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Em outubro, a Tucca traz de volta a São Paulo, após 26, anos a Filarmônica de Berlim para dois concertos na Sala São Paulo. As apresentações contam com a regência do maestro titular Kirill Petrenko. No dia 18, o programa tem o &lt;em&gt;Concerto para piano nº 1&lt;/em&gt; de Brahms, com solos de um dos grandes nomes do instrumento da atualidade, Vikingur Ólafsson; e &lt;em&gt;Assim falou Zarathustra&lt;/em&gt;, poema sinfônico de Richard Strauss. Já no dia 19, serão apresentadas as &lt;em&gt;Variações enigma&lt;/em&gt;, de Elgar, e a &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Tchaikovsky. &lt;/p&gt;
-&lt;p&gt;A série da Tucca inclui ainda, nos dias 24 e 25, a série Aprendiz de Maestro, com o programa Aprendiz de feiticeiro, com participação do grupo teatral Pia Fraus e obras de Saint-Saëns, Dukas, Mussorgsky, Prokofiev, Tchaikovsky, Bach e Grieg. A regência é de João Maurício Galindo e de Daniel Warren.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-05" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" data-entity-type="file" data-entity-uuid="9c3a1d9f-59ce-4476-8672-3f8fbce66435" src="http://concerto.com.br/sites/default/files/inline-images/w-AviAvital_c_HaraldHoffmann.jpg" /&gt;
-&lt;figcaption&gt;O bandolinista Avi Avital [Divulgação/Harald Hoffmann]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 11:09&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-AviAvital_c_HaraldHoffmann.jpg" width="800" height="579" alt="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" title="O bandolinista Avi Avital [Divulgação/Harald Hoffmann]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=sebPUapGU0arqkMZP5CAfjyurGoYp-MX6lPpxGV6YsY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 11:09:56 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283514 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-67#comments</comments>
     </item>
 
   </channel>
