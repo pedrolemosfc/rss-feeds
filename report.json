@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out"
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 32,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 32 items"
+    "notes": "scraped 31 items"
   },
   {
     "name": "noize",
@@ -450,18 +450,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 56,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 56 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 14,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 14 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 11,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {

@@ -12,13 +12,13 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Tue, 06 Oct 2026 15:17:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Oct 2026 21:03:22 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.6</generator>
+	<generator>https://wordpress.org/?v=7.0.7</generator>
 
 <image>
 	<url>https://casanaturamusical.com.br/wp-content/uploads/2026/02/cropped-cropped-casa-natura-musical-32x32.jpg</url>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nina Oliveira</title>
+		<link>https://casanaturamusical.com.br/eventos/nina-oliveira/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nina-oliveira</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 20:51:15 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17214</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Tasha e Tracie</title>
 		<link>https://casanaturamusical.com.br/eventos/tasha-e-tracie/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tasha-e-tracie</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17134</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Juliana Linhares</title>
-		<link>https://casanaturamusical.com.br/eventos/juliana-linhares/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=juliana-linhares</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17125</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
