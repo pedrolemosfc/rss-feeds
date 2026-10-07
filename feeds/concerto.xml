@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 06 Oct 2026 21:03:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 01:38:50 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=Ss9z0fUukxrDOGU1fTsqDvq32iPsX-syxCsbFQESpDY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1NyIsImRpc2xpa2VzIjoiMCJ9?token=WzofV307tkVNEZ3YMXBkqamVawqeLi3zEoPULlXN-is?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;557&lt;/span&gt;
@@ -80,6 +80,150 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Osesp convida Fabio Zanon para concerto dedicado à música japonesa</title>
+  <link>http://concerto.com.br/noticias/musica-classica/osesp-convida-fabio-zanon-para-concerto-dedicado-musica-japonesa</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Osesp convida Fabio Zanon para concerto dedicado à música japonesa&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 8, a Orquestra Sinfônica do Estado de São Paulo convida Fabio Zanon para o concerto Um mergulho na música japonesa. Regida por Jac van Steen, a orquestra e o solista interpretam obras de Toru Takemitsu. &lt;em&gt;Sonho lúcido&lt;/em&gt;, de Noriko Baba, e a &lt;em&gt;Sinfonia nº 6&lt;/em&gt; de Dvořák completam o programa.&lt;/p&gt;
+&lt;p&gt;O programa traz o universo dos sonhos à sala de concerto. Toru Takemitsu compôs &lt;em&gt;To the edge of the dream&lt;/em&gt; (&lt;em&gt;à beira do sonho&lt;/em&gt;), para violão e orquestra, em 1983, sob encomenda do Festival Internacional de Liège, na Bélgica. A obra parte da estética do surrealismo para ilustrar um universo onírico, marcado pela fragmentação das ideias e pela uma atmosfera noturna. Em 1894, escreveu &lt;em&gt;Vers, l'arc-en-ciel, Palma (Versos, arco-íris, Palma)&lt;/em&gt;, que se afasta da indefinição dos sonhos e homenageia a vida do pintor Joan Miró. A obra retrata o momento em que o artista, fugindo da invasão nazista na França, se muda para Palma de Mallorca, na Espanha.&lt;/p&gt;
+&lt;p&gt;Noriko Baba explora outro fenômeno do sono em &lt;em&gt;Klartraum (Sonho lúcido)&lt;/em&gt;. A obra, de 1984, aborda o limite entre a lucidez e o atordoamento ao descrever um sonho consciente. Ao longo da obra, a compositora experimenta na instrumentação ao utilizar pregadores, garras-jacaré e agulhas de tricô nas cordas, enquanro caixas de música tocam melodias de Tchaikovsky e Johann Strauss II.&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-06"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt; &lt;/u&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/tucca-lanca-temporada-internacional-com-anne-sophie-mutter-andreas-staier-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tucca lança temporada internacional com Anne-Sophie Mutter, Andreas Staier e Bruno de Sá &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/academia-de-opera-do-theatro-sao-pedro-interpreta-opereta-o-morcego-de-strauss-ii" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Academia de Ópera do Theatro São Pedro interpreta opereta 'O morcego', de Strauss II&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/12-violoncelos-da-filarmonica-de-berlim-farao-concerto-na-sala-sao-paulo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingur-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingur Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Fabio Zanon [ Divulgação/ ©Heloisa Bortz]" data-entity-type="file" data-entity-uuid="13693375-3e5e-4e61-981e-e3d3193094da" src="http://concerto.com.br/sites/default/files/inline-images/w-fzanon.jpg" /&gt;
+&lt;figcaption&gt;Fabio Zanon [ Divulgação/ ©Heloisa Bortz]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 07/10/2026 - 00:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-fzanon.jpg" width="900" height="600" alt="Fabio Zanon [ Divulgação/ ©Heloisa Bortz]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MzAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Q0qVIpGEZoITPTGC_GlCgeAM1KIsvDDDDiJj4pm-OFc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 07 Oct 2026 00:33:19 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283530 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica do Paraná</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-do-parana-216</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica do Paraná&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 18:17&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto pré-turnê Xangai, em comemoração ao Ano Cultural Brasil-China 2026. Homenagem ao maestro Roberto Tibiriçá. Programa: Camargo Guarnieri - Abertura Concertante; Villa-Lobos - Bachianas brasileiras nº 4; e Nepomuceno - Sinfonia em sol menor. &lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-08T20:30:00Z" class="datetime"&gt;qui, 08/10/2026 - 20:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1385" hreflang="pt-br"&gt;Curitiba, PR&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-teatro-guaira-guairao" hreflang="und"&gt;Centro Cultural Teatro Guaíra – Auditório Bento Munhoz da Rocha (Guairão) &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 20.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Oct 2026 18:17:40 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283527 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>CULTURA ARTÍSTICA</title>
@@ -564,10 +708,10 @@ Jongo&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=LS8ZG6BzSjTfH4MrqqelfhDm74p1Lor6ENV9Qlopspk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=KM99g7b_cJG7lr3w_XvDxssWkbhyUI69_QthvreVkvM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;26&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -577,6 +721,92 @@ Jongo&lt;/p&gt;
   <pubDate>Tue, 06 Oct 2026 16:42:24 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283440 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Tucca lança temporada internacional com Anne-Sophie Mutter, Andreas Staier e Bruno de Sá </title>
+  <link>http://concerto.com.br/noticias/reportagem/tucca-lanca-temporada-internacional-com-anne-sophie-mutter-andreas-staier-e</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tucca lança temporada internacional com Anne-Sophie Mutter, Andreas Staier e Bruno de Sá &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Programação terá nove concertos, de março a novembro, com atrações que vão da música clássica ao jazz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Tucca anunciou a temporada 2027 de sua série Concertos Internacionais, que reúne nove atrações entre março e novembro e combina nomes consagrados da música clássica, do jazz e da cena contemporânea. Os concertos serão realizados na Sala São Paulo e no Teatro Cultura Artística, e um recital acontecerá na Catedral da Sé. Toda a renda será revertida ao tratamento de crianças e adolescentes com câncer atendidos pela instituição em parceria com o Santa Marcelina Saúde.&lt;/p&gt;
+&lt;p&gt;A série abre em março, nos dias 9 e 10, na Sala São Paulo, com a apresentação do compositor, pianista, violonista e arranjador Egberto Gismonti, um dos maiores nomes da música instrumental brasileira. Gismonti, que transita com naturalidade pela música erudita, pela música popular, pelo jazz e pelas tradições brasileiras, fará recitais que darão início às comemorações de seus 80 anos.&lt;/p&gt;
+&lt;p&gt;O primeiro destaque clássico da temporada será a apresentação do tecladista alemão Andreas Staier. Nome de referência da interpretação historicamente informada, Staier tocará ao cravo as &lt;em&gt;Variações Goldberg&lt;/em&gt;, uma das mais ambiciosas partituras de Johann Sebastian Bach. O recital, que acontecerá no dia 31 de março – aniversário de Bach – marca também a estreia da programação da Tucca na Catedral da Sé.&lt;/p&gt;
+&lt;p&gt;Novamente na Sala São Paulo, no dia 14 de abril, acontece o show do pianista recifense Amaro Freitas, que em seu trabalho mistura jazz, ritmos afro-brasileiros e música do Nordeste. O artista será acompanhado por banda, conjunto de cordas e coro indígena para apresentar obras de seu quinto disco, ainda inédito.&lt;/p&gt;
+&lt;p&gt;Em 27 de abril, no Teatro Cultura Artística, a atração é o duo formado pelo pianista japonês Makoto Ozone e o contrabaixista israelense Avishai Cohen, juntos pela primeira vez no Brasil. Formado pela Berklee, em Boston, Ozone divide a carreira entre jazz e música clássica e já tocou com grandes orquestras, enquanto Cohen é conhecido por incorporar ao jazz elementos da música do Mediterrâneo e do Oriente Médio.&lt;/p&gt;
+&lt;p&gt;No ano em que o Brasil comemora o centenário de Tom Jobim, a temporada internacional da Tucca presta homenagem ao compositor com músicos de diferentes países. Reunidos pelo pianista israelense Uriel Herman, conhecido por aproximar jazz, música clássica e tradições do Oriente Médio, estarão no palco executando obras de Jobim o percussionista cubano Pedrito Martinez, as cantoras Varijashree Venugopal (Índia) e Lenna Bahule (Moçambique), além dos brasileiros Seu Jorge e Amanda Maria. O concerto será no dia 12 de maio, na Sala São Paulo.&lt;/p&gt;
+&lt;p&gt;A série segue com uma novidade: o cine-concerto com o filme &lt;em&gt;Amadeus&lt;/em&gt;, de Milos Forman, vencedor de oito Oscars. Nos dias 26 e 27 de junho, na Sala São Paulo, o longa-metragem será exibido com sua trilha tocada ao vivo pela Sinfônica Heliópolis, sob regência do maestro Neil Thomson.&lt;/p&gt;
+&lt;p&gt;Obras de Piazzolla e Gershwin estão no centro da apresentação da acordeonista letã Ksenija Sidorova, uma das grandes intérpretes internacionais do instrumento. Sidorova será acompanhada pelo São Paulo Chamber Soloists, conjunto de cordas que reúne alguns dos melhores músicos da capital paulista, em concerto no dia 4 de agosto, no Teatro Cultura Artística.&lt;/p&gt;
+&lt;p&gt;Certamente uma das grandes atrações clássicas do ano será a celebrada violinista alemã Anne-Sophie Mutter, que se apresenta no dia 27 de outubro. A artista estreou aos 13 anos sob regência de Herbert von Karajan e desde então desenvolve carreira nos principais palcos do mundo. Mutter tem uma importante discografia pelo selo Deutsche Grammophon, combinando interpretações de referência do repertório tradicional com registros de obras contemporâneas. Após 30 anos, volta ao Brasil acompanhada do conjunto de cordas Mutter’s Virtuosi, formado por jovens músicos de sua fundação. O concerto na Sala São Paulo terá &lt;em&gt;As quatro estações&lt;/em&gt;, de Vivaldi, ao lado de uma peça da compositora iraniana Aftab Darvishi.&lt;/p&gt;
+&lt;p&gt;A última atração da temporada da Tucca é o sopranista brasileiro Bruno de Sá. Artista de exceção, que nos últimos anos alcançou reconhecimento internacional e gravou pelos selos Warner Classics e Erato, Sá se apresenta na Sala São Paulo no dia 8 de novembro. Acompanhado pelo Harmonia del Parnàs, grupo de Valência dirigido por Marian Rosa Montagut e especializado na música espanhola dos séculos XVII e XVIII, o sopranista cantará em “Las dos caras del amor”, espetáculo com elementos cênicos dedicado ao barroco espanhol.&lt;/p&gt;
+&lt;p&gt;“Quem vier à temporada não vai encontrar um concerto igual ao outro. Cada programa tem a sua cara, e a pessoa que gosta de jazz pode sair de lá com vontade de ouvir música clássica – e o contrário também”, afirma a diretora artística Bela Pulfer. “No fim, é a música ajudando a cuidar das crianças e adolescentes em tratamento oncológico, e essa é a razão de existir do projeto.”&lt;/p&gt;
+&lt;p&gt;As assinaturas para os nove concertos custam a partir de R$ 450, com parcelamento em até 12 vezes, e garantem lugar cativo e descontos em ingressos avulsos e produtos da Tucca. A renovação ocorre de 5 a 16 de outubro, e novas assinaturas podem ser feitas entre 19 de outubro e 9 de novembro, pelo WhatsApp 11 97567 5387 ou pelo e-mail &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sao-paulo/tucca-musica-pela-cura-concertos-internacionais-0" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para mais informações sobre a temporada Tucca Concertos Internacionais&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A violinista alemã Anne-Sophie Mutter é um dos destaques da temporada (divulgação)" data-entity-type="file" data-entity-uuid="d37b4521-73b7-4eee-92ef-d7e19177e75b" src="http://concerto.com.br/sites/default/files/inline-images/w-Anne-Sophie-Mutter_div.jpg" /&gt;
+&lt;figcaption&gt;A violinista alemã Anne-Sophie Mutter é um dos destaques da temporada (divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 16:02&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Anne-Sophie-Mutter_div.jpg" width="900" height="623" alt="A violinista alemã Anne-Sophie Mutter é um dos destaques da temporada (divulgação)" title="A violinista alemã Anne-Sophie Mutter é um dos destaques da temporada (divulgação)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2061" hreflang="pt-br"&gt;Tucca&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=TELcLzp7sJjKZm3XKJXfiTAeDH8bUao3uq3R5GQpcr0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Oct 2026 16:02:34 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283528 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo </title>
@@ -642,10 +872,10 @@ Jongo&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=7oAgdgrocLdSPqltpFkXWNkRlCu2O1T4-_wF6y3z-mw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=eRNGAqfNBYn-Ry4ZV9euyCz8h60ofKaLCrgIMt9BX7c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -725,7 +955,7 @@ Obras da compositora iraniana&lt;/p&gt;
 
   &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
     &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/tucca-logo27-5.jpg" width="260" height="228" alt="" typeof="foaf:Image" /&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/Banner-Tucca_27.jpg" width="900" height="504" alt="" typeof="foaf:Image" /&gt;
 
 &lt;/div&gt;
           &lt;/div&gt;
@@ -765,10 +995,10 @@ Obras da compositora iraniana&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=tde6KHnfv_DpPlIqUk7vUEhGh35qkfOvnSyDmDEu4w0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kw92fPOwvGYlRdCo5vP7tkm43SkW5I6MC6IfIPUzAvk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -846,10 +1076,10 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=axt6AQck2tOeg7XljvmhoQcrhap_ojVPTfIE2GHROwo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=GxGkqLC5Jxzde-wyUmEj4w88Xh9AcrythGIdQHqF03g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -861,49 +1091,73 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
     <guid isPermaLink="false">283521 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Igreja Ascensão</title>
-  <link>http://concerto.com.br/node/283519</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Igreja Ascensão&lt;/span&gt;
+  <title>Prepare-se: destaques da programação musical da semana</title>
+  <link>http://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;
 
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Bento Gonçalves, 2394 - Centro - Tel. (51) 99166-6623 - https://www.luteranos.com.br/paroquia/novo-hamburgo-ascensao &lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 20:56&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Novo Hamburgo, RS&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 20:56:07 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283519 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/283519#comments</comments>
-    </item>
-<item>
-  <title>Orquestra de Sopros de Novo Hamburgo</title>
-  <link>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-2</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Sopros de Novo Hamburgo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 20:51&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Igrejas. Memória, luz e esperança. Lincoln da Gama Lobo - regente. Participação: Gabriel Ludwig - violino. Programa: Otto M. Schwarz - The Story of Anne Frank e Lux Aeterna; Ennio Morricone - Cinema Paradiso; Debussy - Clair de Lune; Frank Ticheli - Rest; Piazzolla - Ave Maria; e Puccini - Nessun Dorma.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-07T19:30:00Z" class="datetime"&gt;qua, 07/10/2026 - 19:30&lt;/time&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Programação da semana tem recitais dos pianistas Piotr Alexewicz e Olga Pashchenko; nova produção da opereta &lt;em&gt;O morcego&lt;/em&gt;, de Strauss, no Theatro São Pedro de São Paulo; o balé &lt;em&gt;Romeu e Julieta&lt;/em&gt;, de Prokofiev, no Theatro Municipal do Rio de Janeiro; Fabio Zanon com a Osesp; e agenda dedicada às crianças. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Segunda-feira, dia 5&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O bandolinista &lt;strong&gt;Avi Avital&lt;/strong&gt; se apresenta com a Orquestra Barroca SP 440 na Sala São Paulo. O concerto é promovido pela Tucca Música pela Cura e o programa traz os concertos &lt;em&gt;BWV 1056&lt;/em&gt; e &lt;em&gt;BWV 1041, &lt;/em&gt;de Bach, e &lt;em&gt;RV 425&lt;/em&gt; e &lt;em&gt;RV 565,&lt;/em&gt; de Vivaldi.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Terça-feira, dia 6&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Em São Paulo, &lt;strong&gt;The Moscow Ballet&lt;/strong&gt; traz releitura do clássico &lt;em&gt;Cinderela, &lt;/em&gt;no Teatro Bradesco. Com reapresentação no dia 7, o espetáculo conta com os bailarinos Oksana Bondareva e Leonardo de Checchi.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt; Academia de Ópera do Theatro São Pedro e Orquestra Jovem do Theatro São Pedro &lt;/strong&gt;realizam montagem da opereta &lt;em&gt;O morcego&lt;/em&gt;, de Johann Strauss II, no Theatro São Pedro. Priscila Bomfin é a diretora musical, Ronaldo Zero é o diretor cênico.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quarta-feira, dia 7&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Balé&lt;/strong&gt; e a &lt;strong&gt;Orquestra Sinfônica do Theatro Municipal do Rio de Janeiro&lt;/strong&gt; interpretam &lt;em&gt;Romeu e Julieta&lt;/em&gt;, de Prokofiev. Com coreografia de Reginaldo Oliveira, a produção conta com a regência de Tobias Volkmann. Reapresentações ocorrem nos dias 8, 9, 10 e 11. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quinta-feira, dia 8&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica do Estado de São Paulo &lt;/strong&gt;convida Fábio Zanon para o concerto Um mergulho na música japonesa. Regida por Jac van Steen, orquestra e solista interpretam obras de Toru Takemitsu. &lt;em&gt;Sonho lúcido&lt;/em&gt;, de Noriko Baba, e a &lt;em&gt;Sinfonia nº 6 &lt;/em&gt;de Dvořák completam o programa.&lt;/p&gt;
+&lt;p&gt;A cantora&lt;strong&gt; Tatiana Parra&lt;/strong&gt; e o pianista &lt;strong&gt;Vardan Ovsepian&lt;/strong&gt; apresentam músicas do álbum &lt;em&gt;The flight of the hidden heart&lt;/em&gt;, na Sala Beatriz Segall, em São Paulo. O repertório mistura referências da música brasileira, do jazz, da música de concerto e das tradições armênias. &lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Minas Gerais&lt;/strong&gt; realiza o concerto O Maestro de Capela, no Palácio das Artes. Sob regência de André Brandt, a orquestra convida o baixo-barítono Felipe Oliveira para interpretar a ópera&lt;em&gt; Il maestro di cappella&lt;/em&gt;, de Domenico Cimarosa.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sexta-feira, dia 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Os bailarinos &lt;strong&gt;Beatriz Sano&lt;/strong&gt; e &lt;strong&gt;Eduardo Fukushima&lt;/strong&gt; apresentam &lt;em&gt;Horizonte&lt;/em&gt; na Estação Motiva Cultural. A concepção, direção e performance da obra são de Sano e Fukushima, que contam com a música de Chico Libholz, criação de luz e espaço de Hideki Matsuka, dramaturgia de Júlia Rocha e figurinos de Rita Comparato. A produção é da associação cultural Corpo Rastreado.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica da Universidade Estadual de Londrina&lt;/strong&gt; se apresenta no Cine Teatro Ouro Verde, em Londrina. Jovana Trifunovic, que toca o violino, rege a orquestra e recebe o violista Jairo Chaves para interpretar obras de Astor Piazzolla. O programa se repete no dia 10. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, dia 10&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Ligia Amadio rege a &lt;strong&gt;Orquestra Sinfônica da USP&lt;/strong&gt; no Centro Cultural Camargo Guarnieri. A orquestra convida o violinista Claudio Micheletti para interpretar o &lt;em&gt;Concerto para violino op. 64&lt;/em&gt;, de Mendelssohn. A &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, &lt;em&gt;Italiana&lt;/em&gt;, completa o programa. A entrada é franca.&lt;/p&gt;
+&lt;p&gt;Em Ouro Branco, começa a&lt;strong&gt; 20ª Semana da Música de Ouro Branco&lt;/strong&gt;, na Casa da Música de Ouro Branco. Charles Russin rege o concerto de abertura com a Jovem Orquestra de Ouro Branco e convida o oboísta Alexandre Barros, a clarinetista Paula Pires e o violinista Mikhail Bugaev. O evento é coordenado por Kênia Libânio e segue até o dia 17. No dia 11, o festival recebe o pianista Claudio Dauelsberg.&lt;/p&gt;
+&lt;p&gt;O 5º Festival Chopin continua com recital do pianista &lt;strong&gt;Piotr Alexewicz&lt;/strong&gt;, no Teatro Cultura Artística. O programa inclui a &lt;em&gt;Polonaise-Fantaisie op. 61&lt;/em&gt;, os &lt;em&gt;Noturnos nº 1 e nº 2 op. 9 &lt;/em&gt;e o &lt;em&gt;Andante Spianato e Grande Polonaise brillante op. 22&lt;/em&gt;. Obras de Debussy e Rachmaninov integram o repertório. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Domingo, dia 11&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A pianista &lt;strong&gt;Olga Pashchenko&lt;/strong&gt; realiza recital matinal no Teatro Cultura Artística. Ela toca &lt;em&gt;O Ano&lt;/em&gt;, &lt;em&gt;H 385&lt;/em&gt;, de Fanny Mendelssohn.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Experimental de Repertório e o Balé da Cidade de São Paulo &lt;/strong&gt;homenageiam a semana da criança no Theatro Municipal de São Paulo. Sob regência de Wagner Polistchuk e Leonardo Labrada, músicos e bailarinos interpretam &lt;em&gt;Lendas brasileiras&lt;/em&gt;, de Alexandre Guerra.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Sala São Paulo&lt;/strong&gt; também recebe dois concertos que celebram a infância. No período da manhã, Mônica Giardini rege o São Paulo Wind Ensemble em &lt;em&gt;O pequeno príncipe, conto musical baseado na obra de Antoine de Saint-Exupéry&lt;/em&gt;, de Angelo Sormani, com narração de Mário Spatizziani. À tarde, Claudio Cruz rege a Orquestra Jovem do Estado em um programa com trilhas sonoras de filmes.&lt;/p&gt;
+&lt;p&gt;Na &lt;strong&gt;Estação Motiva Cultural&lt;/strong&gt;, a série Primeiros Acordes, voltada ao público infantil, continua com o espetáculo Vitrolinha, com a Palhaça Rubra. Por fim, o Coro da Osesp e Coro Infantil da Osesp apresentam obras de compositores brasileiros, sob regência de Kaique Stumpf.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/morre-aos-72-anos-o-maestro-roberto-tibirica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 72 anos o maestro Roberto Tibiriçá&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/bandolinista-avi-avital-faz-concerto-pela-serie-da-tucca" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Bandolinista Avi Avital faz concerto pela série da Tucca&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/dellarte-anuncia-recital-do-pianista-vikingu-olafsson-no-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Dellarte anuncia recital do pianista Vikingu Ólafsson no Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/bale-romeu-e-julieta-volta-ao-palco-do-theatro-municipal-do-rio-de-janeiro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Balé ‘Romeu e Julieta’ volta ao palco do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Dança em Diálogo &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" data-entity-type="file" data-entity-uuid="561e038a-d456-42a3-9e04-ed62511ac596" src="http://concerto.com.br/sites/default/files/inline-images/w_pianista_piotr.jpg" /&gt;
+&lt;figcaption&gt;O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/teatro-cultura-artistica-anuncia-temporada-2027" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Teatro Cultura Artística anuncia temporada 2027&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-anuncia-temporada-2027-com-beethoven-como-eixo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Minas Gerais anuncia temporada 2027 com Beethoven como eixo &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/curso-aborda-o-futuro-da-critica-musical-no-seculo-xxi" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Curso aborda o futuro da crítica musical no século XXI&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/entrevista/simone-menezes-grava-album-com-orquestra-sinfonica-da-radio-de-viena" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Simone Menezes grava álbum com a Orquestra Sinfônica da Rádio de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/don-carlo-respira-como-monumento-sombrio-da-opera-do-seculo-xix-em-montagem-no" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Don Carlo’ respira como monumento sombrio da ópera do século XIX em montagem no Theatro Municipal&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Luiz Sampaio&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/no-elenco-na-orquestra-e-na-montagem-um-don-carlo-de-conviccao-dramatica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;No elenco, na orquestra e na montagem, um ‘Don Carlo’ de convicção dramática&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Jorge Coli&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 23:03&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w_pianista_piotr.jpg" width="900" height="601" alt="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" title="O pianista Piotr Alexewicz, atração do Festival Chopin [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -911,174 +1165,39 @@ Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&l
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1650" hreflang="pt-br"&gt;Novo Hamburgo, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283519" hreflang="pt-br"&gt;Igreja Ascensão&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada antecipada pela TKTR.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 20:51:31 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283520 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-2#comments</comments>
-    </item>
-<item>
-  <title>Orquestra Camerata Sesi-ES</title>
-  <link>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-68</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Camerata Sesi-ES&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 19:52&lt;/span&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada Pop: Especial Natiruts. &lt;/div&gt;
-          &lt;/div&gt;
+  
+&lt;/section&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T19:30:00Z" class="datetime"&gt;sex, 23/10/2026 - 19:30&lt;/time&gt;
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=fOjNXS6CAUYuw9P6spT31PM0r7fqY5DdTJCggVGLg8Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
 &lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-sesi-16" hreflang="und"&gt;Teatro do Sesi Vitória&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 40 a R$ 80. Vendas: https://bileto.sympla.com.br/event/127376?share_id=1-copiarlink. Entrada solidária: R$ 40, mediante a doação de um dos seguintes itens: 1 galão de 5 litros de água sanitária; kit com 10 frascos de detergente; 1 caixa de sabão em pó; ou 1 galão de 5 litros de desinfetante.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Mon, 05 Oct 2026 19:52:39 +0000</pubDate>
+  <pubDate>Mon, 05 Oct 2026 23:03:25 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283518 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-68#comments</comments>
-    </item>
-<item>
-  <title>Orquestra Camerata Sesi-ES</title>
-  <link>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-67</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Camerata Sesi-ES&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 05/10/2026 - 19:48&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada Clássica: Mozart.  Isaac Gonçalves - regente. Programa: obras de Mozart. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-09T19:30:00Z" class="datetime"&gt;sex, 09/10/2026 - 19:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-sesi-16" hreflang="und"&gt;Teatro do Sesi Vitória&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60. Vendas: https://bileto.sympla.com.br/event/127350?share_id=1-copiarlink. Entrada solidária: R$ 30, mediante a doação de um dos seguintes itens: 1 galão de 5 litros de água sanitária; kit com 10 frascos de detergente; 1 caixa de sabão em pó; 1 galão de 5 litros de desinfetante; ou fralda descartável geriátrica ou infantil.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 05 Oct 2026 19:48:58 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283517 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-camerata-sesi-es-67#comments</comments>
+    <guid isPermaLink="false">283506 at http://concerto.com.br</guid>
     </item>
 
   </channel>
