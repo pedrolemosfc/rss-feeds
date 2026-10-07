@@ -5,7 +5,21 @@
 <link>https://institutocare.org.br/programacao/</link>
 <description>Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 07 Oct 2026 08:51:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 17:32:16 +0000</lastBuildDate>
+<item>
+<title>Acontece em Outubro no Viveiro-escola</title>
+<link>https://institutocare.org.br/programacao/acontece-em-outubro-no-viveiro-escola/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/acontece-em-outubro-no-viveiro-escola/</guid>
+<pubDate>Wed, 07 Oct 2026 14:09:07 +0000</pubDate>
+<description>Socioambiental — Outubro chega ao Viveiro-Escola Eduardo Jorge, em São Bento do Sapucaí, com encontros que aproximam arte, natureza, pesquisa, educação ambiental e os saberes da Serra da Mantiqueira.</description>
+</item>
+<item>
+<title>Acontece em Outubro no Çarê</title>
+<link>https://institutocare.org.br/programacao/acontece-em-outubro-no-care/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/acontece-em-outubro-no-care/</guid>
+<pubDate>Wed, 07 Oct 2026 13:56:27 +0000</pubDate>
+<description>Institucional — VEM PRO ÇARÊ | Outubro está cheio de encontros no Instituto Çarê! Música, artes, oficinas, acervo, cinema, pesquisa e ações socioambientais</description>
+</item>
 <item>
 <title>Acontece em Setembro no Viveiro-escola</title>
 <link>https://institutocare.org.br/programacao/acontece-em-setembro-no-viveiro-escola/</link>
@@ -341,20 +355,6 @@
 <guid isPermaLink="true">https://institutocare.org.br/programacao/antonio-madureira-armorial-2-sp/</guid>
 <pubDate>Thu, 30 Nov 2023 00:00:46 +0000</pubDate>
 <description>Livros — O Instituto Çarê promove dois eventos relacionados ao segundo volume da série [...]</description>
-</item>
-<item>
-<title>Antonio Madureira Armorial: Vol. 2 em Recife</title>
-<link>https://institutocare.org.br/programacao/antonio-madureira-armorial-2-rec/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/antonio-madureira-armorial-2-rec/</guid>
-<pubDate>Fri, 24 Nov 2023 00:00:55 +0000</pubDate>
-<description>Livros — O Instituto Çarê promove dois eventos relacionados ao segundo volume da série [...]</description>
-</item>
-<item>
-<title>As PANC ao redor</title>
-<link>https://institutocare.org.br/programacao/as-panc-ao-redor/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/as-panc-ao-redor/</guid>
-<pubDate>Sat, 11 Nov 2023 00:00:03 +0000</pubDate>
-<description>Artes — O Instituto Çarê promove a oficina As PANC ao Redor, conduzida por [...]</description>
 </item>
 </channel>
 </rss>

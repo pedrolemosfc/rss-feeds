@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-07 08:51 UTC
+Generated: 2026-10-07 17:32 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-10-07 08:51 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=55 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 55 items
+- **folha-show** [OK] items=56 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 56 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
 - **guia-shows** [OK] items=96 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -108,8 +108,8 @@ Generated: 2026-10-07 08:51 UTC
   notes: scraped 19 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: scraped 14 events
+- **komplexo-tempo** [OK] items=16 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: scraped 16 events
 - **btg-pactual-hall** [OK] items=11 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
   notes: scraped 11 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
@@ -132,8 +132,8 @@ Generated: 2026-10-07 08:51 UTC
   notes: scraped 17 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
-- **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
-  notes: scraped 50 events
+- **cine-joia** [FAIL] items=0 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
+  notes: no event items found
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
@@ -164,14 +164,14 @@ Generated: 2026-10-07 08:51 UTC
   notes: scraped 77 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=12 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 12 events
+- **antt-cargas-rodoviarias** [OK] items=5 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 5 events
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=36 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 36 events
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
@@ -182,12 +182,12 @@ Generated: 2026-10-07 08:51 UTC
   notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
-- **hangar-110** [OK] items=18 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
-  notes: scraped 18 events
+- **hangar-110** [OK] items=19 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
+  notes: scraped 19 events
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=185 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=186 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])
