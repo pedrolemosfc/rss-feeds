@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 07 Oct 2026 17:28:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 23:11:08 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=mmHnTC1XbS3aKvbO1P_blB1y373JksITawKy1SjKdoU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=rFs5Oc1XCtXXkud2jjBRDrHGEUnBBLRRUF0CN5T8aZY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;558&lt;/span&gt;
@@ -80,6 +80,133 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Duo Lucynha Lima - cantora e Kiko Continentino - piano</title>
+  <link>http://concerto.com.br/roteiros/duo-lucynha-lima-cantora-e-kiko-continentino-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Lucynha Lima - cantora e Kiko Continentino - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 07/10/2026 - 22:26&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;De Chiquinha a Pixinguinha. 180 anos de nascimento de Chiquinha Gonzaga e os 130 anos de Pixinguinha. Participação: Jorge Continentino - milti-instrumentista, cantor e compositor. Programa: Chiquinha Gonzaga - Corta-jaca, Atraente e Abre Alas; Pixinguinha - Lamentos, A Rosa e Carinhoso; Nazareth - Odeon e Brejeiro; Zequinha de Abreu - Tico-tico no fubá; Sinhô - Jura; e Villa-Lobos - O trenzinho do caipira e Caicó.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-11T19:00:00Z" class="datetime"&gt;dom, 11/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278691" hreflang="pt-br"&gt;Acaso Cultural&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 55 a R$ 200. Vendas: https://bileto.sympla.com.br/event/127394/d/415792.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 07 Oct 2026 22:26:46 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283546 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/duo-lucynha-lima-cantora-e-kiko-continentino-piano#comments</comments>
+    </item>
+<item>
+  <title>Duo Joana Queiroz - clarinete, saxofone e compositora e Mariana Bernardes -  cantora, compositora e multi-instrumentista </title>
+  <link>http://concerto.com.br/roteiros/duo-joana-queiroz-clarinete-saxofone-e-compositora-e-mariana-bernardes-cantora-compositora</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Joana Queiroz - clarinete, saxofone e compositora e Mariana Bernardes -  cantora, compositora e multi-instrumentista &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 07/10/2026 - 19:52&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertinhos de EVA. A vida é um sopro. Programa: Mariana Bernardes/João Cavalcanti – A vida é um sopro; Mariana Bernardes/Marcelo Caldi – Buena Onda; Mariana Bernardes/Mig Martins – Davi no Quintal; Joana Queiroz/Mariana Bernardes – Canção da Bahia; Joana Queiroz/Ana Rossi – Terra Céu; Ignez Perdigão – 3 Kafos; Arismar do Espírito Santo – Cadê a Marreca; Joana Queiroz – Memórias; K-Ximbinho – Sempre; Paulinho da Viola/Fernando Costa – Choro Negro; Itiberê Zwarg – Na Carioca; Hermeto Pascoal – Bebê e Chorinho pra Você; e Joana Queiroz – Pituba.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T16:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 16:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/casa-museu-eva-klabin" hreflang="pt-br"&gt;Casa Museu Eva Klabin (80 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 40. Vendas pela plataforma INTI.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 07 Oct 2026 19:52:44 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283545 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Grupo de Percussão da Orquestra Criança Cidadã</title>
@@ -165,12 +292,12 @@
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;431&lt;/div&gt;
+              &lt;div class="field__item"&gt;1028&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
+              &lt;div class="field__item"&gt;4&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -252,7 +379,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MzAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=fPtNihA_-4Z3kbvYcbGIKQiHx3z6eetl34f_s9asMJM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MzAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=zvhjqkRHu0350kzcBlrPgDbqfFQ-UPnVD4AbNjK0X6M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
@@ -814,10 +941,10 @@ Jongo&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=gX6kVaqOUPPxkGd8xA4QUuoAyhCqfgUXFyBwxV63yDQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM0NDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=IGwGut2CpUpSOUHFLNoDM-tJzBbgly75jBnvv2QY2ZA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;28&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;30&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -900,10 +1027,10 @@ Jongo&lt;/p&gt;
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=YdQLVXBRoT7sBvOB3wg2Uu8vYneyjj-8NWEP21VJ_eU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=cfhqP5TmZJ91yPxiiB-a5Nen5LTXEcQ993kuCK7Akmc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -913,207 +1040,6 @@ Jongo&lt;/p&gt;
   <pubDate>Tue, 06 Oct 2026 16:02:34 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283528 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo </title>
-  <link>http://concerto.com.br/noticias/reportagem/12-violoncelos-da-filarmonica-de-berlim-farao-concerto-na-sala-sao-paulo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;12 Violoncelos da Filarmônica de Berlim farão concerto na Sala São Paulo &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Tradicional conjunto tocará no dia 17, véspera das apresentações da orquestra alemã&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Os 12 Violoncelos da Filarmônica de Berlim se apresentam na Sala São Paulo no sábado, 17 de outubro, às 21h, em um concerto extra promovido pelo Tucca Música pela Cura. A apresentação antecede as duas noites da orquestra completa, que sobe ao palco nos dias 18 e 19 sob regência de Kirill Petrenko. Será a primeira vez que músicos da filarmônica se apresentam na Sala São Paulo e a primeira visita da instituição ao Brasil em 26 anos.&lt;/p&gt;
-&lt;p&gt;Criado em 1972 dentro da própria filarmônica, o grupo 12 Violoncelos da Filarmônica de Berlim surgiu após uma gravação radiofônica do &lt;em&gt;Hymnus&lt;/em&gt;, para doze violoncelos, de Julius Klengel. Desde então, fez sucessivas renovações de seus integrantes mantendo uma agenda independente de turnês e concertos e ao longo de mais de cinco décadas.&lt;/p&gt;
-&lt;p&gt;O programa do concerto na Sala São Paulo começa justamente com o &lt;em&gt;Hymnus&lt;/em&gt;, peça que originou o conjunto. Na primeira parte, o repertório terá ainda obras de Françaix, Mendelssohn e canções francesas como &lt;em&gt;Sous les ponts de Paris&lt;/em&gt;, &lt;em&gt;Fleur de Paris &lt;/em&gt;e &lt;em&gt;La vie en rose&lt;/em&gt;. Depois do intervalo, o grupo percorre o jazz e trilhas do cinema, com &lt;em&gt;Caravan&lt;/em&gt;, &lt;em&gt;Lullaby of Birdland&lt;/em&gt;, &lt;em&gt;As Time Goes By&lt;/em&gt;, &lt;em&gt;Clap Yo' Hands&lt;/em&gt; e o tema de &lt;em&gt;Prenda-me se for capaz&lt;/em&gt;, de John Williams. Também integra o programa &lt;em&gt;South American Getaway&lt;/em&gt;, de Burt Bacharach, além de três obras de Piazzolla: &lt;em&gt;Tres minutos con la realidad&lt;/em&gt;, &lt;em&gt;Adiós Nonino&lt;/em&gt; e &lt;em&gt;Fuga y misterio&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Os ingressos custam entre R$ 300 e R$ 800 (inteira) e de R$ 150 a R$ 400 (meia-entrada). Toda a renda será destinada ao tratamento de crianças e adolescentes com câncer atendidos pela Tucca em parceria com o Santa Marcelina Saúde. &lt;/p&gt;
-&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-17" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para mais informações do Roteiro Musical.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" data-entity-type="file" data-entity-uuid="375aef3d-f5ac-4950-8ae7-afb082e0a079" src="http://concerto.com.br/sites/default/files/inline-images/w-12-celli_by_Peter_Adamik.jpg" /&gt;
-&lt;figcaption&gt;Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 11:49&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-12-celli_by_Peter_Adamik.jpg" width="900" height="606" alt="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" title="Os 12 Violoncelos da Filarmônica de Berlim (divulgação, Peter Adamik)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2153" hreflang="pt-br"&gt;Filarmônica de Berlim&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=AcvCQG3yLqzksSyva6dfL6E0XqAQdQuThCZ9twpyVf0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;36&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 06 Oct 2026 11:49:43 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283525 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS</title>
-  <link>http://concerto.com.br/noticias/sao-paulo/tucca-musica-pela-cura-concertos-internacionais-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p class="text-align-center"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;&lt;span style="font-size:18px;"&gt;TUCCA MÚSICA PELA CURA - CONCERTOS INTERNACIONAIS&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="text-align-center"&gt;&lt;strong&gt;TEMPORADA 2027&lt;/strong&gt;&lt;br /&gt;
-[Programação sujeita a alterações]&lt;/p&gt;
-&lt;p class="text-align-center"&gt;&lt;strong&gt;Assinaturas&lt;/strong&gt;: R$ 450,00 a R$ 4.170,00&lt;br /&gt;
-&lt;strong&gt;Renovação de assinatura&lt;/strong&gt;: até 16 de outubro, de R$ 450,00 a R$ 3.500,00 &lt;br /&gt;
-&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: de 19 de outubro a 9 de novembro, de  R$ 450,00 a R$ 3.753,00&lt;/p&gt;
-&lt;p class="text-align-center"&gt;&lt;strong&gt;Aquisição&lt;/strong&gt;: WhatsApp (11) 97567-5387 ou e-mail: &lt;a href="vendas@tucca.org.br" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;vendas@tucca.org.br&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;
-&lt;p class="text-align-center"&gt;&lt;strong&gt;Ingressos avulsos&lt;/strong&gt;:&lt;br /&gt;
-&lt;a href="https://tucca.byinti.com/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;https://tucca.byinti.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2c3e50;"&gt;&lt;strong&gt;PROGRAMAÇÃO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MARÇO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 9 de março | Sala São Paulo&lt;br /&gt;
-Dia 10 de março | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EGBERTO GISMONTI&lt;/strong&gt;&lt;br /&gt;
-80 anos de um dos grandes nomes da música brasileira&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 31 de março | Catedral da Sé&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ANDREAS STAIER, cravo&lt;/strong&gt;&lt;br /&gt;
-As Variações Goldberg e o som do cravo&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ABRIL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 14 de abril | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AMARO FREITAS&lt;/strong&gt;&lt;br /&gt;
-Lançamento do quinto disco&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 27 de abril | Teatro Cultura Artística&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;MAKOTO OZONE e AVISHAI COHEN&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;MAIO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 12 de maio | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TOM JOBIM 100&lt;/strong&gt;&lt;br /&gt;
-Centenário celebrado com músicos de diferentes países&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;URIEL HERMAN&lt;/strong&gt; (Israel), piano&lt;br /&gt;
-&lt;strong&gt;PEDRITO MARTINEZ&lt;/strong&gt; (Cuba), percussão&lt;br /&gt;
-&lt;strong&gt;VARIJASHREE VENUGOPAL &lt;/strong&gt;(Índia), cantora&lt;br /&gt;
-&lt;strong&gt;LENNA BAHULE&lt;/strong&gt; (Moçambique), cantora&lt;br /&gt;
-&lt;strong&gt;SEU JORGE&lt;/strong&gt;, cantor&lt;br /&gt;
-&lt;strong&gt;AMANDA MARIA&lt;/strong&gt;, cantora&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;JUNHO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 26 de junho | Sala São Paulo&lt;br /&gt;
-Dia 27 de junho | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ORQUESTRA SINFÔNICA HELIÓPOLIS&lt;br /&gt;
-NEIL THOMSON&lt;/strong&gt;, regente&lt;/p&gt;
-&lt;p&gt;AMADEUS&lt;br /&gt;
-Cine-concerto&lt;/p&gt;
-&lt;p&gt;Lançado em 1984 e baseado na peça de Peter Shaffer, o longa "Amadeus", de Miloš Forman, acompanha a rivalidade entre Mozart e Antonio Salieri e se tornou um dos filmes mais lembrados sobre música clássica, com oito Oscars, entre eles o de melhor filme. &lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGOSTO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 4 de agosto | Teatro Cultura Artística&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;KSENIJA SIDOROVA, acordeón e SÃO PAULO CHAMBER SOLOISTS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Obras de Piazzolla e Gershwin, entre outros.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;OUTUBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 27 de outubro | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ANNE-SOPHIE MUTTER e MUTTER'S VIRTUOSI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VIVALDI&lt;br /&gt;
-As quatro estações&lt;/p&gt;
-&lt;p&gt;AFTAB DARVISHI&lt;br /&gt;
-Obras da compositora iraniana&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;NOVEMBRO&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#2980b9;"&gt;&lt;strong&gt;Dia 8 de novembro | Sala São Paulo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:null;"&gt;&lt;strong&gt;BRUNO DE SÁ, sopranista e HARMONIA DEL PARNÀS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;strong&gt;Marian Rosa Montagut&lt;/strong&gt;, direção&lt;/p&gt;
-&lt;p&gt;O barroco espanhol em espetáculo cênico-musical.&lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 06/10/2026 - 11:22&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/Banner-Tucca_27.jpg" width="900" height="504" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/sao-paulo" hreflang="pt-br"&gt;São Paulo&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/subhomes/temporadas-2027" hreflang="pt-br"&gt;Temporadas 2027&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1MjIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yJuou7vb42w2WfRv99UX_9eVXrW4t6RI0SJrQBAZqhY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 06 Oct 2026 11:22:53 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283522 at http://concerto.com.br</guid>
     </item>
 
   </channel>

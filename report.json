@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 96,
+    "items": 95,
     "ok": true,
-    "notes": "scraped 96 items"
+    "notes": "scraped 95 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 24,
-    "ok": true,
-    "notes": "scraped 24 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "name": "page9-artes",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 174,
+    "items": 173,
     "ok": true,
-    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -297,9 +297,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 24,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 16,
-    "ok": true,
-    "notes": "scraped 16 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 22,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 17,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "cine-joia",
     "source_url": "https://www.cinejoia.com.br/agenda/",
     "output": "feeds/cine-joia.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -666,9 +666,9 @@
     "name": "antt-noticias",
     "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
     "output": "feeds/antt-noticias.xml",
-    "items": 30,
-    "ok": true,
-    "notes": "scraped 30 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -729,9 +729,9 @@
     "name": "instituto-care-programacao",
     "source_url": "https://institutocare.org.br/programacao/",
     "output": "feeds/instituto-care-programacao.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
