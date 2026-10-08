@@ -5,7 +5,14 @@
 <link>https://www.sestsenat.org.br/noticias</link>
 <description>Notícias do SEST SENAT (API publicador; SPA sem RSS nativo)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 08 Oct 2026 13:45:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 20:03:19 +0000</lastBuildDate>
+<item>
+<title>Saúde nos Portos registra 17,9 mil atendimentos em 2026</title>
+<link>https://www.sestsenat.org.br/noticia/sade-nos-portos-registra-179-mil-atendimentos-em-2026</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sade-nos-portos-registra-179-mil-atendimentos-em-2026</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Programa do SEST SENAT em parceria com o Ministério de Portos e Aeroportos leva serviços de saúde a trabalhadores do transporte e comunidades próximas às áreas portuárias</description>
+</item>
 <item>
 <title>SEST SENAT é premiado em seis categorias do Prêmio Intelijur</title>
 <link>https://www.sestsenat.org.br/noticia/sest-senat--premiado-em-seis-categorias-do-prmio-intelijur</link>
@@ -28,6 +35,13 @@
 <description>Notícia — Iniciativa começou como projeto-piloto em São Vicente e agora é ampliada para outras regiões do estado</description>
 </item>
 <item>
+<title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
+<link>https://www.sestsenat.org.br/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
+<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
+</item>
+<item>
 <title>Podcast Papo na Mão Certa destaca papel do transporte na proteção de crianças e adolescentes</title>
 <link>https://www.sestsenat.org.br/noticia/podcast-papo-na-mo-certa-destaca-papel-do-transporte-na-proteo-de-crianas-e-adolescentes</link>
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/podcast-papo-na-mo-certa-destaca-papel-do-transporte-na-proteo-de-crianas-e-adolescentes</guid>
@@ -40,13 +54,6 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
 <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Solução criada por aprendizes do SEST SENAT foi reconhecida por seu potencial de contribuir para a segurança viária</description>
-</item>
-<item>
-<title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
-<link>https://www.sestsenat.org.br/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
-<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
 </item>
 <item>
 <title>Feiras Emprega Transporte já registram 21,4 mil participantes; confira programação de outubro</title>
@@ -278,13 +285,6 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/incluso-feminina-no-transporte-exige-qualificao-infraestrutura-e-articulao-institucional</guid>
 <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Diretora executiva nacional do SEST SENAT defende formação profissional, melhores condições de trabalho e articulação entre governo, empresas e entidades para ampliar a participação das mulheres no setor.</description>
-</item>
-<item>
-<title>SEST SENAT reforça papel da qualificação em debate sobre liderança feminina na infraestrutura</title>
-<link>https://www.sestsenat.org.br/noticia/sest-senat-refora-papel-da-qualificao-em-debate-sobre-liderana-feminina-na-infraestrutura</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sest-senat-refora-papel-da-qualificao-em-debate-sobre-liderana-feminina-na-infraestrutura</guid>
-<pubDate>Wed, 05 Aug 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Nicole Goulart integrou painel do Summit Mulheres nas Profissões ao lado de especialistas e lideranças do setor de infraestrutura, mobilidade e logística.</description>
 </item>
 </channel>
 </rss>

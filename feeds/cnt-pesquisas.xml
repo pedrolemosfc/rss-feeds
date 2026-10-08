@@ -5,7 +5,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 08 Oct 2026 13:45:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 20:03:33 +0000</lastBuildDate>
+<item>
+<title>Pesquisa CNT de Opinião - 171ª rodada</title>
+<link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-171-rodada/</link>
+<guid isPermaLink="true">https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-171-rodada/</guid>
+<pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — Na véspera do primeiro turno das eleições, a Pesquisa CNT de Opinião atualiza o cenário da disputa presidencial e apresenta um retrato do eleitor na reta final da campanha. A 171ª rodada, divulgada neste sábado (3), pela CNT em parceria com o Instituto MDA Pesquisa, também aborda a percepção do eleitor em relação ao desempenho do governo.</description>
+</item>
 <item>
 <title>Boletim Unificado - Setembro 2026</title>
 <link>https://www.cnt.org.br/pesquisas?documento=a3e288e1-2b2a-4da3-9de8-38bba2acbb2f</link>
@@ -250,13 +257,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=4b945c7c-3b91-4d5c-a1aa-f1b0696b9d57</guid>
 <pubDate>Wed, 25 Feb 2026 09:00:00 +0000</pubDate>
 <description>Boletins — O orçamento destinado à infraestrutura de transporte em 2026 registrou ampliação em relação ao exercício anterior. A LOA (Lei Orçamentária Anual), sancionada em 15 de janeiro de 2026, consolidou R$ 18,18 bilhões para investimentos da União e das estatais no setor, montante superior aos R$ 17,34 bilhões autorizados em 2025.</description>
-</item>
-<item>
-<title>Janeiro &amp; Fevereiro/2026 - A estreia da reforma tributária</title>
-<link>https://www.cnt.org.br/pesquisas?documento=d592d584-4279-4dc1-abb4-18908c53b9f4</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d592d584-4279-4dc1-abb4-18908c53b9f4</guid>
-<pubDate>Fri, 20 Feb 2026 09:00:00 +0000</pubDate>
-<description>Revista — A primeira edição da Revista CNT Transporte Atual de 2026 destaca a entrevista com o presidente do Sistema Transporte, Vander Costa, que apresenta as prioridades institucionais para o ano. Na reportagem de capa, o destaque é implementação gradual da reforma tributária e seus impactos para o transporte. A edição analisa, ainda, o avanço do Novo Marco Legal do Transporte Público Coletivo Urbano, projeto busca recuperar a sustentabilidade econômico-financeira e a segurança jurídica do ...</description>
 </item>
 </channel>
 </rss>
