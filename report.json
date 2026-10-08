@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 95,
+    "items": 94,
     "ok": true,
-    "notes": "scraped 95 items"
+    "notes": "scraped 94 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
+    "items": 24,
+    "ok": true,
+    "notes": "scraped 24 items"
   },
   {
     "name": "page9-artes",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 173,
+    "items": 172,
     "ok": true,
-    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 55,
+    "items": 54,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 54 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,9 +351,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 16,
+    "ok": true,
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 54,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 24,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -666,9 +666,9 @@
     "name": "antt-noticias",
     "source_url": "https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral",
     "output": "feeds/antt-noticias.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 30,
+    "ok": true,
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,18 +720,18 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
     "name": "instituto-care-programacao",
     "source_url": "https://institutocare.org.br/programacao/",
     "output": "feeds/instituto-care-programacao.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
