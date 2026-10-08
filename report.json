@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 94,
+    "items": 93,
     "ok": true,
-    "notes": "scraped 94 items"
+    "notes": "scraped 93 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -107,9 +107,9 @@
     "name": "page9-artes",
     "source_url": "https://page9.com/artes",
     "output": "out/page9-artes.xml",
-    "items": 20,
-    "ok": true,
-    "notes": "scraped 20 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 404: Categoria \"artes\" no encontrada."
   },
   {
     "name": "musicalidade",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 172,
+    "items": 171,
     "ok": true,
-    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {

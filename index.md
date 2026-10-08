@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-08 06:18 UTC
+Generated: 2026-10-08 13:46 UTC
 
 ## Native feeds (not scraped)
 
@@ -26,8 +26,8 @@ Generated: 2026-10-08 06:18 UTC
   notes: scraped 56 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
-- **guia-shows** [OK] items=94 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
-  notes: scraped 94 items
+- **guia-shows** [OK] items=93 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
+  notes: scraped 93 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
@@ -44,8 +44,8 @@ Generated: 2026-10-08 06:18 UTC
   notes: no article items found (empty or unparseable HTML)
 - **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
   notes: scraped 24 items
-- **page9-artes** [OK] items=20 → `out/page9-artes.xml`  source: https://page9.com/artes  
-  notes: scraped 20 items
+- **page9-artes** [FAIL] items=0 → `out/page9-artes.xml`  source: https://page9.com/artes  
+  notes: fetch failed: HTTPError: HTTP Error 404: Categoria "artes" no encontrada.
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
   notes: scraped 100 items
 - **qobuz-magazine-br** [OK] items=31 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
@@ -178,8 +178,8 @@ Generated: 2026-10-08 06:18 UTC
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=19 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
@@ -189,5 +189,5 @@ Generated: 2026-10-08 06:18 UTC
 
 - **folha-musica-topicos** [OK] items=186 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=172 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])
