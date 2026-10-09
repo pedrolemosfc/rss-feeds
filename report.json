@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 56,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 56 items"
+    "notes": "scraped 57 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 186,
+    "items": 187,
     "ok": true,
-    "notes": "merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -342,9 +342,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 4,
+    "items": 3,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,18 +405,18 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 11,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -441,9 +441,9 @@
     "name": "teatro-das-artes-sp",
     "source_url": "https://teatrodasartessp.com.br/programacao/",
     "output": "feeds/teatro-das-artes-sp.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

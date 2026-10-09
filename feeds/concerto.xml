@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 09 Oct 2026 17:03:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 22:44:45 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=PgYaQtOOFuNJKWTokU5YEhOI-6wHBMu2uP0I7XtPHdA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=KNxqvu_iyXCeQ5gj-bp5eTFbb5FmkFfVbGKX_YNAKg0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;558&lt;/span&gt;
@@ -80,6 +80,294 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Diego Pérez (Uruguai) - percussão e Gonzalo Gravina (Uruguai) - piano </title>
+  <link>http://concerto.com.br/roteiros/diego-perez-uruguai-percussao-e-gonzalo-gravina-uruguai-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Diego Pérez (Uruguai) - percussão e Gonzalo Gravina (Uruguai) - piano &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 22:02&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;O legado de Rubén Rada. Programa: músicas de Rubén Rada. Convivência.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T18:00:00Z" class="datetime"&gt;sex, 16/10/2026 - 18:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-consolacao" hreflang="und"&gt;Sesc Consolação  (328 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 22:02:54 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283583 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Cine Belas Artes</title>
+  <link>http://concerto.com.br/node/283581</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cine Belas Artes&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua da Consolação, 2423 - Consolação - Tel. (11) 2894-5781 - https://www.cinebelasartes.com.br/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 22:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 22:01:28 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283581 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Filme Ensaiando o Brasil - Orquestra Tom Jobim</title>
+  <link>http://concerto.com.br/roteiros/filme-ensaiando-o-brasil-orquestra-tom-jobim</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filme Ensaiando o Brasil - Orquestra Tom Jobim&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 21:56&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Elisa Bracher - direção. Gustavo Ribeiro - codireção. Ana Cláudia Streva e Elisa Bracher - preodução. O filme acompanha os bastidores da Orquestra Jovem Tom Jobim e investiga o encontro da música de concerto e diferentes tradições da música brasileira. Uma nova geração de músicos em processo de formação artística, revelando, entre ensaios, apresentações e momentos de criação, como a experiência de tocar em uma orquestra ultrapassa a técnica e se transforma em espaço de convivência, troca e construção coletiva. Ana Cláudia Streva - produção executiva. Adriano Lírio - desenho de produção. Lívia Barros e Lia Rezende - direção de produção. Gui Massago - direção de fotografia. Daniel Henrique - som direto.  Selma Perez - roteiro. Selma Perez - montagem. Sonideria - edição de som e mixagem. Quanta - pós-produção de imagem. Orquestra Jovem Tom Jobim/Santa Marcelina Cultura - gestão. Nelson Ayres e Tiago Costa - regentes. Nós Filmes - produção.&lt;br /&gt;
+&lt;br /&gt;
+A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a participação de artistas como Guinga, Mônica Salmaso, Ricardo Herz e o músico italiano Gabriele Mirabassi, que compartilham processos criativos com os jovens instrumentistas.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T20:30:00Z" class="datetime"&gt;sex, 16/10/2026 - 20:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283581" hreflang="pt-br"&gt;Cine Belas Artes&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 21:56:02 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283582 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Piotr Alexewicz faz recital com obras de Debussy, Rachmaninov e Chopin</title>
+  <link>http://concerto.com.br/noticias/musica-classica/piotr-alexewicz-faz-recital-com-obras-de-debussy-rachmaninov-e-chopin</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Piotr Alexewicz faz recital com obras de Debussy, Rachmaninov e Chopin&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Piotr Alexewicz, que ganhou o quinto prêmio, o Prêmio do Público e outros prêmios especiais no Concurso Chopin de Varsóvia em 2025, é a atração deste sábado do Festival Chopin. Ele faz recital no Teatro Cultura Artística. &lt;/p&gt;
+&lt;p&gt;Ele abre o programa com a &lt;em&gt;Suite bergamasque&lt;/em&gt;, de Debussy. Em seguida, toca Rachmaninov, os &lt;em&gt;Études-tableaux, Op. 33&lt;/em&gt;. E, daí em diante, dedica-se a Chopin: &lt;em&gt;Polonaise-Fantaisie em lá bemol maior, Op. 61&lt;/em&gt;; &lt;em&gt;Noturno em si bemol menor, Op. 9 nº 1&lt;/em&gt;; &lt;em&gt;Noturno em mi bemol maior, Op. 9 nº 2&lt;/em&gt;; &lt;em&gt;Andante spianato&lt;/em&gt; &lt;em&gt;e Grande Polonaise brilhante em mi bemol maior Op.22&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O festival, que foi aberto por Valentina Lisitsa na semana passada, têm ainda mais três atrações. &lt;/p&gt;
+&lt;p&gt;Mateusz Krzyżowski se apresenta no dia 17, também no Cultura Artística, onde vai tocar com o Quinteto São Paulo Chamber Soloists uma versão de câmara do &lt;em&gt;Concerto para piano e orquestra nº 2&lt;/em&gt;, de Chopin. &lt;/p&gt;
+&lt;p&gt;O festival apresenta, no dia 24, Zitong Wangm, medalha de bronze no Concurso Chopin de 2025. E a programação se encerra com David Khrikuli, vencedor do Concurso de Piano de Vigo, no dia 31, na Estação Motiva Cultural. &lt;/p&gt;
+&lt;p&gt;O Festival Chopin é uma realização da Sociedade Chopin do Brasil. O evento acontece em parceria com o Instituto Chopin de Varsóvia o apoio da Casa Sangusko de Cultura Polonesa e o apoio institucional da Embaixada da Polônia no Brasil e os Consulados Geral e Consulado Honorário  da Polônia.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-10" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" data-entity-type="file" data-entity-uuid="8bfb44f4-e553-45ad-bd6c-573773b7ec51" src="http://concerto.com.br/sites/default/files/inline-images/w-piotralexewicz_01_agnieszka_wira.jpg" /&gt;
+&lt;figcaption&gt;O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 20:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-piotralexewicz_01_agnieszka_wira.jpg" width="900" height="507" alt="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" title="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=RjFxd_0kZmjIZQJ4rfVskswd4n6Z0jotl2xFwtJ1ujI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 20:50:09 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283580 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Semana da Música de Ouro Branco realiza vigésima edição</title>
+  <link>http://concerto.com.br/noticias/musica-classica/semana-da-musica-de-ouro-branco-realiza-vigesima-edicao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Semana da Música de Ouro Branco realiza vigésima edição&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Casa de Música de Ouro Branco realiza a partir de sábado a 20ª edição da Semana da Música de Ouro Branco, com programação de aulas e concertos. “São duas décadas de ensino, histórias, desafios, realizações e sons que nascem embaixo da serra de nossa cidade e se espalham pelos quatro cantos do mundo”, Afirma Kênia Libanio, coordenadora da Casa de Música e diretora da Semana da Música.&lt;/p&gt;
+&lt;p&gt;No sábado, 10 de outubro, a Jovem Orquestra de Ouro Branco abre a programação com obras de Bach, Rossini, Hindemith e Britten. Entre os solistas estão os professores do festival Alexandre Barros, Paula Pires e Mikhail Bugaev. A regência é de Charles Roussin.&lt;/p&gt;
+&lt;p&gt;No domingo, o pianista Claudio Dauelsberg transita entre a música de concerto, a música popular, o jazz e suas próprias composições, em um recital que contará também com a participação de professores do festival como convidados.&lt;/p&gt;
+&lt;p&gt;Na segunda-feira, haverá uma programação especial para o Dia das Crianças: o violoncelista, palhaço e ator Mauro Braga e os professores do festival apresentam o espetáculo &lt;em&gt;E o Palhaço, Tem Concerto?&lt;/em&gt;. Também na segunda, os professores apresentam um programa dedicado à música de câmara, com obras de Dvořák, Villa-Lobos e outros compositores. Participam do concerto os professores Pablo de León, Hyu-Kyung Jung, Mikhail Bugaev, Eduardo Swerts, Taís Gomes e Risa Adachi.&lt;/p&gt;
+&lt;p&gt;O Duo Vincens Maciel se apresenta na terça-feira, dia 13 de outubro, assim como o Ars Nova – Coral da UFMG, que apresenta o programa "Vozes do Brasil", sob a regência de Lincoln Andrade. O repertório é formado, em sua maioria, de obras brasileiras para coro.  Na quarta-feira, a Orquestra Sinfônica da Polícia Militar de Minas Gerais e a Orquestra da Rede Batista de Educação (ORBE) fazem concertos.&lt;/p&gt;
+&lt;p&gt;Os alunos sobem ao palco da Casa de Música no dia 16 para apresentar um recital com obras trabalhadas durante o festival, com a Orquestra de Alunos da 20ª Semana da Música de Ouro Branco , sob regência de Lanfranco Marcelletti. O encerramento será no dia 17, com a orquestra de alunos e alunos das classes de Suzuki dos professores Raphael Egídio, Rosana Garbin e Mauro Braga.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Orquestra na última edição da Semana de Música de Ouro Branco [Divulgação]" data-entity-type="file" data-entity-uuid="4c53a4f5-7f96-43eb-a959-7870e6f88187" src="http://concerto.com.br/sites/default/files/inline-images/w-semana.JPG" /&gt;
+&lt;figcaption&gt;Orquestra na última edição da Semana de Música de Ouro Branco [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 20:39&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-semana.JPG" width="900" height="600" alt="Orquestra na última edição da Semana de Música de Ouro Branco [Divulgação]" title="Orquestra na última edição da Semana de Música de Ouro Branco [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=l2TQUZyu-T0qR940V29C0sy6C1cQjIQyOEOGYMPHXV0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 20:39:49 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283579 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Camerata de Cordas Musicarium</title>
@@ -206,10 +494,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=JMBpT4IxfT18vUxE_msj3xDc0aekcBZkHFtpAq7rU5w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=0srvS63DMJ7-gcamhXjSyqXLKmowgqedn9Sh-Hplqho?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -302,7 +590,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=C2X-efNUEuKNgUK7Aw-mDGQA44dajmwqhSox48Torqk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=zXNMyLCdYA9MVlrzddk2OZq2TEcFftdQjVqC0MzVtlA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
@@ -315,226 +603,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Fri, 09 Oct 2026 01:53:14 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283576 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_OSB_HOME</title>
-  <link>http://concerto.com.br/node/283572</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_OSB_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_OSB_HOME.jpg" width="380" height="490" alt="Banner OSB Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.osb.com.br/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;75&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:28 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283572 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_OOP_HOME</title>
-  <link>http://concerto.com.br/node/283571</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_OOP_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_OOP_HOME.jpg" width="380" height="490" alt="Banner Orquestra Ouro Preto Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.orquestraouropreto.com.br/site/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;8&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:27 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283571 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_JoaoCarlosMartins_HOME</title>
-  <link>http://concerto.com.br/node/283570</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_JoaoCarlosMartins_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_JoaoCarlosMartins_HOME.jpg" width="380" height="490" alt="Banner João Carlos Martins Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;http://fundacaobachiana.org.br/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;10&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:26 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283570 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_Furiosa_HOME</title>
-  <link>http://concerto.com.br/node/283569</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_Furiosa_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_Furiosa_HOME.jpg" width="380" height="490" alt="Banner Orquestra Furiosa Portátil Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.sympla.com.br/produtor/casadochoro&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;11&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:26 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283569 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_FilMG_HOME</title>
-  <link>http://concerto.com.br/node/283568</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_FilMG_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_FilMG_HOME.gif" width="380" height="490" alt="Banner FilMG Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://filarmonica.art.br/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;73&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;1&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:25 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283568 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -5,7 +5,7 @@
 <link>https://btgpactualhall.com.br/programacao/</link>
 <description>Programação do BTG Pactual Hall (links Bileto)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 09 Oct 2026 17:03:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 22:45:08 +0000</lastBuildDate>
 <item>
 <title>10 de outubro</title>
 <link>https://bileto.sympla.com.br/event/124198</link>
@@ -37,10 +37,16 @@
 <description>BTG Pactual Hall · 16 de outubro</description>
 </item>
 <item>
-<title>Estreia dia 17 de outubro</title>
+<title>17 de outubro</title>
 <link>https://bileto.sympla.com.br/event/126671</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/126671</guid>
 <description>BTG Pactual Hall · 17 de outubro</description>
+</item>
+<item>
+<title>Estreia dia 23 de outubro</title>
+<link>https://bileto.sympla.com.br/event/127841</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/127841</guid>
+<description>BTG Pactual Hall · 23 de outubro</description>
 </item>
 <item>
 <title>24 de outubro</title>
@@ -61,7 +67,19 @@
 <description>BTG Pactual Hall · 31 de outubro</description>
 </item>
 <item>
-<title>Estreia dia 14 de novembro</title>
+<title>13 de novembro</title>
+<link>https://bileto.sympla.com.br/event/127348</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/127348</guid>
+<description>BTG Pactual Hall · 13 de novembro</description>
+</item>
+<item>
+<title>14 de novembro</title>
+<link>https://bileto.sympla.com.br/event/127688</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/127688</guid>
+<description>BTG Pactual Hall · 14 de novembro</description>
+</item>
+<item>
+<title>14 de novembro</title>
 <link>https://bileto.sympla.com.br/event/119618</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/119618</guid>
 <description>BTG Pactual Hall · 14 de novembro</description>
@@ -71,6 +89,24 @@
 <link>https://bileto.sympla.com.br/event/124093</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/124093</guid>
 <description>BTG Pactual Hall · 18 de novembro</description>
+</item>
+<item>
+<title>20 de janeiro</title>
+<link>https://bileto.sympla.com.br/event/127355</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/127355</guid>
+<description>BTG Pactual Hall · 20 de janeiro</description>
+</item>
+<item>
+<title>17 de fevereiro</title>
+<link>https://bileto.sympla.com.br/event/127352</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/127352</guid>
+<description>BTG Pactual Hall · 17 de fevereiro</description>
+</item>
+<item>
+<title>21 de fevereiro</title>
+<link>https://bileto.sympla.com.br/event/118618</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/118618</guid>
+<description>BTG Pactual Hall · 21 de fevereiro</description>
 </item>
 </channel>
 </rss>
