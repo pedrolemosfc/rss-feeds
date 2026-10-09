@@ -5,7 +5,28 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:15:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 17:05:20 +0000</lastBuildDate>
+<item>
+<title>v1.112.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11123</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11123</guid>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve panning, zooming, and card loading performance on large whiteboards.; Improve responsiveness when toggling Full width in card tabs and the Journal.; The whiteboard minimap is now hidden by default unless you have previously saved a preference.</description>
+</item>
+<item>
+<title>Claude Plugin v0.1.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#claude-plugin-v011</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#claude-plugin-v011</guid>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+<description>Claude Plugin: Search, read, create, edit, and organize your knowledge in Claude</description>
+</item>
+<item>
+<title>v1.112.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11122</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11122</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>Heptabase CLI 0.7.0: Import local images and embed them in new or existing notes.; Improve app startup performance, especially on the web and in workspaces with many highlights.; Improve whiteboard loading and rendering performance, including cards with mentions, embeds, media, and tables.</description>
+</item>
 <item>
 <title>v1.112.1</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11121</link>
@@ -544,27 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1870</guid>
 <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
 <description>Mindmap: Vertical Layout (Right-click on a mindmap and choose "Rotate Mindmap" to rotate it vertically.)</description>
-</item>
-<item>
-<title>Mobile app v1.34.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1340</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1340</guid>
-<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-<description>Mobile App: Home screen widget - Search, quick write, and voice note</description>
-</item>
-<item>
-<title>v1.86.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1861</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1861</guid>
-<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-<description>App: Highlight and annotate text on Note cards</description>
-</item>
-<item>
-<title>v1.85.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1852</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1852</guid>
-<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-<description>You can now see AI usage records in Settings -&gt; AI features.; Fix the issue that card counts for tags in Card Library missed source cards.; Fix an issue where the area highlight wasn't working correctly.; Fix an issue where card selection would sometimes fail.</description>
 </item>
 </channel>
 </rss>

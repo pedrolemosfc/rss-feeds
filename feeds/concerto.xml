@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 09 Oct 2026 09:13:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 17:03:21 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=1ihUZq51YFMw5FWXMaHPN7Ii3i7H7-vuIO1-5LpEzt8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OCIsImRpc2xpa2VzIjoiMCJ9?token=PgYaQtOOFuNJKWTokU5YEhOI-6wHBMu2uP0I7XtPHdA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;558&lt;/span&gt;
@@ -82,6 +82,145 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
+  <title>Camerata de Cordas Musicarium</title>
+  <link>http://concerto.com.br/roteiros/camerata-de-cordas-musicarium</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Camerata de Cordas Musicarium&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 14:40&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto da pré-turnê Europa - Suíça, Alemanha e Holanda. Sergio Ogawa - regente. Programa: obras de Schubert, Grieg, Shostakovich, Romero e Carlos Gomes. Hall.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T11:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-tomie-ohtake" hreflang="und"&gt;Instituto Tomie Ohtake &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 14:40:07 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283578 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão</title>
+  <link>http://concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Aos 24 anos, pianista nascido no Pará está matriculado na classe de Konstantin Sherbakov, em Zurique&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A ligação de Jordan Alexander com a música começou como muitas outras histórias de pianistas: vendo – e ouvindo – a irmã mais velha tocar. Nascido em Paraupebas, no Pará, mas criado desde cedo na mineira Ipatinga, tinha seis anos quando viu Jennifer, de oito, se apresentando na festa de fim de ano da escola de música do bairro, chamada Mozart. “O engraçado é que eu estava na aula de bateria e ela queria era tocar guitarra, mas a convenceram de experimentar o piano. E pedi para trocar.”&lt;/p&gt;
+&lt;p&gt;O jovem pianista acaba de ganhar o importante Prêmio Citi, em São Paulo, mais um dentre muitos que faturou na carreira. Aos 24 anos, está matriculado na classe de Konstantin Sherbakov, em Zurique.&lt;/p&gt;
+&lt;p&gt;A casa da família era muito musical. O pai, engenheiro mecânico, tocava cornet – um instrumento de sopro bem diferente – e a mãe, saxhorn, ambos na banda sinfônica. “Era o hobby deles. Meu pai sempre sonhou ser músico. E aos nove anos, ganhei meu primeiro concurso.” A partir daí, as aulas se intensificaram, com a professora Júnia Santiago e, mais tarde, com Júnia Canton, em Belo Horizonte. “Mas, olha: até certo ponto, eu queria era ser jogador de futebol.” &lt;/p&gt;
+&lt;p&gt;O caminho de Jordan só se definiu quando os dois irmãos – sim, Jennifer também seguiu no piano e faz mestrado em Portugal – foram convidados para se apresentar como solistas com a Filarmônica de Minas Gerais. “Eu tinha 17 anos, tocamos &lt;em&gt;O Carnaval dos animais&lt;/em&gt;, de Saint-Säens, nos Concertos para a Juventude. Foi a virada de chave.” Seguiu para o bacharelado na USP, na classe de Eduardo Monteiro. E numa master class de um dos alunos de Monteiro, Richard Kogima, logo na primeira semana de aulas, Jordan fez outra virada de chave.&lt;/p&gt;
+&lt;p&gt;“Richard virou uma inspiração e, quando estava acabando o curso, pedi orientação – e ele me apresentou Konstantin Sherbakov, que foi professor dele, que dizem ter o ‘som dourado’. Mandei tudo, vídeos, currículo e fui aprovado. Vim para Zurique estudar com ele na Universidade das Artes.”&lt;/p&gt;
+&lt;p&gt;E ganhou uma pequena bolsa – “que quase cobria meu aluguel”, ele conta.  “Mas sobrevivi um dia de cada vez, com apoios, bolsas de fundações.” Ganhador de mais de 70 concursos, levou em 2022 o prêmio Nelson Freire no Festival Internacional de Piano do Rio de Janeiro, dirigido por Lilian Barretto. “Lilian me acompanha desde que eu tinha 12 ou 13 anos de idade, me deu aulas e preparação. Fui bolsista desse festival, que tem uma ação forte na descoberta de pianistas jovens. E também teve os primeiros lugares no concurso Guiomar Novais e no concurso do Festival Almeida Prado, em 2020. Em Zurique ganhei o concurso interno em homenagem a Mozart, em 2023. E eu toquei as &lt;em&gt;Dozes variações em si bemol maior&lt;/em&gt;, da qual eu mesmo escrevi as variações, as improvisações.”&lt;/p&gt;
+&lt;p&gt;A lista dos concursos que Jordan ganhou é longa. Muito longa. Além dos concursos Villa-Lobos e Guiomar Novais, vale listar alguns: Festival Pianale (Alemanha); Semana Internacional de Piano da Cushing Academy (EUA); Festival de Piano Leonel Morales, (Espanha); Festival de Inverno, em Campos do Jordão, o Concurso de Piano Edna Bassetti Habith; Chopin International Piano Competition in Hartford; e Forte International Music Competition, no Carnegie Hall, em Nova York.&lt;/p&gt;
+&lt;p&gt;Com toda essa dedicação, o ecletismo de Jordan é extenso – não apenas combinou as teclas com bateria e bola no pé, mas seguiu gostando de um arco amplo de estilos musicais. “Toco de Roberto Carlos a Shostakovich”, ele brinca. “Desde que me mudei para São Paulo, aos 17, sempre trabalhei como pianista, como correpetidor, como camerista, solista também. Gosto do barroco até, digamos, a metade do moderno. E gosto de ter estilos bem contrastantes nos programas.” E mais uma revelação: “Aqui na escola, por exemplo, a minha especialização na matéria de improvisação é bossa nova. Toquei bateria nessa improvisação. Adoro também jazz”.&lt;/p&gt;
+&lt;p&gt;No prêmio Citi, agora em setembro, “não foi bem assim”. “Toquei um repertório predominantemente romântico, um prelúdio de Rachmaninov e um Liszt, &lt;em&gt;Paraphrase de concert sur Rigoletto S.434&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;“O prêmio do Citi foi providencial, claro.” O desafio agora é apoio financeiro para o segundo ano de mestrado para esse jovem alto, simpático e extremamente talentoso, ex-bolsista do Cultura Artística, para dar sequência ao seu mestrado na Universidade de Zurique, com o mestre Scherbakov. O mecenas que se dispuser a ajudar pode ganhar a alegria de apoiar um grande artista em formação. E, quem sabe?, até aulas de bateria e do bom futebol brasileiro de lambuja.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista Jordan Alexander no palco do Teatro Cultura Artística [Divulgação/Ricardo Reis]" data-entity-type="file" data-entity-uuid="1f300335-54e5-459d-be88-5a6a80ec7315" src="http://concerto.com.br/sites/default/files/inline-images/IMG_0191.jpg" /&gt;
+&lt;figcaption&gt;O pianista Jordan Alexander no palco do Teatro Cultura Artística [Divulgação/Ricardo Reis]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14503" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luciana Medeiros&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 12:29&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/IMG_0191.jpg" width="900" height="600" alt="O pianista Jordan Alexander no palco do Teatro Cultura Artística [Divulgação/Ricardo Reis]" title="O pianista Jordan Alexander no palco do Teatro Cultura Artística [Divulgação/Ricardo Reis]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=JMBpT4IxfT18vUxE_msj3xDc0aekcBZkHFtpAq7rU5w?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 09 Oct 2026 12:29:45 +0000</pubDate>
+    <dc:creator>Luciana Medeiros</dc:creator>
+    <guid isPermaLink="false">283577 at http://concerto.com.br</guid>
+    </item>
+<item>
   <title>Espetáculos musicais celebram o Dia das Crianças; veja uma seleção</title>
   <link>http://concerto.com.br/noticias/musica-classica/espetaculos-musicais-celebram-o-dia-das-criancas-veja-uma-selecao</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculos musicais celebram o Dia das Crianças; veja uma seleção&lt;/span&gt;
@@ -91,7 +230,7 @@
 &lt;p&gt;A Estação Motiva Cultural recebe o espetáculo Vitrolinha, com a &lt;strong&gt;Palhaça Rubra&lt;/strong&gt;, pela série Primeiros Acordes. Dirigida por Lígia Cortez, a apresentação conta com o improviso da atriz Lu Lopes, ao som de músicas para crianças dos anos 70 e 80. Reapresentação nos dias 11 e 12.&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;Camerata Antiqua de Curitiba&lt;/strong&gt; realiza concerto didático Viajando com as Histórias – Uma Conversa da Música com os Livros, no Auditório Mario de Mari, em Curitiba. A orquestra une a música à literatura, ao som de obras de Wolfgang Amadeus Mozart, Henry Purcell, Ernani Aguiar e César Guerra-Peixe, além de músicas de Sandra Peres, Luiz Tatit e Milton Nascimento.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Domingo, 11&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Experimental de Repertório &lt;/strong&gt;e o&lt;strong&gt; Balé da Cidade de São Paulo&lt;/strong&gt; interpretam lendas brasileiras no Theatro Municipal. Com Luiz Fernando Bongiovanni na direção-geral, Ricardo Garanhani na direção de arte e Edson Bueno na direção teatral, músicos e bailarinos executam &lt;em&gt;Lendas brasileiras&lt;/em&gt;, de Alexandre Guerra. O programa se repete no dia 12.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Experimental de Repertório &lt;/strong&gt;e o&lt;strong&gt; Balé da Cidade de São Paulo&lt;/strong&gt; interpretam Lendas brasileiras no Theatro Municipal. Com Luiz Fernando Bongiovanni na direção-geral, Ricardo Garanhani na direção de arte e Edson Bueno na direção teatral, músicos e bailarinos executam &lt;em&gt;Lendas brasileiras&lt;/em&gt;, de Alexandre Guerra. O programa se repete no dia 12.&lt;/p&gt;
 &lt;p&gt;No Theatro São Pedro, a&lt;strong&gt; Orquestra do Theatro São Pedro&lt;/strong&gt; apresenta o concerto didático Brincando em Cena. Com direção musical de Emiliano Patarra e direção cênica de Felipe Venâncio, o programa conta com trechos das óperas&lt;em&gt; A flauta mágica&lt;/em&gt;, de Mozart,&lt;em&gt; O barbeiro de sevilha&lt;/em&gt;, de Rossini,&lt;em&gt; A noite no castelo&lt;/em&gt;, de Henrique Alves de Mesquita, entre outras. A orquestra convida a soprano Raquel Paulin, a mezzo-soprano Juliana Taino, o tenor Geilson Santos e o barítono Julián Lisnichuk.&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;Orquestra Jovem do Estado&lt;/strong&gt; dedica concerto às crianças, na Sala São Paulo. Cláudio Cruz rege os músicos em trilhas sonoras de John Williams, Henry Mancini, Joe Hisaishi e outros.&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Santo André&lt;/strong&gt; apresenta obras de Mozart no Cine Teatro Carlos Gomes, em Santo André. A regência fica a cargo de Abel Rocha e Marcelo Falcão e a direção cênica, de André di Peroli.&lt;/p&gt;
@@ -163,10 +302,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=UO_JAAmXRXcp5AU1deE_a0PhCAD7BqUMwRDPxO3Zpwk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=C2X-efNUEuKNgUK7Aw-mDGQA44dajmwqhSox48Torqk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -203,7 +342,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;22&lt;/div&gt;
+              &lt;div class="field__item"&gt;75&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -246,7 +385,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;4&lt;/div&gt;
+              &lt;div class="field__item"&gt;8&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -289,7 +428,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;5&lt;/div&gt;
+              &lt;div class="field__item"&gt;10&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -332,7 +471,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;6&lt;/div&gt;
+              &lt;div class="field__item"&gt;11&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -375,7 +514,12 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;67&lt;/div&gt;
+              &lt;div class="field__item"&gt;73&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -391,92 +535,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concer
   <pubDate>Thu, 08 Oct 2026 20:34:25 +0000</pubDate>
     <dc:creator>Luiza</dc:creator>
     <guid isPermaLink="false">283568 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_Tucca_HOME</title>
-  <link>http://concerto.com.br/node/283567</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_Tucca_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_Tucca_HOME.jpg" width="380" height="490" alt="Banner Tucca Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://linktr.ee/anuncios_MSP&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;10&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:23 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283567 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>1026_NikolaMeeuwsen_HOME</title>
-  <link>http://concerto.com.br/node/283566</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1026_NikolaMeeuwsen_HOME&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-10/1026_NikolaMeeuwsen_HOME.jpg" width="380" height="490" alt="Banner Nikola Meeuwsen Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 08/10/2026 - 20:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.nikolameeuwsen.com/concerten.html&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;7&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 08 Oct 2026 20:34:22 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283566 at http://concerto.com.br</guid>
     </item>
 
   </channel>
