@@ -216,9 +216,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "mirrored 20 native items",
+    "notes": "mirrored 19 native items",
     "kind": "native-mirror"
   },
   {
@@ -288,9 +288,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 54,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -387,9 +387,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out",
+    "items": 19,
+    "ok": true,
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 51,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 51 events",
+    "notes": "scraped 57 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 38,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 38 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
