@@ -5,7 +5,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 09 Oct 2026 22:45:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 06:02:37 +0000</lastBuildDate>
+<item>
+<title>Luedji Luna</title>
+<link>https://www.cinejoia.com.br/eventos/luedji-luna/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/luedji-luna/</guid>
+<pubDate>Fri, 09 Oct 2026 12:05:09 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>Sepultura</title>
 <link>https://www.cinejoia.com.br/eventos/sepultura/</link>
@@ -347,13 +354,6 @@
 <link>https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/a-flock-of-seagulls/</guid>
 <pubDate>Tue, 12 May 2026 18:55:02 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Shawn James</title>
-<link>https://www.cinejoia.com.br/eventos/shawn-james/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/shawn-james/</guid>
-<pubDate>Tue, 12 May 2026 17:37:56 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>
