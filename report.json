@@ -533,7 +533,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -684,9 +684,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 10,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
