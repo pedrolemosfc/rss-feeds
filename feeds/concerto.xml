@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 10 Oct 2026 12:42:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 18:42:03 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU1OSIsImRpc2xpa2VzIjoiMCJ9?token=wdbLLnTLu-E6MaU9vlRF5qPmkNBGUhBjO5wG82_EHZg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MCIsImRpc2xpa2VzIjoiMCJ9?token=ONoqS8ogkfuikYZ_GCX9dOq15zM41TJtqBVXz1ql6cY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;559&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;560&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,85 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Treze composições concorrem na categoria de clássicos para a final do 22º Prêmio Rádio MEC</title>
+  <link>http://concerto.com.br/noticias/reportagem/treze-composicoes-concorrem-na-categoria-de-classicos-para-final-do-22o-premio</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Treze composições concorrem na categoria de clássicos para a final do 22º Prêmio Rádio MEC&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Finalistas serão votados pelo público e conhecidos no dia 18 de novembro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Rádio MEC divulgou a lista das obras classificadas na primeira etapa do Prêmio Rádio MEC 2026, que está em sua 22ª edição. No total, 349 composições de todas as regiões do país se inscreveram no certame. As classificadas serão votadas agora pelo público, em três categorias: Infância, com 15 concorrentes; Instrumental, com 20; e Clássica, com 13. &lt;/p&gt;
+&lt;p&gt;A escolha do público é feita pela página oficial da emissora, onde é possível ouvir as composições e registrar o voto. A votação segue até 18 de novembro, data em que serão anunciados os finalistas da premiação.&lt;/p&gt;
+&lt;p&gt;Concorrendo na categoria Clássica estão: &lt;em&gt;Ave de amor&lt;/em&gt;, de Juliana Ripke e Narcisa Amália, com Marília Vargas, Marcus Ribeiro e Ensemble de violoncelos; &lt;em&gt;Café&lt;/em&gt;, de Jorge Ribbas, com Quinteto Ribbas; &lt;em&gt;Desencanto&lt;/em&gt;, de Sérgio de Alencastro Veiga Filho, com Sergin Veiga; &lt;em&gt;É manhã&lt;/em&gt;, de Guilherme Roman, com Cíntia de Los Santos, Carol Schäfer, Eduardo Alves e Guilherme Roman; &lt;em&gt;Libertas (Caipirinha)&lt;/em&gt;, de Daniel Wolff, com Quarteto Libertas; &lt;em&gt;O crepúsculo num bosque em um dia nublado de inverno na serra&lt;/em&gt;, de Alexandre Fritzen da Rocha, com Alexandre Fritzen; &lt;em&gt;Paisagens, poema para cello em 2 movimentos&lt;/em&gt;, de Ricardo Szpilman, com Hugo Pilger; &lt;em&gt;Passacaglia para piano solo&lt;/em&gt;, de Andersen Viana, com Stéphanie Elbaz; &lt;em&gt;Quinteto de clarinetas&lt;/em&gt;, de Marcos Cohen, com Quinteto de Clarinetas Royal Brasil; &lt;em&gt;Sinfonia nº 1 em sol menor&lt;/em&gt;, de Henrique Machado, com Orquestra Light Rocinha; &lt;em&gt;Toccata&lt;/em&gt;, de Pablo Lapidusas e Rem Urasim, com Pablo Lapidusas e Rem Urasim; &lt;em&gt;Três noites de silêncio&lt;/em&gt;, de Daniel Ganc, com Daniel Ganc; e &lt;em&gt;Villalobiana&lt;/em&gt;, de Vinícius Frate, com Vinícius Frate e Jennifer Campbell.&lt;/p&gt;
+&lt;p&gt;O Prêmio Rádio MEC é realizado pela Empresa Brasil de Comunicação (EBC). Após o encerramento da votação e a divulgação dos finalistas, as obras seguem para a etapa final da premiação, com anúncio dos vencedores previsto para dezembro.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://radiomec.ebc.com.br/programas/premio-radio-mec/vote-nas-classificadas-do-premio-radio-mec" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar a página do Prêmio Rádio MEC.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://adm-premioradiomec.ebc.com.br/votacao" target="_blank"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; para acessar a página da votação do Prêmio Rádio MEC.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Imagem gerada por IA)" data-entity-type="file" data-entity-uuid="b2e7a834-a982-4551-a839-5692af72536b" src="http://concerto.com.br/sites/default/files/inline-images/w-RadioMEC_IA.jpg" /&gt;
+&lt;figcaption&gt;(Imagem gerada por IA)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 10/10/2026 - 14:47&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-RadioMEC_IA.jpg" width="900" height="600" alt="(Imagem gerada por IA)" title="(Imagem gerada por IA)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2258" hreflang="pt-br"&gt;Rádio MEC&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=dMvIbT4XqgC22HHDpFuKvj1nf3hSnZa73eaZ5PteIOg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 10 Oct 2026 14:47:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283586 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Diego Pérez (Uruguai) - percussão e Gonzalo Gravina (Uruguai) - piano </title>
@@ -284,10 +363,10 @@ A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a 
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=1gNz-03vjRrTxiEhY9dylxzxVxx8xzXPreGOo1UTix8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=YSm2QAh6B9B8JAHMh0xEpvmWLKqxAUJWSFK9MYK2jAQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -355,7 +434,7 @@ A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a 
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=2pkNgMwcqvaaden4r6hKZYocFHw2ywj7PNKQOzzL6so?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3meLAjf5PL2rsD9EyEFfDZ_iadMinarOPjM6Ip-k36M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
@@ -494,10 +573,10 @@ A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a 
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=GhxDcBz0WPExDBPo9vS1Z8Kz6EpdL9aSWpwNE02bTlc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=8tK1Sr3TZgLOH_6ICIU6nNMtMw554hXINsM-cFgwGGw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;19&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -507,102 +586,6 @@ A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a 
   <pubDate>Fri, 09 Oct 2026 12:29:45 +0000</pubDate>
     <dc:creator>Luciana Medeiros</dc:creator>
     <guid isPermaLink="false">283577 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Espetáculos musicais celebram o Dia das Crianças; veja uma seleção</title>
-  <link>http://concerto.com.br/noticias/musica-classica/espetaculos-musicais-celebram-o-dia-das-criancas-veja-uma-selecao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculos musicais celebram o Dia das Crianças; veja uma seleção&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O final de semana e o feriado contam com apresentações voltadas ao público infantil e às famílias. Em São Paulo, a Orquestra Experimental de Repertório e o Balé da Cidade de São Paulo realizam o espetáculo Lendas Brasileiras. No Rio de Janeiro, o Palavra Cantada comemora 30 anos em uma apresentação de canções autorais. A Orquestra Filarmônica de Minas Gerais, a Orquestra Sinfônica da Bahia e a Orquestra Sinfônica do Espírito Santo também dedicam seus concertos ao público infantil. Orquestras jovens completam a programação.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sábado, 10&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Estação Motiva Cultural recebe o espetáculo Vitrolinha, com a &lt;strong&gt;Palhaça Rubra&lt;/strong&gt;, pela série Primeiros Acordes. Dirigida por Lígia Cortez, a apresentação conta com o improviso da atriz Lu Lopes, ao som de músicas para crianças dos anos 70 e 80. Reapresentação nos dias 11 e 12.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Camerata Antiqua de Curitiba&lt;/strong&gt; realiza concerto didático Viajando com as Histórias – Uma Conversa da Música com os Livros, no Auditório Mario de Mari, em Curitiba. A orquestra une a música à literatura, ao som de obras de Wolfgang Amadeus Mozart, Henry Purcell, Ernani Aguiar e César Guerra-Peixe, além de músicas de Sandra Peres, Luiz Tatit e Milton Nascimento.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Domingo, 11&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Experimental de Repertório &lt;/strong&gt;e o&lt;strong&gt; Balé da Cidade de São Paulo&lt;/strong&gt; interpretam Lendas brasileiras no Theatro Municipal. Com Luiz Fernando Bongiovanni na direção-geral, Ricardo Garanhani na direção de arte e Edson Bueno na direção teatral, músicos e bailarinos executam &lt;em&gt;Lendas brasileiras&lt;/em&gt;, de Alexandre Guerra. O programa se repete no dia 12.&lt;/p&gt;
-&lt;p&gt;No Theatro São Pedro, a&lt;strong&gt; Orquestra do Theatro São Pedro&lt;/strong&gt; apresenta o concerto didático Brincando em Cena. Com direção musical de Emiliano Patarra e direção cênica de Felipe Venâncio, o programa conta com trechos das óperas&lt;em&gt; A flauta mágica&lt;/em&gt;, de Mozart,&lt;em&gt; O barbeiro de sevilha&lt;/em&gt;, de Rossini,&lt;em&gt; A noite no castelo&lt;/em&gt;, de Henrique Alves de Mesquita, entre outras. A orquestra convida a soprano Raquel Paulin, a mezzo-soprano Juliana Taino, o tenor Geilson Santos e o barítono Julián Lisnichuk.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Jovem do Estado&lt;/strong&gt; dedica concerto às crianças, na Sala São Paulo. Cláudio Cruz rege os músicos em trilhas sonoras de John Williams, Henry Mancini, Joe Hisaishi e outros.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Santo André&lt;/strong&gt; apresenta obras de Mozart no Cine Teatro Carlos Gomes, em Santo André. A regência fica a cargo de Abel Rocha e Marcelo Falcão e a direção cênica, de André di Peroli.&lt;/p&gt;
-&lt;p&gt;Em São Paulo, a &lt;strong&gt;Orquestra de Cordas do Guri de São Paulo&lt;/strong&gt; se apresenta na Casa Museu Ema Klabin. Os músicos tocam &lt;em&gt;The fairy queen Z. 629&lt;/em&gt;, de Purcell, o &lt;em&gt;Concerto para cordas em dó Menor RV 120&lt;/em&gt;, de Vivaldi, e o &lt;em&gt;Concertino para violoncelo e cordas&lt;/em&gt;, de Ernst Mahle. Obras de Helmut May e Nadia Boulanger completam o programa. A entrada é franca.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Almai&lt;/strong&gt; realiza o Cine Concerto&lt;em&gt; Up: altas aventuras&lt;/em&gt;, no BTG Pactual Hall. Dirigida e idealizada por Anselmo Mancini, a exibição do filme conta com trilha sonora ao vivo, realizada por Aline Falcão ao piano, Alessandro Figueiredo no violino, Guilherme Bonfim na viola, Jônatas Pereira no violoncelo, Danilo Crispim na flauta e Erick Yukio no fagote.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Filarmônica de Minas Gerais&lt;/strong&gt; dá continuidade à série Concertos para a Juventude, na Sala Minas Gerais, em Belo Horizonte. Sob regência de José Soares, a orquestra convida a harpista Clémence Boinot. O programa apresenta &lt;em&gt;Dança da fada açucarada&lt;/em&gt;, de Tchaikovsky, trechos da suíte de &lt;em&gt;Harry Potter&lt;/em&gt;, de John Williams, e a &lt;em&gt;Suíte milagre dos peixes&lt;/em&gt;, de Milton Nascimento e Nelson Ayres, além de obras de Bach, Ravel e De Falla.&lt;/p&gt;
-&lt;p&gt;Em Salvador, a &lt;strong&gt;Banda Sinfônica Neojiba&lt;/strong&gt; realiza concerto gratuito no Parque do Queimado. Ronald Zaira rege os músicos nas trilhas sonoras dos filmes &lt;em&gt;Como treinar o seu dragão&lt;/em&gt;, &lt;em&gt;Moana&lt;/em&gt;, &lt;em&gt;O rei leão&lt;/em&gt;, Aladdin, &lt;em&gt;Os vingadores&lt;/em&gt;, &lt;em&gt;A bela e a fera&lt;/em&gt; e outros.&lt;/p&gt;
-&lt;p&gt;No Rio de Janeiro, a &lt;strong&gt;Orquestra Sinfônica Brasileira &lt;/strong&gt;toca no Teatro Municipal Carlos Gomes. Sob regência de Fabrícia Medeiros, a orquestra interpreta obras de Ernesto Nazareth e Villa-Lobos.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica do Espírito Santo&lt;/strong&gt; dedica concerto às famílias, no Parque Cultural Casa do Governador, em Vila Velha. Regida por Sanni Souza, a orquestra toca obras de Chiquinha Gonzaga, Ernesto Nazareth, Elodie Bouny, Mozart, J. Strauss Jr. e outros. A entrada é franca.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Segunda, 12&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Em São Paulo, a &lt;strong&gt;Orquestra Brasil Jazz Sinfônica&lt;/strong&gt; interpreta trilhas sonoras de filmes no Teatro Franco Zampari. Com regência de Gustavo Petri, narração de Adriana Couto e arranjos de Fábio Prado, a orquestra toca temas dos filmes&lt;em&gt; Piratas do Caribe&lt;/em&gt;, &lt;em&gt;Indiana Jones&lt;/em&gt;, &lt;em&gt;Tubarão&lt;/em&gt; e outros.&lt;/p&gt;
-&lt;p&gt;Em Salvador, a &lt;strong&gt;Orquestra Sinfônica da Bahia&lt;/strong&gt; realiza o concerto do projeto OSBA em Família, no Teatro Castro Alves. Sob regência de Eduardo Salazar, a orquestra convida a trompetista Alana Rana para o &lt;em&gt;Concerto para trompete em mi bemol maior&lt;/em&gt;, de Johann Baptist Georg Neruda. Obras de Inocente Carreño e Tchaikovsky completam o programa.&lt;/p&gt;
-&lt;p&gt;O &lt;strong&gt;Palavra Cantada&lt;/strong&gt; comemora 30 anos no Vivo Rio, no Rio de Janeiro. O grupo apresenta canções infantis autorais, com Sandra Peres no teclado, Paulo Tatit no violão, guitarra e voz, Thais Andrade nos teclados, Ingrid Cavalcanti no baixo, Franci Óliver na percussão e Karol Preta na bateria.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;20ª Semana da Música de Ouro Branc&lt;/strong&gt;o inclui o espetáculo E o palhaço, tem concerto? em sua programação, na Casa de Música de Ouro Branco. Coordenada por Kênia Libânio, a apresentação conta com o violoncelista Mauro Braga, com os professores da Semana da Música e com a participação cênica do palhaço Azevedo.&lt;/p&gt;
-&lt;p&gt;Em Recife, a&lt;strong&gt; Orquestra Sinfônica Infantil da Orquestra Criança Cidadã &lt;/strong&gt;e o &lt;strong&gt;Coro e a Banda do Núcleo Popular&lt;/strong&gt; se apresentam no Teatro Luiz Mendonça. Ramón Pérez e Amílcar Aniceto regem os músicos em canções infantis.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-10"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-10"&gt; &lt;/a&gt;no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/filarmonica-de-berlim-e-destaque-da-edicao-de-outubro-da-revista-concerto" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim é destaque da edição de outubro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/tucca-lanca-temporada-internacional-com-anne-sophie-mutter-andreas-staier-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Tucca lança temporada internacional com Anne-Sophie Mutter, Andreas Staier e Bruno de Sá&lt;/span&gt; &lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/orquestra-sinfonica-do-parana-faz-homenagem-roberto-tibirica-e-parte-para" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Sinfônica do Paraná faz homenagem a Roberto Tibiriçá e parte para apresentações na China &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/academia-de-opera-do-theatro-sao-pedro-interpreta-opereta-o-morcego-de-strauss-ii" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Academia de Ópera do Theatro São Pedro interpreta opereta 'O morcego', de Strauss II&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/reportagem/orquestra-petrobras-sinfonica-anuncia-concurso-de-solistas-maestro-isaac" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Petrobras Sinfônica anuncia Concurso de Solistas Maestro Isaac Karabtchevsky &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Dança em Diálogo&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/danca/para-alem-do-movimento-danca-como-direito-e-transformacao-social" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Para além do movimento: a dança como direito e transformação social&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Renata Faila&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Lendas Brasileiras, no Theatro Municipal de São Paulo [Divulgação/ Larissa Paz]" data-entity-type="file" data-entity-uuid="afb66b4a-c0c1-49c9-a451-4a599dc7bb50" src="http://concerto.com.br/sites/default/files/inline-images/w-lendas.jpg" /&gt;
-&lt;figcaption&gt;Lendas Brasileiras, no Theatro Municipal de São Paulo [Divulgação/ Larissa Paz]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 01:53&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-lendas.jpg" width="900" height="576" alt="Lendas Brasileiras, no Theatro Municipal de São Paulo [Divulgação/ Larissa Paz]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1NzYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=kJXRB28sAP_v60EX7ETqMrC-kDaOSR_OUH4RQ220-4U?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 09 Oct 2026 01:53:14 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283576 at http://concerto.com.br</guid>
     </item>
 
   </channel>
