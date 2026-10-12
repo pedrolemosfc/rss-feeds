@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Mon, 12 Oct 2026 15:39:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Oct 2026 23:03:45 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -62,22 +62,6 @@
 
 					<description><![CDATA[<p>Tarja</p>
 <p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/tarja-3/">Tarja</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chiki Toonz</title>
-		<link>https://www.tokiomarinehall.com.br/chiki-toonz/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 15:44:07 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5796</guid>
-
-					<description><![CDATA[<p>Chiki Toonz</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/chiki-toonz/">Chiki Toonz</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
 ]]></description>
 		
 		
@@ -180,6 +164,22 @@ Natal</p>
 		
 		
 			</item>
+		<item>
+		<title>JORGE VERCILLO</title>
+		<link>https://www.tokiomarinehall.com.br/jorge-vercillo-5/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 15:14:18 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5685</guid>
+
+					<description><![CDATA[<p>Jorge Vercillo</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/jorge-vercillo-5/">JORGE VERCILLO</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-10-12 12:39:52 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-10-12 20:03:45 by W3 Total Cache
 -->

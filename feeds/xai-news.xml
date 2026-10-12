@@ -5,7 +5,13 @@
 <link>https://x.ai/news</link>
 <description>xAI / SpaceXAI news (scraped)</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 15:38:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 23:02:39 +0000</lastBuildDate>
+<item>
+<title>Product · Introducing The X Subscription</title>
+<link>https://x.ai/news/x-subscription</link>
+<guid isPermaLink="true">https://x.ai/news/x-subscription</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Product · Team Bots: shared AI teammates that learn as they work</title>
 <link>https://x.ai/news/team-bots</link>
@@ -31,7 +37,7 @@
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Product · Memory in Grok Build</title>
+<title>Memory in Grok Build Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.</title>
 <link>https://x.ai/news/grok-build-memory</link>
 <guid isPermaLink="true">https://x.ai/news/grok-build-memory</guid>
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
