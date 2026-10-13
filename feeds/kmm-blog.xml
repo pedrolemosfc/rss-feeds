@@ -12,7 +12,7 @@
 	<atom:link href="https://kmm.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kmm.com.br/blog/</link>
 	<description>Espelho do RSS nativo do blog KMM (WordPress /feed/). /blog/feed/ é só comentários; site feed cobre posts recentes do blog.</description>
-	<lastBuildDate>Tue, 13 Oct 2026 16:06:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Oct 2026 21:20:43 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CIOT obrigatório: entenda as regras e saiba como evitar a rejeição do MDF-e</title>
+		<link>https://kmm.com.br/blog/ciot-obrigatorio/</link>
+					<comments>https://kmm.com.br/blog/ciot-obrigatorio/#respond</comments>
+		
+		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 16:27:12 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://kmm.com.br/?p=21373</guid>
+
+					<description><![CDATA[<p>O CIOT obrigatório já faz parte da rotina do transporte rodoviário de cargas. Desde 24 de maio de 2026, as operações remuneradas de transporte rodoviário de cargas abrangidas pela regulamentação precisam ser cadastradas para a geração do Código Identificador da Operação de Transporte. A medida ampliou a exigência para além das contratações de transportadores autônomos [&#8230;]</p>
+<p>O post <a href="https://kmm.com.br/blog/ciot-obrigatorio/">CIOT obrigatório: entenda as regras e saiba como evitar a rejeição do MDF-e</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://kmm.com.br/blog/ciot-obrigatorio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Vale-Pedágio Obrigatório: entenda as regras e como funciona no transporte de cargas</title>
 		<link>https://kmm.com.br/blog/vale-pedagio-obrigatorio/</link>
 					<comments>https://kmm.com.br/blog/vale-pedagio-obrigatorio/#respond</comments>
@@ -200,26 +219,6 @@
 ]]></description>
 		
 					<wfw:commentRss>https://kmm.com.br/blog/tns-summit/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Seguros obrigatórios ANTT: entenda as novas regras e como manter sua transportadora em conformidade</title>
-		<link>https://kmm.com.br/blog/seguros-obrigatorios-antt/</link>
-					<comments>https://kmm.com.br/blog/seguros-obrigatorios-antt/#respond</comments>
-		
-		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 17:23:14 +0000</pubDate>
-				<category><![CDATA[ABC da Logística]]></category>
-		<category><![CDATA[Gestão]]></category>
-		<guid isPermaLink="false">https://kmm.com.br/?p=20897</guid>
-
-					<description><![CDATA[<p>Os seguros obrigatórios ANTT passaram a ocupar um papel ainda mais estratégico no transporte rodoviário de cargas após as recentes mudanças na legislação brasileira. Mais do que uma exigência regulatória, eles representam um importante mecanismo de proteção para transportadoras, embarcadores, motoristas e demais envolvidos na cadeia logística, garantindo maior segurança financeira diante de acidentes, roubos [&#8230;]</p>
-<p>O post <a href="https://kmm.com.br/blog/seguros-obrigatorios-antt/">Seguros obrigatórios ANTT: entenda as novas regras e como manter sua transportadora em conformidade</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://kmm.com.br/blog/seguros-obrigatorios-antt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -5,7 +5,14 @@
 <link>https://institutocare.org.br/programacao/</link>
 <description>Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 16:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 21:23:38 +0000</lastBuildDate>
+<item>
+<title>Çarê Convida As Choronas</title>
+<link>https://institutocare.org.br/programacao/care-convida-as-choronas/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/care-convida-as-choronas/</guid>
+<pubDate>Tue, 13 Oct 2026 19:51:15 +0000</pubDate>
+<description>Musica — o Çarê Convida recebe As Choronas com o show Alma Feminina. Criado em São Paulo em 1994, o grupo é reconhecido como o primeiro conjunto de choro formado só por mulheres no Brasil.</description>
+</item>
 <item>
 <title>Acontece em Outubro no Viveiro-escola</title>
 <link>https://institutocare.org.br/programacao/acontece-em-outubro-no-viveiro-escola/</link>
@@ -348,13 +355,6 @@
 <guid isPermaLink="true">https://institutocare.org.br/programacao/festival-da-marce-2023/</guid>
 <pubDate>Sat, 02 Dec 2023 00:00:43 +0000</pubDate>
 <description>Institucional — O Instituto Çarê recebe o Festival da Marcê – Mostra de Processos [...]</description>
-</item>
-<item>
-<title>Antonio Madureira Armorial: Vol. 2 em São Paulo</title>
-<link>https://institutocare.org.br/programacao/antonio-madureira-armorial-2-sp/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/antonio-madureira-armorial-2-sp/</guid>
-<pubDate>Thu, 30 Nov 2023 00:00:46 +0000</pubDate>
-<description>Livros — O Instituto Çarê promove dois eventos relacionados ao segundo volume da série [...]</description>
 </item>
 </channel>
 </rss>

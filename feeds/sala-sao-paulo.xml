@@ -5,7 +5,7 @@
 <link>https://salasaopaulo.art.br/salasp/pt/programacao-ingressos</link>
 <description>Concertos da Sala São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 16:07:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 21:21:24 +0000</lastBuildDate>
 <item>
 <title>Concerto 1984</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1984?date=2026-10-15T13:00:00.000Z</link>
@@ -145,6 +145,18 @@
 <description>Sala São Paulo</description>
 </item>
 <item>
+<title>Concerto 2009</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2009?date=2026-11-01T13:50:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2009?date=2026-11-01T13:50:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
+<title>Concerto 2009</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2009?date=2026-11-01T19:20:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2009?date=2026-11-01T19:20:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
 <title>Concerto 1615</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1615?date=2026-11-01T21:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1615?date=2026-11-01T21:00:00.000Z</guid>
@@ -232,18 +244,6 @@
 <title>Concerto 1739</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1739?date=2026-11-15T13:50:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1739?date=2026-11-15T13:50:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 1609</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1609?date=2026-11-15T21:00:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1609?date=2026-11-15T21:00:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 2003</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/2003?date=2026-11-17T23:30:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2003?date=2026-11-17T23:30:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 </channel>
