@@ -231,9 +231,10 @@ def write_rss(
     now = rfc822(datetime.now(timezone.utc))
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        '<rss version="2.0">',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         "<channel>",
         f"<title>{escape(title)}</title>",
+        f'<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/{escape(os.path.basename(path))}" rel="self" type="application/rss+xml"/>',
         f"<link>{escape(link)}</link>",
         f"<description>{escape(description)}</description>",
         f"<language>{escape(language)}</language>",
