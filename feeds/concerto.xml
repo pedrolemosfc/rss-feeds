@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 12 Oct 2026 23:03:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 06:53:09 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MSIsImRpc2xpa2VzIjoiMCJ9?token=a2UaJcbwyUGdP2Oga67fxeACxyty6K8Uct8qQsk8WG8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MSIsImRpc2xpa2VzIjoiMCJ9?token=wLk2pp8h84Big9HT1qwrb1E5RuQwNWSq7xZdvZFKN3I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;561&lt;/span&gt;
@@ -80,6 +80,308 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil</title>
+  <link>http://concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Escola de Comunicações e Artes da Universidade de São Paulo promove na quarta-feira, dia 14, o ECA Ópera Day, um dia de debates que propõem “uma reflexão sobre o fazer operístico a partir do compartilhamento de aprendizados e de experiências e tendências nacionais e internacionais”. Não é necessário se inscrever para participar.&lt;/p&gt;
+&lt;p&gt;“O encontro busca ampliar o diálogo entre a universidade e diferentes agentes do setor cultural, como gestores, jornalistas, críticos, docentes e estudantes, promovendo a troca de experiências e conhecimentos. Dessa maneira, a atividade possibilita o aperfeiçoamento da Escola de Ópera, futuras formações conjuntas, além da prospecção de novas produções”, diz a apresentação do evento.&lt;/p&gt;
+&lt;p&gt;A abertura, às 9 horas, contará com a presença de Aluísio Augusto Cotrim Segurado, reitor da USP; Amâncio Jorge Silva Nunes de Oliveira, pró-reitor de Cultura e Extensão Universitária da USP; Carlos Eduardo Ambrósio, pró-reitor de Pós-Graduação da USP; Clotilde Perez, diretora da ECA, e Mário Videira, vice-diretor da ECA.&lt;/p&gt;
+&lt;p&gt;Às 9h30, será realizada a primeira mesa, “O impacto da ópera na sociedade: a perspectiva brasileira”, com a participação de Flávia Furtado (Festival Amazonas de Ópera), Livia Sabag (Vitória Ópera Estúdio)  e Leonardo Martinelli (Faculdade Santa Marcelina) e mediação de Alexandre Ficarelli (Departamento de Música da ECA).&lt;/p&gt;
+&lt;p&gt;Às 11h15, o tema é “Fazer ópera na contemporaneidade: desafios e potencialidades”, com Flavia Albano (Departamento de Música da ECA), Miguel Galdón (Teatro de la Zarzuela/ Espanha) e mediação de Mediação: Mário Videira  (vice-diretor da ECA).&lt;/p&gt;
+&lt;p&gt;“Governança, comunicação e diversificação de público” é o tema da terceira mesa, às 14 horas, com Andrea Saturnino (Brasil Cena Aberta), Marcelo Lopes (Fundação Osesp), Paulo Zuben (Theatro São Pedro) e mediação de William Coelho (Departamento de Música da ECA).&lt;/p&gt;
+&lt;p&gt;Às 15h15, será realizada a mesa “História e evolução da ópera”, com Sergio Casoy (especialista em ópera), Gabriel Rhein Schirato (maestro) e Ligiana Costa (musicóloga). A mediação é de Renato Bolelli Rebouças (Departamento de Artes Cênicas da ECA).&lt;/p&gt;
+&lt;p&gt;A mesa “Teatro, ópera e musicais: cenários futuros” fecha a programação de debates, com a participação de Samuel MacDowell (Teatro Vermelhos), Fábio Cesnik (CQS/FV Advogados), Rosana Paulo da Cunha (Sesc SP) e Wilson Barros (Opus Entretenimento) e mediação de Amâncio Jorge Silva Nunes de Oliveira.&lt;/p&gt;
+&lt;p&gt;Às 18h30 haverá um recital de canto. A programação acontece no Auditório Paulo Emílio (Prédio Central da ECA, 2º andar, sala 200).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="Eca Ópera Day [Divulgação]" data-entity-type="file" data-entity-uuid="d10dd800-4797-49d3-9cc8-a5d399c8cb65" src="http://concerto.com.br/sites/default/files/inline-images/w-eca_opera_day.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 13/10/2026 - 00:22&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-eca_opera_day.jpg" width="900" height="575" alt="Eca Ópera Day [Divulgação]" title="Eca Ópera Day [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=ONOOgiaJOxJeBOWM3mpC2Sm2rhoNIUi5ewSMDZhfXNc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 13 Oct 2026 00:22:40 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283592 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Performa Clavis realiza nona edição com palestras, debates, aulas e recitais</title>
+  <link>http://concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Escola de Comunicações e Artes da Universidade de São Paulo recebe, entre os dias 14 e 16, a 9ª edição do Performa Clavis – Encontro de Performance em Instrumentos de Teclado. O tema deste ano é “Poéticas da performance: a prática nos instrumentos de teclado ao longo dos séculos".&lt;/p&gt;
+&lt;p&gt;O encontro, que reúne professores, pesquisadores e estudantes, é realizado por meio de uma colaboração entre USP, Unesp e Unicamp e terá como convidados os pianistas Beatrice Long, Dimitri Vassilakis, Maria Teresa Madeira e Olga Pashchenko. &lt;/p&gt;
+&lt;p&gt;Durante os três dias, no período da manhã, haverá uma palestra de um dos convidados, seguida de uma masterclass. Na quarta-feira, 14, às 9h30, a russa Olga Pashchenko apresenta a palestra “O desafio da performance nos diferentes instrumentos de teclado”. &lt;br /&gt;
+Na quinta-feira, Dimitri Vassilakis, pianista do Ensemble Intercontemporain de Paris, fala sobre “O performer expandido: novas tecnologias e a performance no piano contemporâneo”. E, na sexta-feira, a pianista taiwanesa residente nos EUA Beatrice Long apresenta a palestra “As sonatas de Domenico Scarlatti”.&lt;/p&gt;
+&lt;p&gt;Na parte da tarde, às 14h, haverá recitais de estudantes e, às 14h30, duas atividades simultâneas: master classes e sessões de comunicações. Às 17h, a programação inclui, ao longo dos três dias, as mesas-redondas “Perspectivas da pesquisa em performance para instrumentos de teclado” e “Práticas improvisatórias em diferentes contextos”, com professores da Usp, Unesp e Unicamp, e, no último dia, o workshop “Piano brasileiro”, ministrado pela pianista Maria Teresa Madeira.&lt;/p&gt;
+&lt;p&gt;Cada dia se encerra com um concerto, às 19h, com a participação dos convidados e com um repertório que cobre mais de três séculos de música, de Carl Philipp Emanuel Bach aos contemporâneos Sofia Gubaidulina e Helmut Lachenmann, passando por nomes como Beethoven, Chopin, Debussy, Ravel e Ligeti. &lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-14" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A pianista Olga Pashchenko [Divulgação]" data-entity-type="file" data-entity-uuid="67b67828-f9ed-41c2-b54b-b5eb7bf76012" src="http://concerto.com.br/sites/default/files/inline-images/w-Cover-Photo-5.jpg" /&gt;
+&lt;figcaption&gt;A pianista Olga Pashchenko [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 13/10/2026 - 00:18&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Cover-Photo-5.jpg" width="900" height="450" alt="A pianista Olga Pashchenko [Divulgação]" title="A pianista Olga Pashchenko [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=t9WU7DNNEsXKqmAkhk8ZcLELCRNMT8RI4KJoUZeFA0o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 13 Oct 2026 00:18:56 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283591 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre</title>
+  <link>http://concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Uma mulher sem nome vaga por uma floresta densa, iluminada apenas pela luz da lua; busca seu amante, sabendo-se traída, e se depara com um corpo. É ele? Quem o matou? Uma outra mulher? Ela mesma? &lt;/p&gt;
+&lt;p&gt;É esse o ponto de partida da ópera &lt;em&gt;Erwartung&lt;/em&gt;, de Schoenberg, que a série Terça Lírica do Memorial do Judiciário apresenta em Porto Alegre pela primeira vez, com a soprano Eiko Senda, o pianista Patrick Minuzzi e a direção cênica de Carlota Albuquerque. A curadoria da série é de Flávio Leite, presidente da Companhia de Ópera do Rio Grande do Sul.&lt;/p&gt;
+&lt;p&gt;Theodor Adorno chamou &lt;em&gt;Erwartung&lt;/em&gt;, escrito em 1909 a partir do poema da médica vienense Marie Pappenheim, de "o retrato sismográfico de um choque traumático” – o que vemos no palco é a teia difusa de sensações e medos da personagem.&lt;/p&gt;
+&lt;p&gt;"Essa é uma das obras fundamentais do Expressionismo alemão e um dos grandes monólogos líricos da história da ópera. Em trinta minutos, o espectador adentra a psique humana em fluxos fragmentados e angustiantes de pensamentos, memórias e emoções diante de uma experiência traumática. Para esta apresentação, será utilizada uma versão para canto e piano realizada pelo próprio Schoenberg e gentilmente disponibilizada pelo Schoenberg Archive, de Viena, para a CORS”, diz Minuzzi.&lt;/p&gt;
+&lt;p&gt;“Em &lt;em&gt;Erwartung&lt;/em&gt;, o piano assume um papel que vai muito além do simples acompanhamento da voz: ele traduz musicalmente as oscilações e nuances do monólogo, criando atmosferas, tensões e rupturas que acompanham o estado psicológico da personagem. É um universo sonoro íntimo, perturbador, através de uma sonoridade que não é a habitual, no qual a consciência humana é exposta em seu estado mais profundo", completa.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-13" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A soprano Eiko Senda em 'Erwartung' [Divulgação/Vitoria Proença]" data-entity-type="file" data-entity-uuid="f53c3568-539f-454d-8318-18b92cfbac52" src="http://concerto.com.br/sites/default/files/inline-images/w-Terc%CC%A7a%20Li%CC%81rica%20-%20Erwartung%20por%20%40vitoriaproenca-9.jpg" /&gt;
+&lt;figcaption&gt;A soprano Eiko Senda em 'Erwartung' [Divulgação/Vitoria Proença]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 13/10/2026 - 00:13&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Terc%CC%A7a%20Li%CC%81rica%20-%20Erwartung%20por%20%40vitoriaproenca-9.jpg" width="900" height="600" alt="A soprano Eiko Senda em 'Erwartung' [Divulgação/Vitoria Proença]" title="A soprano Eiko Senda em 'Erwartung' [Divulgação/Vitoria Proença]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=gdT3Tz27fwadm56aicNifYFGiVG9pvdIFqzE8U_Szqg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 13 Oct 2026 00:13:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283590 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Ensemble Écoute (França)</title>
+  <link>http://concerto.com.br/roteiros/ensemble-ecoute-franca</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ensemble Écoute (França)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 12/10/2026 - 23:00&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Scarecrow — Cine-concerto. Fernando Palomeque - regente. Programa: músicos franceses executam ao vivo a composição de Martin Matalon para três clássicos do cinema mudo: Uma semana, O espantalho e A casa de espetáculos. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-29T20:00:00Z" class="datetime"&gt;qui, 29/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/250139" hreflang="pt-br"&gt;Teatro B32 (500 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 30 a R$ 120. Vendas: https://teatrob32.byinti.com/?utm_source=promotor&amp;utm_medium=campaign&amp;utm_campaign=scarecrow-site#/event/qtfAUR5G8POMqyUnjNMS.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 12 Oct 2026 23:00:46 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283589 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Balé Teatro Guaíra</title>
@@ -143,7 +445,6 @@
   <pubDate>Mon, 12 Oct 2026 22:48:49 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283588 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/bale-teatro-guaira-37#comments</comments>
     </item>
 <item>
   <title>Orquestra Guarany </title>
@@ -207,7 +508,6 @@
   <pubDate>Mon, 12 Oct 2026 22:46:06 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283587 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-guarany-5#comments</comments>
     </item>
 <item>
   <title>Treze composições concorrem na categoria de clássicos para a final do 22º Prêmio Rádio MEC</title>
@@ -274,10 +574,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=jUyLHTPgMS4Re_Y1FVDBovtVdu4e6l3bI6nQSVm7cxE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjExIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yHZHqzx87f10JvFYlkKO0Km0EOR5AT_v-VvVieXrlro?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;11&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -375,7 +675,7 @@ Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&l
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Ya9lcj3aNG_iXLAsasd6nzLQrkmmmHiWZFUUmkiEAqI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=akfHUHWvqzs1FYDEb-SvDtZ_2fPzAWmqrKxMg-T-rww?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
@@ -388,223 +688,6 @@ Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&l
   <pubDate>Fri, 09 Oct 2026 22:21:34 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283584 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Diego Pérez (Uruguai) - percussão e Gonzalo Gravina (Uruguai) - piano </title>
-  <link>http://concerto.com.br/roteiros/diego-perez-uruguai-percussao-e-gonzalo-gravina-uruguai-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Diego Pérez (Uruguai) - percussão e Gonzalo Gravina (Uruguai) - piano &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 22:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;O legado de Rubén Rada. Programa: músicas de Rubén Rada. Convivência.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T18:00:00Z" class="datetime"&gt;sex, 16/10/2026 - 18:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-consolacao" hreflang="und"&gt;Sesc Consolação  (328 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 09 Oct 2026 22:02:54 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283583 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Cine Belas Artes</title>
-  <link>http://concerto.com.br/node/283581</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cine Belas Artes&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua da Consolação, 2423 - Consolação - Tel. (11) 2894-5781 - https://www.cinebelasartes.com.br/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 22:01&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Fri, 09 Oct 2026 22:01:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283581 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Filme Ensaiando o Brasil - Orquestra Tom Jobim</title>
-  <link>http://concerto.com.br/roteiros/filme-ensaiando-o-brasil-orquestra-tom-jobim</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filme Ensaiando o Brasil - Orquestra Tom Jobim&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 21:56&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Elisa Bracher - direção. Gustavo Ribeiro - codireção. Ana Cláudia Streva e Elisa Bracher - preodução. O filme acompanha os bastidores da Orquestra Jovem Tom Jobim e investiga o encontro da música de concerto e diferentes tradições da música brasileira. Uma nova geração de músicos em processo de formação artística, revelando, entre ensaios, apresentações e momentos de criação, como a experiência de tocar em uma orquestra ultrapassa a técnica e se transforma em espaço de convivência, troca e construção coletiva. Ana Cláudia Streva - produção executiva. Adriano Lírio - desenho de produção. Lívia Barros e Lia Rezende - direção de produção. Gui Massago - direção de fotografia. Daniel Henrique - som direto.  Selma Perez - roteiro. Selma Perez - montagem. Sonideria - edição de som e mixagem. Quanta - pós-produção de imagem. Orquestra Jovem Tom Jobim/Santa Marcelina Cultura - gestão. Nelson Ayres e Tiago Costa - regentes. Nós Filmes - produção.&lt;br /&gt;
-&lt;br /&gt;
-A orquestra é liderada pelos maestros Nelson Ayres e Tiago Costa e conta com a participação de artistas como Guinga, Mônica Salmaso, Ricardo Herz e o músico italiano Gabriele Mirabassi, que compartilham processos criativos com os jovens instrumentistas.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T20:30:00Z" class="datetime"&gt;sex, 16/10/2026 - 20:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283581" hreflang="pt-br"&gt;Cine Belas Artes&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 09 Oct 2026 21:56:02 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283582 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Piotr Alexewicz faz recital com obras de Debussy, Rachmaninov e Chopin</title>
-  <link>http://concerto.com.br/noticias/musica-classica/piotr-alexewicz-faz-recital-com-obras-de-debussy-rachmaninov-e-chopin</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Piotr Alexewicz faz recital com obras de Debussy, Rachmaninov e Chopin&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Piotr Alexewicz, que ganhou o quinto prêmio, o Prêmio do Público e outros prêmios especiais no Concurso Chopin de Varsóvia em 2025, é a atração deste sábado do Festival Chopin. Ele faz recital no Teatro Cultura Artística. &lt;/p&gt;
-&lt;p&gt;Ele abre o programa com a &lt;em&gt;Suite bergamasque&lt;/em&gt;, de Debussy. Em seguida, toca Rachmaninov, os &lt;em&gt;Études-tableaux, Op. 33&lt;/em&gt;. E, daí em diante, dedica-se a Chopin: &lt;em&gt;Polonaise-Fantaisie em lá bemol maior, Op. 61&lt;/em&gt;; &lt;em&gt;Noturno em si bemol menor, Op. 9 nº 1&lt;/em&gt;; &lt;em&gt;Noturno em mi bemol maior, Op. 9 nº 2&lt;/em&gt;; &lt;em&gt;Andante spianato&lt;/em&gt; &lt;em&gt;e Grande Polonaise brilhante em mi bemol maior Op.22&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;O festival, que foi aberto por Valentina Lisitsa na semana passada, têm ainda mais três atrações. &lt;/p&gt;
-&lt;p&gt;Mateusz Krzyżowski se apresenta no dia 17, também no Cultura Artística, onde vai tocar com o Quinteto São Paulo Chamber Soloists uma versão de câmara do &lt;em&gt;Concerto para piano e orquestra nº 2&lt;/em&gt;, de Chopin. &lt;/p&gt;
-&lt;p&gt;O festival apresenta, no dia 24, Zitong Wangm, medalha de bronze no Concurso Chopin de 2025. E a programação se encerra com David Khrikuli, vencedor do Concurso de Piano de Vigo, no dia 31, na Estação Motiva Cultural. &lt;/p&gt;
-&lt;p&gt;O Festival Chopin é uma realização da Sociedade Chopin do Brasil. O evento acontece em parceria com o Instituto Chopin de Varsóvia o apoio da Casa Sangusko de Cultura Polonesa e o apoio institucional da Embaixada da Polônia no Brasil e os Consulados Geral e Consulado Honorário  da Polônia.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-10" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" data-entity-type="file" data-entity-uuid="8bfb44f4-e553-45ad-bd6c-573773b7ec51" src="http://concerto.com.br/sites/default/files/inline-images/w-piotralexewicz_01_agnieszka_wira.jpg" /&gt;
-&lt;figcaption&gt;O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 09/10/2026 - 20:50&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-piotralexewicz_01_agnieszka_wira.jpg" width="900" height="507" alt="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" title="O pianista Piotr Alexewicz [Divulgação/Agnieszka Wira]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1ODAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=uqjGvFxDR9h8xcqHBJQWS3zhWdBNh0X9k46xbKyMX4g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;14&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 09 Oct 2026 20:50:09 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283580 at http://concerto.com.br</guid>
     </item>
 
   </channel>
