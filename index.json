@@ -241,6 +241,11 @@
   ],
   "venue_scraped_feeds": [
     {
+      "name": "tecnologistica",
+      "source_url": "https://www.tecnologistica.com.br/noticias/",
+      "output": "feeds/tecnologistica.xml"
+    },
+    {
       "name": "teatro-bradesco",
       "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
       "output": "feeds/teatro-bradesco.xml"

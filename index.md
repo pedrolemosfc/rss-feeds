@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-13 21:23 UTC
+Generated: 2026-10-13 22:13 UTC
 
 ## Native feeds (not scraped)
 
@@ -52,8 +52,8 @@ Generated: 2026-10-13 21:23 UTC
   notes: scraped 31 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
-- **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **treblezine** [OK] items=100 → `out/treblezine.xml`  source: https://www.treblezine.com/  
+  notes: scraped 100 items
 - **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
   notes: scraped 100 items
 - **recall-changelog** [OK] items=10 → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
@@ -82,14 +82,16 @@ Generated: 2026-10-13 21:23 UTC
   notes: mirrored 10 native items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
-- **teatro-bradesco** [OK] items=49 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 49 events
+- **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
+  notes: scraped 10 events
+- **teatro-bradesco** [OK] items=48 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 48 events
 - **vibra-sp** [OK] items=23 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 23 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
-- **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **multi-arena-campinas** [OK] items=10 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
+  notes: scraped 10 events
 - **suhai-music-hall** [OK] items=10 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
   notes: scraped 10 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
@@ -126,8 +128,8 @@ Generated: 2026-10-13 21:23 UTC
   notes: scraped 23 events
 - **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 17 events
-- **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **multiplan-hall-sc** [OK] items=1 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
+  notes: scraped 1 events
 - **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
   notes: scraped 17 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
@@ -137,7 +139,7 @@ Generated: 2026-10-13 21:23 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -170,16 +172,16 @@ Generated: 2026-10-13 21:23 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=18 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  

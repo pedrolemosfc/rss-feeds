@@ -2793,7 +2793,44 @@ def scrape_hangar110(_html: str = "", _base: str = "") -> List[Dict[str, Any]]:
     return sort_items(items)
 
 
+_PT_MONTHS = {"janeiro":1,"fevereiro":2,"março":3,"marco":3,"abril":4,"maio":5,"junho":6,"julho":7,"agosto":8,"setembro":9,"outubro":10,"novembro":11,"dezembro":12}
+
+
+def scrape_tecnologistica(html: str, base: str) -> List[Dict[str, Any]]:
+    """Tecnologística /noticias/ listing (no native RSS / WP REST)."""
+    if not html:
+        return []
+    items: List[Dict[str, Any]] = []
+    for m in re.finditer(
+        r'<div class="item tipo-noticias">\s*<a href="(/noticias/[^"]+/\d+/[^"]+)"[^>]*>([\s\S]*?)</a>',
+        html,
+        re.I,
+    ):
+        link = "https://www.tecnologistica.com.br" + html_lib.unescape(m.group(1))
+        blk = m.group(2)
+        tm = re.search(r'<h2>([\s\S]*?)</h2>', blk)
+        if not tm:
+            continue
+        title = re.sub(r"\s+", " ", html_lib.unescape(strip_tags(tm.group(1)))).strip()
+        sm = re.search(r'class="subtitulo">([\s\S]*?)</div>', blk)
+        desc = re.sub(r"\s+", " ", html_lib.unescape(strip_tags(sm.group(1)))).strip() if sm else ""
+        date_raw = None
+        dm = re.search(r'class="data">\s*(\d{1,2}) de (\w+) de (\d{4})', blk)
+        if dm and dm.group(2).lower() in _PT_MONTHS:
+            date_raw = f"{dm.group(3)}-{_PT_MONTHS[dm.group(2).lower()]:02d}-{int(dm.group(1)):02d}"
+        items.append(item(title, link, desc or "Tecnologística — Notícias", date_raw))
+    return sort_items(dedupe_items(items))[:50]
+
+
 VENUE_SCRAPE_TARGETS: List[Dict[str, Any]] = [
+    {
+        "name": "tecnologistica",
+        "source_url": "https://www.tecnologistica.com.br/noticias/",
+        "output": "tecnologistica.xml",
+        "title": "Tecnologística — Notícias",
+        "description": "Notícias de logística e armazenagem (Tecnologística, scrape de /noticias/)",
+        "scraper": scrape_tecnologistica,
+    },
     {
         "name": "teatro-bradesco",
         "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
