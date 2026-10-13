@@ -5,7 +5,21 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 06:54:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 16:08:34 +0000</lastBuildDate>
+<item>
+<title>v1.112.5</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11125</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11125</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve responsiveness when selecting objects on large whiteboards.</description>
+</item>
+<item>
+<title>v1.112.4</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11124</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11124</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve whiteboard rendering performance and desktop app responsiveness.; Improve sync reliability when syncing a large number of changes.; You can now right-click a web card on the whiteboard and choose Reload preview in the desktop app.</description>
+</item>
 <item>
 <title>v1.112.3</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11123</link>
@@ -551,20 +565,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1872</guid>
 <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
 <description>Improve bookmark block style.; Fix the issue that prevents users from triggering the slash menu in the middle of the paragraph.</description>
-</item>
-<item>
-<title>Mobile app v1.34.0.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13402</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13402</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<description>Mobile App: Editor Template</description>
-</item>
-<item>
-<title>v1.87.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1871</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1871</guid>
-<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-<description>Editor - Bookmark blocks</description>
 </item>
 </channel>
 </rss>
