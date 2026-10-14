@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-14 07:48 UTC
+Generated: 2026-10-14 13:52 UTC
 
 ## Native feeds (not scraped)
 
@@ -166,8 +166,8 @@ Generated: 2026-10-14 07:48 UTC
   notes: scraped 77 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 9 events
+- **antt-cargas-rodoviarias** [OK] items=1 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 1 events
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
