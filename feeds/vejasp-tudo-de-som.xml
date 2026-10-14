@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Veja SP — Tudo de Som</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/vejasp-tudo-de-som.xml" rel="self" type="application/rss+xml"/>
 <link>https://vejasp.abril.com.br/coluna/tudo-de-som/</link>
 <description>Coluna Tudo de Som na Veja São Paulo (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:24 +0000</lastBuildDate>
 <item>
 <title>Jet, do hit ‘Are You Gonna Be My Girl’, anuncia show em São Paulo</title>
 <link>https://vejasp.abril.com.br/coluna/tudo-de-som/jet-show-brasil/</link>

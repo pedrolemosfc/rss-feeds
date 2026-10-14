@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Carioca Club — Agenda</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/carioca-club.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.clubedoingresso.com/cariocaclub</link>
 <description>Eventos do Carioca Club (Clube do Ingresso)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:21:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:10 +0000</lastBuildDate>
 <item>
 <title>Petra &amp; Whitecross &amp; Bride em São Paulo</title>
 <link>https://www.clubedoingresso.com/evento/petraewhitecrossebride-saopaulo</link>

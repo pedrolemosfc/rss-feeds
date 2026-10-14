@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 13 Oct 2026 21:20:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:17:43 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=EuJ-weDDgf4gpxkAmuyUQwOle77PzAcYPJIGhv6CF2A?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=3U-xQqa3sBaU7gq_M44z7zkBMKsPtgZJhEYwfLpjByA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;562&lt;/span&gt;
@@ -80,6 +80,82 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Filarmônica de Minas Gerais convida Nikola Meeuwsen</title>
+  <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-convida-nikola-meeuwsen</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais convida Nikola Meeuwsen&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 15, Orquestra Filarmônica de Minas Gerais recebe o pianista Nikola Meeuwsen, na Sala Minas Gerais, em Belo Horizonte. Sob a regência de José Soares, orquestra e solista tocam o &lt;em&gt;Concerto para piano nº 2, Op. 16&lt;/em&gt;, de Prokofiev. Obras de Weber e Schumann completam o programa.&lt;/p&gt;
+&lt;p&gt;Nikola Meeuwsen é uma das revelações do cenário pianístico internacional. Em 2025, venceu o Concurso Rainha Isabel, em Bruxelas, tornando-se o primeiro holandês a conquistar o prêmio. O intérprete vem se apresentando em salas de concerto por todo o mundo, regido por maestros como Sir John Eliot Gardiner, Marc Albrecht, Hermus, Hickox e Peltokoski.&lt;/p&gt;
+&lt;p&gt;O &lt;em&gt;Concerto para piano nº 2&lt;/em&gt; faz parte da juventude do compositor russo. Prokofiev, então aos 22 anos, dedicou a obra ao falecido amigo Maximilian Schmidtho, trabalho que combina o drama e a melancolia no discurso ao virtuosismo no piano. A estreia, em 1913, contou com o próprio compositor ao piano, mas a intensidade da obra gerou reações mistas na plateia. Alguns anos depois, a composição original foi destruída em um incêndio, o que levou o compositor a reconstruir e revisar a peça em 1924.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-10-15"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Entrevista&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Nikola Meeuwsen [Divulgação/© MelleMeivogel]" data-entity-type="file" data-entity-uuid="d4804867-983a-4162-b834-4341f5b4bf0a" src="http://concerto.com.br/sites/default/files/inline-images/w-nikola.jpg" /&gt;
+&lt;figcaption&gt;Nikola Meeuwsen [Divulgação/© MelleMeivogel]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 01:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-nikola.jpg" width="900" height="600" alt="Nikola Meeuwsen [Divulgação/© MelleMeivogel]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MDEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjAiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=s-20Pd3Jks9I2re_hq7-kytJYzkSWB6V0wr42xglD70?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;0&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 14 Oct 2026 01:01:54 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283601 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>O.POP Coral</title>
@@ -496,7 +572,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=oIpGfAAAqO_Bpckdx_6FexBqgZUWd0za2sRWW4aRMhE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=LAV69bpqbw9Yw5_AKeGDZD1kyEULf7y8WGwgcqBfVsY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
@@ -509,86 +585,6 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <pubDate>Tue, 13 Oct 2026 00:22:40 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283592 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Performa Clavis realiza nona edição com palestras, debates, aulas e recitais</title>
-  <link>http://concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Escola de Comunicações e Artes da Universidade de São Paulo recebe, entre os dias 14 e 16, a 9ª edição do Performa Clavis – Encontro de Performance em Instrumentos de Teclado. O tema deste ano é “Poéticas da performance: a prática nos instrumentos de teclado ao longo dos séculos".&lt;/p&gt;
-&lt;p&gt;O encontro, que reúne professores, pesquisadores e estudantes, é realizado por meio de uma colaboração entre USP, Unesp e Unicamp e terá como convidados os pianistas Beatrice Long, Dimitri Vassilakis, Maria Teresa Madeira e Olga Pashchenko. &lt;/p&gt;
-&lt;p&gt;Durante os três dias, no período da manhã, haverá uma palestra de um dos convidados, seguida de uma masterclass. Na quarta-feira, 14, às 9h30, a russa Olga Pashchenko apresenta a palestra “O desafio da performance nos diferentes instrumentos de teclado”. &lt;/p&gt;
-&lt;p&gt;Na quinta-feira, Dimitri Vassilakis, pianista do Ensemble Intercontemporain de Paris, fala sobre “O performer expandido: novas tecnologias e a performance no piano contemporâneo”. E, na sexta-feira, a pianista taiwanesa residente nos EUA Beatrice Long apresenta a palestra “As sonatas de Domenico Scarlatti”.&lt;/p&gt;
-&lt;p&gt;Na parte da tarde, às 14h, haverá recitais de estudantes e, às 14h30, duas atividades simultâneas: master classes e sessões de comunicações. Às 17h, a programação inclui, ao longo dos três dias, as mesas-redondas “Perspectivas da pesquisa em performance para instrumentos de teclado” e “Práticas improvisatórias em diferentes contextos”, com professores da Usp, Unesp e Unicamp, e, no último dia, o workshop “Piano brasileiro”, ministrado pela pianista Maria Teresa Madeira.&lt;/p&gt;
-&lt;p&gt;Cada dia se encerra com um concerto, às 19h, com a participação dos convidados e com um repertório que cobre mais de três séculos de música, de Carl Philipp Emanuel Bach aos contemporâneos Sofia Gubaidulina e Helmut Lachenmann, passando por nomes como Beethoven, Chopin, Debussy, Ravel e Ligeti. &lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-14" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A pianista Olga Pashchenko [Divulgação]" data-entity-type="file" data-entity-uuid="67b67828-f9ed-41c2-b54b-b5eb7bf76012" src="http://concerto.com.br/sites/default/files/inline-images/w-Cover-Photo-5.jpg" /&gt;
-&lt;figcaption&gt;A pianista Olga Pashchenko [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 13/10/2026 - 00:18&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Cover-Photo-5.jpg" width="900" height="450" alt="A pianista Olga Pashchenko [Divulgação]" title="A pianista Olga Pashchenko [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM1OTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=1n0qBNk6gS2Mh3fi6qftyVC3Goy7LBTYg_Wd0Ku-Fdk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 13 Oct 2026 00:18:56 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283591 at http://concerto.com.br</guid>
     </item>
 
   </channel>

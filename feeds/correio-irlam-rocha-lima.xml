@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Correio Braziliense — Irlam Rocha Lima</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/correio-irlam-rocha-lima.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/</link>
 <description>Artigos de Irlam Rocha Lima (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:27 +0000</lastBuildDate>
 <item>
 <title>Líder legionário</title>
 <link>https://www.correiobraziliense.com.br/opiniao/2026/10/7519312-lider-legionario.html</link>

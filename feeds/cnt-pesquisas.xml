@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>CNT — Pesquisas e Estudos</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cnt-pesquisas.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:23:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:20:36 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT de Opinião - 171ª rodada</title>
 <link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-171-rodada/</link>

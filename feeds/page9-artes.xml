@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Page9 — Artes</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/page9-artes.xml" rel="self" type="application/rss+xml"/>
 <link>https://page9.com/artes</link>
 <description>Artigos da seção Artes no Page9 (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:20:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:42 +0000</lastBuildDate>
 <item>
 <title>O boom dos filmes de terror em Hollywood</title>
 <link>https://page9.com/artes/o-boom-dos-filmes-de-terror-em-hollywood</link>

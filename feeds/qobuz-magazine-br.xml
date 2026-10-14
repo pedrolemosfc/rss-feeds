@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Qobuz Magazine BR</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/qobuz-magazine-br.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.qobuz.com/br-pt/magazine</link>
 <description>Qobuz Magazine (BR-PT): news, panoramas, interviews e demais seções (scraped, deduped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:20:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:53 +0000</lastBuildDate>
 <item>
 <title>Quarter Notes 2026, Vol. 3</title>
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/10/13/quarter-notes-2026-vol-3/</link>

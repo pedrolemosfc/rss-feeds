@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Estadão — Sérgio Martins</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/estadao-sergio-martins.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.estadao.com.br/cultura/sergio-martins/</link>
 <description>Coluna de Sérgio Martins no Estadão (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:24 +0000</lastBuildDate>
 <item>
 <title>O fato de ainda haver interesse num sujeito odioso como Marilyn Manson me dá um pouco de náusea</title>
 <link>https://www.estadao.com.br/cultura/sergio-martins/o-fato-de-ainda-haver-interesse-num-sujeito-odioso-como-marilyn-manson-me-da-um-pouco-de-nausea/</link>

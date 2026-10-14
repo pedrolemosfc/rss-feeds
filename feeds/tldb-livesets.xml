@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>TLDB — Livesets</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/tldb-livesets.xml" rel="self" type="application/rss+xml"/>
 <link>https://tldb.co/</link>
 <description>Livesets recentes do The Livesets Database</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:22:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:58 +0000</lastBuildDate>
 <item>
 <title>Sebastian Ingrosso @ Tomorrowland 2026 W2, Freedom Stage</title>
 <link>https://tldb.co/set/edtPH</link>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Folha — Críticas de música</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-criticas-de-musica.xml" rel="self" type="application/rss+xml"/>
 <link>https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/</link>
 <description>Artigos do tópico Críticas de música na Folha (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:17 +0000</lastBuildDate>
 <item>
 <title>Em seu 'disco de rock', Charli XCX reinventa o pop depois de 'Brat'</title>
 <link>https://www1.folha.uol.com.br/ilustrada/2026/07/em-seu-disco-de-rock-charli-xcx-reinventa-o-pop-depois-de-brat.shtml</link>

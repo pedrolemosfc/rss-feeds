@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>ASIL Insights</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/asil-insights.xml" rel="self" type="application/rss+xml"/>
 <link>https://asil.org/insights/</link>
 <description>American Society of International Law Insights (scraped)</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:35 +0000</lastBuildDate>
 <item>
 <title>Can a State Reorder a Transboundary River? The Ibër River and the Limits of Unilateralism</title>
 <link>https://asil.org/insights/volume-30-issue-9/</link>

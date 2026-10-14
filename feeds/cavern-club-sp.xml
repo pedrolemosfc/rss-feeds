@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>The Cavern Club SP — Agenda</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cavern-club-sp.xml" rel="self" type="application/rss+xml"/>
 <link>https://thecavernclubsp.com.br/agenda/</link>
 <description>Shows e eventos do The Cavern Club São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:21:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:27 +0000</lastBuildDate>
 <item>
 <title>School of rock</title>
 <link>https://thecavernclubsp.com.br/school-of-rock-29nov/</link>

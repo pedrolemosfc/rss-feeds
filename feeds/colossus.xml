@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Colossus</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/colossus.xml" rel="self" type="application/rss+xml"/>
 <link>https://colossus.com/</link>
 <description>Colossus articles and podcast episodes (WordPress REST)</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:23:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:20:04 +0000</lastBuildDate>
 <item>
 <title>David v. Goliath</title>
 <link>https://colossus.com/episode/david-v-goliath/</link>

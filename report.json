@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 57,
+    "items": 56,
     "ok": true,
-    "notes": "scraped 57 items"
+    "notes": "scraped 56 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 187,
+    "items": 186,
     "ok": true,
-    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -216,9 +216,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "mirrored 17 native items",
+    "notes": "mirrored 16 native items",
     "kind": "native-mirror"
   },
   {
@@ -285,12 +285,21 @@
     "kind": "native-mirror"
   },
   {
+    "name": "tecnologistica",
+    "source_url": "https://www.tecnologistica.com.br/noticias/",
+    "output": "feeds/tecnologistica.xml",
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 events",
+    "kind": "venue-scrape"
+  },
+  {
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 49,
+    "items": 48,
     "ok": true,
-    "notes": "scraped 49 events",
+    "notes": "scraped 48 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +468,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +729,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

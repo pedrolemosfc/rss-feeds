@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>ITL — Notícias</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/itl-noticias.xml" rel="self" type="application/rss+xml"/>
 <link>https://itl.org.br/noticias/</link>
 <description>Notícias do Instituto de Transporte e Logística (WordPress REST; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:23:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:20:26 +0000</lastBuildDate>
 <item>
 <title>Cibersegurança entra na agenda do transporte e será tema de fórum em Brasília</title>
 <link>https://itl.org.br/noticias/ciberseguranca-entra-na-agenda-do-transporte-e-sera-tema-de-forum-em-brasilia/</link>

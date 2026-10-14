@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Cabinet Magazine</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cabinet-magazine.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.cabinetmagazine.org/</link>
 <description>Recent Cabinet Magazine issue articles and kiosk essays</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:22:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:19:39 +0000</lastBuildDate>
 <item>
 <title>Cocotas Alex 06 October 2025</title>
 <link>https://www.cabinetmagazine.org/kiosk/cocotas_alex_06_october_2025.php</link>

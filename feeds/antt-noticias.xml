@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>ANTT — Notícias</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/antt-noticias.xml" rel="self" type="application/rss+xml"/>
 <link>https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral</link>
 <description>Notícias do portal gov.br/antt (listagem atual; pasta ainda se chama noticias-defeso-eleitoral)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:23:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:20:15 +0000</lastBuildDate>
 <item>
 <title>ANTT aprova acordo com a CNseg para modernizar verificação de seguros no transporte de cargas</title>
 <link>https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral/antt-aprova-acordo-com-a-cnseg-para-modernizar-verificacao-de-seguros-no-transporte-de-cargas</link>

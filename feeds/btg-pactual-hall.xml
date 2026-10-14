@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>BTG Pactual Hall — Programação</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/btg-pactual-hall.xml" rel="self" type="application/rss+xml"/>
 <link>https://btgpactualhall.com.br/programacao/</link>
 <description>Programação do BTG Pactual Hall (links Bileto)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:21:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:17 +0000</lastBuildDate>
 <item>
 <title>Em cartaz</title>
 <link>https://bileto.sympla.com.br/event/120065</link>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Folha — tópico Show</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/folha-show.xml" rel="self" type="application/rss+xml"/>
 <link>https://www1.folha.uol.com.br/folha-topicos/show/</link>
 <description>Artigos do tópico Show na Folha de S.Paulo (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:18 +0000</lastBuildDate>
 <item>
 <title>Robbie Williams retorna ao Brasil e quer mostrar que é o 'mestre do entretenimento'</title>
 <link>https://www1.folha.uol.com.br/ilustrada/2026/10/robbie-williams-retorna-ao-brasil-e-quer-mostrar-que-e-o-mestre-do-entretenimento.shtml</link>
@@ -397,13 +398,6 @@
 <guid isPermaLink="true">https://www1.folha.uol.com.br/ilustrada/2026/08/rosalia-pede-desculpas-em-show-na-argentina-apos-polemica-na-copa-do-mundo.shtml</guid>
 <pubDate>Sun, 02 Aug 2026 16:09:00 +0000</pubDate>
 <description>Espanhola compartilhou vídeo que debochava de argentinos</description>
-</item>
-<item>
-<title>O body expiatório da Xuxa</title>
-<link>https://www1.folha.uol.com.br/colunas/becky-korich/2026/08/o-body-expiatorio-da-xuxa.shtml</link>
-<guid isPermaLink="true">https://www1.folha.uol.com.br/colunas/becky-korich/2026/08/o-body-expiatorio-da-xuxa.shtml</guid>
-<pubDate>Sat, 01 Aug 2026 23:00:00 +0000</pubDate>
-<description>Uma legião de guardiões da virilha alheia atacou horrorizada o figurino de Xuxa</description>
 </item>
 </channel>
 </rss>

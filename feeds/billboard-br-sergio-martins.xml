@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Billboard Brasil — Sérgio Martins</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/billboard-br-sergio-martins.xml" rel="self" type="application/rss+xml"/>
 <link>https://billboard.com.br/author/sergio-martins/</link>
 <description>Artigos de Sérgio Martins na Billboard Brasil (scraped via WP API/HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:33 +0000</lastBuildDate>
 <item>
 <title>Choro, cartas, música e emoção: como foi o show secreto de Jão</title>
 <link>https://billboard.com.br/como-foi-o-show-secreto-de-jao/</link>

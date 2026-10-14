@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Teatro das Artes SP — Programação</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/teatro-das-artes-sp.xml" rel="self" type="application/rss+xml"/>
 <link>https://teatrodasartessp.com.br/programacao/</link>
 <description>Espetáculos em cartaz no Teatro das Artes SP</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:21:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:22 +0000</lastBuildDate>
 <item>
 <title>Meu Deus!</title>
 <link>https://teatrodasartessp.com.br/programacao/#Meu%20Deus%21</link>

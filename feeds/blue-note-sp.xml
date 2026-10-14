@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Blue Note SP — Shows</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/blue-note-sp.xml" rel="self" type="application/rss+xml"/>
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:21:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:18:03 +0000</lastBuildDate>
 <item>
 <title>BOB MARLEY IN JAZZ</title>
 <link>https://bluenotesp.com/shows/bob-marley-in-jazz/</link>
@@ -46,6 +47,13 @@
 <link>https://bluenotesp.com/shows/na-ozzetti-e-marcelo-ghelfi/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/na-ozzetti-e-marcelo-ghelfi/</guid>
 <pubDate>Thu, 01 Oct 2026 16:49:40 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>COLLABORATION IN CONCERT</title>
+<link>https://bluenotesp.com/shows/collaboration-in-concert/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/collaboration-in-concert/</guid>
+<pubDate>Thu, 01 Oct 2026 14:59:33 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -319,13 +327,6 @@
 <link>https://bluenotesp.com/shows/go-black-motown-classics-15out/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/go-black-motown-classics-15out/</guid>
 <pubDate>Thu, 03 Sep 2026 17:33:48 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>THE WORLD GROOVE COLLECTIVE</title>
-<link>https://bluenotesp.com/shows/the-world-groove-collective/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/the-world-groove-collective/</guid>
-<pubDate>Thu, 03 Sep 2026 17:32:44 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>

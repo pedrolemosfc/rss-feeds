@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Guia Folha — Shows</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/guia-shows.xml" rel="self" type="application/rss+xml"/>
 <link>https://guia.folha.uol.com.br/shows/</link>
 <description>Shows no Guia Folha (scraped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:19:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:22 +0000</lastBuildDate>
 <item>
 <title>Paula Lima leva caldeirão musical dançante para o Folha Gourmet Festival</title>
 <link>https://guia.folha.uol.com.br/shows/2026/10/zayn-e-robbie-williams-trazem-som-pop-a-sp-veja-agenda-de-shows.shtml</link>

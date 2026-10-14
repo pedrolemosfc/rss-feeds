@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Musicalidade</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/musicalidade.xml" rel="self" type="application/rss+xml"/>
 <link>https://musicalidade.com/</link>
 <description>Posts do Musicalidade via WP REST API (RSS nativo desativado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:20:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:50 +0000</lastBuildDate>
 <item>
 <title>Jorge Ben Jor leva ‘Alquimia Popular Brasileira’ a São Paulo em show único</title>
 <link>https://musicalidade.com/jorge-ben-jor-leva-alquimia-popular-brasileira-a-sao-paulo-em-show-unico/</link>
