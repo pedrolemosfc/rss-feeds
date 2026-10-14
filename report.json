@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 56,
+    "items": 57,
     "ok": true,
-    "notes": "scraped 56 items"
+    "notes": "scraped 57 items"
   },
   {
     "name": "guia-restaurantes",
@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 92,
+    "items": 93,
     "ok": true,
-    "notes": "scraped 92 items"
+    "notes": "scraped 93 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -83,9 +83,9 @@
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 86,
+    "items": 87,
     "ok": true,
-    "notes": "scraped 86 items"
+    "notes": "scraped 87 items"
   },
   {
     "name": "claude-blog",
@@ -155,17 +155,17 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 186,
+    "items": 187,
     "ok": true,
-    "notes": "merged 3 feeds -> 186 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 170,
+    "items": 171,
     "ok": true,
-    "notes": "merged 2 feeds -> 170 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "recall-changelog",
@@ -216,9 +216,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 15,
+    "items": 18,
     "ok": true,
-    "notes": "mirrored 15 native items",
+    "notes": "mirrored 18 native items",
     "kind": "native-mirror"
   },
   {
@@ -297,9 +297,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 48,
+    "items": 49,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 49 events",
     "kind": "venue-scrape"
   },
   {
@@ -351,18 +351,18 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 3,
+    "items": 4,
     "ok": true,
-    "notes": "scraped 3 events",
+    "notes": "scraped 4 events",
     "kind": "venue-scrape"
   },
   {
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -414,9 +414,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 17,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 51,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 51 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
@@ -666,9 +666,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 1,
+    "items": 2,
     "ok": true,
-    "notes": "scraped 1 events",
+    "notes": "scraped 2 events",
     "kind": "venue-scrape"
   },
   {

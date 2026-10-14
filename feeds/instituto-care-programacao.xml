@@ -6,7 +6,14 @@
 <link>https://institutocare.org.br/programacao/</link>
 <description>Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 14 Oct 2026 13:52:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:45:39 +0000</lastBuildDate>
+<item>
+<title>Residência Artístico Pedagógica</title>
+<link>https://institutocare.org.br/programacao/programa-de-bolsa-de-pesquisa/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/programa-de-bolsa-de-pesquisa/</guid>
+<pubDate>Wed, 14 Oct 2026 18:11:59 +0000</pubDate>
+<description>Acervo — O Instituto Çarê, por meio do seu Núcleo de Acervo, em parceria com o Instituto de Estudos Brasileiros da Universidade de São Paulo (IEB-USP), torna público o presente edital, cujo objetivo é convidar duplas de arte-educadores e duplas interdisciplinares de educadores atuantes em escolas públicas, instituições culturais e/ou organizações de terceiro setor a se inscreverem no processo seletivo para o seu Programa de Residência Artístico-Pedagógica, a ser realizado entre fevereiro e no...</description>
+</item>
 <item>
 <title>Çarê Convida As Choronas</title>
 <link>https://institutocare.org.br/programacao/care-convida-as-choronas/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://institutocare.org.br/programacao/conhecendo-plantas-horta/</guid>
 <pubDate>Sat, 09 Mar 2024 00:00:08 +0000</pubDate>
 <description>Socioambiental — O ciclo de oficinas Vivências Botânicas integra o projeto Çarê-Amarilis, conectando pessoas [...]</description>
-</item>
-<item>
-<title>Festival da Marcê 2023</title>
-<link>https://institutocare.org.br/programacao/festival-da-marce-2023/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/festival-da-marce-2023/</guid>
-<pubDate>Sat, 02 Dec 2023 00:00:43 +0000</pubDate>
-<description>Institucional — O Instituto Çarê recebe o Festival da Marcê – Mostra de Processos [...]</description>
 </item>
 </channel>
 </rss>
