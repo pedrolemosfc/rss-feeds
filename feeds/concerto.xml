@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 14 Oct 2026 18:42:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:18:40 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=P43qFi8rJsFmrQAwLcwwZrqU12OTwj9avcoEsFfhltE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=qI8nERXhuZoxeOq3iX9rL2P2fX-Rd9P3p0X5Co8eI0I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;562&lt;/span&gt;
@@ -80,6 +80,137 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Cie. à fleur de peau (França) e Cia. Repentistas do Corpo</title>
+  <link>http://concerto.com.br/roteiros/cie-fleur-de-peau-franca-e-cia-repentistas-do-corpo-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cie. à fleur de peau (França) e Cia. Repentistas do Corpo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 18:59&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculos Kadô e Olhares Alheios, coreografias de Michael Bugdahn e Denise Namura. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T19:30:00Z" class="datetime"&gt;sab, 24/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-sao-paulo" hreflang="und"&gt;Centro Cultural São Paulo - Salas Adoniran Barbosa (630 lugares), Jardel Filho (324 lugares), Paulo Emílio Salles Gomes (110 lugares) e Jardim Interno (40 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Enrtada franca, por ordem de chegada.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 14 Oct 2026 18:59:29 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283612 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Cie. à fleur de peau (França) e Cia. Repentistas do Corpo</title>
+  <link>http://concerto.com.br/roteiros/cie-fleur-de-peau-franca-e-cia-repentistas-do-corpo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cie. à fleur de peau (França) e Cia. Repentistas do Corpo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 18:56&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculos Kadô e Olhares Alheios, coreografias de Michael Bugdahn e Denise Namura. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 24 às 19h30.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T19:30:00Z" class="datetime"&gt;sex, 23/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-sao-paulo" hreflang="und"&gt;Centro Cultural São Paulo - Salas Adoniran Barbosa (630 lugares), Jardel Filho (324 lugares), Paulo Emílio Salles Gomes (110 lugares) e Jardim Interno (40 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, por ordem de chegada.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 14 Oct 2026 18:56:10 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283611 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Troféu Eva Sopher </title>
@@ -419,159 +550,6 @@
   <pubDate>Wed, 14 Oct 2026 15:46:18 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283605 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Luiz Fernando Malheiro rege a Amazonas Filarmônica na 'Sinfonia nº 3', de Mahler</title>
-  <link>http://concerto.com.br/noticias/musica-classica/luiz-fernando-malheiro-rege-amazonas-filarmonica-na-sinfonia-no-3-de</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Luiz Fernando Malheiro rege a Amazonas Filarmônica na 'Sinfonia nº 3', de Mahler&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 15, em Manaus, a Amazonas Filarmônica, as Mulheres do Coral do Amazonas e o Coral Infantil do Liceu se apresentam no Teatro Amazonas. Luiz Fernando Malheiro rege a orquestra, os coros e a contralto Thalita Azevedo na &lt;em&gt;Sinfonia nº 3&lt;/em&gt;, de Mahler.&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Sinfonia nº 3&lt;/em&gt; marca a maturidade estilística de Mahler. Composta entre 1893 e 1896, a peça faz parte do período conhecido como &lt;em&gt;‘Wunderhorn’&lt;/em&gt;, marcado pela influência do cancioneiro popular, em especial do ciclo de &lt;em&gt;Des Knaben Wunderhorn&lt;/em&gt; (&lt;em&gt;A trompa mágica do menino&lt;/em&gt;). No caso da &lt;em&gt;Terceira sinfonia&lt;/em&gt;, o tema &lt;em&gt;Ablösung im Sommer &lt;/em&gt;(&lt;em&gt;Mudança de guarda no verão&lt;/em&gt;) é utilizado como base para o terceiro movimento.&lt;/p&gt;
-&lt;p&gt;“Em sua terceira obra sinfônica, Mahler manteve a tendência de ampliação formal que já havia delineado em suas duas obras anteriores. Ao final do processo, acabou por compor uma das maiores sinfonias da história – ao todo são seis movimentos. O primeiro deles é praticamente concebido como uma sinfonia à parte e, dependendo da interpretação do regente, pode durar mais de 40 minutos”, escreve Leonardo Martinelli na edição de maio de 2014 da Revista CONCERTO [clique &lt;a href="https://concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-3-de-gustav-mahler"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
-&lt;p&gt;Além disso, a composição deixa uma narrativa nas entrelinhas. Seu processo de criação foi guiado por um roteiro que orientava cada um dos movimentos: “Pan acorda, o verão chega”; “O que me dizem as flores do campo”; “O que me dizem os animais da floresta”; “O que me dizem os homens”; “O que me dizem os anjos” e “O que me diz o amor”. Apesar disso, a obra nunca foi apresentada ao público como programática e seus movimentos não recebem subtítulos.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-10-15"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luiz Fernando Malheiro [Divulgação]" data-entity-type="file" data-entity-uuid="c27c7785-de50-4a2f-9cb3-94668e8fe5d9" src="http://concerto.com.br/sites/default/files/inline-images/w-lfmalheiro.jpg" /&gt;
-&lt;figcaption&gt;Luiz Fernando Malheiro [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 01:12&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-lfmalheiro.jpg" width="900" height="602" alt="Luiz Fernando Malheiro [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MDIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Dp6NNO8ivCtuLNU6KsdxDE3Oja1dcx34Nnsf2BwqQ9Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 14 Oct 2026 01:12:24 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283602 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Filarmônica de Minas Gerais convida Nikola Meeuwsen</title>
-  <link>http://concerto.com.br/noticias/musica-classica/filarmonica-de-minas-gerais-convida-nikola-meeuwsen</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais convida Nikola Meeuwsen&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 15, Orquestra Filarmônica de Minas Gerais recebe o pianista Nikola Meeuwsen, na Sala Minas Gerais, em Belo Horizonte. Sob a regência de José Soares, orquestra e solista tocam o &lt;em&gt;Concerto para piano nº 2, Op. 16&lt;/em&gt;, de Prokofiev. Obras de Weber e Schumann completam o programa.&lt;/p&gt;
-&lt;p&gt;Nikola Meeuwsen é uma das revelações do cenário pianístico internacional. Em 2025, venceu o Concurso Rainha Isabel, em Bruxelas, tornando-se o primeiro holandês a conquistar o prêmio. O intérprete vem se apresentando em salas de concerto por todo o mundo, regido por maestros como Sir John Eliot Gardiner, Marc Albrecht, Hermus, Hickox e Peltokoski.&lt;/p&gt;
-&lt;p&gt;O &lt;em&gt;Concerto para piano nº 2&lt;/em&gt; faz parte da juventude do compositor russo. Prokofiev, então aos 22 anos, dedicou a obra ao falecido amigo Maximilian Schmidtho, trabalho que combina o drama e a melancolia no discurso ao virtuosismo no piano. A estreia, em 1913, contou com o próprio compositor ao piano, mas a intensidade da obra gerou reações mistas na plateia. Alguns anos depois, a composição original foi destruída em um incêndio, o que levou o compositor a reconstruir e revisar a peça em 1924.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-10-15"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Entrevista&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Nikola Meeuwsen [Divulgação/© MelleMeivogel]" data-entity-type="file" data-entity-uuid="d4804867-983a-4162-b834-4341f5b4bf0a" src="http://concerto.com.br/sites/default/files/inline-images/w-nikola.jpg" /&gt;
-&lt;figcaption&gt;Nikola Meeuwsen [Divulgação/© MelleMeivogel]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 01:01&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-nikola.jpg" width="900" height="600" alt="Nikola Meeuwsen [Divulgação/© MelleMeivogel]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MDEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=uUf-aZ1vCRy8iwm1ced0Z9ceBpKuw_5GjjPHUrgYVtk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 14 Oct 2026 01:01:54 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283601 at http://concerto.com.br</guid>
     </item>
 
   </channel>

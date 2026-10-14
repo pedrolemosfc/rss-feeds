@@ -360,9 +360,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -396,9 +396,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 52,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 52 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -729,9 +729,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
