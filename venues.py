@@ -862,6 +862,13 @@ def scrape_jazz_b(html: str, base: str) -> List[Dict[str, Any]]:
 # ---------------- catalogs ----------------
 
 VENUE_NATIVE_MIRRORS = [
+    {
+        "source_url": "https://aida.org.br/category/noticias-do-dia/feed/",
+        "out_name": "aida-noticias-do-dia.xml",
+        "title": "AIDA Brasil — Notícias do Dia",
+        "link": "https://aida.org.br/noticias-do-dia/",
+        "description": "Notícias do Dia da AIDA Brasil (mirror do feed nativo WP da categoria)",
+    },
 
     {
         "source_url": "https://feedback.recall.it/api/changelog/feed.rss",
