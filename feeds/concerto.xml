@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 15 Oct 2026 11:40:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:08:53 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=9wAux5qBXip0t9VnWiLAYfhJPUh8VjCRXOJe9g_FAzM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=xu3qwh5F63EUpMrEUVAr8PwsVIR7PEFHIN7IJpcTeQw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;562&lt;/span&gt;
@@ -82,20 +82,21 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Cie. à fleur de peau (França) e Cia. Repentistas do Corpo</title>
-  <link>http://concerto.com.br/roteiros/cie-fleur-de-peau-franca-e-cia-repentistas-do-corpo-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cie. à fleur de peau (França) e Cia. Repentistas do Corpo&lt;/span&gt;
+  <title>Brasil Jazz Sinfônica</title>
+  <link>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-52</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brasil Jazz Sinfônica&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 18:59&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 16:00&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetáculos Kadô e Olhares Alheios, coreografias de Michael Bugdahn e Denise Namura. &lt;/div&gt;
+              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Trilha sonora ao vivo do filme Aurora.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T19:30:00Z" class="datetime"&gt;sab, 24/10/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T11:00:00Z" class="datetime"&gt;sab, 24/10/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -127,12 +128,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-sao-paulo" hreflang="und"&gt;Centro Cultural São Paulo - Salas Adoniran Barbosa (630 lugares), Jardel Filho (324 lugares), Paulo Emílio Salles Gomes (110 lugares) e Jardim Interno (40 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-cultura-artistica" hreflang="und"&gt;Teatro Cultura Artística&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Enrtada franca, por ordem de chegada.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Vendas: https://mostra.org/filmes/aurora.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -140,30 +141,31 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 18:59:29 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 16:00:14 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283612 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283628 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-52#comments</comments>
     </item>
 <item>
-  <title>Cie. à fleur de peau (França) e Cia. Repentistas do Corpo</title>
-  <link>http://concerto.com.br/roteiros/cie-fleur-de-peau-franca-e-cia-repentistas-do-corpo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cie. à fleur de peau (França) e Cia. Repentistas do Corpo&lt;/span&gt;
+  <title>Brasil Jazz Sinfônica</title>
+  <link>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-51</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brasil Jazz Sinfônica&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 18:56&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 15:56&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetáculos Kadô e Olhares Alheios, coreografias de Michael Bugdahn e Denise Namura. &lt;/div&gt;
+              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Trilha sonora ao vivo do filme Aurora.  &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 24 às 19h30.&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 24 às 11h.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T19:30:00Z" class="datetime"&gt;sex, 23/10/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T20:00:00Z" class="datetime"&gt;sex, 23/10/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -195,12 +197,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-sao-paulo" hreflang="und"&gt;Centro Cultural São Paulo - Salas Adoniran Barbosa (630 lugares), Jardel Filho (324 lugares), Paulo Emílio Salles Gomes (110 lugares) e Jardim Interno (40 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-cultura-artistica" hreflang="und"&gt;Teatro Cultura Artística&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, por ordem de chegada.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Vendas: https://mostra.org/filmes/aurora.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -208,25 +210,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 18:56:10 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 15:56:48 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283611 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283627 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-51#comments</comments>
     </item>
 <item>
-  <title>Troféu Eva Sopher </title>
-  <link>http://concerto.com.br/roteiros/trofeu-eva-sopher</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Troféu Eva Sopher &lt;/span&gt;
+  <title>Brasil Jazz Sinfônica</title>
+  <link>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-50</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brasil Jazz Sinfônica&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 16:17&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 15:54&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Cerimônia de premiação. Homenagm a Ricardo Barberena, Luís Augusto Fischer, Patricia Fagundes, Juarez Fonseca, Dilmar Messias, Jezebel de Carli, Adriana Boff, Francisco Marshall, Juliana Bublitz e Loma Solaris. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto Piazzolla: entre a tradição e a inovação. Programa: tributo a Astor Piazzolla. Os ingressos custam R$ 2 (inteira) e estão disponíveis para compra pela plataforma Sympla.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-29T20:00:00Z" class="datetime"&gt;qui, 29/10/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T16:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 16:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -237,7 +240,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1441" hreflang="pt-br"&gt;Araras, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -258,12 +261,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/271719" hreflang="pt-br"&gt;Teatro Simões Lopes Neto – Multipalco Eva Sopher &lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-estadual-de-araras" hreflang="und"&gt;Teatro Estadual de Araras Maestro Francisco Paulo Russo (460 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 2. Vendas: https://bileto.sympla.com.br/event/127291/d/415351/s/2697692.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -271,89 +274,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 16:17:28 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 15:54:44 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283610 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283626 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-50#comments</comments>
     </item>
 <item>
-  <title>Camerata de Cordas Musicarium</title>
-  <link>http://concerto.com.br/roteiros/camerata-de-cordas-musicarium-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Camerata de Cordas Musicarium&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 16:14&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Musicarium Academia Filarmônica Brasileira.  Sergio Ogawa - regente. 22 alunos que integraram a primeira turnê internacional com apresentações na Suíça, Alemanha e Holanda. Programa: obras de Schubert, Grieg, Shostakovich, Romero e Carlos Gomes. Hall. &lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-18T11:00:00Z" class="datetime"&gt;dom, 18/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-tomie-ohtake" hreflang="und"&gt;Instituto Tomie Ohtake &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 14 Oct 2026 16:14:00 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283609 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Instituto Çarê</title>
-  <link>http://concerto.com.br/node/283607</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Instituto Çarê&lt;/span&gt;
+  <title>Sociedade Humanitária de Santos</title>
+  <link>http://concerto.com.br/node/283624</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sociedade Humanitária de Santos&lt;/span&gt;
 
   &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Dr. Avelino Chaves, 138 - Vila Hamburguesa - Tel.  (11) 91940-1460 - https://institutocare.org.br/&lt;/div&gt;
+              &lt;div class="field__item"&gt;Praça Patriarca José Bonifácio, 59 - Centro Comercial - Centro - Tel. (13) 3223-1319 - https://www.instagram.com/sociedadehumanitariabiblioteca/&lt;/div&gt;
           &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 15:54&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 14:56&lt;/span&gt;
 
   &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
+              &lt;div class="field__item"&gt;Santos, SP&lt;/div&gt;
           &lt;/div&gt;
 &lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
@@ -362,25 +302,26 @@
   
 &lt;/section&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 15:54:19 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 14:56:25 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283607 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283624 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>As Choronas</title>
-  <link>http://concerto.com.br/roteiros/choronas</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;As Choronas&lt;/span&gt;
+  <title>Semana Cultural Ars Viva</title>
+  <link>http://concerto.com.br/roteiros/semana-cultural-ars-viva-3</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Semana Cultural Ars Viva&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 15:51&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 14:54&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Çarê Convida. Espetáculo Alma feminina. Cibele Palopoli - flauta transversal, Paola Picherzky - violão de sete cordas, Ana Claudia Cesar - cavaquinho e Miriam Cápua - percussão. Programa: Ivone Lara/Délcio Carvalho - Acreditar; Almira Castilho/Gordurinha - Chiclete com banana; Ana Claudia Cesar/Rosana Bergamasco - Luminar; e obras de Chiquinha Gonzaga, Anastácia e das próprias integrantes do quarteto. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, palestras, roda de conversas e oficinas. Concerto de encerramento. Encontro de Coros: Coro-Escola Experimental Ars Viva, Coro Comunitário Ars Viva, Coral Benedicto, Coral OAB-Subseção Santos, Canto das Guerreiras, Coral Sujeitos de Sorte, Coral Zanzalá e Broadway Voices. Informações pelo Instagram: @sociedadearsviva.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T19:30:00Z" class="datetime"&gt;sex, 16/10/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-31T16:00:00Z" class="datetime"&gt;sab, 31/10/2026 - 16:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -391,7 +332,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1431" hreflang="pt-br"&gt;Santos, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -412,13 +353,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283607" hreflang="pt-br"&gt;Instituto Çarê&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283624" hreflang="pt-br"&gt;Sociedade Humanitária de Santos&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;p&gt;Entrada franca.&lt;/p&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -426,25 +366,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 15:51:22 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 14:54:57 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283608 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283625 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>[ON-LINE] Especial Marin Alsop – 70 anos</title>
-  <link>http://concerto.com.br/roteiros/line-especial-marin-alsop-70-anos</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Especial Marin Alsop – 70 anos&lt;/span&gt;
+  <title>Semana Cultural Ars Viva</title>
+  <link>http://concerto.com.br/roteiros/semana-cultural-ars-viva-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Semana Cultural Ars Viva&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 15:48&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 14:53&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Homenagem a violinista e regente norte-americana Marin Alsop. Programa: obras escolhidas do repertório da maestra, entre elas: Gershwin - Concerto para piano, com a Sinfônica de Baltimore; Barber - Adagio, com a Orquestra Nacional Real Escocesa; Bernstein - West Side Story: Mambo, em gravação com a Osesp; e Joan Tower - Fanfare for the Uncommon Woman nº 1, peça dedicada a Marin Alsop, com a Colorado Symphony Brass.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, palestras, roda de conversas e oficinas. Vereda da Salvação — Espetáculo teatral com Coletivo de Artes de São Vicente. Continuidade até dia 31. Informações pelo Instagram: @sociedadearsviva.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-16T16:00:00Z" class="datetime"&gt;sex, 16/10/2026 - 16:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-30T19:00:00Z" class="datetime"&gt;sex, 30/10/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -455,7 +396,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1431" hreflang="pt-br"&gt;Santos, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -476,70 +417,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/240178" hreflang="pt-br"&gt;Rádio Cultura FM (103,3)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 14 Oct 2026 15:48:52 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283606 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupo Alemão Bagage</title>
-  <link>http://concerto.com.br/roteiros/grupo-alemao-bagage</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Alemão Bagage&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 14/10/2026 - 15:46&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Bagage in Concert. Maria Palatine - harpa, Dagmar Kern - voz e violão, Georg Wendt - violino e voz e Tabriz Ibrahimkhalilov - acordeão. Programa: canções em alemão e no dialeto germânico Hunsrückisch.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-22T20:00:00Z" class="datetime"&gt;qui, 22/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/267645" hreflang="pt-br"&gt;Centro Cultural 25 de Julho&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/268743" hreflang="pt-br"&gt;Concha Acústica&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 60. Vendas: https://tri.rs/event/bagage-in-concert-alemanha-1b8476.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -547,9 +430,100 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 14 Oct 2026 15:46:18 +0000</pubDate>
+  <pubDate>Thu, 15 Oct 2026 14:53:32 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283605 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">283623 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Teatro Clube da Eskyna </title>
+  <link>http://concerto.com.br/node/283621</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Clube da Eskyna &lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Pedro II, 19 - Sala 2 - Centro - Tel. (13) 99205-6161 - https://www.instagram.com/teatroclubedaeskyna&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 14:52&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Santos, SP&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Thu, 15 Oct 2026 14:52:12 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283621 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Semana Cultural Ars Viva</title>
+  <link>http://concerto.com.br/roteiros/semana-cultural-ars-viva-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Semana Cultural Ars Viva&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 14:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos, palestras, roda de conversas e oficinas. Concerto do Coro-Escola Experimental Ars Viva. Continuidade até dia 31. Informações pelo Instagram: @sociedadearsviva.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-28T19:00:00Z" class="datetime"&gt;qua, 28/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1431" hreflang="pt-br"&gt;Santos, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283621" hreflang="pt-br"&gt;Teatro Clube da Eskyna &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 15 Oct 2026 14:50:53 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283622 at http://concerto.com.br</guid>
     </item>
 
   </channel>
