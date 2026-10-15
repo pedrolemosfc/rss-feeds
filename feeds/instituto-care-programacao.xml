@@ -6,7 +6,14 @@
 <link>https://institutocare.org.br/programacao/</link>
 <description>Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 15 Oct 2026 17:11:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:34:02 +0000</lastBuildDate>
+<item>
+<title>Exposição Recados Tramados</title>
+<link>https://institutocare.org.br/programacao/exposicao-recados-tramados/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/exposicao-recados-tramados/</guid>
+<pubDate>Thu, 15 Oct 2026 21:09:14 +0000</pubDate>
+<description>Artes — Instituto Çarê apresenta exposição RECADOS TRAMADOS com obras de A TRANSÄLIEN e Uberê Guelé em diálogo com acervo de Tasso Gadzanis</description>
+</item>
 <item>
 <title>Residência Artístico Pedagógica</title>
 <link>https://institutocare.org.br/programacao/programa-de-bolsa-de-pesquisa/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://institutocare.org.br/programacao/piano-care-convida-marco-2024/</guid>
 <pubDate>Fri, 22 Mar 2024 00:00:20 +0000</pubDate>
 <description>Musica — Na primeira apresentação do projeto Piano Çarê Convida, o Çarê recebe o [...]</description>
-</item>
-<item>
-<title>Conhecendo as plantas da horta e sua reprodução</title>
-<link>https://institutocare.org.br/programacao/conhecendo-plantas-horta/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/conhecendo-plantas-horta/</guid>
-<pubDate>Sat, 09 Mar 2024 00:00:08 +0000</pubDate>
-<description>Socioambiental — O ciclo de oficinas Vivências Botânicas integra o projeto Çarê-Amarilis, conectando pessoas [...]</description>
 </item>
 </channel>
 </rss>

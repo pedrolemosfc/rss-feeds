@@ -12,7 +12,7 @@
 	<atom:link href="https://www.abti.org.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.abti.org.br/</link>
 	<description>Espelho do RSS nativo da ABTI (Associação Brasileira de Transporte Internacional). WordPress /feed/ — notícias, comunicados e eventos do setor.</description>
-	<lastBuildDate>Thu, 15 Oct 2026 17:09:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 21:31:14 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ABTI lança Manual da Reforma Tributária para o TRIC</title>
+		<link>https://www.abti.org.br/1361-2/</link>
+					<comments>https://www.abti.org.br/1361-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Manuel Marques]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 19:21:33 +0000</pubDate>
+				<category><![CDATA[Atuação Institucional]]></category>
+		<category><![CDATA[Informativo]]></category>
+		<category><![CDATA[Institucional]]></category>
+		<guid isPermaLink="false">https://www.abti.org.br/?p=1361</guid>
+
+					<description><![CDATA[<p>A Publicação elaborada pela Assessoria Jurídica da Associação reúne orientações para o setor e reforça a atuação da ABTI diante das mudanças tributárias. Os impactos da Reforma Tributária sobre as operações de transporte internacional, as mudanças na tributação do consumo e os desafios de adaptação às novas regras são alguns dos temas abordados no Manual [&#8230;]</p>
+<p>O post <a href="https://www.abti.org.br/1361-2/">ABTI lança Manual da Reforma Tributária para o TRIC</a> apareceu primeiro em <a href="https://www.abti.org.br">ABTI</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>A Publicação elaborada pela Assessoria Jurídica da Associação reúne orientações para o setor e reforça a atuação da ABTI diante das mudanças tributárias.</em></p>
+<p>Os impactos da Reforma Tributária sobre as operações de transporte internacional, as mudanças na tributação do consumo e os desafios de adaptação às novas regras são alguns dos temas abordados no <strong>Manual da Reforma Tributária para o Transporte Rodoviário Internacional de Cargas (TRIC)</strong>. A publicação é uma iniciativa da ABTI, anunciada em primeira mão durante o <strong>8º Congresso ITRI</strong>, realizado no dia 8 de outubro, em Foz do Iguaçu (PR).</p>
+<p><strong>Manual disponível para consulta online:</strong> <a href="https://www.abti.org.br/wp-content/uploads/2026/10/202609_Manual-Reforma-Tributaria.pdf" target="_blank" rel="noopener">acesse a publicação aqui</a>.</p>
+<p>O material foi elaborado pela Assessoria Jurídica da ABTI, <strong>Zanella Advogados Associados</strong>, por meio dos advogados <strong>Martina Heloisa Backes Schuster e Fernando Bortolon Massignan</strong>, com o objetivo de orientar as empresas sobre os principais impactos da Reforma Tributária do Consumo e as providências necessárias para adaptação.</p>
+<p>Com foco nas particularidades do transporte internacional, o Manual apresenta o cronograma de transição de 2026 a 2033, as mudanças relacionadas ao IBS e à CBS, o aproveitamento de créditos tributários e os reflexos sobre contratos, custos e processos operacionais. Também aborda a documentação própria do TRIC, as operações de exportação e importação e a integração com os procedimentos aduaneiros.</p>
+<p>Além da publicação do Manual, a ABTI também <strong>adotou providências para defender o reconhecimento do Conhecimento Internacional de Transporte Rodoviário (CRT) como documento próprio e suficiente para as operações de transporte internacional abrangidas pelo ATIT</strong>, conforme previsto na legislação aplicável.</p>
+<p>A atuação busca evitar a exigência adicional de emissão do <strong>Conhecimento de Transporte Eletrônico (CT-e)</strong>, especialmente nas operações de exportação, que, mesmo diante da imunidade tributária aplicável, poderiam enfrentar novas obrigações e entraves operacionais. Em breve, a ABTI divulgará mais informações sobre os avanços e desdobramentos dessas tratativas.</p>
+<p>A Associação agradece à equipe do <strong>Zanella Advogados Associados</strong> pelo trabalho desenvolvido na elaboração do Manual e pela contribuição técnica oferecida ao setor.</p>
+<p>Convidamos os associados e demais operadores do comércio internacional a conferirem a publicação e acompanharem as atualizações sobre a Reforma Tributária.</p>
+<p><strong>Acesse o Manual da Reforma Tributária para o TRIC:</strong></p>
+<p><a href="https://www.abti.org.br/wp-content/uploads/2026/10/202609_Manual-Reforma-Tributaria.pdf" target="_blank" rel="noopener">https://www.abti.org.br/wp-content/uploads/2026/10/202609_Manual-Reforma-Tributaria.pdf </a></p>
+<p>O post <a href="https://www.abti.org.br/1361-2/">ABTI lança Manual da Reforma Tributária para o TRIC</a> apareceu primeiro em <a href="https://www.abti.org.br">ABTI</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.abti.org.br/1361-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Obras deixam trânsito em meia pista na BR-290 entre São Gabriel e Rosário do Sul</title>
 		<link>https://www.abti.org.br/obras-deixam-transito-em-meia-pista-na-br-290-entre-sao-gabriel-e-rosario-do-sul/</link>
 					<comments>https://www.abti.org.br/obras-deixam-transito-em-meia-pista-na-br-290-entre-sao-gabriel-e-rosario-do-sul/#respond</comments>
@@ -344,53 +378,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.abti.org.br/os-desafios-da-inovacao-no-setor-de-transporte-brasileiro-estarao-em-pauta-no-8o-congresso-itri/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>DTVF: Comissão Brasil–Paraguai registra locais para emissão do documento</title>
-		<link>https://www.abti.org.br/dtvf-comissao-brasil-paraguai-registra-locais-para-emissao-do-documento/</link>
-					<comments>https://www.abti.org.br/dtvf-comissao-brasil-paraguai-registra-locais-para-emissao-do-documento/#respond</comments>
-		
-		<dc:creator><![CDATA[Manuel Marques]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 11:46:57 +0000</pubDate>
-				<category><![CDATA[Brasil]]></category>
-		<category><![CDATA[Comunicado]]></category>
-		<category><![CDATA[Paraguai]]></category>
-		<guid isPermaLink="false">https://www.abti.org.br/?p=1322</guid>
-
-					<description><![CDATA[<p>Paraguai também informou a redução do valor cobrado de brasileiros para emissão do Documento de Trânsito Vicinal Fronteiriço (DTVF). A Comissão Mista Brasileiro-Paraguaia da Ponte da Integração compartilhou a Ata de sua última reunião, na qual discutiu as novas regras de funcionamento para o trânsito pela ponte. Entre os destaques da ata está a informação [&#8230;]</p>
-<p>O post <a href="https://www.abti.org.br/dtvf-comissao-brasil-paraguai-registra-locais-para-emissao-do-documento/">DTVF: Comissão Brasil–Paraguai registra locais para emissão do documento</a> apareceu primeiro em <a href="https://www.abti.org.br">ABTI</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><em>Paraguai também informou a redução do valor cobrado de brasileiros para emissão do Documento de Trânsito Vicinal Fronteiriço (DTVF).</em></p>
-<p>A Comissão Mista Brasileiro-Paraguaia da Ponte da Integração compartilhou a Ata de sua última reunião, na qual discutiu as <a href="https://www.abti.org.br/novas-regras-de-funcionamento-da-ponte-da-integracao-sao-aprovadas/">novas regras de funcionamento</a> para o trânsito pela ponte. Entre os destaques da ata está a informação dos locais para a emissão do<strong> Documento de Trânsito Vicinal Fronteiriço (DTVF)</strong>, que será exigido para a utilização da ponte nas modalidades de trânsito vicinal de <strong>veículos de passeio</strong>.</p>
-<p>O tema foi tratado durante a XXVII Reunião da Comissão Mista, realizada nos dias 15 e 16 de setembro, em Foz do Iguaçu.</p>
-<p>O DTVF é o documento destinado aos residentes de localidades fronteiriças vinculadas que utilizam o regime de trânsito vicinal. Para a circulação nessa modalidade, o documento deve ser <strong>portado pelo usuário juntamente com seu documento de identificação</strong>. No Paraguai, a Direção Nacional de Migrações informa que o documento possui validade de cinco anos, podendo ser renovado por igual período, desde que mantidos os requisitos previstos.</p>
-<table>
-<tbody>
-<tr>
-<td><strong>LOCAIS PARA EMISSÃO</strong></p>
-<p>No Brasil, o atendimento para emissão do documento fronteiriço está definido no:</p>
-<p><strong>Shopping Catuaí Palladium</strong></p>
-<p>Avenida das Cataratas, 3570 – Foz do Iguaçu/PR</p>
-<p><strong>Horário: 10h às 17h</strong></p>
-<p><em>O Posto Catuaí da Polícia Federal em Foz do Iguaçu possui contato exclusivo para tirar dúvidas sobre os atendimentos e processos: (45) 3939-0051.</em></p>
-<p>No Paraguai, os locais registrados são:</p>
-<p><strong>Migraciones – Oficina Ciudad del Este</strong></p>
-<p>Avenida Rogelio Benítez, quase 4 de Mayo – Ciudad del Este</p>
-<p><strong>Oficina de Admisión de Extranjeros</strong></p>
-<p>Caballero, 201 – Asunción</td>
-</tr>
-</tbody>
-</table>
-<p><strong>PARAGUAI REDUZ VALOR DO DTVF</strong></p>
-<p>Outra novidade é a atualização do valor cobrado no Paraguai para a emissão do DTVF. A Direção Nacional de Migrações do Paraguai reduziu a tarifa para <strong><em>G. 74.929</em></strong>, aproximadamente <strong>R$64</strong>, para cidadãos brasileiros residentes em localidades fronteiriças vinculadas. O valor anterior era de <strong>G. 234.154</strong>, equivalente a cerca de R$ 205. A nova tarifa passou a vigorar em 23 de setembro.</p>
-<p>A alteração atende ao princípio de <strong>reciprocidade</strong>, aproximando o valor cobrado no Paraguai daquele aplicado no Brasil para os cidadãos paraguaios</p>
-<p>O post <a href="https://www.abti.org.br/dtvf-comissao-brasil-paraguai-registra-locais-para-emissao-do-documento/">DTVF: Comissão Brasil–Paraguai registra locais para emissão do documento</a> apareceu primeiro em <a href="https://www.abti.org.br">ABTI</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.abti.org.br/dtvf-comissao-brasil-paraguai-registra-locais-para-emissao-do-documento/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
