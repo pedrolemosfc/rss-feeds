@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-14 23:59 UTC
+Generated: 2026-10-15 04:53 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=57 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 57 items
+- **folha-show** [OK] items=58 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 58 items
 - **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 78 items
 - **guia-shows** [OK] items=93 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -42,8 +42,8 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 87 items
 - **claude-blog** [FAIL] items=0 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: no article items found (empty or unparseable HTML)
-- **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 24 items
+- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **page9-artes** [OK] items=20 → `out/page9-artes.xml`  source: https://page9.com/artes  
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
@@ -52,12 +52,12 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 31 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
-- **treblezine** [OK] items=100 → `out/treblezine.xml`  source: https://www.treblezine.com/  
-  notes: scraped 100 items
+- **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
   notes: scraped 100 items
-- **aida-noticias-do-dia** [OK] items=10 → `feeds/aida-noticias-do-dia.xml`  source: https://aida.org.br/category/noticias-do-dia/feed/  
-  notes: mirrored 10 native items
+- **aida-noticias-do-dia** [FAIL] items=0 → `feeds/aida-noticias-do-dia.xml`  source: https://aida.org.br/category/noticias-do-dia/feed/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **recall-changelog** [OK] items=10 → `feeds/recall-changelog.xml`  source: https://feedback.recall.it/api/changelog/feed.rss  
   notes: mirrored 10 native items
 - **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
@@ -86,22 +86,22 @@ Generated: 2026-10-14 23:59 UTC
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
   notes: scraped 10 events
-- **teatro-bradesco** [OK] items=49 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 49 events
+- **teatro-bradesco** [OK] items=48 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 48 events
 - **vibra-sp** [OK] items=23 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 23 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
-- **multi-arena-campinas** [OK] items=10 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
-  notes: scraped 10 events
+- **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **suhai-music-hall** [OK] items=10 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
   notes: scraped 10 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 4 events
-- **bourbon-street** [OK] items=30 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 30 events
+- **bourbon-street** [OK] items=29 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 29 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -112,8 +112,8 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 18 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: scraped 14 events
+- **komplexo-tempo** [FAIL] items=0 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **btg-pactual-hall** [OK] items=15 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
   notes: scraped 15 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
@@ -122,16 +122,16 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 37 events
 - **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 12 events
-- **casa-de-francisca** [OK] items=53 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 53 events
+- **casa-de-francisca** [FAIL] items=0 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: fetch failed: URLError: <urlopen error timed out>
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
 - **cavern-club-sp** [OK] items=24 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 24 events
 - **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 17 events
-- **multiplan-hall-sc** [OK] items=1 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
-  notes: scraped 1 events
+- **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
   notes: scraped 17 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
@@ -141,7 +141,7 @@ Generated: 2026-10-14 23:59 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -184,14 +184,14 @@ Generated: 2026-10-14 23:59 UTC
   notes: scraped 36 events
 - **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
   notes: no event items found
-- **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
-  notes: scraped 50 events
+- **instituto-care-programacao** [FAIL] items=0 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
+  notes: no event items found
 - **hangar-110** [OK] items=18 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
   notes: scraped 18 events
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])

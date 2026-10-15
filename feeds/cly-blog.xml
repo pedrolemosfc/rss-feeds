@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>ClyBlog</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cly-blog.xml" rel="self" type="application/rss+xml"/>
 <link>https://cly-blog.blogspot.com/</link>
 <description>ClyBlog (Blogger) — cinema, música, cotidianas e artes. Feed nativo desligado; scraped listing.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 13 Oct 2026 06:55:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:53:39 +0000</lastBuildDate>
+<item>
+<title>Música da Cabeça - Programa #481</title>
+<link>https://cly-blog.blogspot.com/2026/10/musica-da-cabeca-programa-481.html</link>
+<guid isPermaLink="true">https://cly-blog.blogspot.com/2026/10/musica-da-cabeca-programa-481.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<description>ClyBlog</description>
+</item>
+<item>
+<title>Fly</title>
+<link>https://cly-blog.blogspot.com/2026/10/fly.html</link>
+<guid isPermaLink="true">https://cly-blog.blogspot.com/2026/10/fly.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<description>ClyBlog</description>
+</item>
 <item>
 <title>Tom Zé - "Todos os Olhos" (1973)</title>
 <link>https://cly-blog.blogspot.com/2026/10/tom-ze-todos-os-olhos-1973.html</link>
@@ -340,20 +355,6 @@
 <link>https://cly-blog.blogspot.com/2026/07/ainda-outono-ii.html</link>
 <guid isPermaLink="true">https://cly-blog.blogspot.com/2026/07/ainda-outono-ii.html</guid>
 <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<description>ClyBlog</description>
-</item>
-<item>
-<title>Capas de K7 X - "Rolling Stones"</title>
-<link>https://cly-blog.blogspot.com/2026/07/capas-de-k7-x-rolling-stones.html</link>
-<guid isPermaLink="true">https://cly-blog.blogspot.com/2026/07/capas-de-k7-x-rolling-stones.html</guid>
-<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-<description>ClyBlog</description>
-</item>
-<item>
-<title>Moacir Santos - "Ouro Negro" (2001)</title>
-<link>https://cly-blog.blogspot.com/2026/07/moacir-santos-ouro-negro-2001.html</link>
-<guid isPermaLink="true">https://cly-blog.blogspot.com/2026/07/moacir-santos-ouro-negro-2001.html</guid>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
 <description>ClyBlog</description>
 </item>
 </channel>

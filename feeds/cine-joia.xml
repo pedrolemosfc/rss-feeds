@@ -6,7 +6,28 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 14 Oct 2026 23:19:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:52:00 +0000</lastBuildDate>
+<item>
+<title>MATO SECO</title>
+<link>https://www.cinejoia.com.br/eventos/mato-seco/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/mato-seco/</guid>
+<pubDate>Wed, 14 Oct 2026 12:34:48 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>DESORDEN PÚBLICO &amp; OBMJ</title>
+<link>https://www.cinejoia.com.br/eventos/desorden-publico-obmj/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/desorden-publico-obmj/</guid>
+<pubDate>Wed, 14 Oct 2026 11:21:15 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Gang of Four</title>
+<link>https://www.cinejoia.com.br/eventos/gang-of-four/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/gang-of-four/</guid>
+<pubDate>Wed, 14 Oct 2026 11:08:05 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>BNegão &amp; Black Mantra – Especial Gerson King Combo</title>
 <link>https://www.cinejoia.com.br/eventos/bnegao-black-mantra-especial-gerson-king-combo/</link>
@@ -334,27 +355,6 @@
 <link>https://www.cinejoia.com.br/eventos/dead-moon-night/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/dead-moon-night/</guid>
 <pubDate>Tue, 09 Jun 2026 12:50:39 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>KL Jay + DJ Cia convidam</title>
-<link>https://www.cinejoia.com.br/eventos/kl-jay-dj-cia-convidam/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/kl-jay-dj-cia-convidam/</guid>
-<pubDate>Mon, 08 Jun 2026 18:19:10 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Boaventura</title>
-<link>https://www.cinejoia.com.br/eventos/boaventura/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/boaventura/</guid>
-<pubDate>Fri, 29 May 2026 15:48:56 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>TIGERS JAW</title>
-<link>https://www.cinejoia.com.br/eventos/tigers-jaw/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tigers-jaw/</guid>
-<pubDate>Fri, 29 May 2026 15:41:39 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>
