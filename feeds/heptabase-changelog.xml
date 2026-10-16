@@ -6,13 +6,20 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 00:30:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 07:20:11 +0000</lastBuildDate>
 <item>
 <title>v1.112.5</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11125</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11125</guid>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <description>Improve responsiveness when selecting objects on large whiteboards.</description>
+</item>
+<item>
+<title>Mobile app v1.41.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1412</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1412</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Upgraded editor experience.</description>
 </item>
 <item>
 <title>v1.112.4</title>
@@ -559,13 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1880</guid>
 <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 <description>App: AI Tutor</description>
-</item>
-<item>
-<title>v1.87.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1872</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1872</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<description>Improve bookmark block style.; Fix the issue that prevents users from triggering the slash menu in the middle of the paragraph.</description>
 </item>
 </channel>
 </rss>

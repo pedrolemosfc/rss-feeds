@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-16 00:32 UTC
+Generated: 2026-10-16 07:21 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-10-16 00:32 UTC
   notes: scraped 47 items
 - **folha-show** [OK] items=60 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 60 items
-- **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 78 items
+- **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 79 items
 - **guia-shows** [OK] items=92 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 92 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -68,8 +68,8 @@ Generated: 2026-10-16 00:32 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=20 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 20 native items
+- **mis-sp** [OK] items=19 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 19 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -100,8 +100,8 @@ Generated: 2026-10-16 00:32 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 4 events
-- **bourbon-street** [OK] items=29 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 29 events
+- **bourbon-street** [OK] items=28 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 28 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -114,16 +114,16 @@ Generated: 2026-10-16 00:32 UTC
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
   notes: scraped 14 events
-- **btg-pactual-hall** [OK] items=16 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
-  notes: scraped 16 events
+- **btg-pactual-hall** [OK] items=15 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
+  notes: scraped 15 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=37 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 37 events
+- **audio-sp** [OK] items=36 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 36 events
 - **teatro-das-artes-sp** [OK] items=12 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 12 events
-- **casa-de-francisca** [OK] items=54 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 54 events
+- **casa-de-francisca** [OK] items=51 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 51 events
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
 - **cavern-club-sp** [OK] items=24 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -141,7 +141,7 @@ Generated: 2026-10-16 00:32 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -193,5 +193,5 @@ Generated: 2026-10-16 00:32 UTC
 
 - **folha-musica-topicos** [OK] items=190 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 190 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=170 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 170 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])
