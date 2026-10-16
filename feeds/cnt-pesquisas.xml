@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 16 Oct 2026 13:23:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 18:11:03 +0000</lastBuildDate>
+<item>
+<title>Pesquisa CNT de Opinião – 172ª rodada</title>
+<link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-172-rodada/</link>
+<guid isPermaLink="true">https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-172-rodada/</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — A Pesquisa CNT de Opinião atualiza o cenário da disputa presidencial e apresenta um retrato do segundo turno da campanha. A 172ª rodada, divulgada nesta sexta-feira (16), pela CNT em parceria com o Instituto MDA Pesquisa, também aborda a percepção do eleitor em relação ao desempenho do governo. Nos cenários analisados, o candidato Flávio Bolsonaro aparece com 45,6% das intenções de voto, seguido por Luiz Inácio Lula da Silva com 44,1% na pesquisa espontânea. No levanta...</description>
+</item>
 <item>
 <title>Especial CNT Eleições de 2026 para o Poder Executivo</title>
 <link>https://www.cnt.org.br/pesquisas?documento=33e7a97a-d926-4fb2-8787-a2d8876ab144</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d019236e-84e1-49ae-9824-8c842beb44b8</guid>
 <pubDate>Tue, 10 Mar 2026 09:00:00 +0000</pubDate>
 <description>Análise do Transporte — O Radar CNT do Transporte – PIB Brasil 2025 analisa o desempenho do PIB brasileiro em 2025, além da evolução da economia nacional e o comportamento de setores estratégicos, com destaque para transporte, armazenagem e correio.</description>
-</item>
-<item>
-<title>Boletim Unificado - Fevereiro 2026</title>
-<link>https://www.cnt.org.br/pesquisas?documento=a7429533-201b-4a85-8cbd-35a4ad63b067</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=a7429533-201b-4a85-8cbd-35a4ad63b067</guid>
-<pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
-<description>Boletins — Boletim Unificado - Fevereiro 2026</description>
 </item>
 </channel>
 </rss>

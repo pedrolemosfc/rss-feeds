@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 28,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 28 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,9 +459,9 @@
     "name": "teatro-das-artes-sp",
     "source_url": "https://teatrodasartessp.com.br/programacao/",
     "output": "feeds/teatro-das-artes-sp.xml",
-    "items": 12,
-    "ok": true,
-    "notes": "scraped 12 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 404: Not Found",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 18,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {

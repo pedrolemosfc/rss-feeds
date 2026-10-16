@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 16 Oct 2026 13:20:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 18:08:42 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=kJDQvfp0HP8g_iU8ic9mKmuZKoL9SavMQQoJg_ZLLKU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=FmMERvenhcp7o48UJwXCgCvN-8XoTWMCkMvGYm7h_cg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;562&lt;/span&gt;
@@ -80,6 +80,368 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Eudóxia de Barros – piano</title>
+  <link>http://concerto.com.br/roteiros/eudoxia-de-barros-piano-160</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Eudóxia de Barros – piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 16:32&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Musical Évora. Programa: Clementi - Sonatinas nº 1 e nº 2 op. 36; Beethoven - 6 Variações baseadas no tema Nel cor più non mi sento da ópera La Molinara de Paisiello; Weber - Convite à valsa op. 65; Osvaldo Lacerda - Ponteio nº 10 (dedicado à própria Eudóxia de Barros); Fernando Cupertino - Valsa saudosa; Arnaldo Rebello - Chôro em oitavas; e Nilcéia Baroncelli - Valsas Convidativa; Zequinha de Abreu -  Amando sobre o mar; Nazareth - Tango Escovado; e Camargo Guarnieri - Dança brasileira.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T12:30:00Z" class="datetime"&gt;qua, 21/10/2026 - 12:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/261060" hreflang="pt-br"&gt;Teatro Oficina Olga Reverbel - Complexo Cultural Theatro São Pedro &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 16:32:50 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283645 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Teatro João Caetano</title>
+  <link>http://concerto.com.br/node/283643</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro João Caetano&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Borges Lagoa, 650 - Vila Clementino - Tel. (11) 5573-3774 - https://www.instagram.com/teatrojoaocaetanosp/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 15:12&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 15:12:56 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283643 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Duo Retratos</title>
+  <link>http://concerto.com.br/roteiros/duo-retratos</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Retratos&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 15:08&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculo Galeria. Valquíria Gomes - soprano e Anderson Reis - violão. Participação: Clara Seiler - bailarina. Programa: Waldemar Henrique - Lendas amazônicas; Lorenzo Fernández - Ó vida de minha vida e Toada pra você; e obras de Guerra-Peixe, Arnaldo Rebello e Guinga. Sil Cultural - produção. Silene Cristina da Silva - produção executiva e coordenação. Natan Assis - iluminação. Diego de Jesus - técnico de som. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T20:00:00Z" class="datetime"&gt;qua, 21/10/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283643" hreflang="pt-br"&gt;Teatro João Caetano&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 30. Vendas: https://www.sympla.com.br/evento/show-galeria-duo-retratos/3619764.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 15:08:46 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283644 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Scuola Villa Italia</title>
+  <link>http://concerto.com.br/node/283641</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Scuola Villa Italia&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Av. Venâncio Aires, 733 - Santana - Tel. (51) 3907-7707 - https://www.scuolavillaitalia.com.br/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 15:05&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Porto Alegre, RS&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 15:05:45 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283641 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Creare Con L'italiano — Scuola Villa Italia </title>
+  <link>http://concerto.com.br/roteiros/creare-con-litaliano-scuola-villa-italia</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Creare Con L'italiano — Scuola Villa Italia &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 14:58&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;XXVI Settimana della Lingua Italiana nel Mondo. Tema: Lingua geniale: ideare, progettare, creare con l'italiano. Companhia de Ópera do Rio Grande do Sul (CORS). Às 16h: Recital apresenta um percurso pela relação entre poesia e música, reunindo composições inspiradas em textos de alguns dos maiores nomes da literatura italiana, como Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Michelangelo Buonarroti, Giacomo Leopardi, Giosuè Carducci e Gabriele D'Annunzio. Programa: obras de Liszt, Nepomuceno, Ildebrando Pizzetti, Respighi, Castelnuovo-Tedesco, Carlos Gomes, Britten e Marco Anzoletti. Às 17h30: Arte contemporânea, mural inédito e memória da imigração italiana: Made in Italy, Fatto da Noi promove um diálogo entre Brasil e Itália por meio da arte, do design e da criação contemporânea. O encontro contará com Mariana Prestes, Pati Rigon e Cristina Mioranza e incluirá a apresentação de um mural inédito criado por Pati Rigon na Scuola Villa Italia. Às 18h15: Projeto especial Lettere dell'Immigrazione, que aproxima pesquisa histórica, memória da imigração italiana e criação artística, com participação de Isadora Aquini, Antonio De Ruggiero e Maíra Vendrame.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T16:00:00Z" class="datetime"&gt;sab, 24/10/2026 - 16:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/283641" hreflang="pt-br"&gt;Scuola Villa Italia&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 14:58:13 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283642 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Espetáculo Na Primavera Nasce Vênus, de Francisco Marshall </title>
+  <link>http://concerto.com.br/roteiros/espetaculo-na-primavera-nasce-venus-de-francisco-marshall</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculo Na Primavera Nasce Vênus, de Francisco Marshall &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 14:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;XXVI Settimana della Lingua Italiana nel Mondo. A montagem propõe uma viagem à Florença renascentista por meio de duas das obras mais conhecidas da história da arte: A Primavera e O Nascimento de Vênus, de Sandro Botticelli. Em cena, história, poesia, iconologia, piano, dança e projeções se encontram para revelar os mitos, símbolos e ideias que deram origem às pinturas. A apresentação explora especialmente a influência dos versos de Angelo Poliziano e do pensamento de Marsilio Ficino sobre o universo artístico e intelectual da Florença dos Médici.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-20T19:00:00Z" class="datetime"&gt;ter, 20/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/261060" hreflang="pt-br"&gt;Teatro Oficina Olga Reverbel - Complexo Cultural Theatro São Pedro &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 14:42:47 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283639 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra de Sopros de Novo Hamburgo </title>
+  <link>http://concerto.com.br/roteiros/orquestra-de-sopros-de-novo-hamburgo-3</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Sopros de Novo Hamburgo &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 14:05&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Comemorações dos 100 anos da Catedral e do Coral São Luiz. Participação: dez coros e mais de 200 vozes. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-17T17:00:00Z" class="datetime"&gt;sab, 17/10/2026 - 17:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1650" hreflang="pt-br"&gt;Novo Hamburgo, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/catedral-sao-luiz-gonzaga" hreflang="und"&gt;Catedral Basílica São Luiz Gonzaga&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 16 Oct 2026 14:05:05 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283638 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Flautistas da Marambaia</title>
@@ -147,463 +509,6 @@
   <pubDate>Thu, 15 Oct 2026 20:32:47 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283633 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica Juvenil Chiquinha Gonzaga e Coro Juvenil do Rio de Janeiro</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-juvenil-chiquinha-gonzaga-e-coro-juvenil-do-rio-de-janeiro</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Juvenil Chiquinha Gonzaga e Coro Juvenil do Rio de Janeiro&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 20:17&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Dia Nacional da China. Espetáculo reúne música, dança e artes visuais no âmbito do Ano Cultural China–Brasil. Concerto Mo Li Hua – Uma Sinfonia. Anderson Alves - regente. Allana Schu - cantora. Programa: Kiyoshi Yoshida - O grande peixe;  Peng Liyuan - Yao Dance - Ode To Coral; Lin Xi - Tita Dance - Book of the Great River; Tan Jing - Eu te amo, China; Wang Zifei - My Motherland and me; Fool's Garden - Lemon Tree; Yuan Jing/Cao Zhengjie - The World Gives to Me; e Mo Li Hua - Canção folclórica chinesa.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-19T19:00:00Z" class="datetime"&gt;seg, 19/10/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/249858" hreflang="pt-br"&gt;Teatro Claro Mais Rio (704 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 10.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 20:17:36 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283632 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Mateusz Krzyżowski e São Paulo Chamber Soloists participam do 5º Festival Chopin</title>
-  <link>http://concerto.com.br/noticias/musica-classica/mateusz-krzyzowski-e-sao-paulo-chamber-soloists-participam-do-5o-festival</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mateusz Krzyżowski e São Paulo Chamber Soloists participam do 5º Festival Chopin&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, dia 17, o 5º Festival Chopin segue sua programação com o pianista Mateusz Krzyżowski e a São Paulo Chamber Soloists, no Teatro Cultura Artística. Os músicos interpretam a versão para quinteto de cordas do &lt;em&gt;Concerto para piano e orquestra&lt;/em&gt;, &lt;em&gt;op. 21&lt;/em&gt;, de Chopin. Krzyżowski interpreta também peças para piano solo do autor.&lt;/p&gt;
-&lt;p&gt;O polonês Mateusz Krzyżowski vem se consolidando internacionalmente como intérprete de Chopin. Nascido em 1999, o pianista graduou-se pela Universidade de Música Fryderyk Chopin, na classe de Joanna Ławrynowicz-Just, e conquistou a distinção magna cum laude por seu desempenho. Em 2021 e 2025, participou do Concurso Internacional Chopin, em Varsóvia. Além disso, apresenta-se com frequência em festivais dedicados ao compositor polonês, com destaque para os de Duszniki-Zdrój e Varsóvia.&lt;/p&gt;
-&lt;p&gt;O Concerto para Piano e Orquestra, Op. 21, é um dos ícones do repertório romântico. Concluída em 1830, a peça faz parte da juventude de Chopin e sua escrita caracteriza um 'concerto brilhante', que destaca o virtuosismo do solista. Embora tenha sido o primeiro concerto composto por Chopin, a peça foi publicada em 1836 e publicada como sua segunda composição para o gênero.&lt;/p&gt;
-&lt;p&gt;O repertório inclui também as &lt;em&gt;Mazurcas op. 56&lt;/em&gt;, os &lt;em&gt;Noturnos Op. 48,&lt;/em&gt; &lt;em&gt;nº 1 e nº 2&lt;/em&gt;, e as &lt;em&gt;Polonaises op. 44 &lt;/em&gt;e &lt;em&gt;op. 53&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-10-17"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/node/283373"&gt;&lt;span style="color:#7f0000;"&gt;Filarmônica de Berlim: história em movimento&lt;/span&gt;&lt;/a&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Mateusz Krzyżowski [Reprodução/ Instagram/ Kulturalny Namyslow]" data-entity-type="file" data-entity-uuid="b2df6032-54ee-446a-9d27-e37084780b8f" src="http://concerto.com.br/sites/default/files/inline-images/w-chopin1jpg.jpg" /&gt;
-&lt;figcaption&gt;Mateusz Krzyżowski [Reprodução/ Instagram/ Kulturalny Namyslow]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 20:17&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-chopin1jpg.jpg" width="900" height="583" alt="Mateusz Krzyżowski [Reprodução/ Instagram/ Kulturalny Namyslow]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=LjkNhsf_UrHlk72VCOpfJRWIAlJD-DsBlIViwoG5KH8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 20:17:05 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283634 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Dellarte traz Küchl Piano Trio para apresentação em São Paulo</title>
-  <link>http://concerto.com.br/noticias/musica-classica/dellarte-traz-kuchl-piano-trio-para-apresentacao-em-sao-paulo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte traz Küchl Piano Trio para apresentação em São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, dia 17, o Teatro B32 recebe o Küchl Piano Trio, pela Série Dellarte. O grupo interpreta o &lt;em&gt;Trio para piano, op. 97&lt;/em&gt;,&lt;em&gt; ‘Arquiduque’&lt;/em&gt;, de Beethoven e o &lt;em&gt;Trio para piano nº 1&lt;/em&gt;,&lt;em&gt; op. 99&lt;/em&gt;, de Schubert.&lt;/p&gt;
-&lt;p&gt;O violinista austríaco Rainer Küchl dá nome ao trio. Por 45 anos, ocupou o cargo de spalla na Orquestra Filarmônica de Viena e na Ópera Estatal de Viena, até se aposentar em 2016. Desde 1982, é professor titular e chefe do setor de violino na Universidade de Música e Artes Cênicas de Viena.&lt;/p&gt;
-&lt;p&gt;O pianista Stefan Stroissnig e o violoncelista Wilhelm Pflegerl completam o conjunto. Stroissnig se destaca pela atividade como camerista e como intérprete de Schubert e do repertório dos séculos XX e XXI. Pflegerl atua como violoncelista solo na Orquestra Sinfônica da Caríntia.&lt;/p&gt;
-&lt;p&gt;O programa é dedicado à tradição austríaca. O &lt;em&gt;Trio para piano em si bemol maior, op. 97&lt;/em&gt;, de Beethoven, foi dedicado ao arquiduque Rodolfo de Habsburgo, aluno e amigo do compositor. Ao longo da vida, ele ainda dedicaria outras opeças ao nobre, dentre elas a &lt;em&gt;Grande fuga em si bemol maior&lt;/em&gt; e a sonata '&lt;em&gt;Hammerklavier'. &lt;/em&gt; O &lt;em&gt;Trio para piano nº 1, em si bemol maior&lt;/em&gt;, &lt;em&gt;op. 99&lt;/em&gt;, de Schubert, traz referência ao Ländler no terceiro movimento, dança folclórica austríaca do século XVIII.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-10-17"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;a href="https://www.concerto.com.br/node/283373"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;Filarmônica de Berlim: história em movimento&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; &lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eiko-senda-interpreta-erwartung-de-schoenberg-em-porto-alegre" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Eiko Senda interpreta ‘Erwartung’, de Schoenberg, em Porto Alegre&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-agenda-de-concertos-e-operas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da agenda de concertos e óperas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/performa-clavis-realiza-nona-edicao-com-palestras-debates-aulas-e-recitais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Performa Clavis realiza nona edição com palestras, debates, aulas e recitais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/eca-opera-day-propoe-reflexao-sobre-o-fazer-operistico-no-brasil" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;ECA Ópera Day propõe reflexão sobre o fazer operístico no Brasil&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/violinista-marina-caputo-e-primeira-brasileira-da-orquestra-tonkunstler-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler, de Viena&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Entrevista &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/jordan-alexander-vencedor-do-premio-citi-2026-um-piano-em-ascensao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Jordan Alexander, vencedor do Prêmio Citi 2026: um piano em ascensão&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Küchl Piano Trio [DIvulgação]" data-entity-type="file" data-entity-uuid="f41fea2a-7a29-4955-810d-4fe0db6fb08b" src="http://concerto.com.br/sites/default/files/inline-images/w-kuchltrio.jpg" /&gt;
-&lt;figcaption&gt;Küchl Piano Trio [DIvulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 19:57&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-kuchltrio.jpg" width="900" height="506" alt="Küchl Piano Trio [DIvulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=48rV-CZmDq2x1G27tQOjL5yqJ2pJV1VOy91MOY1yOIU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 19:57:08 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283631 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_Amigos_FilMG_15out_15nov_FB</title>
-  <link>http://concerto.com.br/node/283630</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_Amigos_FilMG_15out_15nov_FB&lt;/span&gt;
-
-  &lt;div class="field field--name-field-banner field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/banner/2026-10/2026_Amigos_FilMG_15out_15nov_FB.gif" width="728" height="90" alt="Fullbanner Amigos da Filarmônica de Minas Gerais Outubro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 18:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-banner-link field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://filarmonica.art.br/amigos/&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;808&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;2&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 18:37:07 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">283630 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra do Theatro São Pedro e Cia Ópera São Paulo</title>
-  <link>http://concerto.com.br/roteiros/orquestra-do-theatro-sao-pedro-e-cia-opera-sao-paulo-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra do Theatro São Pedro e Cia Ópera São Paulo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 17:14&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Mozartmania. Priscila Bomfim – direção musical e regente. Marília Carvalho – soprano, Gabriela Bueno – mezzo soprano e Daniel Oliveira – clarinete. Programa: Mozart – Concerto para clarinete K 622; Concerto Vorrei spiegarvi oh Dio K 418; O empresário: Abertura; La clemenza di Tito: Parto, parto; Zaide: Ruhe sanft, mein holdes Leben; e Così fan tutte: Smanie implacabili e Ah, guarda sorella.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T20:00:00Z" class="datetime"&gt;qua, 21/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 72. Vendas: https://theatrosaopedro.byinti.com/#/event/concerto-sinfonico-mozartmania-no-theatro-sao-pedro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 17:14:33 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283629 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Brasil Jazz Sinfônica</title>
-  <link>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-52</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brasil Jazz Sinfônica&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 16:00&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Trilha sonora ao vivo do filme Aurora.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T11:00:00Z" class="datetime"&gt;sab, 24/10/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-cultura-artistica" hreflang="und"&gt;Teatro Cultura Artística&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Vendas: https://mostra.org/filmes/aurora.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 16:00:14 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283628 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Brasil Jazz Sinfônica</title>
-  <link>http://concerto.com.br/roteiros/brasil-jazz-sinfonica-51</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brasil Jazz Sinfônica&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 15/10/2026 - 15:56&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;50ª Mostra Internacional de Cinema de São Paulo. Trilha sonora ao vivo do filme Aurora.  &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 24 às 11h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T20:00:00Z" class="datetime"&gt;sex, 23/10/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-cultura-artistica" hreflang="und"&gt;Teatro Cultura Artística&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Vendas: https://mostra.org/filmes/aurora.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 15 Oct 2026 15:56:48 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283627 at http://concerto.com.br</guid>
     </item>
 
   </channel>
