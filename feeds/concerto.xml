@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 16 Oct 2026 07:18:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 13:20:08 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=8kSLN1Sh378xHzNcuZcRFLAucHbHx7Izs-HE43QMMys?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2MiIsImRpc2xpa2VzIjoiMCJ9?token=kJDQvfp0HP8g_iU8ic9mKmuZKoL9SavMQQoJg_ZLLKU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;562&lt;/span&gt;
@@ -275,7 +275,7 @@ Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&l
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Y5HlUWf6lKzKA3vXKZuq_B8XFSpbcjo1PYcKnbYE0r0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=LjkNhsf_UrHlk72VCOpfJRWIAlJD-DsBlIViwoG5KH8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
@@ -353,7 +353,7 @@ Notícias &lt;/strong&gt;&lt;a href="https://www.concerto.com.br/node/283373"&g
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=dVehCffvEA3mOj69vgNpGoGqRzAg4dbGIiteiLYRXL8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2MzEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=48rV-CZmDq2x1G27tQOjL5yqJ2pJV1VOy91MOY1yOIU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
@@ -388,7 +388,7 @@ Notícias &lt;/strong&gt;&lt;a href="https://www.concerto.com.br/node/283373"&g
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;498&lt;/div&gt;
+              &lt;div class="field__item"&gt;808&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;

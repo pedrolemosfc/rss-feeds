@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 16 Oct 2026 07:20:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 13:23:05 +0000</lastBuildDate>
+<item>
+<title>Especial CNT Eleições de 2026 para o Poder Executivo</title>
+<link>https://www.cnt.org.br/pesquisas?documento=33e7a97a-d926-4fb2-8787-a2d8876ab144</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=33e7a97a-d926-4fb2-8787-a2d8876ab144</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — A Confederação Nacional do Transporte (CNT), por meio da Diretoria de Relações Institucionais (DIRI), lança a 16ª edição do Especial CNT Eleições de 2026 para o Poder Executivo. A publicação oferece às federações, aos sindicatos e às entidades associadas uma leitura qualificada do cenário eleitoral, com foco nos temas de interesse do setor transportador.</description>
+</item>
 <item>
 <title>Pesquisa CNT de Opinião - 171ª rodada</title>
 <link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-171-rodada/</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=a7429533-201b-4a85-8cbd-35a4ad63b067</guid>
 <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
 <description>Boletins — Boletim Unificado - Fevereiro 2026</description>
-</item>
-<item>
-<title>Boletim Conjuntura Econômica - Fevereiro</title>
-<link>https://www.cnt.org.br/pesquisas?documento=4b945c7c-3b91-4d5c-a1aa-f1b0696b9d57</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=4b945c7c-3b91-4d5c-a1aa-f1b0696b9d57</guid>
-<pubDate>Wed, 25 Feb 2026 09:00:00 +0000</pubDate>
-<description>Boletins — O orçamento destinado à infraestrutura de transporte em 2026 registrou ampliação em relação ao exercício anterior. A LOA (Lei Orçamentária Anual), sancionada em 15 de janeiro de 2026, consolidou R$ 18,18 bilhões para investimentos da União e das estatais no setor, montante superior aos R$ 17,34 bilhões autorizados em 2025.</description>
 </item>
 </channel>
 </rss>
