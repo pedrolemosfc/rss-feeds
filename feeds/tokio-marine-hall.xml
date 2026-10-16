@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Fri, 16 Oct 2026 18:08:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Oct 2026 21:19:52 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.10</generator>
 	<item>
+		<title>ANA GABRIEL</title>
+		<link>https://www.tokiomarinehall.com.br/ana-gabriel-2/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 19:05:51 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5841</guid>
+
+					<description><![CDATA[<p>Ana Gabriel</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/ana-gabriel-2/">ANA GABRIEL</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fábio Rabin</title>
 		<link>https://www.tokiomarinehall.com.br/fabio_rabin/</link>
 		
@@ -164,22 +180,6 @@ Natal</p>
 		
 		
 			</item>
-		<item>
-		<title>JORGE VERCILLO</title>
-		<link>https://www.tokiomarinehall.com.br/jorge-vercillo-5/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Tue, 23 Jun 2026 15:14:18 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5685</guid>
-
-					<description><![CDATA[<p>Jorge Vercillo</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/jorge-vercillo-5/">JORGE VERCILLO</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-10-16 15:08:40 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-10-16 18:19:52 by W3 Total Cache
 -->

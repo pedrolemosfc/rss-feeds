@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "mirrored 19 native items",
+    "notes": "mirrored 20 native items",
     "kind": "native-mirror"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 18,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 14,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 14 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 51,
+    "items": 61,
     "ok": true,
-    "notes": "scraped 51 events",
+    "notes": "scraped 61 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

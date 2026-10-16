@@ -6,14 +6,7 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 16 Oct 2026 18:09:22 +0000</lastBuildDate>
-<item>
-<title>ERICK BRIAN</title>
-<link>https://www.cinejoia.com.br/eventos/erick-brian-2/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/erick-brian-2/</guid>
-<pubDate>Fri, 16 Oct 2026 12:09:09 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
+<lastBuildDate>Fri, 16 Oct 2026 21:20:47 +0000</lastBuildDate>
 <item>
 <title>MATO SECO</title>
 <link>https://www.cinejoia.com.br/eventos/mato-seco/</link>
@@ -355,6 +348,13 @@
 <link>https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/soulidified-whats-your-name-world-tour-2026/</guid>
 <pubDate>Tue, 09 Jun 2026 12:55:50 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>DEAD MOON NIGHT</title>
+<link>https://www.cinejoia.com.br/eventos/dead-moon-night/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/dead-moon-night/</guid>
+<pubDate>Tue, 09 Jun 2026 12:50:39 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

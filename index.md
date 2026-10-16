@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-16 18:11 UTC
+Generated: 2026-10-16 21:22 UTC
 
 ## Native feeds (not scraped)
 
@@ -68,8 +68,8 @@ Generated: 2026-10-16 18:11 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=19 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 19 native items
+- **mis-sp** [OK] items=20 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 20 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -108,12 +108,12 @@ Generated: 2026-10-16 18:11 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **morumbis-live-nation** [OK] items=6 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
   notes: scraped 6 events
-- **carioca-club** [OK] items=18 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
-  notes: scraped 18 events
+- **carioca-club** [OK] items=22 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 22 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: scraped 14 events
+- **komplexo-tempo** [OK] items=16 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: scraped 16 events
 - **btg-pactual-hall** [OK] items=15 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
   notes: scraped 15 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
@@ -122,8 +122,8 @@ Generated: 2026-10-16 18:11 UTC
   notes: scraped 36 events
 - **teatro-das-artes-sp** [FAIL] items=0 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 404: Not Found
-- **casa-de-francisca** [OK] items=51 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 51 events
+- **casa-de-francisca** [OK] items=61 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 61 events
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
 - **cavern-club-sp** [OK] items=24 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -141,7 +141,7 @@ Generated: 2026-10-16 18:11 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -158,8 +158,8 @@ Generated: 2026-10-16 18:11 UTC
   notes: scraped 10 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
-- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: scraped 3 events
+- **fabric-changelog** [FAIL] items=0 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: no event items found
 - **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
