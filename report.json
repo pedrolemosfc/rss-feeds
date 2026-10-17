@@ -171,9 +171,9 @@
     "name": "aida-noticias-do-dia",
     "source_url": "https://aida.org.br/category/noticias-do-dia/feed/",
     "output": "feeds/aida-noticias-do-dia.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "native-mirror"
   },
   {
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "mirrored 20 native items",
+    "notes": "mirrored 19 native items",
     "kind": "native-mirror"
   },
   {
@@ -333,9 +333,9 @@
     "name": "multi-arena-campinas",
     "source_url": "https://multiarenacampinas.com.br/programacao/",
     "output": "feeds/multi-arena-campinas.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 22,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -432,9 +432,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 15,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 36,
+    "items": 35,
     "ok": true,
-    "notes": "scraped 36 events",
+    "notes": "scraped 35 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 63,
+    "items": 60,
     "ok": true,
-    "notes": "scraped 63 events",
+    "notes": "scraped 60 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 19,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error timed out>",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {

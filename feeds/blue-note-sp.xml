@@ -6,7 +6,14 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 17 Oct 2026 00:34:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 07:03:00 +0000</lastBuildDate>
+<item>
+<title>ABBA THE HISTORY</title>
+<link>https://bluenotesp.com/shows/abba-the-history/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/abba-the-history/</guid>
+<pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
 <item>
 <title>HOLLAND MEETS BRAZIL</title>
 <link>https://bluenotesp.com/shows/holland-meets-brazil/</link>
@@ -29,10 +36,24 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>NONETO BRASIL JAZZ SINFÔNICA</title>
+<link>https://bluenotesp.com/shows/noneto-brasil-jazz-sinfonica/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/noneto-brasil-jazz-sinfonica/</guid>
+<pubDate>Fri, 09 Oct 2026 12:10:08 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>BOB MARLEY IN JAZZ</title>
 <link>https://bluenotesp.com/shows/bob-marley-in-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/bob-marley-in-jazz/</guid>
 <pubDate>Fri, 09 Oct 2026 12:00:17 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>DAY LIMNS</title>
+<link>https://bluenotesp.com/shows/day-limns/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/day-limns/</guid>
+<pubDate>Wed, 07 Oct 2026 15:25:07 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -103,13 +124,6 @@
 <link>https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/</guid>
 <pubDate>Thu, 01 Oct 2026 14:41:12 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>JOHN MAYER POR VICTOR MOTA</title>
-<link>https://bluenotesp.com/shows/john-mayer-por-victor-mota/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/john-mayer-por-victor-mota/</guid>
-<pubDate>Tue, 29 Sep 2026 16:49:32 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -313,20 +327,6 @@
 <link>https://bluenotesp.com/shows/wagner-tiso-toninho-horta/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/wagner-tiso-toninho-horta/</guid>
 <pubDate>Thu, 03 Sep 2026 17:37:15 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>DIAMOND DOGS</title>
-<link>https://bluenotesp.com/shows/diamond-dogs-tributo-davidbowie/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/diamond-dogs-tributo-davidbowie/</guid>
-<pubDate>Thu, 03 Sep 2026 17:35:47 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>BIAFRA</title>
-<link>https://bluenotesp.com/shows/biafra-no-tempo-do-vinil/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/biafra-no-tempo-do-vinil/</guid>
-<pubDate>Thu, 03 Sep 2026 17:34:38 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
