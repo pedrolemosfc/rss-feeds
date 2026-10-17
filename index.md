@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-17 15:47 UTC
+Generated: 2026-10-17 18:37 UTC
 
 ## Native feeds (not scraped)
 
@@ -141,7 +141,7 @@ Generated: 2026-10-17 15:47 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -164,8 +164,8 @@ Generated: 2026-10-17 15:47 UTC
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
   notes: no event items found
-- **colossus** [OK] items=77 → `feeds/colossus.xml`  source: https://colossus.com/  
-  notes: scraped 77 events
+- **colossus** [OK] items=78 → `feeds/colossus.xml`  source: https://colossus.com/  
+  notes: scraped 78 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
 - **antt-cargas-rodoviarias** [OK] items=10 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  

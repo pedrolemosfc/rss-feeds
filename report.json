@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "colossus",
     "source_url": "https://colossus.com/",
     "output": "feeds/colossus.xml",
-    "items": 77,
+    "items": 78,
     "ok": true,
-    "notes": "scraped 77 events",
+    "notes": "scraped 78 events",
     "kind": "venue-scrape"
   },
   {
