@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 60,
+    "items": 61,
     "ok": true,
-    "notes": "scraped 60 items"
+    "notes": "scraped 61 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 190,
+    "items": 191,
     "ok": true,
-    "notes": "merged 3 feeds -> 190 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 191 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -630,18 +630,18 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
     "name": "tradexa-blog",
     "source_url": "https://www.tradexa.com.br/blog",
     "output": "feeds/tradexa-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 500: Internal Server Error",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {

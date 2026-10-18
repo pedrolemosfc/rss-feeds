@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-18 15:59 UTC
+Generated: 2026-10-18 18:44 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-10-18 15:59 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=60 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 60 items
+- **folha-show** [OK] items=61 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 61 items
 - **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 79 items
 - **guia-shows** [OK] items=92 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -80,8 +80,8 @@ Generated: 2026-10-18 15:59 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **abti** [FAIL] items=0 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
-  notes: native feed has 0 items
+- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: mirrored 10 native items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
@@ -100,8 +100,8 @@ Generated: 2026-10-18 15:59 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 4 events
-- **bourbon-street** [OK] items=27 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 27 events
+- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 26 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -141,7 +141,7 @@ Generated: 2026-10-18 15:59 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=6 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -158,10 +158,10 @@ Generated: 2026-10-18 15:59 UTC
   notes: scraped 9 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
-- **fabric-changelog** [FAIL] items=0 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
-  notes: no event items found
-- **tradexa-blog** [FAIL] items=0 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
-  notes: fetch failed: HTTPError: HTTP Error 500: Internal Server Error
+- **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
+  notes: scraped 3 events
+- **tradexa-blog** [OK] items=20 → `feeds/tradexa-blog.xml`  source: https://www.tradexa.com.br/blog  
+  notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
   notes: no event items found
 - **colossus** [OK] items=78 → `feeds/colossus.xml`  source: https://colossus.com/  
@@ -178,8 +178,8 @@ Generated: 2026-10-18 15:59 UTC
   notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 40 events
+- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 39 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
@@ -191,7 +191,7 @@ Generated: 2026-10-18 15:59 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=190 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 190 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=191 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 191 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])
