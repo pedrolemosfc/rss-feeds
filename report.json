@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "mirrored 18 native items",
+    "notes": "mirrored 17 native items",
     "kind": "native-mirror"
   },
   {
@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 4,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
