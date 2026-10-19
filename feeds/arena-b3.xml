@@ -6,7 +6,7 @@
 <link>https://site.bileto.sympla.com.br/arenab3/</link>
 <description>Eventos Arena B3 via iframe Sympla/Bileto</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:32:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:00:56 +0000</lastBuildDate>
 <item>
 <title>Evento 127251</title>
 <link>https://bileto.sympla.com.br/event/127251</link>
@@ -27,6 +27,12 @@
 </item>
 <item>
 <title>As Bondosas</title>
+<link>https://bileto.sympla.com.br/event/128730</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/128730</guid>
+<description>Arena B3</description>
+</item>
+<item>
+<title>Espetáculo Musical “MON COE...</title>
 <link>https://bileto.sympla.com.br/event/128160</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/128160</guid>
 <description>Arena B3</description>
@@ -35,6 +41,12 @@
 <title>Show 'LUDOM' - Arena B3</title>
 <link>https://bileto.sympla.com.br/event/128169</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/128169</guid>
+<description>Arena B3</description>
+</item>
+<item>
+<title>Show “SOUL DE BRASILEIRO' - ...</title>
+<link>https://bileto.sympla.com.br/event/128822</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/128822</guid>
 <description>Arena B3</description>
 </item>
 </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 19 Oct 2026 13:31:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:00:40 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2OCIsImRpc2xpa2VzIjoiMCJ9?token=S8vsh29ni1QbXP0Gtz5kqIWCY7py8BcXyUg72wChx38?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU2OSIsImRpc2xpa2VzIjoiMCJ9?token=Yrv-xRxRtmNsM9xpry0q5AbKkNaqyU_sPD0v_oDYTIo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;568&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;569&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,440 +82,21 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Elodie Bouny concorre ao Grammy Latino de melhor composição clássica</title>
-  <link>http://concerto.com.br/noticias/musica-classica/elodie-bouny-concorre-ao-grammy-latino-de-melhor-composicao-classica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Elodie Bouny concorre ao Grammy Latino de melhor composição clássica&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A compositora Elodie Bouny concorre ao Grammy Latino, cuja cerimônia será realizada no dia 12 de novembro, nos EUA, na categoria melhor composição clássica, pela obra &lt;em&gt;Tríptico Sud-Americano&lt;/em&gt;, escrita especialmente para o novo álbum da violonista paraguaia Berta Rojas, &lt;em&gt;La Huella de las Cuerdas&lt;/em&gt;, também indicado na categoria Melhor Álbum Instrumental.&lt;/p&gt;
-&lt;p&gt;A peça é uma suíte em três movimentos (O Mar, A Montanha e El Llano) concebida para violão solista, cordófonos tradicionais da região e orquestra de câmara. O primeiro movimento combina violão, bandolim e orquestra; o segundo, violão, charango e orquestra; e o terceiro, violão, cuatro venezuelano e orquestra.&lt;/p&gt;
-&lt;p&gt;Bouny define a obra como uma homenagem pessoal à América Latina: ela nasceu na Venezuela, filha de mãe boliviana e pai francês, e vive há 15 anos no Brasil. “Esta obra é também uma homenagem à minha história”, afirma. &lt;/p&gt;
-&lt;p&gt;Bouni concorre com Tania Leon (&lt;em&gt;Raices&lt;/em&gt;), Gonzalo Grau (&lt;em&gt;Odisea&lt;/em&gt;), Richard Scofano (&lt;em&gt;Adagio De Las Tres y Diez&lt;/em&gt;) e Gabriela Ortiz (&lt;em&gt;Yanga&lt;/em&gt;). “Ter três mulheres entre os cinco indicados já é uma vitória para a música contemporânea”, diz.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/projeto-ecomusica-do-pianista-fabio-caramuru-ganha-exposicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/nino-rota-e-tema-de-documentario-em-cartaz-na-mostra-de-cinema-de-sao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/daniil-trifonov-lanca-disco-com-musica-latino-americana-com-participacao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Daniil Trifonov lança disco com música latino-americana com participação da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Acervo CONCERTO &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-o-requiem-de-verdi" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;O 'Réquiem', de Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Lauro Machado Coelho&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A violonista e compositora Elodie Bouny [Divulgação]" data-entity-type="file" data-entity-uuid="244d28db-77fb-44c3-8b7a-0829cea0b44d" src="http://concerto.com.br/sites/default/files/inline-images/w-elodie_boa3_0.jpg" /&gt;
-&lt;figcaption&gt;A violonista e compositora Elodie Bouny [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 12:52&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-elodie_boa3_0.jpg" width="900" height="600" alt="A violonista e compositora Elodie Bouny [Divulgação]" title="A violonista e compositora Elodie Bouny [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=z5uiCFZkDr6-r4kA-pcOnolt3nbYIODR8PQVrJc_e4c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 19 Oct 2026 12:52:01 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283658 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição </title>
-  <link>http://concerto.com.br/noticias/musica-classica/projeto-ecomusica-do-pianista-fabio-caramuru-ganha-exposicao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A partir de 21 de outubro, o Sesc Vila Mariana inaugura &lt;em&gt;EcoMúsica – Sons da natureza&lt;/em&gt;, exposição que transforma o conceito criado pelo pianista e compositor Fabio Caramuru em um percurso sensorial distribuído pelo térreo da unidade. &lt;/p&gt;
-&lt;p&gt;Com curadoria de Fernando Limberger, a mostra reúne mais de noventa obras em quatro ambientes dedicados aos elementos terra, água, ar e fogo, todos atravessados por registros sonoros captados na natureza – rios, ventos, insetos e pássaros. &lt;/p&gt;
-&lt;p&gt;Logo na entrada, o visitante é recebido pelo elemento terra, em um espaço tomado por vegetação, bancos e pontos de escuta sobre um chão de matéria orgânica. Ali estão o texto de Rafael Vogt Maia Rosa, a obra comissionada O último passarinho, de Guto Lacaz, e a inédita Cartas a Debret, de Luciana Napchan. A pergunta que orienta a curadoria – “O que ainda se ouve da casa que habitamos?” – se desdobra nos ambientes seguintes. &lt;/p&gt;
-&lt;p&gt;Artistas como, entre outros, Luiz Zerbini, Ludmila Ferolla, Mo Toledo, Cássio Vasconcellos, Noris Lima, Rochelle Costi, Dudi Maia Rosa, Juan Fontanive, Ismail Maxakali e Carmézia Emiliano têm obras expostas nos outros espaços. O percurso termina em uma sala com três televisores que exibem vídeos do acervo de Fabio Caramuru.  &lt;/p&gt;
-&lt;p&gt;A música também integra a mostra. A abertura, no dia 21, terá recital solo de Caramuru. E, nos dias 23 e 24, o projeto EcoMúsica promove dois concertos no Teatro Antunes Filho, no próprio Sesc, com Caramuru, o grupo Mawaca e a cantora indígena Djuena Tikuna, do povo Tikuna.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-10-21" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/nino-rota-e-tema-de-documentario-em-cartaz-na-mostra-de-cinema-de-sao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/elodie-bouny-concorre-ao-grammy-latino-de-melhor-composicao-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Elodie Bouny concorre ao Grammy Latino de melhor composição clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/daniil-trifonov-lanca-disco-com-musica-latino-americana-com-participacao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Daniil Trifonov lança disco com música latino-americana com participação da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Acervo CONCERTO &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-o-requiem-de-verdi" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;O 'Réquiem', de Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Lauro Machado Coelho&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Obra 'Saint-Michel', de Marcos Chaves, da série 'Justapostos' [Divulgação/Flávio Freire]" data-entity-type="file" data-entity-uuid="d85ecff0-717c-47bf-b377-c0410b1872ba" src="http://concerto.com.br/sites/default/files/inline-images/w-ecomusica.jpg" /&gt;
-&lt;figcaption&gt;Obra 'Saint-Michel', de Marcos Chaves, da série 'Justapostos' [Divulgação/Flávio Freire]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 12:47&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ecomusica.jpg" width="900" height="585" alt="Obra 'Saint-Michel', de Marcos Chaves, da série 'Justapostos' [Divulgação/Flávio Freire]" title="Obra 'Saint-Michel', de Marcos Chaves, da série 'Justapostos' [Divulgação/Flávio Freire]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=uIS9BP3m6WtpWkXyrUuXs1Uj00_XVH2BajNtZzxXnTY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 19 Oct 2026 12:47:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283657 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo</title>
-  <link>http://concerto.com.br/noticias/musica-classica/nino-rota-e-tema-de-documentario-em-cartaz-na-mostra-de-cinema-de-sao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O compositor italiano Nino Rota é tema de documentário que pode ser assistido na programação da Mostra Internacional de Cinema de São Paulo, que acontece em diversas salas da cidade até o dia 29 de outubro.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Nino – Um filme sobre Nino Rota&lt;/em&gt;, de Walter Fasano, recupera a trajetória múltipla do compositor. Por um lado, aborda seu trabalho como autor de trilhas, em especial a sua colaboração com o cineasta Federico Fellini. Por outro, joga luz em sua produção camerística, sinfônica e operística.&lt;/p&gt;
-&lt;p&gt;O documentário utiliza fotografias e material inédito de arquivo entrelaçados com entrevistas com músicos e pessoas próximas a Rota, na tentativa de fazer um retrato pessoal e não apenas profissional do compositor.&lt;/p&gt;
-&lt;p&gt;“Havia o desejo de expressar uma forma de documentário que fugisse do padrão de tantos retratos de artistas que vemos hoje em dia, cada vez mais previsíveis e com uma estrutura muito rígida”, disse o diretor ao site Cineuropa.&lt;/p&gt;
-&lt;p&gt;“Quis realizar um filme, de natureza documental, sobre Nino Rota. Por que Nino Rota?, você pode perguntar. E eu respondo: por que não?. Gostei muito da ideia de retratar uma figura do século XX. Não se trata apenas de nostalgia; trata-se, antes, de observar uma trajetória de vida, como ela caminha em paralelo a um século e o representa, e de notar aspectos que acabaram se perdendo com o passar do tempo.”&lt;/p&gt;
-&lt;p&gt;O filme terá as seguintes sessões:&lt;/p&gt;
-&lt;p&gt;- Dia 22, às 16h30, no Espaço Petrobras de Cinema – Sala 1&lt;br /&gt;
-- Dia 24, às 12h, no Solar Sala Petrobras&lt;/p&gt;
-&lt;p&gt;Mais informações podem ser obtidas no site da Mostra (clique&lt;strong&gt;&lt;a href="https://mostra.org/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt; aqui&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;).&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/projeto-ecomusica-do-pianista-fabio-caramuru-ganha-exposicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/elodie-bouny-concorre-ao-grammy-latino-de-melhor-composicao-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Elodie Bouny concorre ao Grammy Latino de melhor composição clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/daniil-trifonov-lanca-disco-com-musica-latino-americana-com-participacao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Daniil Trifonov lança disco com música latino-americana com participação da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Acervo CONCERTO &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-o-requiem-de-verdi" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;O 'Réquiem', de Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Lauro Machado Coelho&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Imagem do documentário 'Nino - Um filme sobre Nino Rota'" data-entity-type="file" data-entity-uuid="457c5ffb-9ba8-4d3a-812a-f5001c0b81a6" src="http://concerto.com.br/sites/default/files/inline-images/w-nino_rota_filme.jpg" /&gt;
-&lt;figcaption&gt;Imagem do documentário 'Nino - Um filme sobre Nino Rota'&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 12:43&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-nino_rota_filme.jpg" width="900" height="439" alt="Imagem do documentário 'Nino - Um filme sobre Nino Rota'" title="Imagem do documentário 'Nino - Um filme sobre Nino Rota'" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=xRDDuETFb6Y5e312jNEUO_30qgji1VDUGxCR9s2ZtpQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 19 Oct 2026 12:43:05 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283656 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Daniil Trifonov lança disco com música latino-americana e participação da Osesp</title>
-  <link>http://concerto.com.br/noticias/musica-classica/daniil-trifonov-lanca-disco-com-musica-latino-americana-e-participacao-da</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Daniil Trifonov lança disco com música latino-americana e participação da Osesp&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O pianista Daniil Trifonov cancelou sua vinda ao Brasil, onde tocaria com a Filarmônica de Berlim. Seu novo disco, no entanto, acaba de chegar às plataformas de streaming – com o Brasil como destaque. O álbum &lt;em&gt;Mi Historia Americana – Sur&lt;/em&gt; contou com a participação da Osesp e teve parte das gravações feitas na Sala São Paulo.&lt;/p&gt;
-&lt;p&gt;O disco é o segundo volume de uma série iniciada com &lt;em&gt;My American Story – North&lt;/em&gt;, de 2024, e reúne obras de compositores da América Latina e do Caribe, em um panorama que percorre Brasil, Argentina, Peru, Cuba e República Dominicana.&lt;/p&gt;
-&lt;p&gt;"Como a própria América Latina, este repertório é vasto e cheio de variedade. Há muitas obras populares na região, mas ainda pouco conhecidas em outras partes do mundo. Quis apresentar um retrato da riqueza musical que essa literatura tem a oferecer", diz Trifonov no material de divulgação do álbum. &lt;/p&gt;
-&lt;p&gt;&lt;iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" data-testid="embed-iframe" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/album/45d4tvwrcFLBCaNoyDQOgD?utm_source=generator&amp;si=3449b012ac3c45f3" style="border-radius:12px" width="100%"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;As gravações com a Osesp aconteceram em fevereiro de 2026, sob direção musical do multi-instrumentista e arranjador venezuelano Gonzalo Grau. Na ocasião, foram registrados duas obras: uma nova versão de &lt;em&gt;Aquarela do Brasil&lt;/em&gt;, de Ary Barroso, e a estreia mundial de Cuadros del Sur (Quadros do Sul), obra baseada em trechos de &lt;em&gt;La Pasión según San Marcos&lt;/em&gt;, do compositor argentino Osvaldo Golijov. &lt;/p&gt;
-&lt;p&gt;O disco tem ainda Trifonov interpretando as &lt;em&gt;Bachianas brasileiras nº 4&lt;/em&gt; e a &lt;em&gt;Valsa da dor&lt;/em&gt;, de Villa-Lobos, a &lt;em&gt;Dança negra&lt;/em&gt;, de Camargo Guarnieri, e a &lt;em&gt;Suíte brasileira nº 1&lt;/em&gt;, de Lorenzo Fernandez, além de peças de Gabriela Lena Frank, Alberto Ginastera, Ernesto Lecuona, Michel Camillo, Juan Francisco García e outros autores latinos.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/projeto-ecomusica-do-pianista-fabio-caramuru-ganha-exposicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/nino-rota-e-tema-de-documentario-em-cartaz-na-mostra-de-cinema-de-sao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/elodie-bouny-concorre-ao-grammy-latino-de-melhor-composicao-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Elodie Bouny concorre ao Grammy Latino de melhor composição clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Acervo CONCERTO &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-o-requiem-de-verdi" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;O 'Réquiem', de Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Lauro Machado Coelho&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Trifonov durante gravação na Sala São Paulo, em fevereiro [Divulgação]" data-entity-type="file" data-entity-uuid="f8b23c1b-a9cb-4ea4-a9ec-c533c3964aa4" src="http://concerto.com.br/sites/default/files/inline-images/w-trifonov_sala.jpg" /&gt;
-&lt;figcaption&gt;Trifonov durante gravação na Sala São Paulo, em fevereiro [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 12:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-trifonov_sala.jpg" width="900" height="600" alt="Trifonov durante gravação na Sala São Paulo, em fevereiro [Divulgação]" title="Trifonov durante gravação na Sala São Paulo, em fevereiro [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=80pzfuoWLuNlKi7Cyd0x8agt3qk_Dl9ku9kvvshhOV4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 19 Oct 2026 12:37:35 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283655 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Prepare-se: destaques da programação musical da semana</title>
-  <link>http://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Agenda tem o pianista Vikingur Ólafsson no Theatro Municipal do Rio de Janeiro, Filarmônica de Berlim na Sala São Paulo, a estreia de Fabio Mechetti como diretor musical da Orquestra Sinfônica Municipal e concertos em Porto Alegre, Curitiba, Campinas, Goiânia e Manaus.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Segunda-feira, dia 19&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;O pianista &lt;strong&gt;Vikingur Ólafsson&lt;/strong&gt; faz recital no Theatro Municipal do Rio de Janeiro pela série O Globo/Dellarte. Ele vai apresentar obras de Bach, Beethoven e Schubert.&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Filarmônica de Berlim&lt;/strong&gt; apresenta, na Sala São Paulo, o segundo concerto do grupo na viagem ao Brasil, promovido pela Tucca. Kirill Petrenko rege obras de Elgar e Tchaikovski.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Terça-feira, dia 20&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Goiânia&lt;/strong&gt; celebra os 93 anos da cidade com uma apresentação da &lt;em&gt;Sinfonia nº 5&lt;/em&gt; de Mahler, sob regência do maestro Eliel Ferreira, no Teatro Goiânia.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quarta-feira, dia 21&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;O pianista Fabio Caramuru faz recital para marcar a abertura da exposição &lt;strong&gt;&lt;em&gt;EcoMúsica Sons da Natureza&lt;/em&gt;&lt;/strong&gt;, no Sesc Vila Mariana, que fica em cartaz até abril de 2027.&lt;/p&gt;
-&lt;p&gt;A Orquestra do Theatro São Pedro e a Cia. Ópera São Paulo apresentam o espetáculo &lt;strong&gt;&lt;em&gt;Mozartmania&lt;/em&gt;&lt;/strong&gt;, com cenas de óperas de Mozart. Regência de Priscila Bomfim.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quinta-feira, dia 22&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Na Sala do Conservatório, o &lt;strong&gt;Quarteto de Cordas da Cidade de São Paulo&lt;/strong&gt; apresenta programa com quartetos de Emilie Mayer, Mendelssohn e Schumann.&lt;/p&gt;
-&lt;p&gt;Thierry Fischer rege a Osesp nos dias 22, 23 e 24, em programa no qual o violonista &lt;strong&gt;Rafael Aguirre&lt;/strong&gt; interpreta &lt;em&gt;Alturas&lt;/em&gt;, concerto de Daniel Freiberg encomendado pelo grupo.&lt;/p&gt;
-&lt;p&gt;Jean Louis-Steuerman e Cármelo de los Santos se unem à &lt;strong&gt;Filarmônica de Goiás&lt;/strong&gt;, em Goiânia, para apresentar obras de Bach, Ronaldo Miranda e Brahms.&lt;/p&gt;
-&lt;p&gt;Vencedor do Concurso Rainha Elisabeth, o pianista &lt;strong&gt;Nikola Meeuwsen&lt;/strong&gt; toca Prokofiev com a Amazonas Filarmônica, em Manaus, regido por Marcelo de Jesus. No domingo, ele faz recital solo em Curitiba.&lt;/p&gt;
-&lt;p&gt;Na Estação Motiva Cultural, a &lt;strong&gt;Camerata Fukuda&lt;/strong&gt; se apresenta com o violinista Claudio Cruz e o violonista Eduardo Isaac em programa com obras de Bach e Piazzolla.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sexta-feira, dia 23&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Em Salvador, nos dias 23 e 24, &lt;strong&gt;Luiz de Godoy &lt;/strong&gt;rege a Orquestra Neojiba em concertos com obras de Mozart e na &lt;em&gt;Sinfonia nº 5 &lt;/em&gt;de Shostakovich.&lt;/p&gt;
-&lt;p&gt;No Theatro Municipal de São Paulo, &lt;strong&gt;Fabio Mechetti&lt;/strong&gt; faz sua estreia como diretor musical à frente da Orquestra Sinfônica Municipal, regendo o &lt;em&gt;Réquiem&lt;/em&gt;, de Verdi.&lt;/p&gt;
-&lt;p&gt;A Orquestra Sinfônica de Porto Alegre recebe &lt;strong&gt;Angela Jones-Reus&lt;/strong&gt; como solista no &lt;em&gt;Poema para flauta e orquestra&lt;/em&gt; de Charles Tomlinson Griffes. Na Casa da Ospa.&lt;/p&gt;
-&lt;p&gt;Na Cidade das Artes, no Rio, Cyro Delvizio estreia a ópera-monólogo &lt;strong&gt;&lt;em&gt;Santos Dumont: 120 anos do voo&lt;/em&gt;.&lt;/strong&gt; O aviador é interpretado pelo tenor João Campelo.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, dia 24&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A Série &lt;strong&gt;Aprendiz de Maestro&lt;/strong&gt;, da Tucca, apresenta na Sala São Paulo, nos dias 24 e 25, o espetáculo &lt;em&gt;Aprendiz de Feiticeiro&lt;/em&gt;, com a participação da companhia Pia Fraus.&lt;/p&gt;
-&lt;p&gt;O maestro alemão Knut Andreas rege a &lt;strong&gt;Orquestra Sinfônica da USP &lt;/strong&gt;em concerto com obras de Fauré, Prokofiev e Stravinsky. O flautista Renato Kimachi é o solista.&lt;/p&gt;
-&lt;p&gt;Em Belo Horizonte, José Soares rege a &lt;strong&gt;Filarmônica de Minas Gerais&lt;/strong&gt; em obras de Villa-Lobos, Ronaldo Miranda, Villani-Côrtes, Camargo Guarnieri e Mignone.&lt;/p&gt;
-&lt;p&gt;Evandro Matté rege a &lt;strong&gt;Orquestra Sinfônica Municipal de Campinas&lt;/strong&gt; nos dias 24 e 25. Eric Auber é o solista no &lt;em&gt;Concerto para trompete &lt;/em&gt;de Wynton Marsalis.&lt;/p&gt;
-&lt;p&gt;No Teatro B32, em São Paulo, a &lt;strong&gt;Orquestra ECO&lt;/strong&gt; interpreta o programa &lt;em&gt;O auge do brilho, da elegância e da celebração vienense&lt;/em&gt;, com regência de Ira Levin.&lt;/p&gt;
-&lt;p&gt;O 5º Festival Chopin apresenta recital do pianista &lt;strong&gt;Zitong Wang&lt;/strong&gt;, que vai interpretar, além de obras do compositor, peças de Bach e Brahms.&lt;br /&gt;
-Domingo, dia 25&lt;/p&gt;
-&lt;p&gt;O espetáculo &lt;em&gt;&lt;strong&gt;Babar, um elefante singular&lt;/strong&gt;&lt;/em&gt;, com música de Poulenc, é a atração da série Primeiros Acordes, da Estação Motiva Cultural. A direção é de Márcio Araújo.&lt;/p&gt;
-&lt;p&gt;A Orquestra &lt;strong&gt;Sinfônica da Unicamp&lt;/strong&gt; faz concerto na série Matinais da Sala São Paulo, com regência de Cinthia Alireti e programa dedicado à música brasileira.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-musical-da-semana-1" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação musical da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/projeto-ecomusica-do-pianista-fabio-caramuru-ganha-exposicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Projeto EcoMúsica, do pianista Fabio Caramuru, ganha exposição &lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/nino-rota-e-tema-de-documentario-em-cartaz-na-mostra-de-cinema-de-sao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Nino Rota é tema de documentário em cartaz na Mostra de Cinema de São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/elodie-bouny-concorre-ao-grammy-latino-de-melhor-composicao-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Elodie Bouny concorre ao Grammy Latino de melhor composição clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/daniil-trifonov-lanca-disco-com-musica-latino-americana-com-participacao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Daniil Trifonov lança disco com música latino-americana com participação da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Acervo CONCERTO &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-o-requiem-de-verdi" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;O 'Réquiem', de Verdi&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Lauro Machado Coelho&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O maestro Fabio Mechetti [Divulgação]" data-entity-type="file" data-entity-uuid="e1817510-a204-4fd4-a360-4cd227362760" src="http://concerto.com.br/sites/default/files/inline-images/w-_site_mechetti_1920x600-e1743691574829%20%281%29.jpg" /&gt;
-&lt;figcaption&gt;O maestro Fabio Mechetti [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 12:28&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-_site_mechetti_1920x600-e1743691574829%20%281%29.jpg" width="900" height="419" alt="O maestro Fabio Mechetti [Divulgação]" title="O maestro Fabio Mechetti [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=iZzW6bNTzw4sGSsJcU5qQKlCE1vedOPcZItIfveFGig?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;1&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 19 Oct 2026 12:28:48 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283653 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Jovem Theatro São Pedro </title>
-  <link>http://concerto.com.br/roteiros/orquestra-jovem-theatro-sao-pedro-9</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Jovem Theatro São Pedro &lt;/span&gt;
+  <title>Quinteto Surtango</title>
+  <link>http://concerto.com.br/roteiros/quinteto-surtango-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Quinteto Surtango&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 19:08&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:46&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Keliezy Severo - regente. Evandro Matté - direção artística. Participação: Coral Ouviravida. Programa: Carlos Gardel/Alfredo Le Pera - Por una cabeza; Piazzolla - Libertango, Baden Powell/Vinicius de Moraes - Berimbau, Cartola - O mundo é um moinho; Toquinho - Aquarela; e canções populares de Tim Maia, Renato Russo e Flávio Venturini, Luis Carlinhos, e Ana Villela.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Formado por músicos da Argentina, Chile e Brasil apresenta clássicos e releituras contemporâneas do tango. Praça.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-22T20:00:00Z" class="datetime"&gt;qui, 22/10/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-19T18:00:00Z" class="datetime"&gt;qui, 19/11/2026 - 18:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -526,7 +107,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -547,73 +128,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/271719" hreflang="pt-br"&gt;Teatro Simões Lopes Neto – Multipalco Eva Sopher &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada na bilheteria do Multipalco Eva Sopher, uma hora antes do espetáculo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 16 Oct 2026 19:08:40 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283646 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-jovem-theatro-sao-pedro-9#comments</comments>
-    </item>
-<item>
-  <title>Eudóxia de Barros – piano</title>
-  <link>http://concerto.com.br/roteiros/eudoxia-de-barros-piano-160</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Eudóxia de Barros – piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 16:32&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Musical Évora. Programa: Clementi - Sonatinas nº 1 e nº 2 op. 36; Beethoven - 6 Variações baseadas no tema Nel cor più non mi sento da ópera La Molinara de Paisiello; Weber - Convite à valsa op. 65; Osvaldo Lacerda - Ponteio nº 10 (dedicado à própria Eudóxia de Barros); Fernando Cupertino - Valsa saudosa; Arnaldo Rebello - Chôro em oitavas; e Nilcéia Baroncelli - Valsas Convidativa; Zequinha de Abreu -  Amando sobre o mar; Nazareth - Tango Escovado; e Camargo Guarnieri - Dança brasileira.&lt;br /&gt;
-&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T12:30:00Z" class="datetime"&gt;qua, 21/10/2026 - 12:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/261060" hreflang="pt-br"&gt;Teatro Oficina Olga Reverbel - Complexo Cultural Theatro São Pedro &lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-24-de-maio" hreflang="pt-br"&gt;Sesc 24 de Maio (216 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -626,38 +141,508 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Fri, 16 Oct 2026 16:32:50 +0000</pubDate>
+  <pubDate>Mon, 19 Oct 2026 14:46:37 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283645 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/eudoxia-de-barros-piano-160#comments</comments>
+    <guid isPermaLink="false">283668 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Teatro João Caetano</title>
-  <link>http://concerto.com.br/node/283643</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro João Caetano&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Borges Lagoa, 650 - Vila Clementino - Tel. (11) 5573-3774 - https://www.instagram.com/teatrojoaocaetanosp/&lt;/div&gt;
-          &lt;/div&gt;
+  <title>André Mehmari - piano, Rafael Cesário - violoncelo e Ari Colares - percussão</title>
+  <link>http://concerto.com.br/roteiros/andre-mehmari-piano-rafael-cesario-violoncelo-e-ari-colares-percussao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;André Mehmari - piano, Rafael Cesário - violoncelo e Ari Colares - percussão&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 16/10/2026 - 15:12&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:44&lt;/span&gt;
 
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Programa: música autoral, improvisação e releituras da tradição brasileira. Teatro.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-05T20:00:00Z" class="datetime"&gt;qui, 05/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-24-de-maio" hreflang="pt-br"&gt;Sesc 24 de Maio (216 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 15 a R$ 50.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
 </description>
-  <pubDate>Fri, 16 Oct 2026 15:12:56 +0000</pubDate>
+  <pubDate>Mon, 19 Oct 2026 14:44:05 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283643 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/283643#comments</comments>
+    <guid isPermaLink="false">283666 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Filarmônica de Berlim oferece milagres de transparência e clareza de planos sonoros</title>
+  <link>http://concerto.com.br/textos/critica/filarmonica-de-berlim-oferece-milagres-de-transparencia-e-clareza-de-planos-sonoros</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Berlim oferece milagres de transparência e clareza de planos sonoros&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Noite de domingo na Sala São Paulo, com obras de Brahms e Strauss, foi para lá de especial. Concerto bom deixa lembrança; concerto excelente deixa legado&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Há experiências estéticas que agem sobre os órgãos de percepção e modificam a própria concepção de arte do espectador. Foi o caso da apresentação da Filarmônica de Berlim no último dia 18, em São Paulo, dentro da série Concertos Internacionais da Tucca (Associação para Crianças e Adolescentes com Câncer). Para além dos endinheirados que podiam pagar os estratosféricos preços dos ingressos, havia na Sala São Paulo também jovens músicos e estudantes, que (conversei com alguns) saíram dali transformados após presenciarem um fazer musical deste quilate, por profissionais de qualidade superlativa. &lt;/p&gt;
+&lt;p&gt;Muitos deles não eram nem nascidos da última vez que a Filarmônica tocou por aqui, em 2000, no Theatro Municipal, sob regência de Claudio Abbado (quem ouviu aquela &lt;em&gt;Nona&lt;/em&gt; de Mahler não esquecerá nunca mais). Claro que todos conheciam a orquestra pelas inúmeras gravações de referência. Mas ao vivo é diferente. E ainda mais impactante. &lt;/p&gt;
+&lt;p&gt;Desde o dramático tutti que abre o primeiro concerto para piano e orquestra de Brahms, a sensação era de ouvir sons como jamais ecoaram no palco da Sala São Paulo. Espécie de expansão titânica dos concertos de Beethoven, seguindo e dobrando a aposta do páthos do nº 3 e da grandiosidade do &lt;em&gt;Imperador&lt;/em&gt;, o &lt;em&gt;Concerto nº 1&lt;/em&gt; de Brahms requer um pianismo majestoso e bravio para dialogar com a imponente sonoridade do corpo orquestral. Foi bonito ver o islandês Vikingur Olafsson, que cativara a Sala São Paulo há dois anos, com as &lt;em&gt;Variações Goldberg&lt;/em&gt;, de Bach, demonstrar musculatura e rigor intelectual numa obra tão distinta do repertório bachiano no qual se celebrizou. A sinergia entre solista e orquestra ficou ainda mais clara no bis, quando tanto Vikingur quanto os filarmônicos modificaram completamente sua sonoridade para uma execução contida e intimista do lírico &lt;em&gt;Largo&lt;/em&gt; do &lt;em&gt;Concerto BWV 1056&lt;/em&gt;, de Bach, em que o piano emula um clavicórdio para ser acompanhado apenas pelas primeiras estantes das cordas em pizzicato.&lt;/p&gt;
+&lt;p&gt;O melhor, contudo, viria depois do intervalo. Sob a direção segura de Kirill Petrenko, um maestro que não precisa exagerar nas coreografias no pódio para obter resultados exuberantes, a Filarmônica inebriou os sentidos do público com o poema sinfônico &lt;em&gt;Assim Falou Zaratustra&lt;/em&gt;, de Richard Strauss, baseado na obra homônima do filósofo alemão Friedrich Nietzsche.&lt;/p&gt;
+&lt;p&gt;Escrita entre 1883 e 1885, o livro que traz conceitos célebres como “eterno retorno” e “super-homem” parecia andar nas cabeceiras dos principais compositores austro-germânicos na década seguinte: Mahler musicou um trecho na sua&lt;em&gt; Sinfonia nº 3&lt;/em&gt;, de 1896, e Strauss transformou-o numa ambiciosa partitura orquestral no mesmo ano.&lt;/p&gt;
+&lt;p&gt;Diferentemente de outros poemas sinfônicos desse compositor, como &lt;em&gt;Don Quixote&lt;/em&gt; e &lt;em&gt;Till Eulenspiegel&lt;/em&gt;, que narram quase graficamente as aventuras dos personagens literários retratados,&lt;em&gt; Zaratustra&lt;/em&gt; não tem uma trama. Strauss divide a peça em nove seções de caráter sobretudo abstrato, e que Berlim transforma numa verdadeira dramaturgia de ideias.&lt;/p&gt;
+&lt;p&gt;Cada naipe da orquestra possui uma individualidade muito marcante. Devo confessar ser especialmente apaixonado pelas madeiras, que talvez possua os melhores nomes do mundo em seus instrumentos. Mas como não se render ao veludo das cordas e ao caráter dos metais? Se os fortíssimos (grandiloquentes, porém não estridentes) eram de um volume sonoro que dava a impressão de se projetar muito além das paredes da sala de concertos, os pianíssimos no limite do inaudível só não impressionavam mais do que a aparentemente inesgotável gama de dinâmicas que a orquestra conseguia manejar entre esses dois extremos.&lt;/p&gt;
+&lt;p&gt;Evitando tanto os riscos de uma junção desconexa de egos exibicionistas quanto o de robôs tocando de forma pasteurizada, Berlim colocou-nos diante de uma espécie de utopia democrática, na qual as vozes individuais fundem-se a serviço de um ideal coletivo. Para tomar emprestados conceitos caros a Nietzsche, a perfeição apolínea até podia se manifestar, mas a busca era sobretudo pela extasiante beleza dionisíaca. A orquestração de Strauss nessa obra é para lá de densa, o palco fica superpovoado, mas o que se ouve são milagres de transparência, de clareza de planos sonoros. Mesmo em meio à mais espessa massa sonora, fazem-se perceber, com culminâncias de refinamento e bom gosto a cada fraseado, cada um dos pequenos temas que constituem a intricada tapeçaria straussiana. O elaborado jogo de contrastes sugera a entrada e saída de cena de personagens invisíveis, porém perfeitamente audíveis, em um drama sem palavras que envolve a plateia a cada instante.&lt;/p&gt;
+&lt;p&gt;Terminasse a noite assim e voltaríamos todos para casa como nefelibatas a pairarem nas esferas do sublime. Porém Petrenko e seus filarmônicos resolveram nos brindar com um bis de assinatura: a &lt;em&gt;Dança húngara nº 1&lt;/em&gt;. Puro júbilo, para aquecer os corações e imprimir nos rostos um sorriso que se recusa a se apagar. Mesmo para quem já ouviu a filarmônica ao vivo algumas vezes nas últimas três décadas, tanto na mítica Philharmonie quanto no Festival de Salzburgo, a noite do domingo foi para lá de especial. Concerto bom deixa lembrança. Concerto excelente deixa legado.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O maestro Kirill Petrenko [Divulgação]" data-entity-type="file" data-entity-uuid="7727958b-b690-4753-9633-ec9ba80153d1" src="http://concerto.com.br/sites/default/files/inline-images/kiril_petrenko.jpg" /&gt;
+&lt;figcaption&gt;O maestro Kirill Petrenko [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14829" typeof="schema:Person" property="schema:name" datatype="" content="irineup@hotmail.com" xml:lang=""&gt;Irineu Franco Perpetuo&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:41&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/kiril_petrenko.jpg" width="596" height="335" alt="O maestro Kirill Petrenko [Divulgação]" title="O maestro Kirill Petrenko [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+    
+&lt;article data-comment-user-id="5875" id="comment-929" class="comment js-comment"&gt;
+    &lt;mark class="hidden" data-comment-timestamp="1792431277"&gt;&lt;/mark&gt;
+
+  &lt;footer class="comment__meta"&gt;
+    &lt;article typeof="schema:Person" about="http://concerto.com.br/user/5875" class="profile"&gt;
+  &lt;/article&gt;
+
+    &lt;p class="comment__submitted"&gt;Enviado por &lt;span lang="" about="http://concerto.com.br/user/5875" typeof="schema:Person" property="schema:name" datatype="" content="njcamargo@gmail.com" xml:lang=""&gt;Nelson José de Camargo&lt;/span&gt; em seg, 19/10/2026 - 17:34&lt;/p&gt;
+
+        
+    &lt;a href="http://concerto.com.br/comment/929#comment-929" hreflang="pt-br"&gt;Link permanente&lt;/a&gt;
+  &lt;/footer&gt;
+
+  &lt;div class="content"&gt;
+          
+      &lt;h3&gt;&lt;a href="http://concerto.com.br/comment/929#comment-929" class="permalink" rel="bookmark" hreflang="pt-br"&gt;Pena que não tocou Villa…&lt;/a&gt;&lt;/h3&gt;
+      
+        
+            &lt;div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;Pena que não tocou Villa-Lobos no bis. Num dos concertos do Abbado teve, as Bachianas n. 5. Eu estava lá.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;drupal-render-placeholder callback="flag.link_builder:build" arguments="0=comment&amp;1=929&amp;2=denunciar" token="_yJeYBupWQNXDGg4B5FwOv7DBGtZ7BKRZoiY5X_jXPo"&gt;&lt;/drupal-render-placeholder&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderLinks" arguments="0=929&amp;1=default&amp;2=pt-br&amp;3=" token="v2kW4myDISbxlEIMb6u3FhpmW2XKA1Z9ypa3Jzr4E1I"&gt;&lt;/drupal-render-placeholder&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODM2NjciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxNCIsImRpc2xpa2VzIjoiMCJ9?token=1vXkbYvGcmgkmjQVw8k_r6-Bwad7wmekCD3GJdZp4ak?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;14&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:41:23 +0000</pubDate>
+    <dc:creator>Irineu Franco Perpetuo</dc:creator>
+    <guid isPermaLink="false">283667 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/critica/filarmonica-de-berlim-oferece-milagres-de-transparencia-e-clareza-de-planos-sonoros#comments</comments>
+    </item>
+<item>
+  <title>Calogero Giallanza - flauta e Massimo Salvatore - piano</title>
+  <link>http://concerto.com.br/roteiros/calogero-giallanza-flauta-e-massimo-salvatore-piano-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Calogero Giallanza - flauta e Massimo Salvatore - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:39&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Turnê internacional de música erudita Anima Mediterranea – Musiche, Sogni ed Emozioni. Pré-lançamento do Festival de Música Erudita Italiana. Programa: Ennio Morricone - Cinema paradiso, A missão e Era uma vez no oeste; Nino Rota - Romeu e Julieta; L. Mereu - Suite Greca; e Giallanza - Il Canto del Vento. Teatro.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-26T19:00:00Z" class="datetime"&gt;seg, 26/10/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/282359" hreflang="pt-br"&gt;Istituto Italiano di Cultura &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:39:37 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283664 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Calogero Giallanza - flauta e Massimo Salvatore - piano</title>
+  <link>http://concerto.com.br/roteiros/calogero-giallanza-flauta-e-massimo-salvatore-piano-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Calogero Giallanza - flauta e Massimo Salvatore - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:37&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Turnê internacional de música erudita Anima Mediterranea – Musiche, Sogni ed Emozioni. Pré-lançamento do Festival de Música Erudita Italiana. Programa: Ennio Morricone - Cinema paradiso, A missão e Era uma vez no oeste; Nino Rota - Romeu e Julieta; L. Mereu - Suite Greca; e Giallanza - Il Canto del Vento. Teatro.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 26 às 19h no Istituto Italiano di Cultura do Rio de Janeiro.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-25T11:00:00Z" class="datetime"&gt;dom, 25/10/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-fiesp" hreflang="und"&gt;Centro Cultural Fiesp (456 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, mediante reserva pelo site www.sesisp.org.br.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:37:37 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283663 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Calogero Giallanza - flauta e Massimo Salvatore - piano</title>
+  <link>http://concerto.com.br/roteiros/calogero-giallanza-flauta-e-massimo-salvatore-piano-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Calogero Giallanza - flauta e Massimo Salvatore - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:36&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Turnê internacional de música erudita Anima Mediterranea – Musiche, Sogni ed Emozioni. Pré-lançamento do Festival de Música Erudita Italiana. Programa: Ennio Morricone - Cinema paradiso, A missão e Era uma vez no oeste; Nino Rota - Romeu e Julieta; L. Mereu - Suite Greca; e Giallanza - Il Canto del Vento.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 25 às 11h no Teatro do Centro Cultural Fiesp e dia 26 às 19h no Istituto Italiano di Cultura do Rio de Janeiro.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-24T11:00:00Z" class="datetime"&gt;sab, 24/10/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/mis-museu-da-imagem-e-do-som" hreflang="und"&gt;MIS - Museu da Imagem e do Som&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada direta na bilheteria do MIS uma hora antes da sessão.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:36:37 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283662 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Calogero Giallanza - flauta e Massimo Salvatore - piano</title>
+  <link>http://concerto.com.br/roteiros/calogero-giallanza-flauta-e-massimo-salvatore-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Calogero Giallanza - flauta e Massimo Salvatore - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:31&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Turnê internacional de música erudita Anima Mediterranea – Musiche, Sogni ed Emozioni. Pré-lançamento do Festival de Música Erudita Italiana. Programa: Ennio Morricone - Cinema paradiso, A missão e Era uma vez no oeste; Nino Rota - Romeu e Julieta; L. Mereu - Suite Greca; e Giallanza - Il Canto del Vento.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 24 às 11h no MIS – Museu da Imagem e do Som, dia 25 às 11h no Teatro do Centro Cultural Fiesp e dia 26 às 19h no Istituto Italiano di Cultura do Rio de Janeiro.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-23T19:30:00Z" class="datetime"&gt;sex, 23/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-ciee" hreflang="und"&gt;Teatro CIEE&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;Entrada franca, mediante reserva pelo &lt;a href="http://www.sympla.com.br"&gt;www.sympla.com.br&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:31:22 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283661 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Coral Ecumênico da Bahia</title>
+  <link>http://concerto.com.br/roteiros/coral-ecumenico-da-bahia-2</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coral Ecumênico da Bahia&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 19/10/2026 - 14:27&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto da Primavera. Angelo Rafael Fonseca e Wesley Lima - regentes. Bruno Nunuesmaia - piano. Programa: músicas tradições religiosas, como hinduísta e cristã, o spiritual e o folclore brasileiro, ao mesmo tempo que reverencia compositores fundamentais da música popular brasileira. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-21T19:30:00Z" class="datetime"&gt;qua, 21/10/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1387" hreflang="pt-br"&gt;Salvador, BA&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/museu-de-arte-da-bahia" hreflang="und"&gt;Museu de Arte da Bahia (150 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 Oct 2026 14:27:29 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">283660 at http://concerto.com.br</guid>
     </item>
 
   </channel>

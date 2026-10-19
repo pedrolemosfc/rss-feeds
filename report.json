@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "native feed has 0 items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 43,
+    "items": 45,
     "ok": true,
-    "notes": "scraped 43 events",
+    "notes": "scraped 45 events",
     "kind": "venue-scrape"
   },
   {
@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 5,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 18,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 16,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 54,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 9,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -639,9 +639,9 @@
     "name": "tradexa-blog",
     "source_url": "https://www.tradexa.com.br/blog",
     "output": "feeds/tradexa-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 500: Internal Server Error",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 39,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
