@@ -12,7 +12,7 @@
 	<atom:link href="https://acontece.ens.edu.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acontece.ens.edu.br/</link>
 	<description>Espelho do RSS nativo do Acontece (ENS). Certificado SSL incompleto no origin; mirror via jsDelivr para o Reader.</description>
-	<lastBuildDate>Tue, 20 Oct 2026 11:48:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Oct 2026 17:17:35 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>4ª edição do Prêmio CSP Bahia celebra destaques do mercado</title>
+		<link>https://acontece.ens.edu.br/4a-edicao-do-premio-csp-bahia-celebra-destaques-do-mercado/</link>
+		
+		<dc:creator><![CDATA[acontece]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 14:30:54 +0000</pubDate>
+				<category><![CDATA[Acontece no Seguro]]></category>
+		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26109</guid>
+
+					<description><![CDATA[Solenidade também marcou o encerramento do ciclo de quatro anos da gestão do presidente Antonio Daniel Mota Em noite de gala no Teatro da Cidade, em Salvador (BA), o Clube de Seguros de Pessoas e Benefícios da Bahia promoveu o reconhecimento dos profissionais que se destacaram no mercado em 2026. Transmitida ao vivo pelo YouTube, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>PROAUTO encerra o ciclo do Cidades Protegidas no Triângulo Mineiro</title>
 		<link>https://acontece.ens.edu.br/proauto-encerra-o-ciclo-do-cidades-protegidas-no-triangulo-mineiro/</link>
 		
@@ -150,22 +164,6 @@
 		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26076</guid>
 
 					<description><![CDATA[No próximo dia 21 de outubro, a Escola de Negócios e Seguros (ENS) promoverá a sétima edição do Ciclo de Atualizações Regulatórias em Seguro e Resseguro, iniciativa voltada à análise dos impactos e desdobramentos da Lei do Contrato de Seguro (nº 15.040/2024) e da Lei Complementar nº 213/2025.&#160; No evento, serão discutidos os aspectos jurídicos [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trilha de aprendizagem capacita corretores em Saúde Suplementar </title>
-		<link>https://acontece.ens.edu.br/trilha-de-aprendizagem-capacita-corretores-em-saude-suplementar/</link>
-		
-		<dc:creator><![CDATA[João Vitor Silva]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 18:31:06 +0000</pubDate>
-				<category><![CDATA[Carreiras em Foco]]></category>
-		<category><![CDATA[Circuito de Lives]]></category>
-		<category><![CDATA[ENSCast]]></category>
-		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26074</guid>
-
-					<description><![CDATA[A complexidade regulatória da Saúde Suplementar no Brasil exige conhecimentos específicos e sempre atualizados de quem atua no segmento. A partir dessa percepção, a Escola de Negócios e Seguros (ENS) e o Instituto de Qualificação da Contratação na Saúde Suplementar (IQCS) desenvolveram uma trilha de aprendizagem inédita, voltada à especialização dos corretores que operam com [&#8230;]]]></description>
 		
 		
 		
