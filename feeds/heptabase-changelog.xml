@@ -6,7 +6,7 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:43:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:48:42 +0000</lastBuildDate>
 <item>
 <title>v1.112.7</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11127</link>
@@ -20,6 +20,20 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11126</guid>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <description>Support Gemini 4 Argon model.; Improve rendering performance and responsiveness when dragging, resizing, and selecting objects on large whiteboards.; Improve performance when previewing large AI edits in chat.; Improve AI agent reliability on slow connections.; Improve sync reconnection speed after a connection is interrupted.; MCP: Download original PDFs, images, audio, videos, and attachments.</description>
+</item>
+<item>
+<title>Mobile app v1.41.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve the menu UI.; Fix an issue where tapping outside the expanded Quick Capture menu did not close it on iOS.</description>
+</item>
+<item>
+<title>Mobile app v1.41.2.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v14121</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v14121</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<description>Fix an issue where opening Turn into or text color could shift content or leave the keyboard stuck on Android.; Fix an issue where the text cursor handle kept flickering while editing on Android.</description>
 </item>
 <item>
 <title>v1.112.5</title>
@@ -552,20 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1891</guid>
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <description>You can now open cards or whiteboards in the left pane while using the AI Tutor.; Fix an issue where the whiteboard filter was broken in the Card Library.</description>
-</item>
-<item>
-<title>v1.89.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1890</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1890</guid>
-<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-<description>Whiteboard: Export Whiteboard as Image</description>
-</item>
-<item>
-<title>Mobile app v1.34.1.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13411</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13411</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<description>Fix an issue where some users encountered an error that prevented them from accessing the whiteboard.; Fix an issue where users could not access cards containing highlighted text.</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,28 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:42:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:47:42 +0000</lastBuildDate>
+<item>
+<title>FEBRE90’S</title>
+<link>https://www.cinejoia.com.br/eventos/febre90s/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/febre90s/</guid>
+<pubDate>Tue, 20 Oct 2026 18:00:14 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Nation of Language e Mannequin Puss</title>
+<link>https://www.cinejoia.com.br/eventos/nation-of-language-e-mannequin-puss/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/nation-of-language-e-mannequin-puss/</guid>
+<pubDate>Tue, 20 Oct 2026 11:11:18 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Smerz e Model/Actriz</title>
+<link>https://www.cinejoia.com.br/eventos/smerz-e-model-actriz/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/smerz-e-model-actriz/</guid>
+<pubDate>Tue, 20 Oct 2026 11:09:53 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>SAINT LEVANT</title>
 <link>https://www.cinejoia.com.br/eventos/saint-levant/</link>
@@ -334,27 +355,6 @@
 <link>https://www.cinejoia.com.br/eventos/the-slackers/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/the-slackers/</guid>
 <pubDate>Mon, 15 Jun 2026 11:58:37 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>TR/ST</title>
-<link>https://www.cinejoia.com.br/eventos/tr-st/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tr-st/</guid>
-<pubDate>Mon, 15 Jun 2026 10:31:52 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>SPIM – BAD LUV – METADE DE MIM – BUDANG – Chococorn and the Sugarcanes</title>
-<link>https://www.cinejoia.com.br/eventos/spim-bad-luv-metade-de-mim-budang-chococorn-and-the-sugarcanes/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/spim-bad-luv-metade-de-mim-budang-chococorn-and-the-sugarcanes/</guid>
-<pubDate>Thu, 11 Jun 2026 16:08:41 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Budah</title>
-<link>https://www.cinejoia.com.br/eventos/budah/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/budah/</guid>
-<pubDate>Wed, 10 Jun 2026 20:00:32 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

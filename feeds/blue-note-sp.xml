@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:42:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:47:11 +0000</lastBuildDate>
 <item>
 <title>ABBA THE HISTORY</title>
 <link>https://bluenotesp.com/shows/abba-the-history/</link>
@@ -173,6 +173,13 @@
 <link>https://bluenotesp.com/shows/leo-jaime/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/leo-jaime/</guid>
 <pubDate>Wed, 16 Sep 2026 17:46:18 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>TRIBUTO SIMPLY RED &amp; CHRISTOPHER CROSS</title>
+<link>https://bluenotesp.com/shows/tributo-simply-red-christopher-cross/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-simply-red-christopher-cross/</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:16 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -348,13 +355,6 @@
 <link>https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/</guid>
 <pubDate>Wed, 10 Jun 2026 18:20:56 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>TRIBUTO A JOHN COLTRANE &amp; JOHNNY HARTMAN</title>
-<link>https://bluenotesp.com/shows/tributo-a-john-coltrane-johnny-hartman-musicman-jazz/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-johnny-hartman-musicman-jazz/</guid>
-<pubDate>Wed, 10 Jun 2026 18:17:36 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>
