@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 20 Oct 2026 21:43:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:41:46 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU3MCIsImRpc2xpa2VzIjoiMCJ9?token=lOz-t-YAT01-MZBW5RNsoo8Ob3Wfe35OQ_f3N-0Pssc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU3MSIsImRpc2xpa2VzIjoiMCJ9?token=LT-0tzmnw_nLn5EL3MRfLXaTrDcbulIT23J8ZLkEYHo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;570&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;571&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -144,7 +144,6 @@
   <pubDate>Tue, 20 Oct 2026 21:10:39 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283949 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-200#comments</comments>
     </item>
 <item>
   <title>Segunda Igreja Batista de Goiânia </title>
@@ -172,7 +171,6 @@
   <pubDate>Tue, 20 Oct 2026 21:09:10 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283947 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/283947#comments</comments>
     </item>
 <item>
   <title>Orquestra Filarmônica de Goiás</title>
@@ -236,7 +234,6 @@
   <pubDate>Tue, 20 Oct 2026 21:08:05 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283948 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-199#comments</comments>
     </item>
 <item>
   <title>Espetáculo Homenagem a Radamés Gnattali: Na pele do Brasil</title>
@@ -301,7 +298,6 @@
   <pubDate>Tue, 20 Oct 2026 21:06:05 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283946 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/espetaculo-homenagem-radames-gnattali-na-pele-do-brasil-0#comments</comments>
     </item>
 <item>
   <title>Espetáculo Homenagem a Radamés Gnattali: Na pele do Brasil</title>
@@ -370,7 +366,6 @@
   <pubDate>Tue, 20 Oct 2026 21:00:17 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">283945 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/espetaculo-homenagem-radames-gnattali-na-pele-do-brasil#comments</comments>
     </item>
 <item>
   <title>Grupo de Sopros e Percussão da Orquestra Criança Cidadã </title>
