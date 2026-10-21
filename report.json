@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 6,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 10,
+    "items": 4,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 4 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 14,
-    "ok": true,
-    "notes": "scraped 14 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {

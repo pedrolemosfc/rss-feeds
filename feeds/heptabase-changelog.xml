@@ -6,7 +6,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 07:48:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 13:57:01 +0000</lastBuildDate>
+<item>
+<title>Mobile app v1.41.3</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve the menu UI.; Fix an issue where tapping outside the expanded Quick Capture menu did not close it on iOS.</description>
+</item>
 <item>
 <title>v1.112.7</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11127</link>
@@ -20,13 +27,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11126</guid>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <description>Support Gemini 4 Argon model.; Improve rendering performance and responsiveness when dragging, resizing, and selecting objects on large whiteboards.; Improve performance when previewing large AI edits in chat.; Improve AI agent reliability on slow connections.; Improve sync reconnection speed after a connection is interrupted.; MCP: Download original PDFs, images, audio, videos, and attachments.</description>
-</item>
-<item>
-<title>Mobile app v1.41.3</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<description>Improve the menu UI.; Fix an issue where tapping outside the expanded Quick Capture menu did not close it on iOS.</description>
 </item>
 <item>
 <title>Mobile app v1.41.2.1</title>
