@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 21 Oct 2026 13:57:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 18:47:36 +0000</lastBuildDate>
+<item>
+<title>Estudo sobre Regulação e Governança da Navegação Interior Brasileira</title>
+<link>https://www.cnt.org.br/pesquisas?documento=7101d393-3d11-43c1-8291-6a21f44c0e77</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=7101d393-3d11-43c1-8291-6a21f44c0e77</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — Desenvolvido pela Pezco Economics, por iniciativa da CNT, o estudo analisa o ambiente regulatório e a governança da navegação interior no Brasil e apresenta contribuições para o aprimoramento institucional do setor, visando ao fortalecimento da atividade e ao desenvolvimento de um sistema de transporte mais eficiente, integrado e sustentável.</description>
+</item>
 <item>
 <title>Pesquisa CNT de Opinião – 172ª rodada</title>
 <link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-172-rodada/</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=89d50441-6257-4c39-bc6d-9f85b4d2500f</guid>
 <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
 <description>Revista — A edição de março da Revista CNT Transporte Atual destaca os principais temas que impactam o setor transportador e apresenta a Agenda Institucional Transporte e Logística 2026, documento que reúne as prioridades do Sistema Transporte para orientar políticas públicas e decisões estratégicas no país. A publicação também traz entrevista com o presidente do Grupo Sada, Vittorio Medioli, que revisita os 50 anos da empresa e analisa os desafios e oportunidades da logística no Brasil. A ed...</description>
-</item>
-<item>
-<title>Radar CNT do Transporte – PIB Brasil 2025</title>
-<link>https://www.cnt.org.br/pesquisas?documento=d019236e-84e1-49ae-9824-8c842beb44b8</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d019236e-84e1-49ae-9824-8c842beb44b8</guid>
-<pubDate>Tue, 10 Mar 2026 09:00:00 +0000</pubDate>
-<description>Análise do Transporte — O Radar CNT do Transporte – PIB Brasil 2025 analisa o desempenho do PIB brasileiro em 2025, além da evolução da economia nacional e o comportamento de setores estratégicos, com destaque para transporte, armazenagem e correio.</description>
 </item>
 </channel>
 </rss>

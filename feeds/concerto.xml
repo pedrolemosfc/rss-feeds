@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 21 Oct 2026 13:54:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 18:44:58 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU3NSIsImRpc2xpa2VzIjoiMCJ9?token=tnqoehNPKMYjdtnoIkUzlDkXv1glWSJK9SErrM7Qgws?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjU3NyIsImRpc2xpa2VzIjoiMCJ9?token=zPmsgfjar2rRP_AkxQiaY6aEERENf7yHdxISXyqmc5g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;575&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;577&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,20 +82,20 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra de Câmara da Ulbra</title>
-  <link>http://concerto.com.br/roteiros/orquestra-de-camara-da-ulbra-7</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Câmara da Ulbra&lt;/span&gt;
+  <title>Ensemble Bach Brasil </title>
+  <link>http://concerto.com.br/roteiros/ensemble-bach-brasil-5</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ensemble Bach Brasil &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:46&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:58&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Domingo Clássico Petrobras. Tiago Flores – regente. Participação: Vocal TAKT. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Bach Brasil. Fernando Cordella - direção. Giovani dos Santos, Letizia Roa - e Marcus Held - violinos, Dhouglas Umabel, Márcio Cecconello, Vinícius Nogueira e Carlos Sell, João Senna - violas, Diego S. Biasibetti - violoncelo, Ezequiel de Paula - violone e Dolores Costoyas - teorba. Programa: Vivaldi - As quatro estações.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-15T11:30:00Z" class="datetime"&gt;dom, 15/11/2026 - 11:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-10-29T20:00:00Z" class="datetime"&gt;qui, 29/10/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -127,7 +127,72 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/associacao-leopoldina-juvenil" hreflang="und"&gt;Associação Leopoldina Juvenil&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/252389" hreflang="pt-br"&gt;Igreja Universitária Cristo Mestre PUCRS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 40 a R$ 540. Vendas: bileto.sympla.com.br/event/127963.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 21 Oct 2026 17:58:10 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284040 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/ensemble-bach-brasil-5#comments</comments>
+    </item>
+<item>
+  <title>14º Festival de Música Erudita do Espírito Santo </title>
+  <link>http://concerto.com.br/roteiros/14o-festival-de-musica-erudita-do-espirito-santo-14</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;14º Festival de Música Erudita do Espírito Santo &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:05&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Tarcísio Santório - direção geral. Livia Sabag - direção artística. Natércia Lopes - direção executiva. Gabriel Rhein-Schirato - consultoria musical. Cleiton Xavier - curadoria e assistente de direção artística. Série Concertos itinerantes. Concerto cênico Travessia. Débora Neves – soprano, Leo de Paula – percussão e Victor Polo – violão. Programa: Dorival Caymmi – Pescaria; Baden Powell/Vinícius de Moraes – Bocoché; Guerra-Peixe – Mãe d’água; Villa-Lobos – Veleiros; Eunice Katunda – Chorinho; Caetano Veloso – Os argonautas; e João Bosco/Aldir Blanc – O mestre sala dos mares. Com transmissão digital pelo YouTube do festival: https://www.youtube.com/@FestivaldeMusica/. Continuidade do festival até dia 28. Informações: https://festivaldemusicaerudita.com.br/.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-26T10:00:00Z" class="datetime"&gt;qui, 26/11/2026 - 10:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2518" hreflang="pt-br"&gt;Cariacica, ES&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284035" hreflang="pt-br"&gt;EMEF Vienna Rosetti Guterres &lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -140,26 +205,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:46:53 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:05:52 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283968 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-de-camara-da-ulbra-7#comments</comments>
+    <guid isPermaLink="false">284038 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica de Piracicaba</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-de-piracicaba-154</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Piracicaba&lt;/span&gt;
+  <title>14º Festival de Música Erudita do Espírito Santo </title>
+  <link>http://concerto.com.br/roteiros/14o-festival-de-musica-erudita-do-espirito-santo-13</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;14º Festival de Música Erudita do Espírito Santo &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:45&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:04&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Parcival Módolo – regente. Rodrigo Herculano – oboé. Programa: Glinka – Ruslan e Ludmila: Abertura; Borodin – Príncipe Igor: Danças polovetsianas; Ludwig August Lebrun – Concerto para oboé e orquestra nº 1; e Flávio Régis Cunha – Danças brasileiras para orquestra.  &lt;/div&gt;
+              &lt;div class="field__item"&gt;Tarcísio Santório - direção geral. Livia Sabag - direção artística. Natércia Lopes - direção executiva. Gabriel Rhein-Schirato - consultoria musical. Cleiton Xavier - curadoria e assistente de direção artística. Série Concertos itinerantes. Concerto cênico Travessia. Débora Neves – soprano, Leo de Paula – percussão e Victor Polo – violão. Programa: Dorival Caymmi – Pescaria; Baden Powell/Vinícius de Moraes – Bocoché; Guerra-Peixe – Mãe d’água; Villa-Lobos – Veleiros; Eunice Katunda – Chorinho; Caetano Veloso – Os argonautas; e João Bosco/Aldir Blanc – O mestre sala dos mares. Com transmissão digital pelo YouTube do festival: https://www.youtube.com/@FestivaldeMusica/. Continuidade do festival até dia 28. Informações: https://festivaldemusicaerudita.com.br/.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-28T19:30:00Z" class="datetime"&gt;sab, 28/11/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T14:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 14:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -170,7 +235,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1417" hreflang="pt-br"&gt;Piracicaba, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2361" hreflang="pt-br"&gt;Aracruz, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -191,12 +256,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-municipal-dr-losso-neto" hreflang="und"&gt;Teatro Municipal Dr. Losso Neto (700 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284034" hreflang="pt-br"&gt;Escola Municipal de Ensino Fundamental Indígena Caieira Velha&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 30.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -204,31 +269,26 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:45:47 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:04:56 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283967 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-sinfonica-de-piracicaba-154#comments</comments>
+    <guid isPermaLink="false">284037 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica de Piracicaba</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-de-piracicaba-153</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Piracicaba&lt;/span&gt;
+  <title>14º Festival de Música Erudita do Espírito Santo </title>
+  <link>http://concerto.com.br/roteiros/14o-festival-de-musica-erudita-do-espirito-santo-12</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;14º Festival de Música Erudita do Espírito Santo &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:44&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:03&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Parcival Módolo – regente. Rodrigo Herculano – oboé. Programa: Glinka – Ruslan e Ludmila: Abertura; Borodin – Príncipe Igor: Danças polovetsianas; Ludwig August Lebrun – Concerto para oboé e orquestra nº 1; e Flávio Régis Cunha – Danças brasileiras para orquestra. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 28 às 19h30. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Tarcísio Santório - direção geral. Livia Sabag - direção artística. Natércia Lopes - direção executiva. Gabriel Rhein-Schirato - consultoria musical. Cleiton Xavier - curadoria e assistente de direção artística. Série Concertos itinerantes. Concerto cênico Travessia. Débora Neves – soprano, Leo de Paula – percussão e Victor Polo – violão. Programa: Dorival Caymmi – Pescaria; Baden Powell/Vinícius de Moraes – Bocoché; Guerra-Peixe – Mãe d’água; Villa-Lobos – Veleiros; Eunice Katunda – Chorinho; Caetano Veloso – Os argonautas; e João Bosco/Aldir Blanc – O mestre sala dos mares. Com transmissão digital pelo YouTube do festival: https://www.youtube.com/@FestivaldeMusica/. Continuidade do festival até dia 28. Informações: https://festivaldemusicaerudita.com.br/.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-27T19:30:00Z" class="datetime"&gt;sex, 27/11/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-24T13:30:00Z" class="datetime"&gt;ter, 24/11/2026 - 13:30&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -239,7 +299,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1417" hreflang="pt-br"&gt;Piracicaba, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2362" hreflang="pt-br"&gt;Colatina, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -260,12 +320,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-municipal-dr-losso-neto" hreflang="und"&gt;Teatro Municipal Dr. Losso Neto (700 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284033" hreflang="pt-br"&gt;CEEFMTI Conde Linhares &lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 30.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -273,310 +333,117 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:44:57 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:03:51 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283966 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-sinfonica-de-piracicaba-153#comments</comments>
+    <guid isPermaLink="false">284036 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Trio Pablo de León – violino, Horacio Schaefer – viola, Roberto Ring – violoncelo e Maria Fernanda Krug – violino</title>
-  <link>http://concerto.com.br/roteiros/trio-pablo-de-leon-violino-horacio-schaefer-viola-roberto-ring-violoncelo-e-maria-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Trio Pablo de León – violino, Horacio Schaefer – viola, Roberto Ring – violoncelo e Maria Fernanda Krug – violino&lt;/span&gt;
+  <title>EMEF Vienna Rosetti Guterres </title>
+  <link>http://concerto.com.br/node/284035</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;EMEF Vienna Rosetti Guterres &lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Mario Araújo,176 - Santana - Tel. (27) 3354-8204 - https://www.instagram.com/emefviennarguterres/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:42&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:02&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concertos EPTV. 25 anos do Trio León–Schaefer–Ring. Programa: Mozart – Requiem K 626, versão para quarteto de cordas de Peter Lichtenthal; e Beethoven – Quartetos nº 1 op. 18 e nº 16 op. 135. Stravinsky Produções Artísticas – produção. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T17:00:00Z" class="datetime"&gt;dom, 22/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1417" hreflang="pt-br"&gt;Piracicaba, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;Cariacica, ES&lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-engenho" hreflang="und"&gt;Teatro do Engenho&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:42:47 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:02:46 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283965 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/trio-pablo-de-leon-violino-horacio-schaefer-viola-roberto-ring-violoncelo-e-maria-0#comments</comments>
+    <guid isPermaLink="false">284035 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Amazonas Filarmônica, Coral do Amazonas e Balé Folclórico do Amazonas</title>
-  <link>http://concerto.com.br/roteiros/amazonas-filarmonica-coral-do-amazonas-e-bale-folclorico-do-amazonas</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Amazonas Filarmônica, Coral do Amazonas e Balé Folclórico do Amazonas&lt;/span&gt;
+  <title>Escola Municipal de Ensino Fundamental Indígena Caieira Velha</title>
+  <link>http://concerto.com.br/node/284034</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola Municipal de Ensino Fundamental Indígena Caieira Velha&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Projetada, Aldeia Caeiras Velha - Tel. (27) 99747-2997 - https://patrimonio.art.br/opocedoc/diretorio-escolas-indigenas/emef-indigena-caeira-velha/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:41&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:01&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Otávio Simões – regente. Programa: Mignone – Maracatu de Chico Rei: bailado. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T20:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1388" hreflang="pt-br"&gt;Manaus, AM&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;Aracruz, ES&lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-amazonas" hreflang="und"&gt;Teatro Amazonas (701 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:41:49 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:01:36 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283964 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/amazonas-filarmonica-coral-do-amazonas-e-bale-folclorico-do-amazonas#comments</comments>
+    <guid isPermaLink="false">284034 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Amazonas Filarmônica</title>
-  <link>http://concerto.com.br/roteiros/amazonas-filarmonica-92</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Amazonas Filarmônica&lt;/span&gt;
+  <title>CEEFMTI Conde Linhares </title>
+  <link>http://concerto.com.br/node/284033</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;CEEFMTI Conde Linhares &lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Adamastor Salvador, 64 – Centro - Tel. (27) 3177-7246 - https://www.instagram.com/ejacondedelinhares/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:40&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 17:00&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;15º Encontro de Tenores do Brasil. Luiz Fernando Malheiro – regente. Dario Di Vietri (Itália), Miguel Geraldi (Brasil), David Barrera (Espanha) e Miquéias William (Brasil) – tenores. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T20:00:00Z" class="datetime"&gt;sab, 14/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1388" hreflang="pt-br"&gt;Manaus, AM&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;Colatina, ES&lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-amazonas" hreflang="und"&gt;Teatro Amazonas (701 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:40:51 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 17:00:36 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283963 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/amazonas-filarmonica-92#comments</comments>
+    <guid isPermaLink="false">284033 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Amazonas Filarmônica</title>
-  <link>http://concerto.com.br/roteiros/amazonas-filarmonica-91</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Amazonas Filarmônica&lt;/span&gt;
+  <title>Escola Americana de Vitória</title>
+  <link>http://concerto.com.br/node/284031</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola Americana de Vitória&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Av. Mal. Mascarenhas de Moraes, 1910 - Jardim Bandeirantes - Tel.  (27) 3019-6690 - https://escolaamericana.com.br/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:40&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 16:57&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;15º Encontro de Tenores do Brasil. Luiz Fernando Malheiro – regente. Dario Di Vietri (Itália), Miguel Geraldi (Brasil), David Barrera (Espanha) e Miquéias William (Brasil) – tenores. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 14 às 20h. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-12T20:00:00Z" class="datetime"&gt;qui, 12/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1388" hreflang="pt-br"&gt;Manaus, AM&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;Vitória, ES&lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-amazonas" hreflang="und"&gt;Teatro Amazonas (701 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Wed, 21 Oct 2026 13:40:12 +0000</pubDate>
+  <pubDate>Wed, 21 Oct 2026 16:57:29 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283962 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/amazonas-filarmonica-91#comments</comments>
-    </item>
-<item>
-  <title>Espetáculo Sinfonia da floresta</title>
-  <link>http://concerto.com.br/roteiros/espetaculo-sinfonia-da-floresta</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Espetáculo Sinfonia da floresta&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 21/10/2026 - 13:39&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Orquestra de Câmara do Amazonas, Gaponga e Orquestra de Bioinstrumentos do Amazonas. Celdo Braga – concepção e direção geral. Marcelo de Jesus – regente. Participação: Eduardo Gomes (Dudu). Neil Armstrong – arranjos. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-06T20:00:00Z" class="datetime"&gt;sex, 06/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1388" hreflang="pt-br"&gt;Manaus, AM&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-amazonas" hreflang="und"&gt;Teatro Amazonas (701 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 21 Oct 2026 13:39:35 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">283961 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/espetaculo-sinfonia-da-floresta#comments</comments>
+    <guid isPermaLink="false">284031 at http://concerto.com.br</guid>
     </item>
 
   </channel>

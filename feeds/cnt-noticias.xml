@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 21 Oct 2026 13:57:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 18:47:33 +0000</lastBuildDate>
 <item>
 <title>Coalizão Brasil pela Descarbonização avança na agenda para o setor transportador e prepara nova etapa</title>
 <link>https://www.cnt.org.br/imprensa/noticia/coalizao-brasil-pela-descarbonizacao-avanca-na-agenda-para-o-setor-transportador</link>
@@ -20,6 +20,12 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pec-fim-da-escala-6x1</guid>
 <pubDate>Thu, 15 Oct 2026 08:12:00 +0000</pubDate>
 <description>Política — Relator reconheceu possíveis prejuízos a setores da economia; CNT alerta para impactos na continuidade dos serviços de transporte.</description>
+</item>
+<item>
+<title>Inscrições para o Motorista Série A são prorrogadas até 23 de novembro</title>
+<link>https://www.cnt.org.br/imprensa/noticia/inscricoes-para-o-motorista-serie-prorrogadas</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/inscricoes-para-o-motorista-serie-prorrogadas</guid>
+<description>SEST SENAT — Iniciativa do SEST SENAT combina aprendizagem e competição para reconhecer condutores profissionais; quatro vencedores receberão automóveis 0 km</description>
 </item>
 <item>
 <title>Brasil utiliza menos da metade da extensão hidroviária prevista para o transporte de cargas, aponta estudo da CNT</title>
@@ -68,6 +74,12 @@
 <link>https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</guid>
 <description>Poder Legislativo — Medida acelera a tramitação da proposta, permite sua votação diretamente em Plenário e fortalece a qualificação profissional e os serviços sociais dos trabalhadores do transporte</description>
+</item>
+<item>
+<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
+<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
+<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
 </item>
 <item>
 <title>O trabalho está mudando. O Direito consegue acompanhá-lo?</title>
@@ -142,16 +154,16 @@
 <description>Política — Lula aparece com 43,1% das intenções de voto estimuladas no primeiro turno, seguido por Flávio Bolsonaro, com 38,0%. Já no segundo turno, Lula tem 47,3% e Flávio, 43,1%</description>
 </item>
 <item>
-<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
-<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
-<description>SEST SENAT — Solução criada por aprendizes do SEST SENAT foi reconhecida por seu potencial de contribuir para a segurança viária</description>
-</item>
-<item>
 <title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
 <description>Inclusão e diversidade — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
+</item>
+<item>
+<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
+<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
+<description>SEST SENAT — Solução criada por aprendizes do SEST SENAT foi reconhecida por seu potencial de contribuir para a segurança viária</description>
 </item>
 <item>
 <title>Feiras Emprega Transporte já registram 21,4 mil participantes; confira programação de outubro</title>
@@ -236,12 +248,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/proteo-10-anos-quinto-episdio-da-srie-mostra-o-combate--explorao-sexual-e-ao-trfico-de-pessoas</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/proteo-10-anos-quinto-episdio-da-srie-mostra-o-combate--explorao-sexual-e-ao-trfico-de-pessoas</guid>
 <description>SEST SENAT — Produção acompanha atuação da rede de proteção durante o Festival de Parintins e homenageia Irmã Henriqueta. Episódio estreia no Globoplay nesta quarta-feira (23)</description>
-</item>
-<item>
-<title>STF derruba regras que penalizavam empresas de transporte durante greves</title>
-<link>https://www.cnt.org.br/imprensa/noticia/stf-derruba-retencao-de-subsidios-concessoes-por-greve</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/stf-derruba-retencao-de-subsidios-concessoes-por-greve</guid>
-<description>Transporte urbano — Decisão na ADPF 1.284 considera inconstitucionais dispositivos de lei, em São Luís (MA), que permitia compensar gastos com aplicativos nos subsídios das concessionárias e extinguir contratos em caso de redução da frota durante paralisações</description>
 </item>
 </channel>
 </rss>
