@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 80,
+    "items": 81,
     "ok": true,
-    "notes": "scraped 80 items"
+    "notes": "scraped 81 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 172,
+    "items": 173,
     "ok": true,
-    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 14,
+    "items": 13,
     "ok": true,
-    "notes": "mirrored 14 native items",
+    "notes": "mirrored 13 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 45,
+    "items": 44,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 44 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 57,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 57 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -639,9 +639,9 @@
     "name": "tradexa-blog",
     "source_url": "https://www.tradexa.com.br/blog",
     "output": "feeds/tradexa-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 500: Internal Server Error",
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 44,
-    "ok": true,
-    "notes": "scraped 44 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
