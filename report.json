@@ -198,9 +198,9 @@
     "name": "kmm-blog",
     "source_url": "https://kmm.com.br/feed/",
     "output": "feeds/kmm-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 13,
+    "items": 14,
     "ok": true,
-    "notes": "mirrored 13 native items",
+    "notes": "mirrored 14 native items",
     "kind": "native-mirror"
   },
   {
@@ -288,9 +288,9 @@
     "name": "buonny-blog",
     "source_url": "https://buonny.com.br/feed/",
     "output": "feeds/buonny-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 53,
+    "items": 56,
     "ok": true,
-    "notes": "scraped 53 events",
+    "notes": "scraped 56 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -576,9 +576,9 @@
     "name": "tldb-livesets",
     "source_url": "https://tldb.co/",
     "output": "feeds/tldb-livesets.xml",
-    "items": 80,
-    "ok": true,
-    "notes": "scraped 80 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: URLError: <urlopen error timed out>",
     "kind": "venue-scrape"
   },
   {
