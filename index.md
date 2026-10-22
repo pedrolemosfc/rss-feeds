@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-22 12:05 UTC
+Generated: 2026-10-22 17:21 UTC
 
 ## Native feeds (not scraped)
 
@@ -36,10 +36,10 @@ Generated: 2026-10-22 12:05 UTC
   notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
-- **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **xai-news** [OK] items=88 → `out/xai-news.xml`  source: https://x.ai/news  
-  notes: scraped 88 items
+- **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
+  notes: scraped 20 items
+- **xai-news** [OK] items=89 → `out/xai-news.xml`  source: https://x.ai/news  
+  notes: scraped 89 items
 - **claude-blog** [FAIL] items=0 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: no article items found (empty or unparseable HTML)
 - **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
@@ -90,24 +90,24 @@ Generated: 2026-10-22 12:05 UTC
   notes: scraped 44 events
 - **vibra-sp** [OK] items=19 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 19 events
-- **theatro-municipal** [FAIL] items=0 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
+  notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **suhai-music-hall** [FAIL] items=0 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **suhai-music-hall** [OK] items=10 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: scraped 10 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=6 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 6 events
-- **bourbon-street** [OK] items=24 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 24 events
+- **bourbon-street** [OK] items=26 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 26 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **morumbis-live-nation** [OK] items=6 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
-  notes: scraped 6 events
+- **morumbis-live-nation** [OK] items=7 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
+  notes: scraped 7 events
 - **carioca-club** [OK] items=20 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
   notes: scraped 20 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
@@ -128,8 +128,8 @@ Generated: 2026-10-22 12:05 UTC
   notes: scraped 7 events
 - **cavern-club-sp** [OK] items=23 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 23 events
-- **manifesto-bar** [OK] items=17 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
-  notes: scraped 17 events
+- **manifesto-bar** [OK] items=18 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
+  notes: scraped 18 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **rockambole-meaple** [OK] items=18 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  

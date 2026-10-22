@@ -6,7 +6,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 12:04:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 17:20:54 +0000</lastBuildDate>
+<item>
+<title>v1.112.8</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11128</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11128</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<description>Improve AI chat reliability and show clearer messages when a request fails.; Improve how the AI agent reads journals and arranges cards on whiteboards.; Improve performance when dragging sections on large whiteboards.; Fix an issue where "Open in new tab" appeared in the chat menus on public pages.; MCP: Fix an issue where images from PDF cards could not be read.</description>
+</item>
 <item>
 <title>Mobile app v1.41.3</title>
 <link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1413</link>
@@ -559,13 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1892</guid>
 <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
 <description>Fix generated image not loaded in AI Tutor.; AI Tutor can now reference images from sources in lesson material.</description>
-</item>
-<item>
-<title>v1.89.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1891</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1891</guid>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<description>You can now open cards or whiteboards in the left pane while using the AI Tutor.; Fix an issue where the whiteboard filter was broken in the Card Library.</description>
 </item>
 </channel>
 </rss>
