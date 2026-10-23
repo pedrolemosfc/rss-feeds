@@ -12,7 +12,7 @@
 	<atom:link href="https://acontece.ens.edu.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acontece.ens.edu.br/</link>
 	<description>Espelho do RSS nativo do Acontece (ENS). Certificado SSL incompleto no origin; mirror via jsDelivr para o Reader.</description>
-	<lastBuildDate>Fri, 23 Oct 2026 13:33:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Oct 2026 18:27:14 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fenacor: quase seis décadas em defesa do Corretor</title>
+		<link>https://acontece.ens.edu.br/fenacor-quase-seis-decadas-em-defesa-do-corretor/</link>
+		
+		<dc:creator><![CDATA[acontece]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 17:15:03 +0000</pubDate>
+				<category><![CDATA[Acontece no Seguro]]></category>
+		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26166</guid>
+
+					<description><![CDATA[A Federação Nacional dos Corretores de Seguros (Fenacor) celebra, neste domingo, 25 de outubro, o 58º aniversário de fundação, consolidando uma trajetória marcada pela defesa permanente dos interesses dos Corretores de Seguros e pela contribuição efetiva ao fortalecimento do mercado brasileiro. A entidade representa atualmente cerca de 153 mil profissionais com registros ativos na Superintendência [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Como integrar seguros e consórcio para ampliar os negócios da corretora</title>
 		<link>https://acontece.ens.edu.br/como-integrar-seguros-e-consorcio-para-ampliar-os-negocios-da-corretora/</link>
 		
@@ -156,20 +170,6 @@
 		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26134</guid>
 
 					<description><![CDATA[Campanha Abrace Duas Vidas segue vigente até o final do mês, após edição anterior viabilizar mais de 1,1 mil exames e identificar cinco casos de câncer de mama O câncer de mama deve registrar cerca de 78,6 mil novos casos por ano no Brasil entre 2026 e 2028, segundo estimativas do Instituto Nacional de Câncer [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Artigo: Associação Brasileira de Profissionais de Seguros em Sinistros</title>
-		<link>https://acontece.ens.edu.br/artigo-associacao-brasileira-de-profissionais-de-seguros-em-sinistros/</link>
-		
-		<dc:creator><![CDATA[acontece]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 14:42:30 +0000</pubDate>
-				<category><![CDATA[Opinião]]></category>
-		<guid isPermaLink="false">https://acontece.ens.edu.br/?p=26131</guid>
-
-					<description><![CDATA[Por: Antonio Penteado Mendonça O contrato de seguro é sob vários aspectos um contrato atípico. Numa visão simplista, seu principal objetivo seria o pagamento da indenização. Todavia, num espectro mais amplo, é muito mais do que isso. O objetivo do contrato de seguro não é o pagamento da indenização, mas garantir que em caso da [&#8230;]]]></description>
 		
 		
 		
