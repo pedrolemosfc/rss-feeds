@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 23 Oct 2026 18:29:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:16:38 +0000</lastBuildDate>
+<item>
+<title>Boletim de Conjuntura Econômica - Outubro</title>
+<link>https://data.cnt.org.br/boletins/boletim-conjuntura-economica-out-2026/</link>
+<guid isPermaLink="true">https://data.cnt.org.br/boletins/boletim-conjuntura-economica-out-2026/</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+<description>Boletins — Diesel sobe 15,26% em 2026; lubrificantes e pedágios também registram alta, aponta CNT. Dados do Boletim de Conjuntura Econômica da Confederação mostram a evolução dos principais insumos do transporte, em um cenário de juros elevados e diferentes desempenhos entre os segmentos do setor.</description>
+</item>
 <item>
 <title>Especial CNT - Escala e jornada de trabalho</title>
 <link>https://www.cnt.org.br/pesquisas?documento=9b10e889-fc5f-4f7c-9c69-feb49604131d</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://data.cnt.org.br/transporte/rodoviario/transporte-em-foco-quanto-rodam-os-veiculos-pesados-no-brasil/</guid>
 <pubDate>Mon, 30 Mar 2026 09:00:00 +0000</pubDate>
 <description>Análise do Transporte — Este estudo apresenta a construção de curvas de intensidade de uso para caminhões e ônibus do transporte rodoviário brasileiro. A partir de dados das avaliações veiculares ambientais realizadas no âmbito do Programa Despoluir — maior iniciativa ambiental privada do setor de transporte brasileiro, liderado pela CNT e pelo SEST SENAT —, foi possível constatar padrões de utilização de diferentes categorias veiculares com base na quilometragem anual percorrida e na idade d...</description>
-</item>
-<item>
-<title>Agenda Institucional Transporte e Logística 2026</title>
-<link>https://www.cnt.org.br/pesquisas?documento=d739c620-5ad9-4e39-aec9-33419a297279</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d739c620-5ad9-4e39-aec9-33419a297279</guid>
-<pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-<description>Estudos e Publicações — A Agenda Institucional Transporte e Logística 2026 reúne as principais prioridades, propostas e posicionamentos do setor transportador para o aperfeiçoamento das políticas públicas que impactam a mobilidade, a infraestrutura e a logística no Brasil. O documento apresenta uma análise institucional e técnica das principais proposições em tramitação no Congresso Nacional, além de temas estratégicos em debate nos Poderes Executivo e Judiciário, orientando a atuação institu...</description>
 </item>
 </channel>
 </rss>

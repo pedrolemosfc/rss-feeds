@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-23 18:29 UTC
+Generated: 2026-10-23 23:16 UTC
 
 ## Native feeds (not scraped)
 
@@ -108,8 +108,8 @@ Generated: 2026-10-23 18:29 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **morumbis-live-nation** [OK] items=7 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
   notes: scraped 7 events
-- **carioca-club** [OK] items=19 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
-  notes: scraped 19 events
+- **carioca-club** [OK] items=20 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 20 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  

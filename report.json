@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
