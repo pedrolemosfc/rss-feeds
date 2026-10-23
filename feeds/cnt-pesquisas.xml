@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:42:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 13:36:06 +0000</lastBuildDate>
+<item>
+<title>Especial CNT - Escala e jornada de trabalho</title>
+<link>https://www.cnt.org.br/pesquisas?documento=9b10e889-fc5f-4f7c-9c69-feb49604131d</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=9b10e889-fc5f-4f7c-9c69-feb49604131d</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — O Especial CNT apresenta os principais efeitos da Emenda Constitucional nº 141/2026, que prevê a redução da jornada máxima para 40 horas semanais e a garantia de dois dias de descanso remunerado, sem redução salarial.</description>
+</item>
 <item>
 <title>Estudo sobre Regulação e Governança da Navegação Interior Brasileira</title>
 <link>https://www.cnt.org.br/pesquisas?documento=7101d393-3d11-43c1-8291-6a21f44c0e77</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=d739c620-5ad9-4e39-aec9-33419a297279</guid>
 <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
 <description>Estudos e Publicações — A Agenda Institucional Transporte e Logística 2026 reúne as principais prioridades, propostas e posicionamentos do setor transportador para o aperfeiçoamento das políticas públicas que impactam a mobilidade, a infraestrutura e a logística no Brasil. O documento apresenta uma análise institucional e técnica das principais proposições em tramitação no Congresso Nacional, além de temas estratégicos em debate nos Poderes Executivo e Judiciário, orientando a atuação institu...</description>
-</item>
-<item>
-<title>Março/2026 - Os grandes temas do transporte estão aqui</title>
-<link>https://www.cnt.org.br/pesquisas?documento=89d50441-6257-4c39-bc6d-9f85b4d2500f</link>
-<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=89d50441-6257-4c39-bc6d-9f85b4d2500f</guid>
-<pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
-<description>Revista — A edição de março da Revista CNT Transporte Atual destaca os principais temas que impactam o setor transportador e apresenta a Agenda Institucional Transporte e Logística 2026, documento que reúne as prioridades do Sistema Transporte para orientar políticas públicas e decisões estratégicas no país. A publicação também traz entrevista com o presidente do Grupo Sada, Vittorio Medioli, que revisita os 50 anos da empresa e analisa os desafios e oportunidades da logística no Brasil. A ed...</description>
 </item>
 </channel>
 </rss>
