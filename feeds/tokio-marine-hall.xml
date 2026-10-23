@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Fri, 23 Oct 2026 00:44:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Oct 2026 07:39:57 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -133,22 +133,6 @@ Natal</p>
 		
 			</item>
 		<item>
-		<title>Fábio Jr.</title>
-		<link>https://www.tokiomarinehall.com.br/fabio-jr-6/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Fri, 07 Aug 2026 15:13:01 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5753</guid>
-
-					<description><![CDATA[<p>Fábio Jr.</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/fabio-jr-6/">Fábio Jr.</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
 		<title>Fagner</title>
 		<link>https://www.tokiomarinehall.com.br/fagner-6/</link>
 		
@@ -180,6 +164,22 @@ Natal</p>
 		
 		
 			</item>
+		<item>
+		<title>Fernando e Sorocaba</title>
+		<link>https://www.tokiomarinehall.com.br/fernando-e-sorocaba/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 13:55:10 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5614</guid>
+
+					<description><![CDATA[<p>Fernando e Sorocaba</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/fernando-e-sorocaba/">Fernando e Sorocaba</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-10-22 21:44:20 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-10-23 04:39:57 by W3 Total Cache
 -->

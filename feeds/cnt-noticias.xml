@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 23 Oct 2026 00:46:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:42:10 +0000</lastBuildDate>
 <item>
 <title>Coalizão Brasil pela Descarbonização avança na agenda para o setor transportador e prepara nova etapa</title>
 <link>https://www.cnt.org.br/imprensa/noticia/coalizao-brasil-pela-descarbonizacao-avanca-na-agenda-para-o-setor-transportador</link>
@@ -28,16 +28,16 @@
 <description>Política — Levantamento será publicado neste sábado (24), na Agência de Notícias do Sistema Transporte</description>
 </item>
 <item>
-<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
-<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
-</item>
-<item>
 <title>Projeto desenvolvido por alunos do ITL aposta na prevenção de falhas em caminhões com uso da tecnologia</title>
 <link>https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</guid>
 <description>Tecnologia e inovação — Trabalho desenvolvido no curso executivo Gestão de Ativos, do ITL, integra telemetria, inteligência artificial e análise de dados para otimizar a manutenção de frotas</description>
+</item>
+<item>
+<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
+<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
 </item>
 <item>
 <title>Da garagem aos portos, experiências brasileiras levam soluções do transporte à COP31</title>
@@ -184,12 +184,6 @@
 <description>Política — Lula aparece com 43,1% das intenções de voto estimuladas no primeiro turno, seguido por Flávio Bolsonaro, com 38,0%. Já no segundo turno, Lula tem 47,3% e Flávio, 43,1%</description>
 </item>
 <item>
-<title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
-<description>Inclusão e diversidade — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
-</item>
-<item>
 <title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
 <link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
@@ -244,10 +238,10 @@
 <description>Transporte aquaviário — Iniciativa do SEST SENAT e do Ministério de Portos e Aeroportos ofereceu serviços de saúde, prevenção e orientação durante dois dias de atividades</description>
 </item>
 <item>
-<title>Setor ferroviário brasileiro faz imersão técnica em feira na Alemanha</title>
-<link>https://www.cnt.org.br/imprensa/noticia/setor-ferroviario-brasileiro-faz-imersao-tecnica-e-institucional-em-berlim</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/setor-ferroviario-brasileiro-faz-imersao-tecnica-e-institucional-em-berlim</guid>
-<description>Internacional — InnoTrans, encontros institucionais e visita técnica marcam programação brasileira na capital alemã</description>
+<title>CNT defende possibilidade de extinção de contrato de empregados aposentados por incapacidade permanente</title>
+<link>https://www.cnt.org.br/imprensa/noticia/cnt-defende-possibilidade-de-extincao-de-contrato-de-empregados-aposentados-por-incapacidade-permanente</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-defende-possibilidade-de-extincao-de-contrato-de-empregados-aposentados-por-incapacidade-permanente</guid>
+<description>Trabalhista e sindical — Em audiência no TST, Sistema Transporte sustentou que a dispensa de perícia médica em situações previstas em lei afasta o caráter provisório da suspensão do contrato de trabalho</description>
 </item>
 </channel>
 </rss>
