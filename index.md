@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-24 04:48 UTC
+Generated: 2026-10-24 11:16 UTC
 
 ## Native feeds (not scraped)
 
@@ -108,8 +108,8 @@ Generated: 2026-10-24 04:48 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **morumbis-live-nation** [OK] items=7 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
   notes: scraped 7 events
-- **carioca-club** [OK] items=20 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
-  notes: scraped 20 events
+- **carioca-club** [OK] items=19 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 19 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
@@ -132,8 +132,8 @@ Generated: 2026-10-24 04:48 UTC
   notes: scraped 18 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=17 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 17 events
+- **rockambole-meaple** [OK] items=16 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 16 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -174,16 +174,16 @@ Generated: 2026-10-24 04:48 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=13 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 13 events
+- **cly-blog** [OK] items=22 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 22 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=17 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
