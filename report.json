@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 25,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 25 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 34,
+    "items": 33,
     "ok": true,
-    "notes": "scraped 34 events",
+    "notes": "scraped 33 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 54,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -486,9 +486,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 44,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 44 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

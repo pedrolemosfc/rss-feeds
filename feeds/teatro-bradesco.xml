@@ -6,7 +6,7 @@
 <link>https://sites.opusentretenimento.com/api/tbsp/events</link>
 <description>Shows/espetáculos do Teatro Bradesco (API Opus)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 23 Oct 2026 23:14:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 04:46:19 +0000</lastBuildDate>
 <item>
 <title>Passion Trilogy - Carmina Burana, Carmen And Don Quixote</title>
 <link>https://uhuu.com/evento/sp/sao-paulo/passion-trilogy-carmina-burana-carmen-and-don-quixote-16773?cupom=site</link>
@@ -162,11 +162,25 @@
 <description>Teatro Bradesco · início 11/12/2026 · Show · Em Vendas</description>
 </item>
 <item>
+<title>Michel Alcoforado</title>
+<link>https://uhuu.com/evento/sp/sao-paulo/michel-alcoforado-16813</link>
+<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/michel-alcoforado-16813</guid>
+<pubDate>Thu, 10 Dec 2026 12:00:00 +0000</pubDate>
+<description>Teatro Bradesco · início 10/12/2026 · Espetáculo · Em Vendas</description>
+</item>
+<item>
 <title>Bruna Louise em: Uma Deusa, Uma Loba, Uma Feiticeira</title>
 <link>https://uhuu.com/evento/sp/sao-paulo/bruna-louise-em:-uma-deusa-uma-loba-uma-feiticeira-16441?cupom=site</link>
 <guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/bruna-louise-em:-uma-deusa-uma-loba-uma-feiticeira-16441?cupom=site</guid>
 <pubDate>Sat, 05 Dec 2026 12:00:00 +0000</pubDate>
 <description>Teatro Bradesco · início 05/12/2026 · Comédia · Em Vendas</description>
+</item>
+<item>
+<title>Fábio Rabin em “Séloko”</title>
+<link>https://uhuu.com/evento/sp/sao-paulo/fabio-rabin-em-"seloko"-15628</link>
+<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/fabio-rabin-em-"seloko"-15628</guid>
+<pubDate>Sat, 28 Nov 2026 12:00:00 +0000</pubDate>
+<description>Teatro Bradesco · início 28/11/2026 · Comédia · Em Vendas</description>
 </item>
 <item>
 <title>As Bodas de Fígaro de Mozart</title>
@@ -293,20 +307,6 @@
 <guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/magicamente-16701?cupom=site</guid>
 <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
 <description>Teatro Bradesco · início 24/10/2026 · Comédia · Em Vendas</description>
-</item>
-<item>
-<title>Michel Alcoforado</title>
-<link>https://uhuu.com/evento/sp/sao-paulo/michel-alcoforado-16813?cupom=site</link>
-<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/michel-alcoforado-16813?cupom=site</guid>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<description>Teatro Bradesco · início 23/10/2026 · até 10/12/2026 · Espetáculo · Em Vendas</description>
-</item>
-<item>
-<title>Fábio Rabin em “Séloko”</title>
-<link>https://uhuu.com/evento/sp/sao-paulo/fabio-rabin-em-"seloko"-15628</link>
-<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/fabio-rabin-em-"seloko"-15628</guid>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<description>Teatro Bradesco · início 23/10/2026 · Comédia · Em Vendas</description>
 </item>
 </channel>
 </rss>
