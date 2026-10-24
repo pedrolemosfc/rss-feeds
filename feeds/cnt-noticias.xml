@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 24 Oct 2026 11:16:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:05:35 +0000</lastBuildDate>
 <item>
 <title>Coalizão Brasil pela Descarbonização avança na agenda para o setor transportador e prepara nova etapa</title>
 <link>https://www.cnt.org.br/imprensa/noticia/coalizao-brasil-pela-descarbonizacao-avanca-na-agenda-para-o-setor-transportador</link>
@@ -22,6 +22,12 @@
 <description>Política — Relator reconheceu possíveis prejuízos a setores da economia; CNT alerta para impactos na continuidade dos serviços de transporte.</description>
 </item>
 <item>
+<title>Pesquisa CNT/MDA: Flávio Bolsonaro tem 50,7% dos votos válidos, e Lula, 49,3%</title>
+<link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-flavio-tem-507-dos-votos-validos</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-flavio-tem-507-dos-votos-validos</guid>
+<description>Política — Última rodada antes do segundo turno mostra diferença de 1,4 ponto percentual entre os candidatos; 92,7% dos eleitores afirmam que sua decisão de voto é definitiva</description>
+</item>
+<item>
 <title>Diesel sobe 15,26% em 2026; lubrificantes e pedágios também registram alta, aponta CNT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/diesel-sobe-em-2026-lubrificantes-e-pedagios-tambem-registram-alta-aponta-cnt</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/diesel-sobe-em-2026-lubrificantes-e-pedagios-tambem-registram-alta-aponta-cnt</guid>
@@ -32,12 +38,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/cnt-lanca-especial-sobre-as-novas-regras-de-escala-e-jornada-de-trabalho-no-transporte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-lanca-especial-sobre-as-novas-regras-de-escala-e-jornada-de-trabalho-no-transporte</guid>
 <description>Política — Material apoia as empresas na compreensão da aplicação da Emenda Constitucional nº 141/2026, dos prazos de adaptação e dos efeitos da mudança nos custos e nas operações do setor</description>
-</item>
-<item>
-<title>Aviso de pauta: CNT/MDA divulga última pesquisa antes do segundo turno presidencial</title>
-<link>https://www.cnt.org.br/imprensa/noticia/aviso-de-pauta-cnt_mda-divulga-ultima-pesquisa-antes-do-segundo-turno</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/aviso-de-pauta-cnt_mda-divulga-ultima-pesquisa-antes-do-segundo-turno</guid>
-<description>Política — Levantamento será publicado neste sábado (24), na Agência de Notícias do Sistema Transporte</description>
 </item>
 <item>
 <title>Projeto desenvolvido por alunos do ITL aposta na prevenção de falhas em caminhões com uso da tecnologia</title>
@@ -112,16 +112,16 @@
 <description>Futuro do Transporte — Instituição autorizou a oferta dos cursos de Técnico em Saúde Bucal e Técnico em Transporte. Inscrições desses e dos demais cursos começam em 19 de outubro</description>
 </item>
 <item>
-<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
-<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
-<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
-</item>
-<item>
 <title>Câmara aprova urgência para projeto que amplia recursos destinados ao SEST SENAT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</guid>
 <description>Poder Legislativo — Medida acelera a tramitação da proposta, permite sua votação diretamente em Plenário e fortalece a qualificação profissional e os serviços sociais dos trabalhadores do transporte</description>
+</item>
+<item>
+<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
+<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
+<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
 </item>
 <item>
 <title>O trabalho está mudando. O Direito consegue acompanhá-lo?</title>

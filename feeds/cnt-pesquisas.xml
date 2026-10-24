@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 24 Oct 2026 11:16:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:05:38 +0000</lastBuildDate>
+<item>
+<title>Pesquisa CNT de Opinião – 173ª rodada</title>
+<link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-173-rodada/</link>
+<guid isPermaLink="true">https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-173-rodada/</guid>
+<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — Na última Pesquisa CNT de Opinião antes do segundo turno presidencial, divulgada neste sábado (24), o candidato Flávio Bolsonaro aparece com 45,4% das intenções de voto, seguido por Luiz Inácio Lula da Silva com 43,5% na pesquisa espontânea. No levantamento estimulado, Flávio aparece com 46,3%, seguido por Lula, com 45,0%. Das intenções de votos válidos, Flávio tem 50,7% e Lula 49,3%. Realizada de 21 a 23 de outubro, em parceria com o Instituto MDA, foram feitas 2.032 ...</description>
+</item>
 <item>
 <title>Boletim de Conjuntura Econômica - Outubro</title>
 <link>https://data.cnt.org.br/boletins/boletim-conjuntura-economica-out-2026/</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-167a-rodada/</guid>
 <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
 <description>Estudos e Publicações — A nova edição da Pesquisa CNT de Opinião apresenta um cenário inicial para a eleição presidencial e dados sobre a avaliação do governo federal. Nos cenários estimulados de primeiro turno, Lula registra os maiores percentuais de intenção de voto. Flávio Bolsonaro, Ronaldo Caiado, Romeu Zema, Aldo Rebelo e Renan Santos foram os nomes da oposição testados. As simulações de segundo turno consideram combinações de disputa entre esses nomes e o atual presidente da República.</description>
-</item>
-<item>
-<title>Transporte em Foco: Quanto rodam os veículos pesados do Brasil?</title>
-<link>https://data.cnt.org.br/transporte/rodoviario/transporte-em-foco-quanto-rodam-os-veiculos-pesados-no-brasil/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/transporte/rodoviario/transporte-em-foco-quanto-rodam-os-veiculos-pesados-no-brasil/</guid>
-<pubDate>Mon, 30 Mar 2026 09:00:00 +0000</pubDate>
-<description>Análise do Transporte — Este estudo apresenta a construção de curvas de intensidade de uso para caminhões e ônibus do transporte rodoviário brasileiro. A partir de dados das avaliações veiculares ambientais realizadas no âmbito do Programa Despoluir — maior iniciativa ambiental privada do setor de transporte brasileiro, liderado pela CNT e pelo SEST SENAT —, foi possível constatar padrões de utilização de diferentes categorias veiculares com base na quilometragem anual percorrida e na idade d...</description>
 </item>
 </channel>
 </rss>
