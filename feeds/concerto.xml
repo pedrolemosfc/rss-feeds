@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 25 Oct 2026 16:31:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 20:57:45 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwMSIsImRpc2xpa2VzIjoiMCJ9?token=FebZBXMF-SLEHlGy3903PjnnI86-wHOfHd_AFaVWJ48?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwMSIsImRpc2xpa2VzIjoiMCJ9?token=blbEy2jAejyEuosJKHZAcc_ktwo66-_k6SHpPTCwesk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;601&lt;/span&gt;
@@ -82,13 +82,98 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
+  <title>Festival de Música do Espírito Santo anuncia programação de sua 14ª edição</title>
+  <link>http://concerto.com.br/noticias/reportagem/festival-de-musica-do-espirito-santo-anuncia-programacao-de-sua-14a-edicao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival de Música do Espírito Santo anuncia programação de sua 14ª edição&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Evento, que tem direção de Tarcísio Santório e Livia Sabag, promove estreia da ópera histórica &lt;em&gt;Helena&lt;/em&gt;, de João Gomes de Araújo; agenda também terá programação de música de câmara&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O Festival de Música Erudita do Espírito Santo realiza sua 14ª edição entre os dias 6 e 28 de novembro, com o tema “Brasil, saudades do futuro”. Sob direção geral de Tarcísio Santório e direção artística de Livia Sabag, o evento promove uma programação dedicada à música de concerto brasileira dos séculos XX e XXI, ocupando o Theatro Carlos Gomes, o Teatro Sesc Glória, a Casa da Música Sônia Cabral, além de espaços públicos, escolas e projetos sociais em diferentes cidades capixabas. Para Livia Sabag, a edição reafirma a vitalidade da produção musical brasileira: “... a diversidade e a riqueza das obras nos faz sentir a força de nossa cultura; uma pujança que nos convida a refletir sobre o Brasil que somos e, sobretudo, sobre o futuro que podemos construir”.&lt;/p&gt;
+&lt;p&gt;O principal destaque da edição é a estreia de &lt;em&gt;Helena&lt;/em&gt;, ópera de João Gomes de Araújo que será apresentada na abertura do festival, nos dias 6 e 8 de novembro, no Theatro Carlos Gomes. A obra, composta em 1906, teve apenas uma montagem anterior, em 1916, no Theatro Municipal de São Paulo. O acesso à partitura original foi possibilitado pelo projeto de recuperação do acervo do Conservatório Dramático e Musical de São Paulo, coordenado por Paulo Castagna, e pelo trabalho de pesquisa do maestro Gabriel Rhein-Schirato sobre a produção operística do compositor. A partir desse material, o Núcleo de Criação de Ópera do festival produziu uma edição digitalizada da obra e desenvolveu a encenação.&lt;/p&gt;
+&lt;p&gt;A montagem terá regência do próprio maestro Gabriel Rhein-Schirato e direção cênica de Menelick de Carvalho. O elenco reúne Rodrigo Esteves, Monique Galvão, Rafael Stein, Alessandro Santana, Carlos Alexandre Kelert e o Coro VOX Victoria. A preparação vocal é de Fabio Bezuti.&lt;/p&gt;
+&lt;p&gt;Nos fins de semana seguintes, entre 13 e 27 de novembro, o festival apresenta a série Concertos de Câmara, no Theatro Carlos Gomes, com curadoria da flautista e professora da USP Cássia Carrascoza. Participam músicos capixabas como Maíni Moreno, Lucas Carvalho e Willian Lizardo, além dos convidados soprano Raquel Paulin e pianistas Antonio Vaz Lemes e Erika Ribeiro.&lt;/p&gt;
+&lt;p&gt;A programação também contempla a série Concertos Itinerantes, que levará o espetáculo “Travessia” a escolas de diferentes cidades do Espírito Santo, com repertório formado por obras de Baden Powell e Vinícius de Moraes, Caetano Veloso, César Guerra-Peixe, Dorival Caymmi, Eunice Katunda, Villa-Lobos e João Bosco. O elenco é formado pela soprano Débora Neves, pelo violonista Victor Polo e pelo percussionista Léo de Paula.&lt;/p&gt;
+&lt;p&gt;Outra iniciativa da edição é o projeto-piloto Orquestras em Rede, que busca promover intercâmbio artístico-pedagógico entre conjuntos profissionais e orquestras de projetos sociais do estado. A ação culmina, em 22 de novembro, com uma apresentação conjunta no Parque Cultural Casa do Governador, reunindo a Orquestra Sinfônica do Estado do Espírito Santo, Orquestra de Sopros das Montanhas, Camerata Alef Bet, Orquestra Sinfônica Sul Espírito Santo, Orquestra de Câmara João XXIII, Orquestra Jônice Tristão e Orquestra Jovem Capixaba do Instituto Cultura Viva. A pianista Erika Ribeiro participa do concerto interpretando o Concerto nº 1 para piano e orquestra, de Camargo Guarnieri, ao lado da Oses, sob regência do maestro Helder Trefzger, coordenador musical do projeto.&lt;/p&gt;
+&lt;p&gt;O festival mantém ainda seus projetos de formação e especialização em ópera, o VOE (Vitória Ópera Estúdio) e o Opera-cional, além do Concurso de Canto Natércia Lopes. Também volta a circular a iniciativa Ópera nos Bairros, desta vez com o espetáculo infantojuvenil “Filhote de trem”, inspirado na obra de Memélia de Carvalho, com músicas de Villa-Lobos, Carlos Gomes e Chiquinha Gonzaga.&lt;/p&gt;
+&lt;p&gt;O encerramento do 14º Festival de Música Erudita do Espírito Santo acontece em 28 de novembro, no Teatro Sesc Glória, com concerto dedicado à ópera brasileira. As sopranos Cintia Cunha, Marília Carvalho e Ornella de Lucca, vencedoras do 5º Concurso de Canto Natércia Lopes, apresentam-se ao lado da Orquestra Sinfônica do Estado do Espírito Santo, sob regência de Helder Trefzger.&lt;/p&gt;
+&lt;p&gt;A realização do Festival é da Cia de Ópera do Espírito Santo (COES), do Governo do Estado do Espírito Santo, através da OSES – Orquestra Sinfônica do Espírito Santo –  e Secretaria de Estado da Cultura, do Ministério da Cultura, Governo Federal, através da Lei de Incentivo à Cultura, com patrocínio master da Shell, patrocínio da EDP, apoio institucional da Fecomercio/Sesc e Casa da Música Sônia Cabral.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-06" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para conferir a programação no Roteiro Musical do Site CONCERTO. As apresentações nos teatros terão transmissão ao vivo pelo YouTube.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Maestro Gabriel Rhein-Schirato dirigirá a ópera Helena (divulgação)" data-entity-type="file" data-entity-uuid="45bcb45a-50c3-4624-9f9a-af69ac93e714" src="http://concerto.com.br/sites/default/files/inline-images/w-Gabriel-Rhen-Schirato_Div.jpg" /&gt;
+&lt;figcaption&gt;Maestro Gabriel Rhein-Schirato dirigirá a ópera Helena (divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 25/10/2026 - 13:32&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Gabriel-Rhen-Schirato_Div.jpg" width="900" height="600" alt="Maestro Gabriel Rhein-Schirato dirigirá a ópera Helena (divulgação)" title="Maestro Gabriel Rhein-Schirato dirigirá a ópera Helena (divulgação)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2751" hreflang="pt-br"&gt;Festival de Música Erudita do Espírito Santo&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2736" hreflang="pt-br"&gt;Livia Sabag&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2287" hreflang="pt-br"&gt;Gabriel Rhein-Schirato&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=Hftruh4g85UAEn5v1LFPJLa3qcuxQKQ2DzfYFwr6Sfk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 25 Oct 2026 13:32:16 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284092 at http://concerto.com.br</guid>
+    </item>
+<item>
   <title>Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção artística do Theatro Municipal</title>
   <link>http://concerto.com.br/textos/critica/fabio-mechetti-estreia-com-requiem-de-verdi-na-direcao-artistica-do-theatro</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção artística do Theatro Municipal&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Novo diretor artístico da casa deu à obra uma interpretação musicalmente muito consistente&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O maestro Fabio Mechetti regeu ontem a Orquestra Sinfônica Municipal em sua primeira apresentação no Theatro Municipal de São Paulo desde que se tornou diretor artístico da casa. O programa da noite, que será reapresentado hoje, sábado, às 17h, foi a grande &lt;em&gt;Missa de Réquiem&lt;/em&gt; de Giuseppe Verdi. Participaram os dois corais do teatro, o Lírico e o Paulistano, e os solistas vocais foram a soprano Betty Garcés, a mezzo soprano Ana Lucia Benedetti, o tenor Matheus Pompeu e o baixo Luiz-Ottavio Faria.&lt;/p&gt;
-&lt;p&gt;O &lt;em&gt;Réquiem &lt;/em&gt;de Verdi é uma das maiores criações corais-sinfônicas da história. Composta em homenagem ao escritor Alessandro Manzoni, libretista e amigo de Verdi, morto em 1873, a obra celebra aquilo que o compositor considerava a síntese das virtudes morais e intelectuais do povo italiano. Estreada em 22 de maio de 1874, em Milão, o Requiem possui um caráter marcadamente teatral – em matéria publicada em 1997 na Revista CONCERTO, Lauro Machado Coelho cita o biógrafo de Verdi, Charles Osborne, de que a missa não seria para mortos, mas para os vivos. Conforme Osborne, “a intensidade da compaixão, em sua visão trágica da condição humana, tem uma estatura shakespeareana. E se essa é uma música mais apropriada para a sala de concertos do que para a igreja, tanto pior para a igreja”.&lt;/p&gt;
+&lt;p&gt;O &lt;em&gt;Réquiem &lt;/em&gt;de Verdi é uma das maiores criações corais-sinfônicas da história. Composta em homenagem ao escritor Alessandro Manzoni, libretista e amigo de Verdi, morto em 1873, a obra celebra aquilo que o compositor considerava a síntese das virtudes morais e intelectuais do povo italiano. Estreada em 22 de maio de 1874, em Milão, o &lt;em&gt;Requiem &lt;/em&gt;possui um caráter marcadamente teatral – em matéria publicada em 1997 na Revista CONCERTO, Lauro Machado Coelho cita o biógrafo de Verdi, Charles Osborne, de que a missa não seria para mortos, mas para os vivos. Conforme Osborne, “a intensidade da compaixão, em sua visão trágica da condição humana, tem uma estatura shakespeareana. E se essa é uma música mais apropriada para a sala de concertos do que para a igreja, tanto pior para a igreja”.&lt;/p&gt;
 &lt;p&gt;Regendo de cor, com gestos amplos e claros, Fabio Mechetti deu ao &lt;em&gt;Réquiem &lt;/em&gt;uma interpretação musicalmente muito consistente. Orquestra, coros e solistas fizeram uma boa performance, bem equilibrados, e lograram construir o amplo arco dramático proposto na partitura. &lt;/p&gt;
 &lt;p&gt;O quarteto vocal teve uma participação igualmente muito boa. A soprano colombiana Betty Garcés tem voz potente e clara em todos os registros, e demonstrou grande presença artística em seus solos. O lindo timbre de Ana Lucia Benedetti, o tenor luminoso de Matheus Pompeu e a dramaticidade do baixo Luiz-Ottavio Faria, excelentes cantores, são conhecidos do público paulistano – eles por último estiveram juntos no excepcional &lt;em&gt;Don Carlo&lt;/em&gt; encenado no mês passado.&lt;/p&gt;
 &lt;p&gt;Com todo o rigor da interpretação musical, apenas senti falta, em algumas passagens, de um pouco mais de intensidade emocional. Mas isso talvez seja uma percepção bem pessoal, já que o público, que lotou o Theatro Municipal, aplaudiu com euforia e grande entusiasmo ao final da apresentação.&lt;/p&gt;
@@ -148,10 +233,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIyNyIsImRpc2xpa2VzIjoiMCJ9?token=obzPDIJqReuiawc19M1QK47JoQsgsADCTJ7r04Z-8bE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIzNiIsImRpc2xpa2VzIjoiMCJ9?token=BtbjU64RJ_TNFTX7OZgXFHv43V20f-si9hPXWqbPXRw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;27&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;36&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -226,10 +311,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=3PJy-eC_TOE3RlMcNvhPVSaVBIAKy0HDwaaNamFfcqM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=80rMOhufg5DZ170D4vfHjxlemzfhzPaRXDgtnR9aJWA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;29&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;30&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -304,10 +389,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwODkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=OabUdRBbgy7y9BZi-2paC13XP2HoY0RChEbVxEDYEs0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwODkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=pj68o84zJkVJNqoG1iXk_D2LKLgvcDa25ib3NTB7h6A?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;27&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;29&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -572,74 +657,6 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <pubDate>Fri, 23 Oct 2026 20:44:54 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284084 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Coro da Osesp </title>
-  <link>http://concerto.com.br/roteiros/coro-da-osesp-203</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coro da Osesp &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 23/10/2026 - 20:42&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concertos matinais. Leitura Pública. Regentes, coros e cantores individuais se unem ao grupo em um grande concerto coletivo. Programa: Carl Orff - Carmina Burana.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;às 16h20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-01T10:50:00Z" class="datetime"&gt;dom, 01/11/2026 - 10:50&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-sao-paulo" hreflang="und"&gt;Sala São Paulo (1388 lugares) - Sala do Coro (140 lugares) e Sala Carlos Gomes (120 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 23 Oct 2026 20:42:07 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284083 at http://concerto.com.br</guid>
     </item>
 
   </channel>

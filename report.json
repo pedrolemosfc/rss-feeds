@@ -711,9 +711,9 @@
     "name": "itl-noticias",
     "source_url": "https://itl.org.br/noticias/",
     "output": "feeds/itl-noticias.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
