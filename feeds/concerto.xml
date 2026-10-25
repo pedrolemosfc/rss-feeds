@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 25 Oct 2026 11:43:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 16:31:56 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwMCIsImRpc2xpa2VzIjoiMCJ9?token=kII7WtA8MmurIZQ5rFSOOZwff2u6MjSQhKGv4MlNTlU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwMSIsImRpc2xpa2VzIjoiMCJ9?token=FebZBXMF-SLEHlGy3903PjnnI86-wHOfHd_AFaVWJ48?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;600&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;601&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,16 +82,18 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção musical do Theatro Municipal</title>
-  <link>http://concerto.com.br/textos/critica/fabio-mechetti-estreia-com-requiem-de-verdi-na-direcao-musical-do-theatro-municipal</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção musical do Theatro Municipal&lt;/span&gt;
+  <title>Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção artística do Theatro Municipal</title>
+  <link>http://concerto.com.br/textos/critica/fabio-mechetti-estreia-com-requiem-de-verdi-na-direcao-artistica-do-theatro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fabio Mechetti estreia com ‘Requiem’ de Verdi na direção artística do Theatro Municipal&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Novo diretor musical da casa deu à obra uma interpretação musicalmente muito consistente&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;O maestro Fabio Mechetti regeu ontem a Orquestra Sinfônica Municipal em sua primeira apresentação no Theatro Municipal de São Paulo desde que foi anunciado diretor musical da casa. O programa da noite, que será reapresentado hoje, sábado, às 17h, foi a grande &lt;em&gt;Missa de Réquiem&lt;/em&gt; de Giuseppe Verdi. Participaram os dois corais do teatro, o Lírico e o Paulistano, e os solistas vocais foram a soprano Betty Garcés, a mezzo soprano Ana Lucia Benedetti, o tenor Matheus Pompeu e o baixo Luiz-Ottavio Faria.&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Novo diretor artístico da casa deu à obra uma interpretação musicalmente muito consistente&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O maestro Fabio Mechetti regeu ontem a Orquestra Sinfônica Municipal em sua primeira apresentação no Theatro Municipal de São Paulo desde que se tornou diretor artístico da casa. O programa da noite, que será reapresentado hoje, sábado, às 17h, foi a grande &lt;em&gt;Missa de Réquiem&lt;/em&gt; de Giuseppe Verdi. Participaram os dois corais do teatro, o Lírico e o Paulistano, e os solistas vocais foram a soprano Betty Garcés, a mezzo soprano Ana Lucia Benedetti, o tenor Matheus Pompeu e o baixo Luiz-Ottavio Faria.&lt;/p&gt;
 &lt;p&gt;O &lt;em&gt;Réquiem &lt;/em&gt;de Verdi é uma das maiores criações corais-sinfônicas da história. Composta em homenagem ao escritor Alessandro Manzoni, libretista e amigo de Verdi, morto em 1873, a obra celebra aquilo que o compositor considerava a síntese das virtudes morais e intelectuais do povo italiano. Estreada em 22 de maio de 1874, em Milão, o Requiem possui um caráter marcadamente teatral – em matéria publicada em 1997 na Revista CONCERTO, Lauro Machado Coelho cita o biógrafo de Verdi, Charles Osborne, de que a missa não seria para mortos, mas para os vivos. Conforme Osborne, “a intensidade da compaixão, em sua visão trágica da condição humana, tem uma estatura shakespeareana. E se essa é uma música mais apropriada para a sala de concertos do que para a igreja, tanto pior para a igreja”.&lt;/p&gt;
 &lt;p&gt;Regendo de cor, com gestos amplos e claros, Fabio Mechetti deu ao &lt;em&gt;Réquiem &lt;/em&gt;uma interpretação musicalmente muito consistente. Orquestra, coros e solistas fizeram uma boa performance, bem equilibrados, e lograram construir o amplo arco dramático proposto na partitura. &lt;/p&gt;
 &lt;p&gt;O quarteto vocal teve uma participação igualmente muito boa. A soprano colombiana Betty Garcés tem voz potente e clara em todos os registros, e demonstrou grande presença artística em seus solos. O lindo timbre de Ana Lucia Benedetti, o tenor luminoso de Matheus Pompeu e a dramaticidade do baixo Luiz-Ottavio Faria, excelentes cantores, são conhecidos do público paulistano – eles por último estiveram juntos no excepcional &lt;em&gt;Don Carlo&lt;/em&gt; encenado no mês passado.&lt;/p&gt;
 &lt;p&gt;Com todo o rigor da interpretação musical, apenas senti falta, em algumas passagens, de um pouco mais de intensidade emocional. Mas isso talvez seja uma percepção bem pessoal, já que o público, que lotou o Theatro Municipal, aplaudiu com euforia e grande entusiasmo ao final da apresentação.&lt;/p&gt;
+&lt;p&gt;P.S. Fabio Mechetti na direção artística do Theatro Municipal de São Paulo dá continuidade a uma história que agora alcança três gerações. O maestro Sisto Mechetti, avô de Fabio, assumiu a direção do então recém-criado Coro Lírico Municipal em 1947 e participou decisivamente da consolidação da atividade operística da casa. Seu filho, o maestro Marcello Mechetti, deu continuidade a essa trajetória, atuando frente ao coro por décadas. Hoje, a chegada de Fabio Mechetti ao teatro representa um novo capítulo dessa ligação de três gerações da família com a história do Theatro Municipal de São Paulo.&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;Texto atualizado em 25/10 para a substituição de diretor musical por diretor artístico, conforme informações do site do Theatro Municipal.&lt;/em&gt;]&lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
 &lt;img alt="Público aplaude os artistas ao fim do Réquiem de Verdi (Revista CONCERTO)" data-entity-type="file" data-entity-uuid="50a74e90-344e-46a2-b89d-f68477c52544" src="http://concerto.com.br/sites/default/files/inline-images/w-TMSP_Requiem_IMG_9129.jpg" /&gt;
 &lt;figcaption&gt;Público aplaude os artistas ao fim do &lt;em&gt;Réquiem&lt;/em&gt; de Verdi (Revista CONCERTO)&lt;/figcaption&gt;
@@ -146,10 +148,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxOCIsImRpc2xpa2VzIjoiMCJ9?token=l9aO5dU29yTjK4SwBTqwb4zmL3sQBeqreYT9tDjeo2s?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIyNyIsImRpc2xpa2VzIjoiMCJ9?token=obzPDIJqReuiawc19M1QK47JoQsgsADCTJ7r04Z-8bE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;27&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -159,7 +161,7 @@
   <pubDate>Sat, 24 Oct 2026 15:56:23 +0000</pubDate>
     <dc:creator>Nelson Rubens Kunze</dc:creator>
     <guid isPermaLink="false">284091 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/textos/critica/fabio-mechetti-estreia-com-requiem-de-verdi-na-direcao-musical-do-theatro-municipal#comments</comments>
+    <comments>http://concerto.com.br/textos/critica/fabio-mechetti-estreia-com-requiem-de-verdi-na-direcao-artistica-do-theatro#comments</comments>
     </item>
 <item>
   <title>Orquestra Sinfônica Municipal de Campinas recebe Eric Aubier</title>
@@ -224,10 +226,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=Qjol2SzPIU_Ys0tMU1GMQ2NOAgtI4jQB44LixEmFnoc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwOTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=3PJy-eC_TOE3RlMcNvhPVSaVBIAKy0HDwaaNamFfcqM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;28&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;29&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -302,10 +304,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwODkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=5GdLxlrp3tiJrmrDwBJMgXccT0Fc7mCj1n9xV3adxZA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQwODkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=OabUdRBbgy7y9BZi-2paC13XP2HoY0RChEbVxEDYEs0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;26&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;27&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
