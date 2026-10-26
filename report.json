@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 13,
+    "items": 12,
     "ok": true,
-    "notes": "mirrored 13 native items",
+    "notes": "mirrored 12 native items",
     "kind": "native-mirror"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -711,9 +711,9 @@
     "name": "itl-noticias",
     "source_url": "https://itl.org.br/noticias/",
     "output": "feeds/itl-noticias.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
