@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 18,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 5,
+    "items": 1,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 1 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 45,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
