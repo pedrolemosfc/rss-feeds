@@ -6,7 +6,7 @@
 <link>https://salasaopaulo.art.br/salasp/pt/programacao-ingressos</link>
 <description>Concertos da Sala São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 26 Oct 2026 15:17:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 21:05:24 +0000</lastBuildDate>
 <item>
 <title>Concerto 1843</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1843?date=2026-10-27T23:30:00.000Z</link>
@@ -80,15 +80,33 @@
 <description>Sala São Paulo</description>
 </item>
 <item>
+<title>Concerto 2012</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-05T23:00:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-05T23:00:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
 <title>Concerto 2002</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/2002?date=2026-11-06T23:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2002?date=2026-11-06T23:00:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 <item>
+<title>Concerto 2012</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-06T23:00:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-06T23:00:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
 <title>Concerto 1841</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1841?date=2026-11-07T19:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1841?date=2026-11-07T19:00:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
+<title>Concerto 2012</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-07T19:30:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2012?date=2026-11-07T19:30:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 <item>
@@ -227,24 +245,6 @@
 <title>Concerto 1633</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1633?date=2026-11-22T21:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1633?date=2026-11-22T21:00:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 1660</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1660?date=2026-11-24T23:30:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1660?date=2026-11-24T23:30:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 1857</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1857?date=2026-11-25T22:30:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1857?date=2026-11-25T22:30:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 1769</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1769?date=2026-11-27T13:00:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1769?date=2026-11-27T13:00:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 </channel>

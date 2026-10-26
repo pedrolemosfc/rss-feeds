@@ -6,7 +6,7 @@
 <link>https://sites.opusentretenimento.com/api/tbsp/events</link>
 <description>Shows/espetáculos do Teatro Bradesco (API Opus)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 26 Oct 2026 15:16:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 21:05:05 +0000</lastBuildDate>
 <item>
 <title>Passion Trilogy - Carmina Burana, Carmen And Don Quixote</title>
 <link>https://uhuu.com/evento/sp/sao-paulo/passion-trilogy-carmina-burana-carmen-and-don-quixote-16773?cupom=site</link>
@@ -104,6 +104,13 @@
 <guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/rodrigo-teaser-tributo-ao-rei-do-pop-16451?cupom=site</guid>
 <pubDate>Mon, 21 Dec 2026 12:00:00 +0000</pubDate>
 <description>Teatro Bradesco · início 21/12/2026 · até 23/12/2026 · Show · Em Vendas</description>
+</item>
+<item>
+<title>Murilo Couto - Novo Show</title>
+<link>https://uhuu.com/evento/sp/sao-paulo/murilo-couto-novo-show-16489?cupom=site</link>
+<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/murilo-couto-novo-show-16489?cupom=site</guid>
+<pubDate>Sun, 20 Dec 2026 12:00:00 +0000</pubDate>
+<description>Teatro Bradesco · início 20/12/2026 · Comédia · Em Vendas</description>
 </item>
 <item>
 <title>Mundo Torajo - Especial de Natal</title>
@@ -286,13 +293,6 @@
 <guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/e.-balbo-+-queen-legend-em-queen-story-16520</guid>
 <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
 <description>Teatro Bradesco · início 28/10/2026 · Show · Em Vendas</description>
-</item>
-<item>
-<title>Murilo Couto - Novo Show</title>
-<link>https://uhuu.com/evento/sp/sao-paulo/murilo-couto-novo-show-16489?cupom=site</link>
-<guid isPermaLink="true">https://uhuu.com/evento/sp/sao-paulo/murilo-couto-novo-show-16489?cupom=site</guid>
-<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-<description>Teatro Bradesco · início 24/10/2026 · até 20/12/2026 · Comédia · Em Vendas</description>
 </item>
 </channel>
 </rss>

@@ -1,119 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Cultura Artística — Eventos</title>
+<atom:link href="https://cdn.jsdelivr.net/gh/pedrolemosfc/rss-feeds@main/feeds/cultura-artistica.xml" rel="self" type="application/rss+xml"/>
 <link>https://culturaartistica.org/eventos/</link>
 <description>Eventos Cultura Artística (pode falhar com captcha no Actions)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 07 Sep 2026 18:48:56 +0000</lastBuildDate>
-<item>
-<title>São Paulo Chamber Soloists e Paulo Szot</title>
-<link>https://culturaartistica.org/evento/sao-paulo-chamber-soloists-e-paulo-szot/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/sao-paulo-chamber-soloists-e-paulo-szot/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Encontro pré-concerto: András Schiff</title>
-<link>https://culturaartistica.org/evento/encontro-pre-concerto-andras-schiff/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/encontro-pre-concerto-andras-schiff/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>András Schiff</title>
-<link>https://culturaartistica.org/evento/andras-schiff-9/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/andras-schiff-9/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Encontro pré-concerto: András Schiff</title>
-<link>https://culturaartistica.org/evento/encontro-pre-concerto-andras-schiff-2/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/encontro-pre-concerto-andras-schiff-2/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>András Schiff</title>
-<link>https://culturaartistica.org/evento/andras-schiff-8/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/andras-schiff-8/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>A música orquestral de Bach: Os Concertos de Brandemburgo</title>
-<link>https://culturaartistica.org/evento/a-musica-orquestral-de-bach-os-concertos-de-brandemburgo/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/a-musica-orquestral-de-bach-os-concertos-de-brandemburgo/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Zaccai Curtis</title>
-<link>https://culturaartistica.org/evento/zaccai-curtis-2/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/zaccai-curtis-2/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Zaccai Curtis</title>
-<link>https://culturaartistica.org/evento/zaccai-curtis/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/zaccai-curtis/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Prêmio Citi 2026: concerto dos vencedores</title>
-<link>https://culturaartistica.org/evento/premio-citi-2026-concerto-dos-vencedores/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/premio-citi-2026-concerto-dos-vencedores/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Piano Aberto: Prelúdios, op. 28, de Chopin</title>
-<link>https://culturaartistica.org/evento/piano-aberto-preludios-op-28-de-chopin/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/piano-aberto-preludios-op-28-de-chopin/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Uma festa no castelo</title>
-<link>https://culturaartistica.org/evento/uma-festa-no-castelo/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/uma-festa-no-castelo/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Assucena: Canta Gal</title>
-<link>https://culturaartistica.org/evento/assucena-canta-gal/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/assucena-canta-gal/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Juan Diego Flórez e Vincenzo Scalera</title>
-<link>https://culturaartistica.org/evento/juan-diego-florez/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/juan-diego-florez/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Juan Diego Flórez e Vincenzo Scalera</title>
-<link>https://culturaartistica.org/evento/juan-diego-florez-2/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/juan-diego-florez-2/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Majur</title>
-<link>https://culturaartistica.org/evento/majur/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/majur/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Tilman Hoppstock</title>
-<link>https://culturaartistica.org/evento/tilman-hoppstock-4/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/tilman-hoppstock-4/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Chico César</title>
-<link>https://culturaartistica.org/evento/chico-cesar/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/chico-cesar/</guid>
-<description>Cultura Artística</description>
-</item>
-<item>
-<title>Nikola Meeuwsen</title>
-<link>https://culturaartistica.org/evento/nikola-meeuwsen/</link>
-<guid isPermaLink="true">https://culturaartistica.org/evento/nikola-meeuwsen/</guid>
-<description>Cultura Artística</description>
-</item>
+<lastBuildDate>Mon, 26 Oct 2026 21:05:42 +0000</lastBuildDate>
 <item>
 <title>Festival de Fado 2026</title>
 <link>https://culturaartistica.org/evento/festival-de-fado-2026/</link>
@@ -139,6 +32,12 @@
 <description>Cultura Artística</description>
 </item>
 <item>
+<title>Piano Aberto: Concerto para Piano nº 3, op. 26, de Prokofiev</title>
+<link>https://culturaartistica.org/evento/piano-aberto-concerto-para-piano-no-3-op-26-de-prokofiev/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/piano-aberto-concerto-para-piano-no-3-op-26-de-prokofiev/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
 <title>Trio Callas</title>
 <link>https://culturaartistica.org/evento/trio-callas-2/</link>
 <guid isPermaLink="true">https://culturaartistica.org/evento/trio-callas-2/</guid>
@@ -151,6 +50,12 @@
 <description>Cultura Artística</description>
 </item>
 <item>
+<title>Lucas Vieira</title>
+<link>https://culturaartistica.org/evento/lucas-vieira/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/lucas-vieira/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
 <title>Plínio Fernandes</title>
 <link>https://culturaartistica.org/evento/plinio-fernandes-2/</link>
 <guid isPermaLink="true">https://culturaartistica.org/evento/plinio-fernandes-2/</guid>
@@ -160,6 +65,12 @@
 <title>Fabiana Cozza e Orquestra Mundana Refugi</title>
 <link>https://culturaartistica.org/evento/fabiana-cozza-e-orquestra-mundana-refugi/</link>
 <guid isPermaLink="true">https://culturaartistica.org/evento/fabiana-cozza-e-orquestra-mundana-refugi/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>A música orquestral de Bach: As Suítes Orquestrais</title>
+<link>https://culturaartistica.org/evento/a-musica-orquestral-de-bach-as-suites-orquestrais/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/a-musica-orquestral-de-bach-as-suites-orquestrais/</guid>
 <description>Cultura Artística</description>
 </item>
 <item>
@@ -199,9 +110,201 @@
 <description>Cultura Artística</description>
 </item>
 <item>
+<title>A música orquestral de Bach: A orquestra na música sacra de Bach</title>
+<link>https://culturaartistica.org/evento/a-musica-orquestral-de-bach-a-orquestra-na-musica-sacra-de-bach/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/a-musica-orquestral-de-bach-a-orquestra-na-musica-sacra-de-bach/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
 <title>Festival Internacional de Música e Dança Flamenca</title>
 <link>https://culturaartistica.org/evento/festival-internacional-de-musica-e-danca-flamenca/</link>
 <guid isPermaLink="true">https://culturaartistica.org/evento/festival-internacional-de-musica-e-danca-flamenca/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Nani Medeiros: Tantos Poetas</title>
+<link>https://culturaartistica.org/evento/nani-medeiros-tantos-poetas/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/nani-medeiros-tantos-poetas/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Piano Aberto: Kreisleriana, de Schumann</title>
+<link>https://culturaartistica.org/evento/piano-aberto-kreisleriana-de-schumann/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/piano-aberto-kreisleriana-de-schumann/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Emmanuele Baldini e André Mehmari</title>
+<link>https://culturaartistica.org/evento/emmanuele-baldini-e-andre-mehmari/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/emmanuele-baldini-e-andre-mehmari/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea-6/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea-6/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea-5/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea-5/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea-4/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea-4/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea-3/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea-3/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea-2/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea-2/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Quarteto Belcea</title>
+<link>https://culturaartistica.org/evento/quarteto-belcea/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/quarteto-belcea/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Os Músicos de Capella e Luís Otávio Santos</title>
+<link>https://culturaartistica.org/evento/os-musicos-de-capella-e-luis-otavio-santos-2/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/os-musicos-de-capella-e-luis-otavio-santos-2/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Rémy Patel</title>
+<link>https://culturaartistica.org/evento/remy-patel/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/remy-patel/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>John Pizzarelli</title>
+<link>https://culturaartistica.org/evento/john-pizzarelli/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/john-pizzarelli/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Danieli Longo</title>
+<link>https://culturaartistica.org/evento/danieli-longo/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/danieli-longo/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Jordi Savall / Hespèrion XXI / Ensemble Tembembe / Solistas da Capela Real da Catalunha</title>
+<link>https://culturaartistica.org/evento/jordi-savall-hesperion-xxi-ensemble-tembembe-solistas-da-capela-real-da-catalunha/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/jordi-savall-hesperion-xxi-ensemble-tembembe-solistas-da-capela-real-da-catalunha/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Michael Spyres e Mathieu Pordoy</title>
+<link>https://culturaartistica.org/evento/michael-spyres-e-mathieu-pordoy/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/michael-spyres-e-mathieu-pordoy/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Aigul Akhmetshina e Jonathan Papp</title>
+<link>https://culturaartistica.org/evento/aigul-akhmetshina-e-jonathan-papp/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/aigul-akhmetshina-e-jonathan-papp/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Aniello Desiderio</title>
+<link>https://culturaartistica.org/evento/aniello-desiderio-4/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/aniello-desiderio-4/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Bill Charlap Trio</title>
+<link>https://culturaartistica.org/evento/bill-charlap-trio/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/bill-charlap-trio/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Duo Elo Antiquo</title>
+<link>https://culturaartistica.org/evento/duo-elo-antiquo/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/duo-elo-antiquo/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Oliver Neubauer e Chaeyoung Park</title>
+<link>https://culturaartistica.org/evento/oliver-neubauer-e-chaeyoung-park/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/oliver-neubauer-e-chaeyoung-park/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Academia de Câmara de Potsdam / Emmanuel Pahud / François Leleux</title>
+<link>https://culturaartistica.org/evento/academia-de-camara-de-potsdam-emmanuel-pahud-francois-leleux-2/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/academia-de-camara-de-potsdam-emmanuel-pahud-francois-leleux-2/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Academia de Câmara de Potsdam / Emmanuel Pahud / François Leleux</title>
+<link>https://culturaartistica.org/evento/academia-de-camara-de-potsdam-emmanuel-pahud-francois-leleux/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/academia-de-camara-de-potsdam-emmanuel-pahud-francois-leleux/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Fabio Martino / Gabriela Queiroz / Michael Machado / Tiago Vieira / Lisiane de Los Santos</title>
+<link>https://culturaartistica.org/evento/fabio-martino-gabriela-queiroz-michael-machado-tiago-vieira-lisiane-de-los-santos/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/fabio-martino-gabriela-queiroz-michael-machado-tiago-vieira-lisiane-de-los-santos/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Lise de La Salle</title>
+<link>https://culturaartistica.org/evento/lise-de-la-salle/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/lise-de-la-salle/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Orquestra Filarmônica de Dresden / Guido Sant’Anna / Tabita Berglund</title>
+<link>https://culturaartistica.org/evento/orquestra-filarmonica-de-dresden-guido-santanna-tabita-berglund-2/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/orquestra-filarmonica-de-dresden-guido-santanna-tabita-berglund-2/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Orquestra Filarmônica de Dresden / Guido Sant’Anna / Tabita Berglund</title>
+<link>https://culturaartistica.org/evento/orquestra-filarmonica-de-dresden-guido-santanna-tabita-berglund/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/orquestra-filarmonica-de-dresden-guido-santanna-tabita-berglund/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Lucas Thomazinho e Gustavo Scudeler</title>
+<link>https://culturaartistica.org/evento/lucas-thomazinho-e-gustavo-scudeler/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/lucas-thomazinho-e-gustavo-scudeler/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Laura Lootens</title>
+<link>https://culturaartistica.org/evento/laura-lootens/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/laura-lootens/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Lisette Oropesa e Ángel Rodríguez</title>
+<link>https://culturaartistica.org/evento/lisette-oropesa-e-angel-rodriguez/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/lisette-oropesa-e-angel-rodriguez/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Jordan Alexander e Samuel Alves</title>
+<link>https://culturaartistica.org/evento/jordan-alexander-e-samuel-alves/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/jordan-alexander-e-samuel-alves/</guid>
+<description>Cultura Artística</description>
+</item>
+<item>
+<title>Jason Vieaux</title>
+<link>https://culturaartistica.org/evento/jason-vieaux/</link>
+<guid isPermaLink="true">https://culturaartistica.org/evento/jason-vieaux/</guid>
 <description>Cultura Artística</description>
 </item>
 </channel>

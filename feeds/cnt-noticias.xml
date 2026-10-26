@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 26 Oct 2026 15:18:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 21:07:22 +0000</lastBuildDate>
 <item>
 <title>Coalizão Brasil pela Descarbonização avança na agenda para o setor transportador e prepara nova etapa</title>
 <link>https://www.cnt.org.br/imprensa/noticia/coalizao-brasil-pela-descarbonizacao-avanca-na-agenda-para-o-setor-transportador</link>
@@ -22,6 +22,24 @@
 <description>Política — Relator reconheceu possíveis prejuízos a setores da economia; CNT alerta para impactos na continuidade dos serviços de transporte.</description>
 </item>
 <item>
+<title>Eleições 2026: Sistema Transporte destaca segurança jurídica e competitividade entre prioridades para novo governo</title>
+<link>https://www.cnt.org.br/imprensa/noticia/eleicoes-2026-sistema-transporte-destaca-segurana-juridica-e-competitividade-entre-prioridades</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/eleicoes-2026-sistema-transporte-destaca-segurana-juridica-e-competitividade-entre-prioridades</guid>
+<description>Política — Entidade saúda o presidente reeleito e se coloca à disposição para discutir as prioridades do setor</description>
+</item>
+<item>
+<title>Acessibilidade, inovação e inclusão: construindo um transporte para todos</title>
+<link>https://www.cnt.org.br/imprensa/noticia/acessibilidade-inovao-e-incluso-construindo-um-transporte-para-todos</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/acessibilidade-inovao-e-incluso-construindo-um-transporte-para-todos</guid>
+<description>Artigo — Para os trabalhadores do setor, ambientes seguros e acolhedores reduzem o estresse das viagens, favorecem a recuperação durante os períodos de descanso e promovem dignidade</description>
+</item>
+<item>
+<title>Pesquisa CNT/MDA: Flávio Bolsonaro tem 50,7% dos votos válidos, e Lula, 49,3%</title>
+<link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-flavio-tem-507-dos-votos-validos</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pesquisa-cntmda-flavio-tem-507-dos-votos-validos</guid>
+<description>Política — Última rodada antes do segundo turno mostra diferença de 1,4 ponto percentual entre os candidatos; 92,7% dos eleitores afirmam que sua decisão de voto é definitiva</description>
+</item>
+<item>
 <title>Diesel sobe 15,26% em 2026; lubrificantes e pedágios também registram alta, aponta CNT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/diesel-sobe-em-2026-lubrificantes-e-pedagios-tambem-registram-alta-aponta-cnt</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/diesel-sobe-em-2026-lubrificantes-e-pedagios-tambem-registram-alta-aponta-cnt</guid>
@@ -34,16 +52,16 @@
 <description>Política — Material apoia as empresas na compreensão da aplicação da Emenda Constitucional nº 141/2026, dos prazos de adaptação e dos efeitos da mudança nos custos e nas operações do setor</description>
 </item>
 <item>
-<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
-<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
-</item>
-<item>
 <title>Projeto desenvolvido por alunos do ITL aposta na prevenção de falhas em caminhões com uso da tecnologia</title>
 <link>https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</guid>
 <description>Tecnologia e inovação — Trabalho desenvolvido no curso executivo Gestão de Ativos, do ITL, integra telemetria, inteligência artificial e análise de dados para otimizar a manutenção de frotas</description>
+</item>
+<item>
+<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
+<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
 </item>
 <item>
 <title>Da garagem aos portos, experiências brasileiras levam soluções do transporte à COP31</title>
@@ -104,12 +122,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/sest-senat-institui-politica-educacional-e-autoriza-dois-novos-cursos-tecnicos</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-institui-politica-educacional-e-autoriza-dois-novos-cursos-tecnicos</guid>
 <description>Futuro do Transporte — Instituição autorizou a oferta dos cursos de Técnico em Saúde Bucal e Técnico em Transporte. Inscrições desses e dos demais cursos começam em 19 de outubro</description>
-</item>
-<item>
-<title>Câmara aprova urgência para projeto que amplia recursos destinados ao SEST SENAT</title>
-<link>https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</guid>
-<description>Poder Legislativo — Medida acelera a tramitação da proposta, permite sua votação diretamente em Plenário e fortalece a qualificação profissional e os serviços sociais dos trabalhadores do transporte</description>
 </item>
 <item>
 <title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
@@ -190,16 +202,16 @@
 <description>Política — Lula aparece com 43,1% das intenções de voto estimuladas no primeiro turno, seguido por Flávio Bolsonaro, com 38,0%. Já no segundo turno, Lula tem 47,3% e Flávio, 43,1%</description>
 </item>
 <item>
-<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
-<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
-<description>SEST SENAT — Solução criada por aprendizes do SEST SENAT foi reconhecida por seu potencial de contribuir para a segurança viária</description>
-</item>
-<item>
 <title>Rota da Acessibilidade debate inovação para ampliar inclusão no transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/rota-da-acessibilidade-debate-inovao-para-ampliar-incluso-no-transporte</guid>
 <description>Inclusão e diversidade — Encontro Nacional reúne especialistas, empresas e governo para discutir tecnologia, acessibilidade e inclusão profissional de pessoas com deficiência</description>
+</item>
+<item>
+<title>Projeto que usa tecnologia para aumentar a segurança nas rodovias vence o InovAprendiz 2026</title>
+<link>https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/projeto-que-usa-tecnologia-para-aumentar-a-segurana-nas-rodovias-vence-o-inovaprendiz-2026</guid>
+<description>SEST SENAT — Solução criada por aprendizes do SEST SENAT foi reconhecida por seu potencial de contribuir para a segurança viária</description>
 </item>
 <item>
 <title>Feiras Emprega Transporte já registram 21,4 mil participantes; confira programação de outubro</title>
@@ -230,24 +242,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/executive-program-rene-empresrios-do-transporte-em-imerso-sobre-futuro-do-setor</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/executive-program-rene-empresrios-do-transporte-em-imerso-sobre-futuro-do-setor</guid>
 <description>Gestão — Terceira edição do programa reúne 81 participantes em atividades sobre liderança, inovação e tecnologia, em Embu das Artes (SP)</description>
-</item>
-<item>
-<title>Plano CNT de Transporte e Logística: um norte para a infraestrutura do país</title>
-<link>https://www.cnt.org.br/imprensa/noticia/as-propostas-do-setor-de-transporte-para-a-infraestrutura-do-pais</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/as-propostas-do-setor-de-transporte-para-a-infraestrutura-do-pais</guid>
-<description>Artigo — Em um contexto de múltiplos desafios, intensificados pela transição tecnológica, pelos eventos climáticos extremos e pelas instabilidades geopolíticas, a superação das deficiências de infraestrutura constitui questão prioritária</description>
-</item>
-<item>
-<title>6º Fórum ITL debate cibersegurança, inteligência artificial e proteção de dados no transporte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/6-frum-itl-debate-cibersegurana-inteligncia-artificial-e-proteo-de-dados-no-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/6-frum-itl-debate-cibersegurana-inteligncia-artificial-e-proteo-de-dados-no-transporte</guid>
-<description>ITL — Especialistas e representantes do setor discutiram riscos digitais, gestão de incidentes e continuidade das operações</description>
-</item>
-<item>
-<title>SEST SENAT realiza ação de saúde para trabalhadores no Porto de Santos</title>
-<link>https://www.cnt.org.br/imprensa/noticia/saude-nos-portos-realiza-acao-de-saude-para-trabalhadores-no-porto-de-santos</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/saude-nos-portos-realiza-acao-de-saude-para-trabalhadores-no-porto-de-santos</guid>
-<description>Transporte aquaviário — Iniciativa do SEST SENAT e do Ministério de Portos e Aeroportos ofereceu serviços de saúde, prevenção e orientação durante dois dias de atividades</description>
 </item>
 </channel>
 </rss>

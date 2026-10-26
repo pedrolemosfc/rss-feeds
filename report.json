@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "mirrored 10 native items",
+    "items": 0,
+    "ok": false,
+    "notes": "native feed has 0 items",
     "kind": "native-mirror"
   },
   {
@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 5,
+    "items": 6,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 6 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 32,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 32 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,18 +477,18 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 7,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 21,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 21 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "cultura-artistica",
     "source_url": "https://culturaartistica.org/eventos/",
     "output": "feeds/cultura-artistica.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 1,
-    "ok": true,
-    "notes": "scraped 1 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 22,
+    "items": 45,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 45 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
@@ -756,9 +756,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   }
 ]

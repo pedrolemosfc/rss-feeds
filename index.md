@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-26 15:19 UTC
+Generated: 2026-10-26 21:07 UTC
 
 ## Native feeds (not scraped)
 
@@ -80,8 +80,8 @@ Generated: 2026-10-26 15:19 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
-  notes: mirrored 10 native items
+- **abti** [FAIL] items=0 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: native feed has 0 items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
@@ -98,8 +98,8 @@ Generated: 2026-10-26 15:19 UTC
   notes: scraped 10 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
-- **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
-  notes: scraped 5 events
+- **arena-b3** [OK] items=6 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
+  notes: scraped 6 events
 - **bourbon-street** [OK] items=23 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
   notes: scraped 23 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
@@ -118,16 +118,16 @@ Generated: 2026-10-26 15:19 UTC
   notes: scraped 12 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=32 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 32 events
+- **audio-sp** [OK] items=30 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 30 events
 - **teatro-das-artes-sp** [OK] items=9 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 9 events
 - **casa-de-francisca** [OK] items=45 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
   notes: scraped 45 events
-- **jazz-b** [OK] items=7 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 7 events
-- **cavern-club-sp** [OK] items=21 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 21 events
+- **jazz-b** [OK] items=5 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 5 events
+- **cavern-club-sp** [OK] items=20 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 20 events
 - **manifesto-bar** [OK] items=14 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 14 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -140,8 +140,8 @@ Generated: 2026-10-26 15:19 UTC
   notes: scraped 50 events
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
-- **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **cultura-artistica** [OK] items=50 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
+  notes: scraped 50 events
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=5 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -168,26 +168,26 @@ Generated: 2026-10-26 15:19 UTC
   notes: scraped 78 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=1 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 1 events
+- **antt-cargas-rodoviarias** [FAIL] items=0 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: no event items found
 - **antt-noticias** [OK] items=30 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=22 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 22 events
+- **cly-blog** [OK] items=45 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 45 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 40 events
+- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 39 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
   notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
-- **hangar-110** [OK] items=16 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
-  notes: scraped 16 events
+- **hangar-110** [OK] items=17 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
+  notes: scraped 17 events
 
 ## Combined feeds
 
