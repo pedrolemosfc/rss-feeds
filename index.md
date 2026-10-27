@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-26 21:07 UTC
+Generated: 2026-10-27 01:35 UTC
 
 ## Native feeds (not scraped)
 
@@ -80,8 +80,8 @@ Generated: 2026-10-26 21:07 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **abti** [FAIL] items=0 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
-  notes: native feed has 0 items
+- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: mirrored 10 native items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
@@ -122,10 +122,10 @@ Generated: 2026-10-26 21:07 UTC
   notes: scraped 30 events
 - **teatro-das-artes-sp** [OK] items=9 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 9 events
-- **casa-de-francisca** [OK] items=45 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 45 events
-- **jazz-b** [OK] items=5 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 5 events
+- **casa-de-francisca** [OK] items=46 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 46 events
+- **jazz-b** [OK] items=7 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 7 events
 - **cavern-club-sp** [OK] items=20 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 20 events
 - **manifesto-bar** [OK] items=14 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
@@ -174,16 +174,16 @@ Generated: 2026-10-26 21:07 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=45 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 45 events
+- **cly-blog** [OK] items=22 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 22 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 39 events
+- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=17 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  

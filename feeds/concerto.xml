@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 26 Oct 2026 21:04:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:32:20 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwNiIsImRpc2xpa2VzIjoiMCJ9?token=zEQAenrY3LrulvvS_Zv0fDDjtOWiQSQYznJsFEvoPgA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYwNyIsImRpc2xpa2VzIjoiMCJ9?token=CYIpfu9WYYE1tonpwTB4o63CP2Dn3dAmh4RgChb6trY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;606&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;607&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -143,20 +143,24 @@
     <guid isPermaLink="false">284094 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>2º Concurso Nacional de Piano do IPG anuncia vencedores  </title>
+  <title>Notícias do mundo musical</title>
   <link>http://concerto.com.br/node/284108</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2º Concurso Nacional de Piano do IPG anuncia vencedores  &lt;/span&gt;
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Notícias do mundo musical&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Nove pianistas concorreram na final, realizada em Brasília nos dias 25 e 26 de setembro&lt;/strong&gt; &lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;2º Concurso Nacional de Piano do IPG anuncia vencedores  &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Nove pianistas concorreram na final, realizada em Brasília nos dias 25 e 26 de setembro&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;O 2º Concurso Nacional de Piano do Instituto Pedro Gordilho (IPG) divulgou os vencedores da edição 2026. A final, realizada em 25 e 26 de setembro, em Brasília, reuniu nove jovens pianistas selecionados entre 38 candidatos provenientes de 12 estados, além do Distrito Federal e dois participantes residentes no exterior. &lt;/p&gt;
 &lt;p&gt;O primeiro lugar foi concedido ao paulista Luís Henrique Leite Andrade Araújo, que faz graduação na ECA-USP sob orientação de Luciana Sayure. Luís também venceu o Prêmio Instituto Piano Brasileiro, destinado à melhor interpretação de obra brasileira para piano. O segundo lugar ficou com Arthur Dante Novaes Teixeira, da Bahia, que recebeu ainda menção honrosa pela melhor interpretação da peça de confronto. O Prêmio Revelação foi atribuído ao paulista Matheus Enzo de Faria Oshiro, enquanto a menção honrosa geral foi concedida à capixaba Sara de Vasconcelos Canal. &lt;/p&gt;
 &lt;p&gt;As apresentações finais incluíram recitais de 30 a 40 minutos, com obras de livre escolha e a peça de confronto da edição, “Tema para Karla”, do compositor Mario Olinto, que integrou a comissão julgadora ao lado de Alda de Mattos, Alexandre Dias, Ana Paula Gordilho Pessoa e Bruno Belthoise. &lt;/p&gt;
 &lt;p&gt;O concurso oferece premiação em dinheiro (R$ 15 mil para o primeiro lugar, R$ 7 mil para o segundo e R$ 5 mil para o pianista revelação) além de oportunidades de apresentação. O vencedor atuará como solista da Orquestra Sinfônica do Teatro Nacional Claudio Santoro, e os premiados participarão de recitais promovidos pelo IPG. &lt;/p&gt;
 &lt;p&gt;A edição contou com apoio da Casa Thomas Jefferson e do Instituto Piano Brasileiro, além da participação do público presencial e online, que acompanhou as transmissões pelo YouTube e redes sociais.  &lt;/p&gt;
 &lt;p&gt;O vencedor do 1º Concurso Nacional de Piano do Instituto Pedro Gordilho, realizado no ano passado, foi o pianista paulista Jordan Alexander, que atualmente realiza seu mestrado na Universidade de Zurique, com Konstantin Scherbakov. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Luís Henrique Araújo (reprodução YouTube)" data-entity-type="file" data-entity-uuid="4dd3292a-9767-4e69-970c-f74c54dc8240" src="http://concerto.com.br/sites/default/files/inline-images/w-PedroGordilho_LuisHenriqueAraujo_YouTube_0.jpg" /&gt;
+&lt;figcaption&gt;Luís Henrique Araújo (reprodução YouTube)&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia no Site CONCERTO  &lt;/strong&gt; &lt;br /&gt;
-(&lt;a href="http://www.concerto.com.br"&gt;www.concerto.com.br&lt;/a&gt;) &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia no &lt;a href="http://www.concerto.com.br/" target="_blank" title="link site"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;Site CONCERTO&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;  &lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;CRÍTICA&lt;/u&gt;: Filarmônica de Berlim oferece milagres de transparência e clareza de planos sonoros&lt;/strong&gt; &lt;br /&gt;
 Primeira noite da orquestra alemã na Sala São Paulo, com obras de Brahms e Strauss, foi para lá de especial. Concerto bom deixa lembrança; concerto excelente deixa legado. Por Irineu Franco Perpetuo &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;Entrevista&lt;/u&gt;: Jordan Alexander, um piano em ascensão&lt;/strong&gt; &lt;br /&gt;
@@ -175,30 +179,46 @@ Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
 &lt;p&gt;A Rádio MEC divulgou a lista das obras classificadas na primeira etapa do Prêmio Rádio MEC 2026, que está em sua 22ª edição. No total, 349 composições de todas as regiões do país se inscreveram no certame. As classificadas serão votadas agora pelo público, em três categorias: Infância, com 15 concorrentes; Instrumental, com 20; e Clássica, com 13. A escolha do público é feita pela página oficial da emissora, onde é possível ouvir as composições e registrar o voto. A votação segue até 18 de novembro, data em que serão anunciados os finalistas da premiação. &lt;/p&gt;
 &lt;p&gt;Concorrendo na categoria Clássica estão: &lt;em&gt;Ave de amor&lt;/em&gt;, de Juliana Ripke e Narcisa Amália, com Marília Vargas, Marcus Ribeiro e Ensemble de violoncelos; &lt;em&gt;Café&lt;/em&gt;, de Jorge Ribbas, com Quinteto Ribbas; &lt;em&gt;Desencanto&lt;/em&gt;, de Sérgio de Alencastro Veiga Filho, com Sergin Veiga; &lt;em&gt;É manhã&lt;/em&gt;, de Guilherme Roman, com Cíntia de Los Santos, Carol Schäfer, Eduardo Alves e Guilherme Roman; &lt;em&gt;Libertas&lt;/em&gt; (Caipirinha), de Daniel Wolff, com Quarteto Libertas; &lt;em&gt;O crepúsculo num bosque em um dia nublado de inverno na Serra&lt;/em&gt;, de Alexandre Fritzen da Rocha, com Alexandre Fritzen; &lt;em&gt;Paisagens, poema para cello em 2 movimentos&lt;/em&gt;, de Ricardo Szpilman, com Hugo Pilger; &lt;em&gt;Passacaglia para piano solo&lt;/em&gt;, de Andersen Viana, com Stéphanie Elbaz; &lt;em&gt;Quinteto de clarinetas&lt;/em&gt;, de Marcos Cohen, com Quinteto de Clarinetas Royal Brasil; &lt;em&gt;Sinfonia nº 1 em sol menor&lt;/em&gt;, de Henrique Machado, com Orquestra Light Rocinha; &lt;em&gt;Toccata&lt;/em&gt;, de Pablo Lapidusas e Rem Urasim, com Pablo Lapidusas e Rem Urasim; &lt;em&gt;Três noites de silêncio&lt;/em&gt;, de Daniel Ganc, com Daniel Ganc; e &lt;em&gt;Villalobiana&lt;/em&gt;, de Vinícius Frate, com Vinícius Frate e Jennifer Campbell. &lt;/p&gt;
 &lt;p&gt;O Prêmio Rádio MEC é realizado pela Empresa Brasil de Comunicação (EBC). Após o encerramento da votação e a divulgação dos finalistas, as obras seguem para a etapa final da premiação, com anúncio dos vencedores previsto para dezembro. &lt;/p&gt;
-&lt;p&gt;Acesse o portal da Rádio MEC para mais informações e para votar. &lt;a href="https://radiomec.ebc.com.br/"&gt;https://radiomec.ebc.com.br/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Acesse &lt;a href="https://radiomec.ebc.com.br/" target="_blank" title="link site"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; o portal da Rádio MEC para mais informações e para votar. &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;II Encontro de Piano Colaborativo faz eventos &lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;II Encontro de Piano Colaborativo faz eventos &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;De 25 a 27 de novembro, a Associação Brasileira de Piano Colaborativo (ABPC) realiza, no Rio de Janeiro, o II Encontro Internacional da ABPC. O evento conta com a parceria do Theatro Municipal, da Unirio, da UFRJ, da Faetec de Marechal Hermes, da Academia Brasileira de Letras e do Conservatório Brasileiro de Música. Criada em 2021, a ABPC tem como foco “todas as ocasiões em que o pianista atua não como solista, mas tocando com outros instrumentistas, cantores, coros, óperas, musicais, bailarinos, grupos de jazz e de música popular”.  &lt;/p&gt;
 &lt;p&gt;O evento contará com master classes, palestras, oficinas e um total de nove recitais, dos quais vão participar nomes como Érika Ribeiro, Maria Teresa Madeira, Ricardo Ballestero, Lúcia Barrenechea, Lenine Santos, Homero Velho e Carla Cottini. Dentre os convidados internacionais, destacam-se Elvia Puccinelli, da University of North Texas; Luis Vallés, da Universidad Internacional de Valencia; e Ben Markley, pianista de jazz, compositor, arranjador e professor da University of Wyoming. &lt;/p&gt;
 &lt;p&gt;A programação inclui ainda o I Simpósio Científico da Associação Brasileira de Piano Colaborativo, com a apresentação de pesquisas realizadas na área. &lt;/p&gt;
 &lt;p&gt;(Consulte mais detalhes no &lt;em&gt;Roteiro Musical Rio de Janeiro&lt;/em&gt;.) &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação, Dreamstime, Christoph Riddle)" data-entity-type="file" data-entity-uuid="10a8cc6c-d21e-47c6-8799-6ae6c21b7440" src="http://concerto.com.br/sites/default/files/inline-images/w-dreamstime_xxl_906871_Piano-Instrument_Christoph-Riddle.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação, Dreamstime, Christoph Riddle)&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;O governo alemão anunciou que vai destinar 225 milhões de euros para as obras de renovação da Philharmonie, casa da Filarmônica de Berlim. O grupo está atualmente em busca de um palco alternativo para suas apresentações durante a reforma. &lt;/p&gt;
 &lt;p&gt;A ideia da orquestra é manter a sala aberta até 2032, quando o grupo completa 150 anos, e, em seguida, iniciar as obras, que devem durar cerca de oito anos. Entre os possíveis locais para os concertos durante esse período, estão sendo considerados o antigo aeroporto de Tempelhof e o Centro Internacional de Congressos de Berlim. A escolha depende de critérios como acústica, conexões de transporte e capacidade de ocupação. &lt;/p&gt;
 &lt;p&gt;“Para a Filarmônica de Berlim e para mim, a Philharmonie não é apenas uma sala de concertos – é a nossa casa musical. O fato de o governo federal e o estado de Berlim assumirem a responsabilidade pelo futuro deste espaço e pelo trabalho da orquestra enche-me de gratidão, assim como o aumento dos nossos recursos financeiros proporcionado pelo governo federal”, afirmou o regente titular da orquestra, Kirill Petrenko. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A Philharmonie de Berlim (divulgação, Wikimedia Commons, A.Savin)" data-entity-type="file" data-entity-uuid="9183c888-d454-43bb-93ef-35ab7c8d9f98" src="http://concerto.com.br/sites/default/files/inline-images/w-Berlin_Philharmonie_asv2018-05_img2_WikimediaCommons_A.Savin_.jpg" /&gt;
+&lt;figcaption&gt;A Philharmonie de Berlim (divulgação, Wikimedia Commons, A.Savin)&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Aos 24 anos, violinista mineira conquista vaga na instituição centenária, que nunca teve músicos brasileiros &lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;A brasileira Marina Caputo, de 24 anos, venceu as audições e é a primeira brasileira a entrar na tradicional Tonkünstler-Orchester Niederösterreich, Orquestra Tonkünstler da Baixa Áustria, sediada em Viena. &lt;/p&gt;
 &lt;p&gt;Marina, que na temporada 2024/25 integrou a academia da orquestra, afirmou: “Ser oficializada na orquestra é uma alegria enorme e a realização de algo que, por muito tempo, me pareceu distante demais para uma brasileira. Espero que essa conquista mostre a outros jovens músicos do Brasil que é possível ocupar espaços que antes pareciam inalcançáveis e construir caminhos que ainda não existiam para nós”. &lt;/p&gt;
 &lt;p&gt;Nascida em 2002, em Belo Horizonte, Minas Gerais, Marina Caputo iniciou os estudos de violino aos 10 anos, no Centro Suzuki, e aos 14 passou a fazer parte da Orquestra Jovem do Estado, em São Paulo. Premiada em vários concursos, recebeu, em 2019, bolsa para estudar na École Normale de Musique de Paris. Hoje radicada em Viena, formou-se bacharel em violino pela MUK – Universidade de Música e Artes da Cidade de Viena, onde atualmente cursa o mestrado. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação, Nancy Horowitz)" data-entity-type="file" data-entity-uuid="bcbf35cb-408d-4cf3-980d-f10dafedf934" src="http://concerto.com.br/sites/default/files/inline-images/w-MarinaCaputo_Nancy_Horowitz---web_0.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação, Nancy Horowitz)&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;em&gt;&lt;strong&gt;Nona sinfonia&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; de Beethoven ganha sonorização 7.1 imersiva &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;Nona sinfonia,&lt;/em&gt; de Ludwig van Beethoven, ganhará uma apresentação em sistema imersivo 7.1, em espetáculo marcado para 19 de dezembro, na Vibra, em São Paulo. A produção reúne 200 artistas – orquestra sinfônica, coro e solistas – sob regência do maestro Emiliano Patarra, com preparação vocal da maestra Teresa Longatto. &lt;/p&gt;
 &lt;p&gt;A proposta revisita a obra composta entre 1822 e 1824, período em que Beethoven já estava surdo. Segundo a produção, a montagem propõe ampliar a percepção musical por meio de tecnologia de áudio 7.1 imersiva, fazendo com que o público “sinta” a sinfonia em uma abordagem que dialoga com a forma como Beethoven teria percebido sua própria criação – pelas vibrações e pela memória musical. &lt;/p&gt;
 &lt;p&gt;O sistema 7.1 significa que serão dispostas 7 caixas acústicas espacialmente no ambiente, além de um subwoofer, que fornece as frequências graves. Para o diretor geral Lion Andreassa, a inovação é parte essencial da homenagem ao compositor: “A &lt;em&gt;Nona sinfonia&lt;/em&gt; nasceu revolucionando a história da música. A melhor forma de homenagear Beethoven não é apenas preservar sua obra, mas manter vivo o espírito inovador que a tornou eterna”. &lt;/p&gt;
 &lt;p&gt;Os ingressos já estão à venda, com preços a partir de R$ 80, e podem ser adquiridos no site: Uhuu.com (com taxa de serviço) e nas bilheterias da Vibra São Paulo, Teatro Bradesco e Teatro Sabesp Frei Caneca. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Reprodução, Dreamstime, Nicku)" data-entity-type="file" data-entity-uuid="d6586dd9-d6ce-4d03-986d-89b82244cadb" src="http://concerto.com.br/sites/default/files/inline-images/w-l_Beethoven_cor_dreamstime_xxl_20306478_ID_Nicku.jpg" /&gt;
+&lt;figcaption&gt;(Reprodução, Dreamstime, Nicku)&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;em&gt;&lt;strong&gt;Yerma&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, de Villa-Lobos, é finalista no International Opera Awards&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;A produção de &lt;em&gt;Yerma&lt;/em&gt;, de Villa-Lobos, coproduzida pelos festivais de ópera de Manaus e Belém e pelo Auditório de Tenerife, concorre ao International Opera Awards na categoria Obra Redescoberta. Inspirada na peça de Federico García Lorca, a ópera foi composta em 1956 e estreou apenas em 1971, nos EUA. A montagem apresentada em Tenerife marcou a estreia europeia da obra, em 2025, baseada em nova edição crítica revisada pelo maestro Luiz Fernando Malheiro, com encenação de Paco Azorín. A cerimônia de premiação ocorre em 21 de novembro, em Viena, com transmissão gratuita pela OperaVision. &lt;/p&gt;
@@ -210,7 +230,7 @@ Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
 &lt;p&gt;A prefeitura de Nova York lançou o programa Opera for All, que vai distribuir 70 mil ingressos gratuitos para apresentações no Metropolitan Opera House. Os bilhetes, provenientes de assentos não vendidos — o teatro tem média de 75% de ocupação — serão sorteados pelo aplicativo do MET e também repassados a organizações da cidade. Podem participar moradores que não compram ingressos desde 2019. Ao anunciar a iniciativa, o prefeito Zohran Mamdani destacou que a ópera deve ser acessível a todos, enquanto o diretor-geral do MET, Peter Gelb, celebrou o engajamento da administração municipal. &lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Funarte tem plataforma digital com partituras brasileiras&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A Funarte lançou o Banco de Partituras Brasileiras, plataforma digital que reúne cerca de 500 obras de diferentes acervos e projetos da instituição. Organizado em três áreas — Catálogo Geral, Ensino Musical e Bienal de Música Brasileira Contemporânea — o banco disponibiliza materiais ligados a iniciativas como o Repertório Sinos, a Série Música Brasileira para Bandas e coleções da Bienal, criada em 1975 e responsável pela apresentação de cerca de 2 mil obras. O projeto marca o início da digitalização e organização desses acervos, que podem ser consultados gratuitamente no site: partiturasbrasileiras.funarte.gov.br. &lt;/p&gt;
+&lt;p&gt;A Funarte lançou o Banco de Partituras Brasileiras, plataforma digital que reúne cerca de 500 obras de diferentes acervos e projetos da instituição. Organizado em três áreas — Catálogo Geral, Ensino Musical e Bienal de Música Brasileira Contemporânea — o banco disponibiliza materiais ligados a iniciativas como o Repertório Sinos, a Série Música Brasileira para Bandas e coleções da Bienal, criada em 1975 e responsável pela apresentação de cerca de 2 mil obras. O projeto marca o início da digitalização e organização desses acervos, que podem ser consultados gratuitamente &lt;a href="https://partiturasbrasileiras.funarte.gov.br/" target="_blank" title="link site"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Walter Lourenção falece em São Paulo &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;O maestro Walter Lourenção faleceu no dia 24 de setembro, em São Paulo, aos 96 anos. &lt;/strong&gt; &lt;/p&gt;
@@ -225,6 +245,11 @@ Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
 &lt;p&gt;Em 1994 iniciou seu período na Orquestra Sinfônica Brasileira, primeiro como diretor adjunto e, depois, como diretor artístico e regente titular. Em 2000 assumiu a Orquestra Petrobrás Pró-Música, que sob sua direção se consolidou na cena musical carioca. &lt;/p&gt;
 &lt;p&gt;Ao final de 2003 voltou a São Paulo e, em 2005, tornou-se diretor artístico do Instituto Baccarelli. Com a Orquestra Sinfônica Heliópolis, participou de projetos como a turnê europeia de 2010, com apresentações na Alemanha. Deixou o Baccarelli em 2011. Entre 2010 e 2013 foi maestro titular da Orquestra Sinfônica de Minas Gerais. &lt;/p&gt;
 &lt;p&gt;No início dos anos 2020, Tibiriçá reaproximou-se da Osesp, regendo projetos como a estreia da ópera &lt;em&gt;Cartas portuguesas&lt;/em&gt;, de João Guilherme Ripper, e gravando obras de Camargo Guarnieri. Em 2022 iniciou o seu último grande trabalho, como diretor artístico e regente titular da Orquestra Sinfônica do Paraná. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação, Klinsman Santana)" data-entity-type="file" data-entity-uuid="bbabdb71-f4fa-420a-8283-e6ea92e7d3e9" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0_0.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação, Klinsman Santana)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 17:55&lt;/span&gt;

@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 45,
+    "items": 46,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 46 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 5,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 45,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 39,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
