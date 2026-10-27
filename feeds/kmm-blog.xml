@@ -12,7 +12,7 @@
 	<atom:link href="https://kmm.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kmm.com.br/blog/</link>
 	<description>Espelho do RSS nativo do blog KMM (WordPress /feed/). /blog/feed/ é só comentários; site feed cobre posts recentes do blog.</description>
-	<lastBuildDate>Tue, 27 Oct 2026 07:59:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2026 14:37:57 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Reforma Tributária no transporte: o que muda e como preparar sua transportadora?</title>
+		<link>https://kmm.com.br/blog/reforma-tributaria/</link>
+					<comments>https://kmm.com.br/blog/reforma-tributaria/#respond</comments>
+		
+		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 13:49:06 +0000</pubDate>
+				<category><![CDATA[ABC da Logística]]></category>
+		<category><![CDATA[Gestão]]></category>
+		<guid isPermaLink="false">https://kmm.com.br/?p=21381</guid>
+
+					<description><![CDATA[<p>A Reforma Tributária está promovendo mudanças importantes na forma como os tributos sobre o consumo são cobrados no Brasil. Para o setor de transporte rodoviário de cargas, essa transformação exige atenção à legislação, aos documentos fiscais, aos processos financeiros e aos sistemas utilizados na operação. As mudanças acontecem de forma gradual. Em 2026, começou a [&#8230;]</p>
+<p>O post <a href="https://kmm.com.br/blog/reforma-tributaria/">Reforma Tributária no transporte: o que muda e como preparar sua transportadora?</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://kmm.com.br/blog/reforma-tributaria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CT-e de Subcontratação: o que muda com a Reforma Tributária em 2027?</title>
 		<link>https://kmm.com.br/blog/cte-de-subcontratacao/</link>
 					<comments>https://kmm.com.br/blog/cte-de-subcontratacao/#respond</comments>
@@ -199,25 +219,6 @@
 ]]></description>
 		
 					<wfw:commentRss>https://kmm.com.br/blog/auditoria-de-frete/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Transportadora e-commerce: como preparar sua operação para atender às demandas do comércio eletrônico</title>
-		<link>https://kmm.com.br/blog/transportadora-e-commerce/</link>
-					<comments>https://kmm.com.br/blog/transportadora-e-commerce/#respond</comments>
-		
-		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
-		<pubDate>Tue, 28 Jul 2026 18:02:48 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://kmm.com.br/?p=20950</guid>
-
-					<description><![CDATA[<p>Ser uma transportadora e-commerce vai muito além de realizar entregas para lojas virtuais. O crescimento acelerado do comércio eletrônico mudou o comportamento dos consumidores e elevou o nível de exigência em relação aos serviços logísticos. Hoje, fatores como velocidade na entrega, rastreamento em tempo real, integração com marketplaces e experiência do cliente passaram a ser [&#8230;]</p>
-<p>O post <a href="https://kmm.com.br/blog/transportadora-e-commerce/">Transportadora e-commerce: como preparar sua operação para atender às demandas do comércio eletrônico</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://kmm.com.br/blog/transportadora-e-commerce/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

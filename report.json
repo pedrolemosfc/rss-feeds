@@ -83,9 +83,9 @@
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 89,
+    "items": 90,
     "ok": true,
-    "notes": "scraped 89 items"
+    "notes": "scraped 90 items"
   },
   {
     "name": "claude-blog",
@@ -396,9 +396,9 @@
     "name": "morumbis-live-nation",
     "source_url": "https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377",
     "output": "feeds/morumbis-live-nation.xml",
-    "items": 7,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 7,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "cultura-artistica",
     "source_url": "https://culturaartistica.org/eventos/",
     "output": "feeds/cultura-artistica.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 45,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 39,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
