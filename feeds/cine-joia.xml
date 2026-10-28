@@ -6,7 +6,7 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 16:44:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:42:27 +0000</lastBuildDate>
 <item>
 <title>FEBRE90’S</title>
 <link>https://www.cinejoia.com.br/eventos/febre90s/</link>
@@ -173,13 +173,6 @@
 <link>https://www.cinejoia.com.br/eventos/sudan-archives/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/sudan-archives/</guid>
 <pubDate>Tue, 25 Aug 2026 12:00:12 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>JMSN</title>
-<link>https://www.cinejoia.com.br/eventos/jmsn/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/jmsn/</guid>
-<pubDate>Tue, 25 Aug 2026 10:49:47 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 <item>
@@ -355,6 +348,13 @@
 <link>https://www.cinejoia.com.br/eventos/the-slackers/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/the-slackers/</guid>
 <pubDate>Mon, 15 Jun 2026 11:58:37 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>TR/ST</title>
+<link>https://www.cinejoia.com.br/eventos/tr-st/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/tr-st/</guid>
+<pubDate>Mon, 15 Jun 2026 10:31:52 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>
