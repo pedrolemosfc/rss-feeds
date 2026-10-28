@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 81,
+    "items": 80,
     "ok": true,
-    "notes": "scraped 81 items"
+    "notes": "scraped 80 items"
   },
   {
     "name": "guia-shows",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>"
+    "items": 24,
+    "ok": true,
+    "notes": "scraped 24 items"
   },
   {
     "name": "page9-artes",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 173,
+    "items": 172,
     "ok": true,
-    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -216,9 +216,9 @@
     "name": "terra-sp",
     "source_url": "https://terrasp.com/feed/",
     "output": "feeds/terra-sp.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>",
+    "items": 14,
+    "ok": true,
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 30,
+    "items": 29,
     "ok": true,
-    "notes": "scraped 30 events",
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 52,
+    "items": 49,
     "ok": true,
-    "notes": "scraped 52 events",
+    "notes": "scraped 49 events",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "cultura-artistica",
     "source_url": "https://culturaartistica.org/eventos/",
     "output": "feeds/cultura-artistica.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 47,
+    "ok": true,
+    "notes": "scraped 47 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,18 +738,18 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
     "name": "instituto-care-programacao",
     "source_url": "https://institutocare.org.br/programacao/",
     "output": "feeds/instituto-care-programacao.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {

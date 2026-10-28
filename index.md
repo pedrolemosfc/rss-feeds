@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-28 01:34 UTC
+Generated: 2026-10-28 08:44 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-10-28 01:34 UTC
   notes: scraped 47 items
 - **folha-show** [OK] items=58 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 58 items
-- **guia-restaurantes** [OK] items=81 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 81 items
+- **guia-restaurantes** [OK] items=80 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 80 items
 - **guia-shows** [OK] items=92 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 92 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -42,8 +42,8 @@ Generated: 2026-10-28 01:34 UTC
   notes: scraped 90 items
 - **claude-blog** [FAIL] items=0 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: no article items found (empty or unparseable HTML)
-- **espaco-unimed-agenda** [FAIL] items=0 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
+- **espaco-unimed-agenda** [OK] items=24 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: scraped 24 items
 - **page9-artes** [OK] items=20 → `out/page9-artes.xml`  source: https://page9.com/artes  
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
@@ -66,8 +66,8 @@ Generated: 2026-10-28 01:34 UTC
   notes: mirrored 10 native items
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
-- **terra-sp** [FAIL] items=0 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
-  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
+- **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
+  notes: mirrored 10 native items
 - **mis-sp** [OK] items=13 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
   notes: mirrored 13 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
@@ -80,8 +80,8 @@ Generated: 2026-10-28 01:34 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **abti** [FAIL] items=0 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
-  notes: native feed has 0 items
+- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: mirrored 10 native items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
@@ -112,18 +112,18 @@ Generated: 2026-10-28 01:34 UTC
   notes: scraped 20 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
-- **komplexo-tempo** [FAIL] items=0 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
-  notes: fetch failed: URLError: <urlopen error [Errno 101] Network is unreachable>
+- **komplexo-tempo** [OK] items=14 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
+  notes: scraped 14 events
 - **btg-pactual-hall** [OK] items=12 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
   notes: scraped 12 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=30 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 30 events
+- **audio-sp** [OK] items=29 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 29 events
 - **teatro-das-artes-sp** [OK] items=9 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 9 events
-- **casa-de-francisca** [OK] items=52 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 52 events
+- **casa-de-francisca** [OK] items=49 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 49 events
 - **jazz-b** [OK] items=8 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 8 events
 - **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -140,8 +140,8 @@ Generated: 2026-10-28 01:34 UTC
   notes: scraped 50 events
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
-- **cultura-artistica** [OK] items=50 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: scraped 50 events
+- **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=5 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -174,18 +174,18 @@ Generated: 2026-10-28 01:34 UTC
   notes: scraped 30 events
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=47 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 47 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
-- **instituto-care-programacao** [FAIL] items=0 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
+- **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
+  notes: scraped 50 events
 - **hangar-110** [OK] items=17 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
   notes: scraped 17 events
 
@@ -193,5 +193,5 @@ Generated: 2026-10-28 01:34 UTC
 
 - **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=173 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=172 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])
