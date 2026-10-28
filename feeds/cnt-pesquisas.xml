@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:49:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:32:54 +0000</lastBuildDate>
+<item>
+<title>Série Especial de Economia – Investimentos em Transporte: PLOA 2027</title>
+<link>https://data.cnt.org.br/economia-e-mercado/serie-de-economia-investimentos-em-transporte-ploa-2027/</link>
+<guid isPermaLink="true">https://data.cnt.org.br/economia-e-mercado/serie-de-economia-investimentos-em-transporte-ploa-2027/</guid>
+<pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+<description>Análise do Transporte — A publicação analisa os investimentos públicos previstos no PLOA 2027 para a infraestrutura de transporte, que apresentam redução de 4% em relação à proposta orçamentária de 2026, apesar do crescimento dos investimentos públicos federais totais. O estudo detalha a distribuição dos recursos entre os órgãos executores e os diferentes modos de transporte, compara os valores previstos com as necessidades de infraestrutura e destaca oportunidades de aprimoramento da alocaçã...</description>
+</item>
 <item>
 <title>Pesquisa CNT de Opinião – 173ª rodada</title>
 <link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-173-rodada/</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=399d9e35-ddcb-443d-97ca-aa2d13544fe1</guid>
 <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
 <description>Estudos e Publicações — A redução da jornada semanal de trabalho de 44 para 40 horas pode provocar, no longo prazo, um impacto de R$ 11,88 bilhões no setor de transporte. É o que aponta o estudo técnico Redução de jornada, mudança de escalas e bem-estar social no setor de transportes, que analisa os efeitos econômicos e operacionais de mudanças no regime de trabalho.</description>
-</item>
-<item>
-<title>Pesquisa CNT de Opinião - 167ª rodada</title>
-<link>https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-167a-rodada/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/destaques/pesquisa-cnt-de-opiniao-167a-rodada/</guid>
-<pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
-<description>Estudos e Publicações — A nova edição da Pesquisa CNT de Opinião apresenta um cenário inicial para a eleição presidencial e dados sobre a avaliação do governo federal. Nos cenários estimulados de primeiro turno, Lula registra os maiores percentuais de intenção de voto. Flávio Bolsonaro, Ronaldo Caiado, Romeu Zema, Aldo Rebelo e Renan Santos foram os nomes da oposição testados. As simulações de segundo turno consideram combinações de disputa entre esses nomes e o atual presidente da República.</description>
 </item>
 </channel>
 </rss>
