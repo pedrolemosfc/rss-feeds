@@ -6,7 +6,7 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:43:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 16:45:04 +0000</lastBuildDate>
 <item>
 <title>v1.114.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11140</link>
@@ -15,11 +15,25 @@
 <description>Whiteboard: Dotted grid and snap to grid.</description>
 </item>
 <item>
+<title>Mobile app v1.41.6</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1416</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1416</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<description>You can now turn on a dotted grid from the whiteboard menu, and objects snap to the grid while it is on.; Improve the AI chat input UI.</description>
+</item>
+<item>
 <title>v1.113.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11130</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11130</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <description>Whiteboard: Show tags and properties on note cards.</description>
+</item>
+<item>
+<title>Mobile app v1.41.5</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1415</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1415</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<description>Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
 </item>
 <item>
 <title>v1.112.8</title>
@@ -540,7 +554,7 @@
 <description>Improve the overall AI Tutor capabilities. It can now read your whiteboards, understand more types of content, and search for cards and whiteboards by keywords.</description>
 </item>
 <item>
-<title>v1.90.4</title>
+<title>v1.90.4 </title>
 <link>https://wiki.heptabase.com/changelog/changelog#v1904</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1904</guid>
 <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
@@ -551,20 +565,6 @@
 <link>https://wiki.heptabase.com/changelog/changelog#v1903</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1903</guid>
 <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-<description>Heptabase changelog</description>
-</item>
-<item>
-<title>v1.90.2</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1902</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1902</guid>
-<pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-<description>You can now open web cards in the default browser from the right-click menu on the whiteboard.; You can now add sources directly from the AI Tutor chat composer.; Fix an issue where some cards were missing from the table view in Tag Database.; Fix an issue where opening a link led to a blank screen on the web app.; Fix an issue where connections couldn't be drawn on web cards on the whiteboard.; Fix an issue where web cards were not showing in Card Library custom query results.</description>
-</item>
-<item>
-<title>v1.90.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1901</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1901</guid>
-<pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 <description>Heptabase changelog</description>
 </item>
 </channel>
