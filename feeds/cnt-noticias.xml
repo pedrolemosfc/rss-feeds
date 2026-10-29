@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 29 Oct 2026 13:16:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:45:48 +0000</lastBuildDate>
 <item>
 <title>CNT defende navegação interior e ferrovias para equilibrar a matriz de transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/cnt-defende-navegacao-interior-e-ferrovias-para-equilibrar-a-matriz-de-transporte-em-encontro-da-atp</link>
@@ -36,6 +36,12 @@
 <description>Política — Relator reconheceu possíveis prejuízos a setores da economia; CNT alerta para impactos na continuidade dos serviços de transporte.</description>
 </item>
 <item>
+<title>Pavilhão Internacional do Transporte terá debates e lançamentos durante a COP31</title>
+<link>https://www.cnt.org.br/imprensa/noticia/pavilhao-internacional-do-transporte-tera-debates-e-lancamentos-durante-a-cop31</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pavilhao-internacional-do-transporte-tera-debates-e-lancamentos-durante-a-cop31</guid>
+<description>COP — Espaço reunirá governos, empresas e especialistas para apresentar soluções e debater os desafios da descarbonização, da inovação e da adaptação climática no transporte</description>
+</item>
+<item>
 <title>Rodovias brasileiras são ativos estratégicos para o país, diz CNT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/rodovias-brasileiras-representam-patrimonio-de-213-tri-e-devem-ser-encaradas-como-ativos</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/rodovias-brasileiras-representam-patrimonio-de-213-tri-e-devem-ser-encaradas-como-ativos</guid>
@@ -51,7 +57,7 @@
 <title>Comissão da Câmara aprova proposta que permite instrutor credenciado em exame da CNH</title>
 <link>https://www.cnt.org.br/imprensa/noticia/comissao-da-camara-aprova-proposta-que-permite-instrutor-em-exame-da-cnh</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/comissao-da-camara-aprova-proposta-que-permite-instrutor-em-exame-da-cnh</guid>
-<description>Substitutivo ao PL 1.521/2022 altera regras para o teste de direção; texto está alinhado a posições defendidas pelo Sistema Transporte</description>
+<description>Poder Legislativo — Substitutivo ao PL 1.521/2022 altera regras para o teste de direção; texto está alinhado a posições defendidas pelo Sistema Transporte</description>
 </item>
 <item>
 <title>OIE publica guia para plataformas digitais com contribuições da CNT</title>
@@ -174,16 +180,16 @@
 <description>Futuro do Transporte — Instituição autorizou a oferta dos cursos de Técnico em Saúde Bucal e Técnico em Transporte. Inscrições desses e dos demais cursos começam em 19 de outubro</description>
 </item>
 <item>
-<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
-<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
-<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
-</item>
-<item>
 <title>Câmara aprova urgência para projeto que amplia recursos destinados ao SEST SENAT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</guid>
 <description>Poder Legislativo — Medida acelera a tramitação da proposta, permite sua votação diretamente em Plenário e fortalece a qualificação profissional e os serviços sociais dos trabalhadores do transporte</description>
+</item>
+<item>
+<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
+<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
+<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
 </item>
 <item>
 <title>O trabalho está mudando. O Direito consegue acompanhá-lo?</title>
@@ -244,12 +250,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/atualizacao-dos-boletins-tecnicos-cnt-esta-disponivel</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/atualizacao-dos-boletins-tecnicos-cnt-esta-disponivel</guid>
 <description>CNT — Elaborado a partir de diversas fontes, compilado reúne dados mais relevantes para o setor em um formato prático</description>
-</item>
-<item>
-<title>Arquitetura que cuida: espaços que fortalecem o cuidado ao trabalhador do transporte e a sua família</title>
-<link>https://www.cnt.org.br/imprensa/noticia/arquitetura-que-cuida-espacos-que-fortalecem-o-cuidado-ao-trabalhador-do-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/arquitetura-que-cuida-espacos-que-fortalecem-o-cuidado-ao-trabalhador-do-transporte</guid>
-<description>ESG — O SEST SENAT investe na arquitetura de suas Unidades Operacionais com o objetivo de promover saúde, educação, bem-estar e inclusão</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 13:16:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:44:55 +0000</lastBuildDate>
+<item>
+<title>v1.115.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11150</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11150</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<description>Whiteboard - Smart guides.</description>
+</item>
 <item>
 <title>v1.114.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11140</link>
@@ -554,18 +561,11 @@
 <description>Improve the overall AI Tutor capabilities. It can now read your whiteboards, understand more types of content, and search for cards and whiteboards by keywords.</description>
 </item>
 <item>
-<title>v1.90.4 </title>
+<title>v1.90.4</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v1904</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1904</guid>
 <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
 <description>Fix an issue that prevented users from selecting blocks in the editor.</description>
-</item>
-<item>
-<title>v1.90.3</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1903</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1903</guid>
-<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-<description>Heptabase changelog</description>
 </item>
 </channel>
 </rss>

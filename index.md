@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-29 13:17 UTC
+Generated: 2026-10-29 19:46 UTC
 
 ## Native feeds (not scraped)
 
@@ -120,8 +120,8 @@ Generated: 2026-10-29 13:17 UTC
   notes: scraped 40 events
 - **audio-sp** [OK] items=33 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
   notes: scraped 33 events
-- **teatro-das-artes-sp** [OK] items=9 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
-  notes: scraped 9 events
+- **teatro-das-artes-sp** [OK] items=8 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
+  notes: scraped 8 events
 - **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
   notes: scraped 50 events
 - **jazz-b** [OK] items=8 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
