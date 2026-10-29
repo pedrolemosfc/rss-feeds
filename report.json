@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "mirrored 18 native items",
+    "notes": "mirrored 17 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 42,
+    "items": 41,
     "ok": true,
-    "notes": "scraped 42 events",
+    "notes": "scraped 41 events",
     "kind": "venue-scrape"
   },
   {
@@ -342,9 +342,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -396,9 +396,9 @@
     "name": "morumbis-live-nation",
     "source_url": "https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377",
     "output": "feeds/morumbis-live-nation.xml",
-    "items": 8,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 54,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 54 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -486,9 +486,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -549,9 +549,9 @@
     "name": "cultura-artistica",
     "source_url": "https://culturaartistica.org/eventos/",
     "output": "feeds/cultura-artistica.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -576,9 +576,9 @@
     "name": "tldb-livesets",
     "source_url": "https://tldb.co/",
     "output": "feeds/tldb-livesets.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error timed out>",
+    "items": 80,
+    "ok": true,
+    "notes": "scraped 80 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 47,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 47 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
