@@ -549,9 +549,9 @@
     "name": "cultura-artistica",
     "source_url": "https://culturaartistica.org/eventos/",
     "output": "feeds/cultura-artistica.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 48,
+    "ok": true,
+    "notes": "scraped 48 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {

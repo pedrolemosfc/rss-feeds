@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-30 06:00 UTC
+Generated: 2026-10-30 13:08 UTC
 
 ## Native feeds (not scraped)
 
@@ -140,8 +140,8 @@ Generated: 2026-10-30 06:00 UTC
   notes: scraped 50 events
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
-- **cultura-artistica** [OK] items=50 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: scraped 50 events
+- **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
+  notes: fetch failed: RemoteDisconnected: Remote end closed connection without response
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=4 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -174,16 +174,16 @@ Generated: 2026-10-30 06:00 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=48 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 48 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: no event items found
+- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=16 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
