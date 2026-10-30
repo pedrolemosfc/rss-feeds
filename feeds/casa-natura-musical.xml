@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Thu, 29 Oct 2026 19:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2026 23:59:45 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FBC</title>
+		<link>https://casanaturamusical.com.br/eventos/fbc/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fbc</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17289</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p><p>The post <a href="https://casanaturamusical.com.br/eventos/fbc/">FBC</a> first appeared on <a href="https://casanaturamusical.com.br">Casa Natura Musical</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Vanessa Moreno Visita Djavan</title>
 		<link>https://casanaturamusical.com.br/eventos/vanessa-moreno-visita-djavan-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vanessa-moreno-visita-djavan-2</link>
 		
@@ -146,20 +164,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17161</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gisela Mabel</title>
-		<link>https://casanaturamusical.com.br/eventos/gisela-mabel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gisela-mabel</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Mon, 14 Sep 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17156</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

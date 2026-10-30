@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 29 Oct 2026 19:43:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:59:47 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYyMSIsImRpc2xpa2VzIjoiMCJ9?token=TUqL8Gcm31TdXkokjXkQOSGv3vMfHcFCwmlr1oo1N2M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYyMiIsImRpc2xpa2VzIjoiMCJ9?token=V2rHdk3_lhcU2TKVav5dn-X92s0x73Ti3WPNHUmZT9I?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;621&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;622&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -131,6 +131,11 @@
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -281,6 +286,11 @@ Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -356,6 +366,11 @@ Vendas: Bilheteria da Sala Minas Gerais (Belo Horizonte): de terça a sexta-feir
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -421,6 +436,11 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -477,6 +497,11 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -537,6 +562,11 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -620,6 +650,11 @@ Dias 20, 22, 25, 27 e 29, Theatro São Pedro, São Paulo  &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -682,6 +717,11 @@ Dias 20, 22, 25, 27 e 29, Theatro São Pedro, São Paulo  &lt;/p&gt;
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;

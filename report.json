@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 22,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 22 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -567,9 +567,9 @@
     "name": "farol-conde-arena",
     "source_url": "https://farmacondearena.com.br/agenda",
     "output": "feeds/farol-conde-arena.xml",
-    "items": 5,
+    "items": 4,
     "ok": true,
-    "notes": "scraped 5 events",
+    "notes": "scraped 4 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -756,9 +756,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   }
 ]
