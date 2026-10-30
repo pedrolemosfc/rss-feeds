@@ -468,27 +468,27 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 55,
+    "items": 53,
     "ok": true,
-    "notes": "scraped 55 events",
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 8,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 14,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 14 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 47,
-    "ok": true,
-    "notes": "scraped 47 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

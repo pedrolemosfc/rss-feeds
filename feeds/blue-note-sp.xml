@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 30 Oct 2026 00:00:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:58:31 +0000</lastBuildDate>
 <item>
 <title>PULP FICTION SOUNDTRACK POR FRÃ FINAMORE</title>
 <link>https://bluenotesp.com/shows/pulp-fiction-soundtrack-por-fra-finamore/</link>
@@ -50,6 +50,13 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>LOBÃO</title>
+<link>https://bluenotesp.com/shows/lobao/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/lobao/</guid>
+<pubDate>Wed, 14 Oct 2026 16:30:58 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>HÉLIO RAMALHO &amp; NESSA ONDA</title>
 <link>https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/</guid>
@@ -68,6 +75,13 @@
 <link>https://bluenotesp.com/shows/baile-cafe-con-ron/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/baile-cafe-con-ron/</guid>
 <pubDate>Wed, 14 Oct 2026 15:25:15 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>FUNK COMO LE GUSTA</title>
+<link>https://bluenotesp.com/shows/funk-como-le-gusta/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/funk-como-le-gusta/</guid>
+<pubDate>Fri, 09 Oct 2026 12:16:55 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -281,24 +295,10 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>THE DIRE STRAITS EXPERIENCE COM GUI CICARELLI</title>
-<link>https://bluenotesp.com/shows/the-dire-straits-experience-com-gui-cicarelli/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/the-dire-straits-experience-com-gui-cicarelli/</guid>
-<pubDate>Tue, 08 Sep 2026 13:32:18 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>BAILE DO GEORGE</title>
-<link>https://bluenotesp.com/shows/baile-do-george/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/baile-do-george/</guid>
-<pubDate>Tue, 08 Sep 2026 13:06:49 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>JOÃO SABIÁ</title>
-<link>https://bluenotesp.com/shows/joao-sabia/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/joao-sabia/</guid>
-<pubDate>Tue, 08 Sep 2026 13:04:10 +0000</pubDate>
+<title>GEORGE ISRAEL (KID ABELHA), HENRIQUE PORTUGAL (SKANK) E CHARLES GAVIN (TITÃS)</title>
+<link>https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/</guid>
+<pubDate>Thu, 03 Sep 2026 17:59:26 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
