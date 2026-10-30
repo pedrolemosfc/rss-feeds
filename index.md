@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-30 13:08 UTC
+Generated: 2026-10-30 19:31 UTC
 
 ## Native feeds (not scraped)
 
@@ -48,8 +48,8 @@ Generated: 2026-10-30 13:08 UTC
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
   notes: scraped 100 items
-- **qobuz-magazine-br** [OK] items=31 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
-  notes: scraped 31 items
+- **qobuz-magazine-br** [OK] items=32 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
+  notes: scraped 32 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
 - **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
@@ -88,8 +88,8 @@ Generated: 2026-10-30 13:08 UTC
   notes: scraped 10 events
 - **teatro-bradesco** [OK] items=41 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
   notes: scraped 41 events
-- **vibra-sp** [OK] items=18 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
-  notes: scraped 18 events
+- **vibra-sp** [OK] items=17 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
+  notes: scraped 17 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
@@ -122,8 +122,8 @@ Generated: 2026-10-30 13:08 UTC
   notes: scraped 33 events
 - **teatro-das-artes-sp** [OK] items=8 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 8 events
-- **casa-de-francisca** [OK] items=53 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 53 events
+- **casa-de-francisca** [OK] items=55 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 55 events
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
 - **cavern-club-sp** [OK] items=19 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -164,8 +164,8 @@ Generated: 2026-10-30 13:08 UTC
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
   notes: no event items found
-- **colossus** [OK] items=79 → `feeds/colossus.xml`  source: https://colossus.com/  
-  notes: scraped 79 events
+- **colossus** [OK] items=80 → `feeds/colossus.xml`  source: https://colossus.com/  
+  notes: scraped 80 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
 - **antt-cargas-rodoviarias** [OK] items=8 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
@@ -174,8 +174,8 @@ Generated: 2026-10-30 13:08 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=48 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 48 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  

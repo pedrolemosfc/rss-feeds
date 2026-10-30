@@ -12,7 +12,7 @@
 	<atom:link href="https://www.tokiomarinehall.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tokiomarinehall.com.br/</link>
 	<description>Espelho do RSS nativo do Tokio Marine Hall</description>
-	<lastBuildDate>Fri, 30 Oct 2026 13:06:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Oct 2026 19:28:35 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.11</generator>
 	<item>
+		<title>Calema</title>
+		<link>https://www.tokiomarinehall.com.br/calema/</link>
+		
+		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 13:14:38 +0000</pubDate>
+				<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5893</guid>
+
+					<description><![CDATA[<p>Calema</p>
+<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/calema/">Calema</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Espetáculo Origens</title>
 		<link>https://www.tokiomarinehall.com.br/espetaculo-origens/</link>
 		
@@ -164,22 +180,6 @@ Natal</p>
 		
 		
 			</item>
-		<item>
-		<title>Fernando e Sorocaba &#8211; CANCELADO</title>
-		<link>https://www.tokiomarinehall.com.br/fernando-e-sorocaba/</link>
-		
-		<dc:creator><![CDATA[Tiago Miranda]]></dc:creator>
-		<pubDate>Mon, 11 May 2026 13:55:10 +0000</pubDate>
-				<category><![CDATA[Shows]]></category>
-		<guid isPermaLink="false">https://www.tokiomarinehall.com.br/?p=5614</guid>
-
-					<description><![CDATA[<p>Fernando e Sorocaba</p>
-<p>O post <a rel="nofollow" href="https://www.tokiomarinehall.com.br/fernando-e-sorocaba/">Fernando e Sorocaba &#8211; CANCELADO</a> apareceu primeiro em <a rel="nofollow" href="https://www.tokiomarinehall.com.br">Tokio Marine Hall</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -188,5 +188,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: www.tokiomarinehall.com.br @ 2026-10-30 10:06:31 by W3 Total Cache
+Served from: www.tokiomarinehall.com.br @ 2026-10-30 16:28:35 by W3 Total Cache
 -->

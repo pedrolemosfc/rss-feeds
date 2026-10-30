@@ -123,9 +123,9 @@
     "name": "qobuz-magazine-br",
     "source_url": "https://www.qobuz.com/br-pt/magazine",
     "output": "out/qobuz-magazine-br.xml",
-    "items": 31,
+    "items": 32,
     "ok": true,
-    "notes": "scraped 31 items"
+    "notes": "scraped 32 items"
   },
   {
     "name": "noize",
@@ -315,9 +315,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 18,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 18 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 53,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 53 events",
+    "notes": "scraped 55 events",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "colossus",
     "source_url": "https://colossus.com/",
     "output": "feeds/colossus.xml",
-    "items": 79,
+    "items": 80,
     "ok": true,
-    "notes": "scraped 79 events",
+    "notes": "scraped 80 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 48,
-    "ok": true,
-    "notes": "scraped 48 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
