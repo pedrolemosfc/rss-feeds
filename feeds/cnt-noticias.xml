@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 31 Oct 2026 12:46:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 18:41:07 +0000</lastBuildDate>
 <item>
 <title>CNT defende navegação interior e ferrovias para equilibrar a matriz de transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/cnt-defende-navegacao-interior-e-ferrovias-para-equilibrar-a-matriz-de-transporte-em-encontro-da-atp</link>
@@ -42,6 +42,12 @@
 <description>Sustentabilidade — Durante o Frotas &amp; Fretes Verdes – XV Summit 2026, diretor de Relações Institucionais da Confederação destacou a importância de segurança jurídica, financiamento e políticas públicas para modernizar a frota brasileira</description>
 </item>
 <item>
+<title>Cargas perigosas: sinalização dos veículos é fundamental para a segurança nas rodovias</title>
+<link>https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</guid>
+<description>SEST SENAT — Placas e painéis ajudam a identificar os riscos das substâncias transportadas e orientam equipes de emergência; curso gratuito do SEST SENAT aborda as regras para a sinalização correta dos veículos</description>
+</item>
+<item>
 <title>ITL forma 40 gestores na 72ª turma da especialização em Gestão de Negócios</title>
 <link>https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</guid>
@@ -52,12 +58,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/sest-senat-inaugura-unidade-em-goiana-pe-para-ampliar-formao-profissional-e-atendimento-em-sade</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-inaugura-unidade-em-goiana-pe-para-ampliar-formao-profissional-e-atendimento-em-sade</guid>
 <description>SEST SENAT — Com investimento de R$ 20,5 milhões, estrutura acompanha o crescimento industrial da região e tem capacidade para mais de 53 mil atendimentos por ano</description>
-</item>
-<item>
-<title>Cargas perigosas: sinalização dos veículos é fundamental para a segurança nas rodovias</title>
-<link>https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</guid>
-<description>SEST SENAT — Placas e painéis ajudam a identificar os riscos das substâncias transportadas e orientam equipes de emergência; curso gratuito do SEST SENAT aborda as regras para a sinalização correta dos veículos</description>
 </item>
 <item>
 <title>Pavilhão Internacional do Transporte terá debates e lançamentos durante a COP31</title>
@@ -132,16 +132,16 @@
 <description>Política — Material apoia as empresas na compreensão da aplicação da Emenda Constitucional nº 141/2026, dos prazos de adaptação e dos efeitos da mudança nos custos e nas operações do setor</description>
 </item>
 <item>
-<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
-<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
-</item>
-<item>
 <title>Projeto desenvolvido por alunos do ITL aposta na prevenção de falhas em caminhões com uso da tecnologia</title>
 <link>https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</guid>
 <description>Tecnologia e inovação — Trabalho desenvolvido no curso executivo Gestão de Ativos, do ITL, integra telemetria, inteligência artificial e análise de dados para otimizar a manutenção de frotas</description>
+</item>
+<item>
+<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
+<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
 </item>
 <item>
 <title>Da garagem aos portos, experiências brasileiras levam soluções do transporte à COP31</title>
@@ -204,16 +204,16 @@
 <description>Futuro do Transporte — Instituição autorizou a oferta dos cursos de Técnico em Saúde Bucal e Técnico em Transporte. Inscrições desses e dos demais cursos começam em 19 de outubro</description>
 </item>
 <item>
-<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
-<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
-<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
-</item>
-<item>
 <title>Câmara aprova urgência para projeto que amplia recursos destinados ao SEST SENAT</title>
 <link>https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/camara-aprova-urgencia-para-projeto-que-amplia-recursos-destinados-ao-sest-senat</guid>
 <description>Poder Legislativo — Medida acelera a tramitação da proposta, permite sua votação diretamente em Plenário e fortalece a qualificação profissional e os serviços sociais dos trabalhadores do transporte</description>
+</item>
+<item>
+<title>CCJ do Senado conclui votação da PEC da Segurança Pública; texto segue para Plenário</title>
+<link>https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica</guid>
+<description>Poder Legislativo — Proposta prevê atuação da PRF no patrulhamento ostensivo de ferrovias e hidrovias federais, além das rodovias; CNT defende integração entre órgãos de segurança e compartilhamento de dados</description>
 </item>
 <item>
 <title>O trabalho está mudando. O Direito consegue acompanhá-lo?</title>
