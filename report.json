@@ -396,9 +396,9 @@
     "name": "morumbis-live-nation",
     "source_url": "https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377",
     "output": "feeds/morumbis-live-nation.xml",
-    "items": 6,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
