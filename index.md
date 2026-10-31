@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-10-30 23:56 UTC
+Generated: 2026-10-31 05:57 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,10 +22,10 @@ Generated: 2026-10-30 23:56 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=57 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 57 items
-- **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 79 items
+- **folha-show** [OK] items=58 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 58 items
+- **guia-restaurantes** [OK] items=78 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 78 items
 - **guia-shows** [OK] items=93 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 93 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -68,8 +68,8 @@ Generated: 2026-10-30 23:56 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=17 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 17 native items
+- **mis-sp** [OK] items=16 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 16 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -86,8 +86,8 @@ Generated: 2026-10-30 23:56 UTC
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
   notes: scraped 10 events
-- **teatro-bradesco** [OK] items=41 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 41 events
+- **teatro-bradesco** [OK] items=40 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 40 events
 - **vibra-sp** [OK] items=17 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 17 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
@@ -100,8 +100,8 @@ Generated: 2026-10-30 23:56 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=7 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 7 events
-- **bourbon-street** [OK] items=21 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 21 events
+- **bourbon-street** [OK] items=20 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 20 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -114,20 +114,20 @@ Generated: 2026-10-30 23:56 UTC
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=13 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
   notes: scraped 13 events
-- **btg-pactual-hall** [OK] items=12 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
-  notes: scraped 12 events
+- **btg-pactual-hall** [OK] items=11 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
+  notes: scraped 11 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=33 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 33 events
+- **audio-sp** [OK] items=32 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 32 events
 - **teatro-das-artes-sp** [OK] items=8 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 8 events
-- **casa-de-francisca** [OK] items=56 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 56 events
+- **casa-de-francisca** [OK] items=53 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 53 events
 - **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 10 events
-- **cavern-club-sp** [OK] items=19 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 19 events
+- **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 18 events
 - **manifesto-bar** [OK] items=19 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 19 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -154,8 +154,8 @@ Generated: 2026-10-30 23:56 UTC
   notes: scraped 80 events
 - **cabinet-magazine** [OK] items=80 → `feeds/cabinet-magazine.xml`  source: https://www.cabinetmagazine.org/  
   notes: scraped 80 events
-- **arena-sertaneja-fever** [OK] items=11 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
-  notes: scraped 11 events
+- **arena-sertaneja-fever** [OK] items=10 → `feeds/arena-sertaneja-fever.xml`  source: https://feverup.com/pt/sao-paulo/venue/arena-sertaneja  
+  notes: scraped 10 events
 - **heptabase-changelog** [OK] items=80 → `feeds/heptabase-changelog.xml`  source: https://wiki.heptabase.com/changelog  
   notes: scraped 80 events
 - **fabric-changelog** [OK] items=3 → `feeds/fabric-changelog.xml`  source: https://fabric.so/info/changelog  
@@ -174,8 +174,8 @@ Generated: 2026-10-30 23:56 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=48 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 48 events
+- **cly-blog** [OK] items=49 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 49 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
@@ -191,7 +191,7 @@ Generated: 2026-10-30 23:56 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=187 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=172 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **folha-musica-topicos** [OK] items=188 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])
