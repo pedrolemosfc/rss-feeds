@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 01 Nov 2026 20:35:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 01:34:57 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYzNCIsImRpc2xpa2VzIjoiMCJ9?token=aBPe0dXNYhnRj1ujWX2g0F2P0NYggRsDkyaa1yOoLNc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYzNiIsImRpc2xpa2VzIjoiMCJ9?token=i7lJrTw_rvNpHBieOtYrvUXiO8aQ2luRUY1T-eYegJk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;634&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;636&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -146,6 +146,84 @@
   <pubDate>Sun, 01 Nov 2026 23:42:39 +0000</pubDate>
     <dc:creator>Nelson Rubens Kunze</dc:creator>
     <guid isPermaLink="false">284094 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Sala Cecília Meireles anuncia novo prêmio nacional de música</title>
+  <link>http://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Iniciativa reconhecerá artistas, educadores e projetos culturais e está com inscrições abertas até o dia 9 de novembro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Sala Cecília Meireles, no Rio de Janeiro, anunciou a criação do Prêmio de Música Sala Cecília Meireles 2026, nova iniciativa de alcance nacional voltada ao reconhecimento de artistas em início de carreira, grupos de câmara, educadores musicais e projetos dedicados à formação e à difusão da música de concerto no Brasil. Promovida pela Associação dos Amigos da Sala Cecília Meireles, a premiação está com inscrições gratuitas abertas até o próximo dia 9 de novembro, que deverão ser feitas pela internet.&lt;/p&gt;
+&lt;p&gt;Em sua primeira edição, o prêmio será dividido em cinco categorias: Artista revelação, Grupo de câmara, Educador musical, Prêmio especial Sala Cecília Meireles e Prêmio do público. Os vencedores das categorias Artista revelação e Grupo de câmara serão convidados a integrar a temporada artística de 2027 da Sala Cecília Meireles, com apresentações remuneradas, R$ 3 mil e R$ 5 mil, respectivamente. Também haverá premiações em dinheiro no valor der R$ 3 mil nas outras categorias, além de troféu e certificado.&lt;/p&gt;
+&lt;p&gt;Segundo o diretor da Sala Cecília Meireles, Aldo Mussi, a iniciativa amplia a vocação histórica da instituição de promover o encontro entre intérpretes, novas gerações e público. “O prêmio amplia essa vocação ao reconhecer artistas, grupos de câmara, educadores e projetos que contribuem para a música de concerto em diferentes regiões do Brasil”, afirmou.&lt;/p&gt;
+&lt;p&gt;A idealizadora do projeto, a cantora lírica Priscilla Cadette, destacou a importância de criar oportunidades concretas para profissionais em início de carreira. “Idealizar este prêmio nasce também dessa vivência e do desejo de oferecer a outros músicos um incentivo concreto para seguir na profissão”, comentou.&lt;/p&gt;
+&lt;p&gt;Além das categorias de performance artística, o prêmio também reconhecerá o trabalho de educadores musicais com atuação em ensino, mediação cultural e formação de público, além de instituições, coletivos e projetos culturais que se destaquem por ações de criação, difusão, preservação e democratização do acesso à música.&lt;/p&gt;
+&lt;p&gt;As candidaturas serão avaliadas por uma comissão formada por três profissionais com experiência nas áreas de música, formação e produção cultural. Os finalistas serão anunciados em 3 de dezembro. A partir dessa data até o dia 11 de dezembro, ficará aberta uma votação online que escolherá o vencedor do Prêmio do público entre os finalistas das categorias Artista revelação e Grupo de câmara.&lt;/p&gt;
+&lt;p&gt;A cerimônia de premiação está marcada para 17 de dezembro de 2026, na Sala Cecília Meireles, com transmissão pelo canal da instituição no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://salaceciliameireles.rj.gov.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o site da Sala Cecília Meireles.&lt;br /&gt;
+&lt;u&gt;&lt;a href="https://salaceciliameireles.rj.gov.br/wp-content/uploads/2026/10/Regulamento-do-I-Premio-de-Musica-Sala-Cecilia-Meireles.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o regulamento do Prêmio de Música Sala Cecília Meireles.&lt;br /&gt;
+&lt;u&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdgdO31QZkTnHieiYP-wC23NfFHRxSXe_jPVKG9hOuT5m0U1g/viewform" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o formulário de inscrição.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" data-entity-type="file" data-entity-uuid="9c0aa35b-58fd-4683-96f3-38d559c7a15b" src="http://concerto.com.br/sites/default/files/inline-images/w-SalaCeciliaMeireles_fachada_div.jpg" /&gt;
+&lt;figcaption&gt;Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 18:19&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-SalaCeciliaMeireles_fachada_div.jpg" width="900" height="600" alt="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" title="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2399" hreflang="pt-br"&gt;Sala Cecília Meireles &lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyMjQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=wI_jpVMa78uvEGW7_qO_31STJNZuQuqVfaNd2espr7s?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 01 Nov 2026 18:19:35 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284224 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Notícias do mundo musical</title>
@@ -663,75 +741,6 @@ Dias 20, 22, 25, 27 e 29, Theatro São Pedro, São Paulo  &lt;/p&gt;
   <pubDate>Sun, 01 Nov 2026 12:38:12 +0000</pubDate>
     <dc:creator>João Luiz Sampaio</dc:creator>
     <guid isPermaLink="false">284103 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Expectativas vívidas </title>
-  <link>http://concerto.com.br/node/284102</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Expectativas vívidas &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Como soa a música daqueles compositores que marcaram minha geração&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Tchaikovsky fala, em algum lugar, de músicas que exprimem vividamente as expectativas de cada geração. Matutei sobre quais seriam as de minha geração. &lt;/p&gt;
-&lt;p&gt;Nasci em 1947, cheguei à juventude nos anos 1960. Na música popular, foi a bossa nova. Ela significava ruptura com as vozes apaixonadas da &lt;em&gt;Revista do Rádio&lt;/em&gt;. Trazia elegância discreta pela simplicidade, sensualidade confidencial e certeza de um presente harmonioso. Mas há juventude e juventude. Para outros, era a Jovem Guarda, com sonhos de calhambeques e carrões, garotas ternurinhas e calças apertadas. Ou ainda os Beatles, Jimi Hendrix. &lt;/p&gt;
-&lt;p&gt;Na música escrita, dita “clássica”, o nome para mim era Luigi Nono. Ele correspondia às esperanças históricas e confortava a certeza de que uma nova sociedade deveria surgir. Nono ia além de experiências puramente formais, ao contrário de tantos de seus contemporâneos. Preenchia os sons de intensidades políticas. Renovação musical e mudança social vinham como uma coisa só, voltadas para a emancipação da humanidade. Se a bossa nova expunha um presente harmonioso, Nono indicava um futuro pelo qual lutar. &lt;/p&gt;
-&lt;p&gt;Como soa hoje, pelo menos para mim, a música de Nono? Soa doída. Foi, se não amargo, triste assistir a &lt;em&gt;Intolleranza 1960&lt;/em&gt;, que o Theatro Municipal de São Paulo teve a boa ideia de montar há alguns meses. Quando Nono compôs essa ópera, todo sentimento de indignação frente à injustiça social, de ódio à opressão e às formas de violência política, vinha junto com a esperança de uma virada na história. Hoje, essa ópera ecoa como a aspiração passada de um futuro que não chegou, que talvez não chegue nunca. &lt;/p&gt;
-&lt;p&gt;A obra não enfraqueceu. Ela foi o horizonte de esperanças que se estreitou e se afastou. Como em &lt;em&gt;Don Carlo&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;de Verdi, a percepção de que a liberdade iluminista está, para nós, sempre mais distante não torna essa obra menos poderosa. Por sinal, Nono prolonga, na segunda metade do século XX, a poderosa tradição italiana da ópera política que incitava à ação. &lt;/p&gt;
-&lt;p&gt;E ele não era o único. Ligeti foi – e continuou sendo – um sedutor. &lt;em&gt;2001: uma odisseia no espaço&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;de Stanley Kubrick, catapultou sua música para minha geração e vinculou-a à expectativa das conquistas espaciais. &lt;em&gt;Atmosphères &lt;/em&gt;deixa o ouvinte flutuante, sem direção, fora de qualquer desenvolvimento sonoro reconhecível. O&lt;em&gt; Réquiem&lt;/em&gt;, para sempre associado ao monólito, transmite uma estranheza metafísica. &lt;/p&gt;
-&lt;p&gt;Ligeti é diferente de seus contemporâneos. Sua música toma o ouvinte de imediato. Com ele, não é preciso sofrer para atingir o âmago do gozo intelectual em composições intrincadíssimas de vanguarda, como pregava Adorno, sob pena de ser rotulado como “burguês” no inferno dos filisteus que ouvem &lt;em&gt;A sagração da primavera&lt;/em&gt;. E &lt;em&gt;2001 &lt;/em&gt;é a demonstração de que a música contemporânea não necessita de concessões para atingir o grande público. &lt;/p&gt;
-&lt;p&gt;Havia Berio, também. Ele parece, para nós, agora, prenunciar, ao longe, a pós-modernidade, retomando em suas composições o passado da música – passado que ressurge por meio de fragmentos, de citações, de metamorfoses. Havia Boulez, para os formalistas elegantes, e Stockhausen, para quem queria místicos orgasmos sonoros algumas horas à frente de seu tempo. &lt;/p&gt;
-&lt;p&gt;Voltando à formulação de Tchaikovsky, pergunto-me que compositor corresponderia às vívidas expectativas da geração atual. Em minha velhice ignara, não sei de nenhum jovem, e só me vêm à mente criadores mais ou menos de minha idade.  &lt;/p&gt;
-&lt;p&gt;John Adams, de 1947, significou uma volta à expressão sinfônica eloquente, a um sentimento quase neorromântico, à energia tonal, à riqueza da orquestração, buscando, sem falsas vergonhas, o prazer. As óperas que compôs recuperam de modo eficaz a história política contemporânea e mantêm-se no repertório.  &lt;/p&gt;
-&lt;p&gt;Philip Glass, dez anos mais velho, trouxe o fascínio pelos processos repetitivos, sem perder o sentido da suntuosidade sonora. Suas óperas exprimem grandes ambições históricas, que me lembram a &lt;em&gt;grand opéra&lt;/em&gt; do século XIX. &lt;/p&gt;
-&lt;p&gt;Há também Arvo Pärt e a grande depuração que leva à transcendência. Não traz esperanças de mudanças no mundo nem convites aos combates. Sua escrita &lt;em&gt;tintinnabuli &lt;/em&gt;impõe economia sonora, caminho para a paz interior.  &lt;/p&gt;
-&lt;p&gt;Mas creio que o mais expressivo dos contemporâneos é John Williams; nada jovem, ele também. Retoma os sentimentos heroicos, o ânimo das aventuras, os conflitos e as pacificações. Sobretudo, demonstra que as expectativas de hoje não estão mais nas experiências de vanguarda, mas na música que busca os poderes da emoção.  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luigi Nono (1924-90) (divulgação, Fernando Pereira, Anefo)" data-entity-type="file" data-entity-uuid="32d762f4-525d-4dc7-ab9f-44599f3da812" src="http://concerto.com.br/sites/default/files/inline-images/w-luigi_nono_coli.jpg" /&gt;
-&lt;figcaption&gt;Luigi Nono (1924-90) (divulgação, Fernando Pereira, Anefo)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15068" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Jorge Coli&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 11:34&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-luigi_nono_coli.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Notas Soltas&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sun, 01 Nov 2026 11:34:26 +0000</pubDate>
-    <dc:creator>Jorge Coli</dc:creator>
-    <guid isPermaLink="false">284102 at http://concerto.com.br</guid>
     </item>
 
   </channel>
