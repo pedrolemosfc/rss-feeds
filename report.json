@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 78,
+    "items": 77,
     "ok": true,
-    "notes": "scraped 78 items"
+    "notes": "scraped 77 items"
   },
   {
     "name": "guia-shows",
@@ -83,9 +83,9 @@
     "name": "xai-news",
     "source_url": "https://x.ai/news",
     "output": "out/xai-news.xml",
-    "items": 90,
+    "items": 91,
     "ok": true,
-    "notes": "scraped 90 items"
+    "notes": "scraped 91 items"
   },
   {
     "name": "claude-blog",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 170,
+    "items": 169,
     "ok": true,
-    "notes": "merged 2 feeds -> 170 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 169 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -477,27 +477,27 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 16,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 19,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
