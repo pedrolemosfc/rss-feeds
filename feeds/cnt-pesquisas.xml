@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:04:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 19:38:21 +0000</lastBuildDate>
+<item>
+<title>Boletim Unificado - Outubro 2026</title>
+<link>https://www.cnt.org.br/pesquisas?documento=4ac88aa4-7425-45f2-a059-0811416ed677</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=4ac88aa4-7425-45f2-a059-0811416ed677</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<description>Boletins — Boletim Unificado - Outubro 2026</description>
+</item>
 <item>
 <title>Outubro/2026 - Como se proteger das ameaças digitais?</title>
 <link>https://www.cnt.org.br/pesquisas?documento=8d6a1ee5-1d6c-4fae-82e0-532949913584</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://data.cnt.org.br/boletins/boletins-tecnicos-cnt-abr-2026/</guid>
 <pubDate>Thu, 30 Apr 2026 09:00:00 +0000</pubDate>
 <description>Boletins — Boletim Unificado - Abril 2026</description>
-</item>
-<item>
-<title>Boletim Unificado - Março 2026</title>
-<link>https://data.cnt.org.br/boletins/boletins-tecnicos-cnt-mar-2026/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/boletins/boletins-tecnicos-cnt-mar-2026/</guid>
-<pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
-<description>Boletins — Boletim Unificado - Março 2026</description>
 </item>
 </channel>
 </rss>

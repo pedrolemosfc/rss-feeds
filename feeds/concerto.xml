@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 03 Nov 2026 12:01:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 19:34:52 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY0NiIsImRpc2xpa2VzIjoiMCJ9?token=m0iXZLcDj3YI3FIHO_GyY_FqX0kii5tE_DL0aGfZ2Vk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY0NyIsImRpc2xpa2VzIjoiMCJ9?token=GcH4Wtn3zaJC8W2zFQL7c_vnmOOaurN0J6Cl6X4g6xQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;646&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;647&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,476 +82,353 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Daniel Umbelino - tenor e Dante Pignatari - piano</title>
-  <link>http://concerto.com.br/roteiros/daniel-umbelino-tenor-e-dante-pignatari-piano-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Daniel Umbelino - tenor e Dante Pignatari - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:43&lt;/span&gt;
+  <title>1126_Tucca_ROT (Todas as Datas)</title>
+  <link>http://concerto.com.br/node/284269</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_Tucca_ROT (Todas as Datas)&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;À amada distante. Programa: obras de Nepomuceno e as célebres canções venezianas de Reynaldo Hahn.&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-publicidade-roteiro field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_Tucca_ROT.jpg" width="380" height="490" alt="Banner Tucca Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T11:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 18:04&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-publicidade-roteiro field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://www.tucca.org.br/wp-content/uploads/2026/10/CADERNO-CI-2027.pdf&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-roteiro-todas-datas field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Todas as Datas&lt;/div&gt;
+              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;9&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/a-amada-distante-daniel-umbelino-tenor-dante-pignatari-piano/3623963?share_id=copiarlink.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:43:14 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284238 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/daniel-umbelino-tenor-e-dante-pignatari-piano-0#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 18:04:43 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284269 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Grande Serão: Um Sarau de Travessias</title>
-  <link>http://concerto.com.br/roteiros/grande-serao-um-sarau-de-travessias</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grande Serão: Um Sarau de Travessias&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:39&lt;/span&gt;
+  <title>1126_SeloSesc_ROT (Todas as Datas)</title>
+  <link>http://concerto.com.br/node/284268</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_SeloSesc_ROT (Todas as Datas)&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;70 anos da obra-prima de João Guimarães Rosa. Andres Santos Jr.: direção de palco e narração.Flavio Lago - piano e preparador musical. José Paulo Fiks - texto e iluminação. Programa: um percurso musical especialmente concebido para dialogar com o universo rosiano. &lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-publicidade-roteiro field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_SeloSesc_ROT.jpg" width="380" height="490" alt="Banner Selo Sesc Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T19:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 18:04&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-publicidade-roteiro field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://tratore.ffm.to/relicariotomze&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-roteiro-todas-datas field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Todas as Datas&lt;/div&gt;
+              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;6&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-sergio-cardoso" hreflang="und"&gt;Teatro Sérgio Cardoso (856 lugares)&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 150. Vendas: https://bileto.sympla.com.br/event/127908/d/418706/s/2717330?share_id=1-copiarlink.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:39:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284237 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/grande-serao-um-sarau-de-travessias#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 18:04:42 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284268 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Adonhiram Reis e Alceu Reis - professores e jovens músicos convidados </title>
-  <link>http://concerto.com.br/roteiros/adonhiram-reis-e-alceu-reis-professores-e-jovens-musicos-convidados</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Adonhiram Reis e Alceu Reis - professores e jovens músicos convidados &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:36&lt;/span&gt;
+  <title>1126_CulturaArtistica_ROT (Todas as Datas)</title>
+  <link>http://concerto.com.br/node/284266</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_CulturaArtistica_ROT (Todas as Datas)&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Ensinamentos musicais: jovens talentos e professores. Heranças musicais - A magia de Schubert. Programa: Schubert - Trio em si bemol maior e Quinteto de cordas op. 163. &lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-publicidade-roteiro field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_CulturaArtistica_ROT.jpg" width="380" height="490" alt="Banner Cultura Artística Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T11:00:00Z" class="datetime"&gt;dom, 22/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 18:04&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-publicidade-roteiro field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://culturaartistica.org/assinaturas-2027/&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-roteiro-todas-datas field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Todas as Datas&lt;/div&gt;
+              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;6&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/herancas-musicais-a-magia-de-schubert-ensinamentos-musicais-jovens-talentos-e-professores/3623491?share_id=copiarlink&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:36:20 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284236 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/adonhiram-reis-e-alceu-reis-professores-e-jovens-musicos-convidados#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 18:04:40 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284266 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Júlia Tygel - compositora e piano, Tatiana Parra e Marília Vargas - cantoras e Adriana Holtz - violoncelo</title>
-  <link>http://concerto.com.br/roteiros/julia-tygel-compositora-e-piano-tatiana-parra-e-marilia-vargas-cantoras-e-adriana-holtz</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Júlia Tygel - compositora e piano, Tatiana Parra e Marília Vargas - cantoras e Adriana Holtz - violoncelo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:32&lt;/span&gt;
+  <title>1126_Furiosa_HOME</title>
+  <link>http://concerto.com.br/node/284265</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_Furiosa_HOME&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;O delírio e o tempo. Programa: Júlia Tygel - O delírio do verbo: Manoel de Barros em Ccnções e Os frutos do tempo, dedicado aos poemas de Simon Tygel, que emigrou da Bélgica para o Brasil em 1939 e teve sua poesia traduzida e acolhida por Guilherme de Almeida.  Comentários: Marc Storms - pesquisador da herança belga no Brasil.&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_Furiosa_HOME.jpg" width="380" height="490" alt="Banner Orquestra Furiosa Portátil Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T17:00:00Z" class="datetime"&gt;sab, 14/11/2026 - 17:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 17:43&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://www.sympla.com.br/produtor/casadochoro&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;05&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;2&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/o-delirio-e-o-tempo-cancoes-de-julia-tygel-sobre-poemas-de-manoel-de-barros-e-simon-tygel/3622285?share_id=copiarlink.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:32:58 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284235 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/julia-tygel-compositora-e-piano-tatiana-parra-e-marilia-vargas-cantoras-e-adriana-holtz#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 17:43:34 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284265 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Duoduom</title>
-  <link>http://concerto.com.br/roteiros/duoduom</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duoduom&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:30&lt;/span&gt;
+  <title>1126_OSB_HOME</title>
+  <link>http://concerto.com.br/node/284264</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_OSB_HOME&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto de lançamento de seu primeiro álbum, Zwischen Liebe und Leben — Entre Amor e Vida, dedicado ao universo do Lied alemão. Joyce Tripiciano - mezzo soprano e Leandro Roverso - piano. Programa: obras de Schumann e Brahms, com dança e projeções multi-mídia.&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_OSB_HOME.jpg" width="380" height="490" alt="Banner OSB Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T11:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 17:43&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://www.osb.com.br/&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;05&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;8&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
+              &lt;div class="field__item"&gt;1&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;p&gt;R$ 144 a R$ 160. Vendas: &lt;a href="https://www.sympla.com.br/evento/entre-amor-e-vida-duoduom/3623450?share_id=copiarlink"&gt;https://www.sympla.com.br/evento/entre-amor-e-vida-duoduom/3623450?shar…&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:30:05 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284234 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/duoduom#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 17:43:32 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284264 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Gustavo Lassen - baixo e Flavio Lago - piano</title>
-  <link>http://concerto.com.br/roteiros/gustavo-lassen-baixo-e-flavio-lago-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gustavo Lassen - baixo e Flavio Lago - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:25&lt;/span&gt;
+  <title>1126_Uniopera_HOME</title>
+  <link>http://concerto.com.br/node/284263</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_Uniopera_HOME&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Lançamento do livro Assim falava Zaratustra - Palavra, Música e Filosofia, de Friedrich Nietzsche. Andres Santos Jr. - narração. Scarlett Marton - filósofa. Programa: obra de Nietzsche em diálogo com a música interpretada.&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_Uniopera_HOME.jpg" width="380" height="490" alt="Banner Uniopera As Bodas de Figaro Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-07T17:00:00Z" class="datetime"&gt;sab, 07/11/2026 - 17:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 17:43&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://uniopera.org.br/as-bodas-de-figaro-2026-vendas2/?utm_source=Meta&amp;utm_medium=Trafego&amp;utm_campaign=Bodas2026&amp;utm_term=FRIO&amp;utm_content=ad14&amp;fbclid=IwdGRzdgVMa5NleHRuA2FlbQEwAHBkb2YFYWRpZAGrOp1rbITEc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEezBBlc1lYxdlfHlQN&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;05&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;8&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 50. Vendas: https://www.sympla.com.br/evento/assim-falava-zaratustra-palavra-musica-e-filosofia/3620304?share_id=copiarlink.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:25:36 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284233 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/gustavo-lassen-baixo-e-flavio-lago-piano#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 17:43:31 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284263 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Teatro Petrobras Carlos Urbim </title>
-  <link>http://concerto.com.br/node/284231</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Petrobras Carlos Urbim &lt;/span&gt;
+  <title>1126_OOP_HOME</title>
+  <link>http://concerto.com.br/node/284262</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_OOP_HOME&lt;/span&gt;
 
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Praça da Alfândega, s/nº - Altura da Av. Sepúlveda - Centro Histórico - Tel. (51) 3289-0156 &lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:20&lt;/span&gt;
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_OOP_HOME.jpg" width="380" height="490" alt="Banner Orquestra Ouro Preto Novembro 2026" typeof="foaf:Image" /&gt;
 
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Porto Alegre, RS&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Tue, 03 Nov 2026 11:20:05 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284231 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/284231#comments</comments>
-    </item>
-<item>
-  <title>Conjunto de Cordas Aliança Francesa</title>
-  <link>http://concerto.com.br/roteiros/conjunto-de-cordas-alianca-francesa-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Conjunto de Cordas Aliança Francesa&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:16&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;72ª Feira do Livro de Porto Alegre. Bibiana Turchiello, Felipe Abel e Victor Rosin - violinos, Eliézer Braga e Giovani Leal - violas, Isadora Gehres - violoncelo e Ezequiel de Paula - contrabaixo. Programa:  trilhas sonoras do cinema e a cena pop contemporânea, como Le Festin, do filme Ratatouille; Amour plastique, do duo Videoclub, Balance ton quoi, da cantora belga Angèle, Dernière danse, de Indila; Le long de la route, de Zaz, e Je vole, do filme La Famille Bélier.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T18:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 18:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 17:43&lt;/span&gt;
 
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://vm.group/AfrossinfonicidadeVol1&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;05&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;7&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284231" hreflang="pt-br"&gt;Teatro Petrobras Carlos Urbim &lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 03 Nov 2026 11:16:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284232 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/conjunto-de-cordas-alianca-francesa-0#comments</comments>
+  <pubDate>Tue, 03 Nov 2026 17:43:29 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284262 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>1126_Oses-Festival_HOME</title>
+  <link>http://concerto.com.br/node/284261</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;1126_Oses-Festival_HOME&lt;/span&gt;
+
+  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/1126_Oses-Festival_HOME.jpg" width="380" height="490" alt="Banner Festival de Música Erudita do ES 2026" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 17:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://festivaldemusicaerudita.com.br/&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
+              &lt;div class="field__item"&gt;05&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;45&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 03 Nov 2026 17:43:27 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284261 at http://concerto.com.br</guid>
     </item>
 
   </channel>
