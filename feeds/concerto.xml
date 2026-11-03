@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 03 Nov 2026 03:30:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:01:30 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY0MiIsImRpc2xpa2VzIjoiMCJ9?token=q9N62-444HianTHdf8j0MvG7joN5-7KbyPyBsXH-2G4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY0NiIsImRpc2xpa2VzIjoiMCJ9?token=m0iXZLcDj3YI3FIHO_GyY_FqX0kii5tE_DL0aGfZ2Vk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;642&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;646&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,32 +82,20 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Prezada leitora, prezado leitor,</title>
-  <link>http://concerto.com.br/node/284094</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prezada leitora, prezado leitor,&lt;/span&gt;
+  <title>Daniel Umbelino - tenor e Dante Pignatari - piano</title>
+  <link>http://concerto.com.br/roteiros/daniel-umbelino-tenor-e-dante-pignatari-piano-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Daniel Umbelino - tenor e Dante Pignatari - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:43&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;Esta é a edição de novembro de 2026 da Revista CONCERTO, o guia da música clássica no Brasil. Na reportagem de capa, o jornalista Irineu Franco Perpetuo escreve sobre a nova temporada da Orquestra Sinfônica do Estado de São Paulo, a Osesp. Em 47 programas, com destacados artistas, a orquestra reafirma sua missão de grande propulsora da música clássica no país.  &lt;/p&gt;
-&lt;p&gt;Também nesta edição, apresentamos a próxima temporada da Tucca. Abordando diversos gêneros, a entidade terá atrações como a violinista Anne-Sophie Mutter, o cravista Andreas Staier e o cantor Bruno de Sá. Na seção &lt;em&gt;Temporadas 2027&lt;/em&gt;, também relembramos as programações da Cultura Artística e da Filarmônica de Minas Gerais, já divulgadas na Revista CONCERTO.  &lt;/p&gt;
-&lt;p&gt;A escritora Conceição Evaristo, personagem central da cultura nacional e da literatura contemporânea, é o tema de &lt;em&gt;Uma ópera escrevivência&lt;/em&gt;, que estreia neste mês no Theatro São Pedro de São Paulo. O editor executivo João Luiz Sampaio conversou com Juliana Ripke e Julianna Santos, respectivamente compositora e libretista/diretora cênica do espetáculo, que falaram da importância de Evaristo e do processo de criação da ópera. &lt;/p&gt;
-&lt;p&gt;É uma ópera brasileira também, &lt;em&gt;Helena&lt;/em&gt;, de João Gomes de Araújo, a principal atração da 14ª edição do Festival de Música Erudita do Espírito Santo. A obra histórica, cuja partitura é de 1906 e que há mais de cem anos não é apresentada, é tema da coluna &lt;em&gt;Palco&lt;/em&gt;, redigida pela jornalista Amanda Queirós. &lt;/p&gt;
-&lt;p&gt;Entre as atrações internacionais de novembro, destaca-se a presença no país do renomado duo de pianos formado pelas irmãs Labèque. Além de recitais em São Paulo pela Cultura Artística e no Rio de Janeiro pela Dellarte, elas também tocarão em Salvador como solistas da orquestra do Neojiba, como escreve a jornalista Ana Cursino Guariglia na seção &lt;em&gt;Acontece&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;O violoncelista Rafael Cesário, integrante do Quarteto de Cordas da Cidade de São Paulo, é o foco da seção &lt;em&gt;Fermata&lt;/em&gt;, redigida pela jornalista Luciana Medeiros. Leia também os artigos de nossos colunistas Camila Fresca, sobre museus para a música; João Marcos Coelho, sobre o compositor Leonardo Martinelli e sua nova obra programada para estrear com o Coro da Osesp; Jorge Coli, que escreve como compositores marcam cada geração; e Júlio Medaglia, sobre a nova Orquestra Sinfônica da Amazônia. &lt;/p&gt;
-&lt;p&gt;Consulte, ainda, a seção &lt;em&gt;Lançamentos&lt;/em&gt;, com novidades de CDs e livros, e o &lt;em&gt;Roteiro Musical&lt;/em&gt; ilustrado da Revista CONCERTO, ampla agenda da concertos e recitais clássicos em todo país. Escolha sua programação e participe com a gente da temporada clássica de sua cidade. Bom CONCERTO! &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nelson Rubens Kunze&lt;/strong&gt; &lt;br /&gt;
-&lt;em&gt;diretor-editor&lt;/em&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 23:42&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/editorial" hreflang="pt-br"&gt;Editorial&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;À amada distante. Programa: obras de Nepomuceno e as célebres canções venezianas de Reynaldo Hahn.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Imagemdedestaque_32.jpg" width="307" height="169" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T11:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -116,236 +104,62 @@
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-magazine-cover field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Foto de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-fotodedestaque_32.jpg" width="1900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Editorial&lt;/div&gt;
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sun, 01 Nov 2026 23:42:39 +0000</pubDate>
-    <dc:creator>Nelson Rubens Kunze</dc:creator>
-    <guid isPermaLink="false">284094 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Sala Cecília Meireles anuncia novo prêmio nacional de música</title>
-  <link>http://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Iniciativa reconhecerá artistas, educadores e projetos culturais e está com inscrições abertas até o dia 9 de novembro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Sala Cecília Meireles, no Rio de Janeiro, anunciou a criação do Prêmio de Música Sala Cecília Meireles 2026, nova iniciativa de alcance nacional voltada ao reconhecimento de artistas em início de carreira, grupos de câmara, educadores musicais e projetos dedicados à formação e à difusão da música de concerto no Brasil. Promovida pela Associação dos Amigos da Sala Cecília Meireles, a premiação está com inscrições gratuitas abertas até o próximo dia 9 de novembro, que deverão ser feitas pela internet.&lt;/p&gt;
-&lt;p&gt;Em sua primeira edição, o prêmio será dividido em cinco categorias: Artista revelação, Grupo de câmara, Educador musical, Prêmio especial Sala Cecília Meireles e Prêmio do público. Os vencedores das categorias Artista revelação e Grupo de câmara serão convidados a integrar a temporada artística de 2027 da Sala Cecília Meireles, com apresentações remuneradas, R$ 3 mil e R$ 5 mil, respectivamente. Também haverá premiações em dinheiro no valor der R$ 3 mil nas outras categorias, além de troféu e certificado.&lt;/p&gt;
-&lt;p&gt;Segundo o diretor da Sala Cecília Meireles, Aldo Mussi, a iniciativa amplia a vocação histórica da instituição de promover o encontro entre intérpretes, novas gerações e público. “O prêmio amplia essa vocação ao reconhecer artistas, grupos de câmara, educadores e projetos que contribuem para a música de concerto em diferentes regiões do Brasil”, afirmou.&lt;/p&gt;
-&lt;p&gt;A idealizadora do projeto, a cantora lírica Priscilla Cadette, destacou a importância de criar oportunidades concretas para profissionais em início de carreira. “Idealizar este prêmio nasce também dessa vivência e do desejo de oferecer a outros músicos um incentivo concreto para seguir na profissão”, comentou.&lt;/p&gt;
-&lt;p&gt;Além das categorias de performance artística, o prêmio também reconhecerá o trabalho de educadores musicais com atuação em ensino, mediação cultural e formação de público, além de instituições, coletivos e projetos culturais que se destaquem por ações de criação, difusão, preservação e democratização do acesso à música.&lt;/p&gt;
-&lt;p&gt;As candidaturas serão avaliadas por uma comissão formada por três profissionais com experiência nas áreas de música, formação e produção cultural. Os finalistas serão anunciados em 3 de dezembro. A partir dessa data até o dia 11 de dezembro, ficará aberta uma votação online que escolherá o vencedor do Prêmio do público entre os finalistas das categorias Artista revelação e Grupo de câmara.&lt;/p&gt;
-&lt;p&gt;A cerimônia de premiação está marcada para 17 de dezembro de 2026, na Sala Cecília Meireles, com transmissão pelo canal da instituição no YouTube.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;&lt;a href="https://salaceciliameireles.rj.gov.br/" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o site da Sala Cecília Meireles.&lt;br /&gt;
-&lt;u&gt;&lt;a href="https://salaceciliameireles.rj.gov.br/wp-content/uploads/2026/10/Regulamento-do-I-Premio-de-Musica-Sala-Cecilia-Meireles.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o regulamento do Prêmio de Música Sala Cecília Meireles.&lt;br /&gt;
-&lt;u&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdgdO31QZkTnHieiYP-wC23NfFHRxSXe_jPVKG9hOuT5m0U1g/viewform" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Clique aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; para acessar o formulário de inscrição.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" data-entity-type="file" data-entity-uuid="9c0aa35b-58fd-4683-96f3-38d559c7a15b" src="http://concerto.com.br/sites/default/files/inline-images/w-SalaCeciliaMeireles_fachada_div.jpg" /&gt;
-&lt;figcaption&gt;Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 18:19&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-SalaCeciliaMeireles_fachada_div.jpg" width="900" height="600" alt="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" title="Fachada da Sala Cecília Meireles, no Rio de Janeiro (divulgação)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2399" hreflang="pt-br"&gt;Sala Cecília Meireles &lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
 
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyMjQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=6WLTLNPG27KhHeErga6tXapuZIskHgDI2HfTt-AoddY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;20&lt;/span&gt;
-    &lt;/div&gt;
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/a-amada-distante-daniel-umbelino-tenor-dante-pignatari-piano/3623963?share_id=copiarlink.&lt;/div&gt;
+          &lt;/div&gt;
 
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 18:19:35 +0000</pubDate>
+  <pubDate>Tue, 03 Nov 2026 11:43:14 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284224 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284238 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/daniel-umbelino-tenor-e-dante-pignatari-piano-0#comments</comments>
     </item>
 <item>
-  <title>Notícias do mundo musical</title>
-  <link>http://concerto.com.br/node/284108</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Notícias do mundo musical&lt;/span&gt;
+  <title>Grande Serão: Um Sarau de Travessias</title>
+  <link>http://concerto.com.br/roteiros/grande-serao-um-sarau-de-travessias</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grande Serão: Um Sarau de Travessias&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:39&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;2º Concurso Nacional de Piano do IPG anuncia vencedores  &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Nove pianistas concorreram na final, realizada em Brasília nos dias 25 e 26 de setembro&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;O 2º Concurso Nacional de Piano do Instituto Pedro Gordilho (IPG) divulgou os vencedores da edição 2026. A final, realizada em 25 e 26 de setembro, em Brasília, reuniu nove jovens pianistas selecionados entre 38 candidatos provenientes de 12 estados, além do Distrito Federal e dois participantes residentes no exterior. &lt;/p&gt;
-&lt;p&gt;O primeiro lugar foi concedido ao paulista Luís Henrique Leite Andrade Araújo, que faz graduação na ECA-USP sob orientação de Luciana Sayure. Luís também venceu o Prêmio Instituto Piano Brasileiro, destinado à melhor interpretação de obra brasileira para piano. O segundo lugar ficou com Arthur Dante Novaes Teixeira, da Bahia, que recebeu ainda menção honrosa pela melhor interpretação da peça de confronto. O Prêmio Revelação foi atribuído ao paulista Matheus Enzo de Faria Oshiro, enquanto a menção honrosa geral foi concedida à capixaba Sara de Vasconcelos Canal. &lt;/p&gt;
-&lt;p&gt;As apresentações finais incluíram recitais de 30 a 40 minutos, com obras de livre escolha e a peça de confronto da edição, “Tema para Karla”, do compositor Mario Olinto, que integrou a comissão julgadora ao lado de Alda de Mattos, Alexandre Dias, Ana Paula Gordilho Pessoa e Bruno Belthoise. &lt;/p&gt;
-&lt;p&gt;O concurso oferece premiação em dinheiro (R$ 15 mil para o primeiro lugar, R$ 7 mil para o segundo e R$ 5 mil para o pianista revelação) além de oportunidades de apresentação. O vencedor atuará como solista da Orquestra Sinfônica do Teatro Nacional Claudio Santoro, e os premiados participarão de recitais promovidos pelo IPG. &lt;/p&gt;
-&lt;p&gt;A edição contou com apoio da Casa Thomas Jefferson e do Instituto Piano Brasileiro, além da participação do público presencial e online, que acompanhou as transmissões pelo YouTube e redes sociais.  &lt;/p&gt;
-&lt;p&gt;O vencedor do 1º Concurso Nacional de Piano do Instituto Pedro Gordilho, realizado no ano passado, foi o pianista paulista Jordan Alexander, que atualmente realiza seu mestrado na Universidade de Zurique, com Konstantin Scherbakov. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luís Henrique Araújo (reprodução YouTube)" data-entity-type="file" data-entity-uuid="4dd3292a-9767-4e69-970c-f74c54dc8240" src="http://concerto.com.br/sites/default/files/inline-images/w-PedroGordilho_LuisHenriqueAraujo_YouTube_0.jpg" /&gt;
-&lt;figcaption&gt;Luís Henrique Araújo (reprodução YouTube)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia no &lt;a href="http://www.concerto.com.br/" target="_blank" title="link site"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;Site CONCERTO&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;  &lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;CRÍTICA&lt;/u&gt;: Filarmônica de Berlim oferece milagres de transparência e clareza de planos sonoros&lt;/strong&gt; &lt;br /&gt;
-Primeira noite da orquestra alemã na Sala São Paulo, com obras de Brahms e Strauss, foi para lá de especial. Concerto bom deixa lembrança; concerto excelente deixa legado. Por Irineu Franco Perpetuo &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Entrevista&lt;/u&gt;: Jordan Alexander, um piano em ascensão&lt;/strong&gt; &lt;br /&gt;
-Aos 24 anos, pianista nascido no Pará está matriculado na classe de Konstantin Sherbakov, em Zurique. Por Luciana Medeiros &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Entrevista&lt;/u&gt;: Simone Menezes grava álbum com a Orquestra Sinfônica da Rádio de Viena&lt;/strong&gt; &lt;br /&gt;
-Em conversa com o Site CONCERTO, maestra brasileira fala da ideia de unir obras de Prokofiev, Villa-Lobos e Poulenc e do momento atual de sua carreira. Por João Marcos Coelho &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Don Carlo&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; respira como monumento sombrio da ópera do século XIX&lt;/strong&gt; &lt;br /&gt;
-No elenco, na concepção cênica e na interpretação musical, a produção amplifica as múltiplas possibilidades de leitura da obra de Giuseppe Verdi. Por João Luiz Sampaio &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: No elenco, na orquestra e na montagem, um &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Don Carlo&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; de convicção dramática&lt;/strong&gt; &lt;br /&gt;
-Montagem do Theatro Municipal de São Paulo para a obra de Verdi permitiu que os múltiplos sentidos da ópera aflorassem. Por Jorge Coli &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Dança em Diálogo&lt;/u&gt;: A dança como direito e transformação social&lt;/strong&gt; &lt;br /&gt;
-Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Clássicos concorrem para a final do Prêmio Rádio MEC &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Finalistas serão votados pelo público e conhecidos no dia 18 de novembro&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A Rádio MEC divulgou a lista das obras classificadas na primeira etapa do Prêmio Rádio MEC 2026, que está em sua 22ª edição. No total, 349 composições de todas as regiões do país se inscreveram no certame. As classificadas serão votadas agora pelo público, em três categorias: Infância, com 15 concorrentes; Instrumental, com 20; e Clássica, com 13. A escolha do público é feita pela página oficial da emissora, onde é possível ouvir as composições e registrar o voto. A votação segue até 18 de novembro, data em que serão anunciados os finalistas da premiação. &lt;/p&gt;
-&lt;p&gt;Concorrendo na categoria Clássica estão: &lt;em&gt;Ave de amor&lt;/em&gt;, de Juliana Ripke e Narcisa Amália, com Marília Vargas, Marcus Ribeiro e Ensemble de violoncelos; &lt;em&gt;Café&lt;/em&gt;, de Jorge Ribbas, com Quinteto Ribbas; &lt;em&gt;Desencanto&lt;/em&gt;, de Sérgio de Alencastro Veiga Filho, com Sergin Veiga; &lt;em&gt;É manhã&lt;/em&gt;, de Guilherme Roman, com Cíntia de Los Santos, Carol Schäfer, Eduardo Alves e Guilherme Roman; &lt;em&gt;Libertas&lt;/em&gt; (Caipirinha), de Daniel Wolff, com Quarteto Libertas; &lt;em&gt;O crepúsculo num bosque em um dia nublado de inverno na Serra&lt;/em&gt;, de Alexandre Fritzen da Rocha, com Alexandre Fritzen; &lt;em&gt;Paisagens, poema para cello em 2 movimentos&lt;/em&gt;, de Ricardo Szpilman, com Hugo Pilger; &lt;em&gt;Passacaglia para piano solo&lt;/em&gt;, de Andersen Viana, com Stéphanie Elbaz; &lt;em&gt;Quinteto de clarinetas&lt;/em&gt;, de Marcos Cohen, com Quinteto de Clarinetas Royal Brasil; &lt;em&gt;Sinfonia nº 1 em sol menor&lt;/em&gt;, de Henrique Machado, com Orquestra Light Rocinha; &lt;em&gt;Toccata&lt;/em&gt;, de Pablo Lapidusas e Rem Urasim, com Pablo Lapidusas e Rem Urasim; &lt;em&gt;Três noites de silêncio&lt;/em&gt;, de Daniel Ganc, com Daniel Ganc; e &lt;em&gt;Villalobiana&lt;/em&gt;, de Vinícius Frate, com Vinícius Frate e Jennifer Campbell. &lt;/p&gt;
-&lt;p&gt;O Prêmio Rádio MEC é realizado pela Empresa Brasil de Comunicação (EBC). Após o encerramento da votação e a divulgação dos finalistas, as obras seguem para a etapa final da premiação, com anúncio dos vencedores previsto para dezembro. &lt;/p&gt;
-&lt;p&gt;Acesse &lt;a href="https://radiomec.ebc.com.br/" target="_blank" title="link site"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; o portal da Rádio MEC para mais informações e para votar. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;II Encontro de Piano Colaborativo faz eventos &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;De 25 a 27 de novembro, a Associação Brasileira de Piano Colaborativo (ABPC) realiza, no Rio de Janeiro, o II Encontro Internacional da ABPC. O evento conta com a parceria do Theatro Municipal, da Unirio, da UFRJ, da Faetec de Marechal Hermes, da Academia Brasileira de Letras e do Conservatório Brasileiro de Música. Criada em 2021, a ABPC tem como foco “todas as ocasiões em que o pianista atua não como solista, mas tocando com outros instrumentistas, cantores, coros, óperas, musicais, bailarinos, grupos de jazz e de música popular”.  &lt;/p&gt;
-&lt;p&gt;O evento contará com master classes, palestras, oficinas e um total de nove recitais, dos quais vão participar nomes como Érika Ribeiro, Maria Teresa Madeira, Ricardo Ballestero, Lúcia Barrenechea, Lenine Santos, Homero Velho e Carla Cottini. Dentre os convidados internacionais, destacam-se Elvia Puccinelli, da University of North Texas; Luis Vallés, da Universidad Internacional de Valencia; e Ben Markley, pianista de jazz, compositor, arranjador e professor da University of Wyoming. &lt;/p&gt;
-&lt;p&gt;A programação inclui ainda o I Simpósio Científico da Associação Brasileira de Piano Colaborativo, com a apresentação de pesquisas realizadas na área. &lt;/p&gt;
-&lt;p&gt;(Consulte mais detalhes no &lt;em&gt;Roteiro Musical Rio de Janeiro&lt;/em&gt;.) &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Divulgação, Dreamstime, Christoph Riddle)" data-entity-type="file" data-entity-uuid="10a8cc6c-d21e-47c6-8799-6ae6c21b7440" src="http://concerto.com.br/sites/default/files/inline-images/w-dreamstime_xxl_906871_Piano-Instrument_Christoph-Riddle.jpg" /&gt;
-&lt;figcaption&gt;(Divulgação, Dreamstime, Christoph Riddle)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Governo alemão vai investir 225 milhões de euros na reforma da Philharmonie de Berlim&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;O governo alemão anunciou que vai destinar 225 milhões de euros para as obras de renovação da Philharmonie, casa da Filarmônica de Berlim. O grupo está atualmente em busca de um palco alternativo para suas apresentações durante a reforma. &lt;/p&gt;
-&lt;p&gt;A ideia da orquestra é manter a sala aberta até 2032, quando o grupo completa 150 anos, e, em seguida, iniciar as obras, que devem durar cerca de oito anos. Entre os possíveis locais para os concertos durante esse período, estão sendo considerados o antigo aeroporto de Tempelhof e o Centro Internacional de Congressos de Berlim. A escolha depende de critérios como acústica, conexões de transporte e capacidade de ocupação. &lt;/p&gt;
-&lt;p&gt;“Para a Filarmônica de Berlim e para mim, a Philharmonie não é apenas uma sala de concertos – é a nossa casa musical. O fato de o governo federal e o estado de Berlim assumirem a responsabilidade pelo futuro deste espaço e pelo trabalho da orquestra enche-me de gratidão, assim como o aumento dos nossos recursos financeiros proporcionado pelo governo federal”, afirmou o regente titular da orquestra, Kirill Petrenko. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A Philharmonie de Berlim (divulgação, Wikimedia Commons, A.Savin)" data-entity-type="file" data-entity-uuid="9183c888-d454-43bb-93ef-35ab7c8d9f98" src="http://concerto.com.br/sites/default/files/inline-images/w-Berlin_Philharmonie_asv2018-05_img2_WikimediaCommons_A.Savin_.jpg" /&gt;
-&lt;figcaption&gt;A Philharmonie de Berlim (divulgação, Wikimedia Commons, A.Savin)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Violinista Marina Caputo é a primeira brasileira da Orquestra Tonkünstler&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aos 24 anos, violinista mineira conquista vaga na instituição centenária, que nunca teve músicos brasileiros &lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A brasileira Marina Caputo, de 24 anos, venceu as audições e é a primeira brasileira a entrar na tradicional Tonkünstler-Orchester Niederösterreich, Orquestra Tonkünstler da Baixa Áustria, sediada em Viena. &lt;/p&gt;
-&lt;p&gt;Marina, que na temporada 2024/25 integrou a academia da orquestra, afirmou: “Ser oficializada na orquestra é uma alegria enorme e a realização de algo que, por muito tempo, me pareceu distante demais para uma brasileira. Espero que essa conquista mostre a outros jovens músicos do Brasil que é possível ocupar espaços que antes pareciam inalcançáveis e construir caminhos que ainda não existiam para nós”. &lt;/p&gt;
-&lt;p&gt;Nascida em 2002, em Belo Horizonte, Minas Gerais, Marina Caputo iniciou os estudos de violino aos 10 anos, no Centro Suzuki, e aos 14 passou a fazer parte da Orquestra Jovem do Estado, em São Paulo. Premiada em vários concursos, recebeu, em 2019, bolsa para estudar na École Normale de Musique de Paris. Hoje radicada em Viena, formou-se bacharel em violino pela MUK – Universidade de Música e Artes da Cidade de Viena, onde atualmente cursa o mestrado. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Divulgação, Nancy Horowitz)" data-entity-type="file" data-entity-uuid="bcbf35cb-408d-4cf3-980d-f10dafedf934" src="http://concerto.com.br/sites/default/files/inline-images/w-MarinaCaputo_Nancy_Horowitz---web_0.jpg" /&gt;
-&lt;figcaption&gt;(Divulgação, Nancy Horowitz)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;em&gt;&lt;strong&gt;Nona sinfonia&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; de Beethoven ganha sonorização 7.1 imersiva &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Nona sinfonia,&lt;/em&gt; de Ludwig van Beethoven, ganhará uma apresentação em sistema imersivo 7.1, em espetáculo marcado para 19 de dezembro, na Vibra, em São Paulo. A produção reúne 200 artistas – orquestra sinfônica, coro e solistas – sob regência do maestro Emiliano Patarra, com preparação vocal da maestra Teresa Longatto. &lt;/p&gt;
-&lt;p&gt;A proposta revisita a obra composta entre 1822 e 1824, período em que Beethoven já estava surdo. Segundo a produção, a montagem propõe ampliar a percepção musical por meio de tecnologia de áudio 7.1 imersiva, fazendo com que o público “sinta” a sinfonia em uma abordagem que dialoga com a forma como Beethoven teria percebido sua própria criação – pelas vibrações e pela memória musical. &lt;/p&gt;
-&lt;p&gt;O sistema 7.1 significa que serão dispostas 7 caixas acústicas espacialmente no ambiente, além de um subwoofer, que fornece as frequências graves. Para o diretor geral Lion Andreassa, a inovação é parte essencial da homenagem ao compositor: “A &lt;em&gt;Nona sinfonia&lt;/em&gt; nasceu revolucionando a história da música. A melhor forma de homenagear Beethoven não é apenas preservar sua obra, mas manter vivo o espírito inovador que a tornou eterna”. &lt;/p&gt;
-&lt;p&gt;Os ingressos já estão à venda, com preços a partir de R$ 80, e podem ser adquiridos no site: Uhuu.com (com taxa de serviço) e nas bilheterias da Vibra São Paulo, Teatro Bradesco e Teatro Sabesp Frei Caneca. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Reprodução, Dreamstime, Nicku)" data-entity-type="file" data-entity-uuid="d6586dd9-d6ce-4d03-986d-89b82244cadb" src="http://concerto.com.br/sites/default/files/inline-images/w-l_Beethoven_cor_dreamstime_xxl_20306478_ID_Nicku.jpg" /&gt;
-&lt;figcaption&gt;(Reprodução, Dreamstime, Nicku)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;em&gt;&lt;strong&gt;Yerma&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, de Villa-Lobos, é finalista no International Opera Awards&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A produção de &lt;em&gt;Yerma&lt;/em&gt;, de Villa-Lobos, coproduzida pelos festivais de ópera de Manaus e Belém e pelo Auditório de Tenerife, concorre ao International Opera Awards na categoria Obra Redescoberta. Inspirada na peça de Federico García Lorca, a ópera foi composta em 1956 e estreou apenas em 1971, nos EUA. A montagem apresentada em Tenerife marcou a estreia europeia da obra, em 2025, baseada em nova edição crítica revisada pelo maestro Luiz Fernando Malheiro, com encenação de Paco Azorín. A cerimônia de premiação ocorre em 21 de novembro, em Viena, com transmissão gratuita pela OperaVision. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Documentário foca em embate sobre arcos e preservação do pau-brasil &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Um novo documentário, &lt;em&gt;The Final Bow&lt;/em&gt;, traz à tona o debate internacional sobre a preservação do paubrasil e o impacto das restrições ao uso da madeira na fabricação de arcos para instrumentos de cordas. Dirigido por Iona Horton e Luisa Barone, o curta de 18 minutos foi filmado em Nova York e na Bahia, mostrando tanto o trabalho de arqueiros quanto a realidade da Mata Atlântica, onde sobrevivem árvores centenárias. Reúne depoimentos de Christophe Landon, Coleman Itzkoff, Aline Polli e Marcelo Lopes, além de especialistas que contextualizam a discussão surgida após a proposta brasileira de reclassificação da espécie na Cites (Convenção sobre o Comércio Internacional das Espécies da Flora e Fauna Selvagens Ameaçadas de Extinção). Selecionado para festivais internacionais, o filme está disponível no site das diretoras e no YouTube. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Nova York distribuirá 70 mil ingressos para o Metropolitan Opera House&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A prefeitura de Nova York lançou o programa Opera for All, que vai distribuir 70 mil ingressos gratuitos para apresentações no Metropolitan Opera House. Os bilhetes, provenientes de assentos não vendidos — o teatro tem média de 75% de ocupação — serão sorteados pelo aplicativo do MET e também repassados a organizações da cidade. Podem participar moradores que não compram ingressos desde 2019. Ao anunciar a iniciativa, o prefeito Zohran Mamdani destacou que a ópera deve ser acessível a todos, enquanto o diretor-geral do MET, Peter Gelb, celebrou o engajamento da administração municipal. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Funarte tem plataforma digital com partituras brasileiras&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A Funarte lançou o Banco de Partituras Brasileiras, plataforma digital que reúne cerca de 500 obras de diferentes acervos e projetos da instituição. Organizado em três áreas — Catálogo Geral, Ensino Musical e Bienal de Música Brasileira Contemporânea — o banco disponibiliza materiais ligados a iniciativas como o Repertório Sinos, a Série Música Brasileira para Bandas e coleções da Bienal, criada em 1975 e responsável pela apresentação de cerca de 2 mil obras. O projeto marca o início da digitalização e organização desses acervos, que podem ser consultados gratuitamente &lt;a href="https://partiturasbrasileiras.funarte.gov.br/" target="_blank" title="link site"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Walter Lourenção falece em São Paulo &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;O maestro Walter Lourenção faleceu no dia 24 de setembro, em São Paulo, aos 96 anos. &lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Nascido em Jundiaí, em 1929, em uma família de descendentes de italianos, Lourenção estudou piano desde a infância e, mais tarde, paralelamente à dedicação à música, formou-se em Filosofia na USP, em 1967. No mesmo ano, começou a trabalhar no Theatro Municipal de São Paulo, discípulo do maestro Edoardo de Guarnieri, regendo diversos concertos da Orquestra Sinfônica Municipal. &lt;/p&gt;
-&lt;p&gt;Criou diversos grupos corais e, em 1973, transferiu o coral do ICIB para o Masp, onde realizou mais de 300 concertos. Também foi diretor do Departamento de Música do Masp, criou a Orquestra da Câmara do Masp, deu cursos e organizou concertos. &lt;/p&gt;
-&lt;p&gt;O maestro ingressou na TV Cultura de São Paulo em 1975 e, em 1986, transferiu-se para a Rádio Cultura FM, para a qual criou e apresentou vários programas sobre música clássica e lírica. Ativo na rádio até 2021, Walter Lourenção, por sua vasta cultura e paixão pela música, contribuiu para a formação de gerações de melômanos. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Roberto Tibiriçá  morre aos 72 anos&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Morreu em 3 de outubro o maestro Roberto Tibiriçá, uma das grandes personalidades da música brasileira. Aos 72 anos, o artista tratava um câncer.  &lt;/p&gt;
-&lt;p&gt;Nascido em São Paulo, Tibiriçá iniciou-se no piano aos 8 anos, estudando com Dinorah de Carvalho, Antonio Bezzan e Gilberto Tinetti. Aproximou-se de Guiomar Novaes, que acompanhou em seus últimos anos. Com o tempo, porém, a regência se impôs, e no início dos anos 1980 passou a estudar com Eleazar de Carvalho, com quem trabalharia por dezoito anos. &lt;/p&gt;
-&lt;p&gt;Desde 1974 atuava também como diretor artístico em gravadoras. Na RGE/Fermata, foi responsável pelo início dos registros comerciais de música clássica no país, incluindo os últimos discos de Guiomar Novaes e o de Magda Tagliaferro, este pela Copacabana, da qual também foi diretor artístico. Nos anos 1980, além de assistente de Eleazar na Osesp, passou um ano como regente assistente no Teatro São Carlos de Lisboa. &lt;/p&gt;
-&lt;p&gt;Em 1994 iniciou seu período na Orquestra Sinfônica Brasileira, primeiro como diretor adjunto e, depois, como diretor artístico e regente titular. Em 2000 assumiu a Orquestra Petrobrás Pró-Música, que sob sua direção se consolidou na cena musical carioca. &lt;/p&gt;
-&lt;p&gt;Ao final de 2003 voltou a São Paulo e, em 2005, tornou-se diretor artístico do Instituto Baccarelli. Com a Orquestra Sinfônica Heliópolis, participou de projetos como a turnê europeia de 2010, com apresentações na Alemanha. Deixou o Baccarelli em 2011. Entre 2010 e 2013 foi maestro titular da Orquestra Sinfônica de Minas Gerais. &lt;/p&gt;
-&lt;p&gt;No início dos anos 2020, Tibiriçá reaproximou-se da Osesp, regendo projetos como a estreia da ópera &lt;em&gt;Cartas portuguesas&lt;/em&gt;, de João Guilherme Ripper, e gravando obras de Camargo Guarnieri. Em 2022 iniciou o seu último grande trabalho, como diretor artístico e regente titular da Orquestra Sinfônica do Paraná. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Divulgação, Klinsman Santana)" data-entity-type="file" data-entity-uuid="bbabdb71-f4fa-420a-8283-e6ea92e7d3e9" src="http://concerto.com.br/sites/default/files/inline-images/w-Foto-credKlinsman-Santana_0_0.jpg" /&gt;
-&lt;figcaption&gt;(Divulgação, Klinsman Santana)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 17:55&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;70 anos da obra-prima de João Guimarães Rosa. Andres Santos Jr.: direção de palco e narração.Flavio Lago - piano e preparador musical. José Paulo Fiks - texto e iluminação. Programa: um percurso musical especialmente concebido para dialogar com o universo rosiano. &lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-dreamstime_xxl_906871_Piano-Instrument_Christoph-Riddle.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T19:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -354,78 +168,62 @@ Novos caminhos por meio dos projetos sociais. Por Renata Faila &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Contraponto&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-sergio-cardoso" hreflang="und"&gt;Teatro Sérgio Cardoso (856 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 150. Vendas: https://bileto.sympla.com.br/event/127908/d/418706/s/2717330?share_id=1-copiarlink.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 17:55:02 +0000</pubDate>
+  <pubDate>Tue, 03 Nov 2026 11:39:15 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284108 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284237 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/grande-serao-um-sarau-de-travessias#comments</comments>
     </item>
 <item>
-  <title>Filarmônica de Minas Gerais celebra Beethoven </title>
-  <link>http://concerto.com.br/node/284107</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Filarmônica de Minas Gerais celebra Beethoven &lt;/span&gt;
+  <title>Adonhiram Reis e Alceu Reis - professores e jovens músicos convidados </title>
+  <link>http://concerto.com.br/roteiros/adonhiram-reis-e-alceu-reis-professores-e-jovens-musicos-convidados</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Adonhiram Reis e Alceu Reis - professores e jovens músicos convidados &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:36&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Programação inclui ciclos como o das sinfonias e o dos concertos para piano, além da ópera &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Fidelio&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
-&lt;p&gt;A temporada 2026 da Filarmônica de Minas Gerais dará atenção especial à obra de Beethoven, interpretando as nove sinfonias, os cinco concertos para piano, o &lt;em&gt;Concerto para violino&lt;/em&gt; e a ópera &lt;em&gt;Fidelio&lt;/em&gt;, em homenagem aos 200 anos de morte do compositor.  &lt;/p&gt;
-&lt;p&gt;Os concertos para piano terão como solistas os pianistas Benedetto Lupo (&lt;em&gt;nº 1&lt;/em&gt;), Cristian Budu (&lt;em&gt;nº 2&lt;/em&gt;), Arnaldo Cohen (&lt;em&gt;nº 3&lt;/em&gt;), Sergio Tiempo (&lt;em&gt;nº 4&lt;/em&gt;) e Kristina Miller (&lt;em&gt;nº 5&lt;/em&gt;). A argentina Pilar Policano será a solista no &lt;em&gt;Concerto para violino e orquestra&lt;/em&gt;.   &lt;/p&gt;
-&lt;p&gt;Em &lt;em&gt;Fidelio&lt;/em&gt;, que encerra a temporada, o time de solistas é formado por Daniela Tabernig, Ewandro Stenzowski, Licio Bruno, Savio Sperandio, Raquel Paulin, Daniel Umbelino e Andrey Mira – em formato de concerto cênico, as apresentações terão direção de Ronaldo Zero. A regência será de Fabio Mechetti.   &lt;/p&gt;
-&lt;p&gt;Ainda no ciclo dedicado a Beethoven, serão interpretadas as aberturas &lt;em&gt;Egmont&lt;/em&gt;, &lt;em&gt;Coriolano&lt;/em&gt;, &lt;em&gt;A consagração da casa&lt;/em&gt;, &lt;em&gt;Fidelio&lt;/em&gt;, &lt;em&gt;Leonora nº 1&lt;/em&gt; e &lt;em&gt;Leonora nº 3&lt;/em&gt;, além de excertos de &lt;em&gt;As criaturas de Prometeu&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;Ao longo do ano, a Filarmônica fará 48 concertos em suas séries de assinaturas – Allegro (quintas), Presto (sextas), Vivace (quintas), Veloce (sextas) e Fora de Série (sábados). Uma novidade é que os concertos noturnos, que antes começavam às 20h30, foram adiantados e agora terão início às 20 horas.  &lt;/p&gt;
-&lt;p&gt;“Alguns dos concertos mais impactantes no palco da Sala Minas Gerais focarão em obras consagradas, como a &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, de Mahler, a &lt;em&gt;Sexta&lt;/em&gt;, de Dvorák, e a &lt;em&gt;Segunda sinfonia&lt;/em&gt; de Rachmaninov, assim como obras que serão apresentadas pela primeira vez, incluindo a encomenda de um &lt;em&gt;Concerto tríplice&lt;/em&gt; do compositor brasileiro André Mehmari, e a estreia de obra do compositor Jonas Hocherman, vencedor do último Festival Tinta Fresca, iniciativa pioneira da Filarmônica de Minas Gerais”, diz o maestro Fabio Mechetti.  &lt;/p&gt;
-&lt;p&gt;Entre as grandes obras que farão parte do ano estão a &lt;em&gt;Sinfonia nº 2&lt;/em&gt; de Rachmaninov, &lt;em&gt;Concerto para piano nº 1&lt;/em&gt;, de Franz Liszt, &lt;em&gt;Choros nº 9&lt;/em&gt;, de Villa-Lobos, &lt;em&gt;Concerto para violino e orquestra&lt;/em&gt;, de Tchaikovsky, &lt;em&gt;Choro para violoncelo e orquestra&lt;/em&gt;, de Camargo Guarnieri, &lt;em&gt;Sinfonia nº 8&lt;/em&gt;, de Niels Wilhelm Gade, entre outras. O time de solistas inclui a violoncelista Marina Martins, o violinista Guido Sant’Anna, o violista Rafael Altino, o pianista Benedetto Lupo, o violoncelista Rafael Cesário e o violinista Vadim Gluzman. &lt;/p&gt;
-&lt;p&gt;A série Fora de Série terá como tema central a ideia de Filarmônica e Suas Histórias, em que cada um dos oito concertos focará em descrições musicais de valores humanos como o amor a fé, a etnia, a história e assim por diante. [Leia a reportagem completa na edição de outubro, nº 342, da Revista CONCERTO.] t &lt;/p&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ASSINATURAS TEMPORADA 2027&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;strong&gt;Novos assinantes&lt;/strong&gt; poderão adquirir seus pacotes entre os dias 5 de novembro e 20 de janeiro.  &lt;br /&gt;
-Mais informações podem ser obtidas em: &lt;a href="http://www.filarmonica.art.br"&gt;www.filarmonica.art.br&lt;/a&gt;. &lt;br /&gt;
-Vendas: Bilheteria da Sala Minas Gerais (Belo Horizonte): de terça a sexta-feira, das 12h às 20h, e sábados, das 12h às 18h. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Cultura Artística terá grandes estrelas internacionais &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hélène Grimaud, Igor Levit, Jordi Savall e Lang Lang estão entre os destaques do ano&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;O Teatro Cultura Artística vai abrir sua temporada 2027 com a integral dos quartetos de cordas de Beethoven, que serão interpretados pelo Quarteto Belcea – o ciclo já se coloca como promessa de um dos grandes momentos musicais do próximo ano. &lt;/p&gt;
-&lt;p&gt;A série de assinaturas terá catorze atrações. O pianista Igor Levit, celebrado pela gravação integral das sonatas do compositor, fará recitais dedicados ao autor. Hélène Grimaud, por sua vez, vai unir Beethoven a Schubert. A lista de grandes pianistas inclui ainda Lise de la Salle, com peças de Scriabin, C. P. E. Bach, Chopin, Schubert, Brahms e Glass. E Lang Lang fará concerto extra-assinatura, com Beethoven, Albéniz, Granados e Liszt.  &lt;/p&gt;
-&lt;p&gt;A Filarmônica de Dresden, sob regência da norueguesa Tabita Berglund, virá ao Brasil com o violinista Guido Sant’Anna como solista. A Academia de Câmara de Potsdam, a Amsterdam Sinfonietta e a Orquestra Sinfônica de Lucerna também estão na agenda. E, como é tradição na história do Cultura Artística, a agenda terá grupos importantes do movimento de música historicamente informada: o Hespèrion XXI, que virá a São Paulo acompanhado dos Solistas da Capela Real da Catalunha e do Ensemble Tembembe, sob regência de Jordi Savall;a Orquestra Revolucionária e Romântica, em concerto sob regência de Pablo Heras-Casado; e a Academia Internacional Bach de Stuttgart, sob a direção de Hans-Christoph Rademann. &lt;/p&gt;
-&lt;p&gt;O canto também está bem representado, com recitais do baritenor Michael Spyres e o pianista Mathieu Pordoy; da mezzo soprano russa Aigul Akhmetshina, acompanhada do pianista Jonathan Papp; e da soprano Lisette Oropesa com o pianista Ángel Rodríguez. &lt;/p&gt;
-&lt;p&gt;A série de violão terá cinco atrações: Rémy Patel; Aniello Desiderio; Laura Lootens; Jason Vieaux; e o Duo Siqueira Lima. Na série de jazz, se apresentam o guitarrista John Pizzarelli; o pianista Bill Charlao; o Branford Marsalis Quartet com Dianne Reeves; e o Artemis Jazz, quinteto idealizado pela pianista Renee Rosnes. [Leia a reportagem completa na edição de outubro, nº 342, da Revista CONCERTO.]  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Pianista Lang Lang (divulgação, Deutsche Grammophon)" data-entity-type="file" data-entity-uuid="ca12e803-de70-4eed-910f-2445a8a81d74" src="http://concerto.com.br/sites/default/files/inline-images/w-lang-lang_DeutsheGrammophon.jpg" /&gt;
-&lt;figcaption&gt;Pianista Lang Lang (divulgação, Deutsche Grammophon)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ASSINATURAS TEMPORADA 2027&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: de 9 de novembro a 8 de janeiro  &lt;br /&gt;
-&lt;strong&gt;Vendas&lt;/strong&gt;: &lt;a href="http://www.culturaartistica.org"&gt;www.culturaartistica.org&lt;/a&gt; ou presencialmente no teatro: Rua Nestor Pestana, 196 &lt;br /&gt;
-&lt;strong&gt;Informações&lt;/strong&gt;: tel. (11) 3256-0223 &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 16:51&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Ensinamentos musicais: jovens talentos e professores. Heranças musicais - A magia de Schubert. Programa: Schubert - Trio em si bemol maior e Quinteto de cordas op. 163. &lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-lang-lang_DeutsheGrammophon.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T11:00:00Z" class="datetime"&gt;dom, 22/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -434,68 +232,62 @@ Vendas: Bilheteria da Sala Minas Gerais (Belo Horizonte): de terça a sexta-feir
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporadas 2027&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/herancas-musicais-a-magia-de-schubert-ensinamentos-musicais-jovens-talentos-e-professores/3623491?share_id=copiarlink&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 16:51:14 +0000</pubDate>
+  <pubDate>Tue, 03 Nov 2026 11:36:20 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284107 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284236 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/adonhiram-reis-e-alceu-reis-professores-e-jovens-musicos-convidados#comments</comments>
     </item>
 <item>
-  <title>Tucca lança temporada com Andreas Staier, Anne-Sophie Mutter e Bruno de Sá </title>
-  <link>http://concerto.com.br/node/284106</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tucca lança temporada com Andreas Staier, Anne-Sophie Mutter e Bruno de Sá &lt;/span&gt;
+  <title>Júlia Tygel - compositora e piano, Tatiana Parra e Marília Vargas - cantoras e Adriana Holtz - violoncelo</title>
+  <link>http://concerto.com.br/roteiros/julia-tygel-compositora-e-piano-tatiana-parra-e-marilia-vargas-cantoras-e-adriana-holtz</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Júlia Tygel - compositora e piano, Tatiana Parra e Marília Vargas - cantoras e Adriana Holtz - violoncelo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:32&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Programação terá nove concertos, de março a novembro, com atrações que vão da música clássica ao jazz&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A Tucca anunciou a temporada 2027 de sua série Concertos Internacionais, que reúne nove atrações entre março e novembro e combina nomes consagrados da música clássica, do jazz e da cena contemporânea. Os concertos serão realizados na Sala São Paulo e no Teatro Cultura Artística, e um recital acontecerá na Catedral da Sé. Toda a renda será revertida ao tratamento de crianças e adolescentes com câncer atendidos pela instituição em parceria com o Santa Marcelina Saúde. &lt;/p&gt;
-&lt;p&gt;A série abre em março, nos dias 9 e 10, na Sala São Paulo, com a apresentação do compositor, pianista, violonista e arranjador Egberto Gismonti, um dos maiores nomes da música instrumental brasileira. Gismonti, que transita com naturalidade pela música erudita, pela música popular, pelo jazz e pelas tradições brasileiras, fará recitais que darão início às comemorações de seus 80 anos. &lt;/p&gt;
-&lt;p&gt;O primeiro destaque clássico da temporada será a apresentação do tecladista alemão Andreas Staier. Nome de referência da interpretação historicamente informada, Staier tocará ao cravo as &lt;em&gt;Variações Goldberg&lt;/em&gt;, uma das mais ambiciosas partituras de Johann Sebastian Bach. O recital, que acontecerá no dia 31 de março – aniversário de Bach – marca também a estreia da programação da Tucca na Catedral da Sé. &lt;/p&gt;
-&lt;p&gt;Novamente na Sala São Paulo, no dia 14 de abril, acontece o show do pianista recifense Amaro Freitas, que em seu trabalho mistura jazz, ritmos afro-brasileiros e música do Nordeste. O artista será acompanhado por banda, conjunto de cordas e coro indígena para apresentar obras de seu quinto disco, ainda inédito. &lt;/p&gt;
-&lt;p&gt;Em 27 de abril, no Teatro Cultura Artística, a atração é o duo formado pelo pianista japonês Makoto Ozone e o contrabaixista israelense Avishai Cohen, juntos pela primeira vez no Brasil. Formado pela Berklee, em Boston, Ozone divide a carreira entre jazz e música clássica e já tocou com grandes orquestras, enquanto Cohen incorpora ao jazz elementos da música do Mediterrâneo e do Oriente Médio. &lt;/p&gt;
-&lt;p&gt;No ano em que o Brasil comemora o centenário de Tom Jobim, a temporada internacional da Tucca presta homenagem ao compositor com músicos de diferentes países. Reunidos pelo pianista israelense Uriel Herman, conhecido por aproximar jazz, música clássica e tradições do Oriente Médio, estarão no palco executando obras de Jobim o percussionista cubano Pedrito Martinez, as cantoras Varijashree Venugopal (Índia) e Lenna Bahule (Moçambique), além dos brasileiros Seu Jorge e Amanda Maria. O concerto será no dia 12 de maio, na Sala São Paulo. &lt;/p&gt;
-&lt;p&gt;A série segue com uma novidade: o cine-concerto com o filme &lt;em&gt;Amadeus&lt;/em&gt;, de Milos Forman, vencedor de oito Oscars. Nos dias 26 e 27 de junho, na Sala São Paulo, o longa-metragem será exibido com sua trilha tocada ao vivo pela Sinfônica Heliópolis, sob regência do maestro Neil Thomson. &lt;/p&gt;
-&lt;p&gt;Obras de Piazzolla e Gershwin estão no centro da apresentação da acordeonista letã Ksenija Sidorova, uma das grandes intérpretes internacionais do instrumento. Sidorova será acompanhada pelo São Paulo Chamber Soloists, conjunto de cordas que reúne alguns dos melhores músicos da capital paulista, em concerto no dia 4 de agosto, no Teatro Cultura Artística. &lt;/p&gt;
-&lt;p&gt;Certamente uma das grandes atrações clássicas do ano será a celebrada violinista alemã Anne-Sophie Mutter, que se apresenta no dia 27 de outubro. A artista estreou aos 13 anos sob regência de Herbert von Karajan e desde então desenvolve carreira nos principais palcos do mundo. Mutter tem uma importante discografia pelo selo Deutsche Grammophon, combinando interpretações de referência do repertório tradicional com registros de obras contemporâneas. Após 30 anos, volta ao Brasil acompanhada do conjunto de cordas Mutter’s Virtuosi, formado por jovens músicos de sua fundação. O concerto na Sala São Paulo terá &lt;em&gt;As quatro estações&lt;/em&gt;, de Vivaldi, ao lado de uma peça da compositora iraniana Aftab Darvishi. &lt;/p&gt;
-&lt;p&gt;A última atração da temporada da Tucca é o sopranista brasileiro Bruno de Sá. Artista de exceção, que nos últimos anos alcançou reconhecimento internacional e gravou pelos selos Warner Classics e Erato, Sá se apresenta na Sala São Paulo no dia 8 de novembro. Acompanhado pelo Harmonia del Parnàs, grupo de Valência dirigido por Marian Rosa Montagut e especializado na música espanhola dos séculos XVII e XVIII, o sopranista cantará em &lt;em&gt;Las dos caras del amor&lt;/em&gt;, espetáculo com elementos cênicos dedicado ao barroco espanhol. &lt;/p&gt;
-&lt;p&gt;“Quem vier à temporada não vai encontrar um concerto igual ao outro. Cada programa tem a sua cara, e a pessoa que gosta de jazz pode sair de lá com vontade de ouvir música clássica – e o contrário também”, afirma a diretora artística Bela Pulfer. “No fim, é a música ajudando a cuidar das crianças e adolescentes em tratamento oncológico, e essa é a razão de existir do projeto.” &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Anne-Sophie Mutter (divulgação, Andreas Ortner)" data-entity-type="file" data-entity-uuid="9d5c5696-2806-461d-99a4-b90abca5f2e5" src="http://concerto.com.br/sites/default/files/inline-images/w-Anne-Sophie-Mutter-Photo-by-Andreas-Ortner.jpg" /&gt;
-&lt;figcaption&gt;Anne-Sophie Mutter (divulgação, Andreas Ortner)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ASSINATURAS TEMPORADA 2027&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-As assinaturas para os nove concertos custam a partir de R$ 450, com parcelamento em até 12 vezes, e garantem lugar cativo e descontos em ingressos avulsos e produtos da Tucca.  &lt;br /&gt;
-Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97567-5387 ou pelo e-mail: &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&lt;/a&gt;. &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 15:48&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;O delírio e o tempo. Programa: Júlia Tygel - O delírio do verbo: Manoel de Barros em Ccnções e Os frutos do tempo, dedicado aos poemas de Simon Tygel, que emigrou da Bélgica para o Brasil em 1939 e teve sua poesia traduzida e acolhida por Guilherme de Almeida.  Comentários: Marc Storms - pesquisador da herança belga no Brasil.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Anne-Sophie-Mutter-Photo-by-Andreas-Ortner.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T17:00:00Z" class="datetime"&gt;sab, 14/11/2026 - 17:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -504,61 +296,62 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporadas 2027&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 144 a R$ 160. Vendas: https://www.sympla.com.br/evento/o-delirio-e-o-tempo-cancoes-de-julia-tygel-sobre-poemas-de-manoel-de-barros-e-simon-tygel/3622285?share_id=copiarlink.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 15:48:29 +0000</pubDate>
+  <pubDate>Tue, 03 Nov 2026 11:32:58 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284106 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284235 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/julia-tygel-compositora-e-piano-tatiana-parra-e-marilia-vargas-cantoras-e-adriana-holtz#comments</comments>
     </item>
 <item>
-  <title>Vida longa à Orquestra Sinfônica da Amazônia </title>
-  <link>http://concerto.com.br/node/284105</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vida longa à Orquestra Sinfônica da Amazônia &lt;/span&gt;
+  <title>Duoduom</title>
+  <link>http://concerto.com.br/roteiros/duoduom</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duoduom&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:30&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Fundado em 2024, grupo foi criado pelo trompetista da Amazonas Filarmônica Rubens Claudio de Souza e ganhou força em 2026 &lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;A música clássica brasileira vem dos tempos da colonização. Já no século XVIII fazia-se em diversas regiões esse tipo de música semelhante à que se praticava nos grandes centros europeus. O polo de Minas Gerais foi, sem dúvida, o mais volumoso e expressivo daquele “barroco/pré-clássico” mulato. De início, é bom lembrar que a música religiosa predominava, pois suas estruturas de produção eram financiadas pela Igreja, que estava ligada à corte. A maior parte dos eventos, portanto, acontecia nos templos. No século seguinte, houve considerável expansão de recursos composicionais artísticos no país e diversificação estilística dos repertórios.   &lt;/p&gt;
-&lt;p&gt;No fim do século XIX, um fato científico e “mercadológico” acabou influenciando surtos culturais do mais elevado nível no Norte e no Nordeste do país. Com a descoberta da &lt;em&gt;Hevea brasiliensis&lt;/em&gt;, seringueira nativa da floresta amazônica que permitia a criação da borracha, a circulação de fortunas na região favoreceu também as atividades musicais. Manaus se transformou num grande polo de música erudita – sinfônica e operística – como consequência não só da produção do milagroso látex, mas também pela construção do suntuoso Teatro Amazonas, baseado nos moldes dos mais famosos teatros europeus. Grandes artistas vindos da Europa lá se apresentavam. Conta-se que até mesmo as roupas eram enviadas para a Europa para serem lavadas. &lt;/p&gt;
-&lt;p&gt;Por vários motivos, com a queda dos interesses comerciais na produção da borracha e o decréscimo das atividades mercadológicas, essa produção cultural foi declinando e, com o tempo, o belíssimo teatro de Manaus foi praticamente abandonado. Virou depósito de querosene na guerra e campo de futsal. &lt;/p&gt;
-&lt;p&gt;Na década de 1990, o governador Amazonino Mendes, político de grande prestígio e atuação no Estado e pessoa muito interessada em assuntos culturais, resolveu reverter essa indignidade. Restaurou o Teatro Amazonas dos alicerces ao teto e devolveu a ele o glamour dos tempos da inauguração. O silêncio daquelas paredes, porém, o incomodava. Foi assim que, em 1997, ele me incumbiu de criar uma orquestra sinfônica. Como não havia músicos de qualidade na região e os melhores brasileiros estavam engajados em nossas melhores sinfônicas, Amazonino me autorizou a trazer músicos do exterior. Foi assim que nasceu a Amazonas Filarmônica, orquestra que, além de trazer uma música de qualidade internacional ao teatro, incentivou a rápida musicalização do Estado. Em seguida, com o trabalho incansável do maestro Luiz Fernando Malheiro, o Amazonas se transformou também num ativo núcleo de produção operística com seus festivais concorridos e elogiáveis. &lt;/p&gt;
-&lt;p&gt;Para surpresa geral, surge agora em Manaus uma grande Orquestra Sinfônica da Amazônia.&lt;em&gt; &lt;/em&gt;Fundada em 2024 e ganhando força neste 2026, ela foi criada e dirigida por Rubens Claudio de Souza, que teve suas origens como trompetista da Amazonas Filarmônica. Se inicialmente obteve abrigo para seu projeto no Instituto Cultural Brasil-Estados Unidos, hoje ele conta com patrocínios de empresas privadas, apresentando-se em vários espaços do estado, inclusive no próprio Teatro Amazonas.  &lt;/p&gt;
-&lt;p&gt;Com a colaboração na direção executiva de um precioso músico oriundo da Filarmônica, o búlgaro Nikolay Sapoundjiev, ele pretende que ela não seja apenas um organismo orquestral de veiculação do grande repertório sinfônico, mas quer voltar suas atenções para o rico folclore da região, transformando-o igualmente num bem cultural universal. Foram feitas inúmeras pesquisas do território da cultura espontânea amazônica, ao mesmo tempo que foi solicitado a uma grande e nova geração de compositores brasileiros transformar aquela expressão musical telúrica num expressivo valor cultural. E eles não deixam por menos. O objetivo é “excelência musical, formação de públicos e valorização das culturas regionais”.  &lt;/p&gt;
-&lt;p&gt;Parabéns e vida longa à Orquestra Sinfônica da Amazônia.  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Orquestra Sinfônica da Amazônia (divulgação)" data-entity-type="file" data-entity-uuid="c5307bfc-e077-4a0b-8b54-b6bdd49c1ab8" src="http://concerto.com.br/sites/default/files/inline-images/w-sinfonica_amazonas_julio.jpg" /&gt;
-&lt;figcaption&gt;Orquestra Sinfônica da Amazônia (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14856" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Júlio Medaglia&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 14:45&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto de lançamento de seu primeiro álbum, Zwischen Liebe und Leben — Entre Amor e Vida, dedicado ao universo do Lied alemão. Joyce Tripiciano - mezzo soprano e Leandro Roverso - piano. Programa: obras de Schumann e Brahms, com dança e projeções multi-mídia.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-sinfonica_amazonas_julio.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T11:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -567,63 +360,63 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Atrás da Pauta&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;R$ 144 a R$ 160. Vendas: &lt;a href="https://www.sympla.com.br/evento/entre-amor-e-vida-duoduom/3623450?share_id=copiarlink"&gt;https://www.sympla.com.br/evento/entre-amor-e-vida-duoduom/3623450?shar…&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 14:45:29 +0000</pubDate>
-    <dc:creator>Júlio Medaglia</dc:creator>
-    <guid isPermaLink="false">284105 at http://concerto.com.br</guid>
+  <pubDate>Tue, 03 Nov 2026 11:30:05 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284234 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/duoduom#comments</comments>
     </item>
 <item>
-  <title>Museu da música </title>
-  <link>http://concerto.com.br/node/284104</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Museu da música &lt;/span&gt;
+  <title>Gustavo Lassen - baixo e Flavio Lago - piano</title>
+  <link>http://concerto.com.br/roteiros/gustavo-lassen-baixo-e-flavio-lago-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gustavo Lassen - baixo e Flavio Lago - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:25&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Ecossistema musical brasileiro, tão rico, merece projeto que preserve e promova o que é feito por aqui&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Li que o Ministério da Cultura da Indonésia planeja criar um museu nacional da música. Senti uma ponta de inveja. No Brasil, há vários museus dedicados ao assunto, em locais tão distintos quanto Salvador (Bahia), Timbó (Santa Catarina) ou Itu (São Paulo). Mas não existe uma grande instituição nacional que reúna, preserve e promova a música brasileira (clássica, popular e tradicional) aqui e no exterior. &lt;/p&gt;
-&lt;p&gt;Seria algo natural num país que é uma potência da música: o Brasil é uma das nações que menos consome música estrangeira no mundo e, ao mesmo tempo, uma das que mais exporta sua música. Esta é a conclusão a que se chega a partir do relatório de meio de ano da Luminate, empresa de dados que mapeia a indústria do entretenimento e que alimenta as paradas musicais da Billboard há mais de trinta anos, além de servir como fonte oficial para iniciativas como o Globo de Ouro.  &lt;/p&gt;
-&lt;p&gt;Segundo o documento, o ecossistema musical está passando por uma transformação, e o domínio histórico das faixas em língua inglesa diminui gradualmente. Nos EUA, o consumo via streaming vem se diversificando, com destaque para o fato de que quase uma em cada dez reproduções ocorre em espanhol. Já os mercados europeus lideram a diversidade, com Suíça, Bélgica e Alemanha contando com os ecossistemas musicais mais heterogêneos – 76% dos usuários alemães de serviços de streaming, por exemplo, ouvem artistas de outros países. Por sua vez, grandes mercados como Índia (onde 83,6% do consumo de streaming é de artistas locais), Japão, Coreia do Sul e Brasil apresentam a menor diversidade, já que a produção local supre a maior parte da demanda interna. Ou seja, no Brasil se ouve principalmente música feita aqui, por artistas locais e escritas em português.  &lt;/p&gt;
-&lt;p&gt;O relatório da Luminate utiliza o termo “insulares” para se referir a esses países, no sentido de que vivem mergulhados na cena musical local. Curiosamente, dois deles estão também entre os maiores exportadores de música. A Coreia do Sul aparece em terceiro lugar, atrás dos Estados Unidos e do Reino Unido, impulsionada, segundo a pesquisa, pelo sucesso global do grupo de k-pop BTS (que canta principalmente em coreano, mas também em inglês e japonês). Já o Brasil vem avançando no ranking: esteve em décimo lugar em 2024, nono em 2025 e agora aparece na oitava posição. Único país da América do Sul a figurar entre os dez maiores exportadores de música, o Brasil tem como principais consumidores de sua produção Portugal, Bolívia e Argentina. &lt;/p&gt;
-&lt;p&gt;Ainda segundo a pesquisa, são artistas como Alok e Anitta que alavancam nossa participação global, a qual, por sua vez, reflete as crescentes oportunidades internacionais para o mercado brasileiro. “É claro que artistas como eles ajudam a abrir portas, mas ninguém sustenta sozinho o crescimento internacional de um país por três anos consecutivos”, afirma Rodrigo Lampreia em artigo da &lt;em&gt;Billboard Brasil&lt;/em&gt; em que analisa o relatório da Luminate. &lt;/p&gt;
-&lt;p&gt;Para ele, “durante muito tempo existiu a ideia de que, para conquistar o mercado internacional, era preciso soar internacional. Esse relatório sugere o contrário. Quando um país consome intensamente a própria cultura, ele deixa de perseguir tendências e começa a criar as suas. Isso fortalece uma identidade musical inteira, uma música com personalidade, com sotaque, com referências que não imitam ninguém. É justamente essa autenticidade que atravessa fronteiras”. &lt;/p&gt;
-&lt;p&gt;Trago esses dados, pois, além de serem muito interessantes, reforçam a ideia inicial: se temos uma música tão rica, diversa e potente na atualidade – e uma história musical riquíssima que poucos conhecem e que foi responsável por nos trazer até aqui –, por que não criar uma instituição com visibilidade e força para preservar o legado de músicos e comunidades, além de fortalecer o &lt;em&gt;soft power&lt;/em&gt; que a música brasileira naturalmente já exerce no mundo? Uma instituição que possa reunir um arquivo com gravações, depoimentos, partituras e coleções pessoais, mas que também promova a interligação de acervos nacionais presentes em pequenos museus, universidades e instituições culturais públicas e privadas, que promova debates, publique coletâneas, organize festivais e concursos.  &lt;/p&gt;
-&lt;p&gt;Imaginem uma experiência imersiva explorando os batuques de Tietê e mostrando como eles serviram de fonte para Itamar Assumpção (ouçam seu &lt;em&gt;Batuque&lt;/em&gt;) e Camargo Guarnieri (sua &lt;em&gt;Dança brasileira&lt;/em&gt; foi escrita a partir de memórias musicais da infância), ambos nascidos nessa pequena cidade do interior de São Paulo. Ou uma exposição que disseque as referências do último disco de Anitta, &lt;em&gt;Equilibrium&lt;/em&gt;, mostrando que as matrizes afro-brasileiras estão há muito tempo servindo de fonte para algumas das mais importantes obras de nosso repertório sinfônico e popular.  &lt;/p&gt;
-&lt;p&gt;Por que não temos um projeto desses no horizonte?  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Imagem Gerada Por Ia)" data-entity-type="file" data-entity-uuid="fa6badf4-f587-41e2-ab99-1cc13610a98e" src="http://concerto.com.br/sites/default/files/inline-images/w-MuseuMusica_Copilot_20261018_1.jpg" /&gt;
-&lt;figcaption&gt;(Imagem gerada por IA)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14719" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Camila Fresca&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 13:43&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Lançamento do livro Assim falava Zaratustra - Palavra, Música e Filosofia, de Friedrich Nietzsche. Andres Santos Jr. - narração. Scarlett Marton - filósofa. Programa: obra de Nietzsche em diálogo com a música interpretada.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-MuseuMusica_Copilot_20261018_1.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-07T17:00:00Z" class="datetime"&gt;sab, 07/11/2026 - 17:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -632,84 +425,90 @@ Novas assinaturas poderão ser feitas até 9 de novembro, pelo WhatsApp: (11) 97
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Horizontes&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278697" hreflang="pt-br"&gt;Psicadeiro - Sala Beatriz Segall&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 50. Vendas: https://www.sympla.com.br/evento/assim-falava-zaratustra-palavra-musica-e-filosofia/3620304?share_id=copiarlink.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 13:43:06 +0000</pubDate>
-    <dc:creator>Camila Fresca</dc:creator>
-    <guid isPermaLink="false">284104 at http://concerto.com.br</guid>
+  <pubDate>Tue, 03 Nov 2026 11:25:36 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284233 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/gustavo-lassen-baixo-e-flavio-lago-piano#comments</comments>
     </item>
 <item>
-  <title>Caminho da água </title>
-  <link>http://concerto.com.br/node/284103</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Caminho da água &lt;/span&gt;
+  <title>Teatro Petrobras Carlos Urbim </title>
+  <link>http://concerto.com.br/node/284231</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro Petrobras Carlos Urbim &lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Entrevista com a compositora Juliana Ripke e a diretora Julianna Santos&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;O Theatro São Pedro estreia neste mês &lt;em&gt;Conceição Evaristo: uma ópera escrevivência&lt;/em&gt;. A obra tem música de Juliana Ripke e libreto e direção cênica de Julianna Santos a partir de um texto autobiográfico de Conceição Evaristo, uma das principais escritoras brasileiras da atualidade. O título vem de um conceito desenvolvido por ela, “escrevivência”, uma escrita que nasce da experiência de vida, da memória, do corpo e da ancestralidade do sujeito, ligada à epistemologia negra e, em especial, à vivência das mulheres negras. Evaristo esteve presente ao longo da criação da ópera, mas fez questão de dar a Ripke e Santos total liberdade no processo de construção do texto e da música, como elas contam na entrevista a seguir. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Como surgiu a ideia para a ópera?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;Juliana Ripke:&lt;/strong&gt; Eu já havia escrito duas músicas com texto da Conceição Evaristo, &lt;em&gt;Eu-mulher&lt;/em&gt;, para o Coral Jovem do Estado, e &lt;em&gt;Vozes mulheres&lt;/em&gt;, para o Coro da Osesp. E foi com &lt;em&gt;Vozes mulheres&lt;/em&gt; que conheci Conceição, porque tive de pedir a autorização para usar o texto. Edna D’Oliveira me ajudou a construir o caminho até ela. Eu me lembro da primeira ligação, eu tremia toda &lt;em&gt;(risos)&lt;/em&gt;. E foi muito bonito. A única coisa que ela pediu foi ingressos para que a população menos favorecida pudesse assistir ao concerto. “Se meu texto vai estar num lugar como a Sala São Paulo, eu quero que todo mundo possa ouvir.” Isso me marcou. Passado um tempo, eu estava pensando em como a gente não tem óperas sobre mulheres brasileiras. E veio a ideia: “Por que a gente não faz uma ópera sobre Conceição?”. Sugeri ao Theatro São Pedro, que aceitou na hora. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;E como ela recebeu a ideia?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. R.:&lt;/strong&gt; O segundo passo foi viajar ao Rio de Janeiro para conversar com ela, ver se topava, porque é a história dela. Tivemos um processo de conquistar a confiança e o coração de Conceição. Ela queria entender o que é ópera, como funciona o meio musical. E esse dia no Rio foi especial porque conhecemos a Casa Escrevivência, a casa dela, a filha dela.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Julianna, você já estava no projeto a essa altura?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;Julianna Santos: &lt;/strong&gt;Cheguei depois. A ideia inicial, que acabou não se concretizando, era Conceição escrever o libreto. Eu entrei, então, em um segundo momento, com a responsabilidade de fazer o texto. Havia pouco tempo para isso e para imaginar a encenação, então, enquanto eu pensava no libreto, já elaborava a encenação. Conceição mandou um texto biográfico, curto, que ela começou a escrever em 2009. E eu fui dialogando com os livros dela, especialmente &lt;em&gt;Becos da memória&lt;/em&gt;, que conta muito da experiência dela na comunidade do Pindura Saia, em Belo Horizonte. Fui me guiando por minha sensibilidade, minha percepção. Perguntamos se queria ver o texto, mas ela disse que preferia que fosse surpresa. E eu pensei: isso triplica a responsabilidade! Será que ela vai se sentir representada? O que fiz foi dar espaço a essa sensibilidade, esse &lt;em&gt;feeling&lt;/em&gt; sobre como é a obra dela, tentando reproduzir essa escrita. São as palavras dela, tanto que falamos em texto de Conceição Evaristo e libreto meu. Eu conduzi a dramaturgia, a forma de contar. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A fonte principal, então, foi a obra dela?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. R.:&lt;/strong&gt; Entrevistas também.  &lt;br /&gt;
-&lt;strong&gt;J. S.: &lt;/strong&gt;Entrevistas, recordações, depoimentos. A costura de textos tentou captar a essência da forma como ela narra, sua forma poética, buscando sempre pontos de interseção entre uma cena e outra, um fluxo mais fluido. Só houve dois pedidos: começar com a cena do nascimento dela e incluir uma canção que ela enviou, um texto que mandou para Juliana musicar, que é uma canção que ela gostaria que a filha cantasse. Eu busquei uma forma não linear de construir essa história, um tempo espiral, que vem da cultura africana, da própria forma da narrativa dela. É muito difícil ler os livros dela, é muito emocionante, muito duro e muito poético, de uma beleza forte. Eu não me senti à vontade para colocar minhas palavras. Eu queria as palavras de Conceição, e a partir daí veio a construção dramatúrgica.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ainda assim, houve um trabalho de vocês a partir dessa memória dela.&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. S.: &lt;/strong&gt;Conceição sempre diz que a memória falha. O melhor lugar para a escrita é essa fresta entre a história que aconteceu e a história que você imaginou. Ela diz: “Tudo o que está aqui talvez tenha acontecido, talvez não: é a forma como me lembro ou não do que aconteceu”. E como acessar a memória de uma história, das sensações de uma sensibilidade? É um acesso quase ancestral de uma memória construída a partir de uma vivência, desse processo de trocas, das escutas dessas mulheres, da convivência e do compromisso com a comunidade. Conceição diz sempre que não fala por ela, que é a voz de muitas pessoas. Eu tentei recriar essa poética. &lt;br /&gt;
-&lt;strong&gt;J. R.:&lt;/strong&gt; A gente teve diversos encontros com ela, momentos em que coletamos muitas informações, coisas que não entendíamos, coisas que eram importantes para ela, como o falecimento do marido, do qual ela nunca havia falado. Fomos tentando entender com cuidado, com respeito. E Ju amarrou tudo isso dentro do libreto. Com isso, vejo três elementos: o texto autobiográfico, os livros e as conversas com ela. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Julianna colocou essa imagem muito rica das frestas entre história e memória. Foi nelas também que você buscou a música?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. R.: &lt;/strong&gt;Havia muitas coisas envolvidas. Conceição pediu para que a música e o espetáculo fossem poéticos, não puro entretenimento, a história de uma mulher negra para entreter brancos. E é uma responsabilidade enorme fazer uma música que tenha a profundidade poética desse texto, dessa história e da mulher que ela é. Foi um processo bonito entre mim e a Ju. Ela escrevia o texto, a gente discutia, eu escrevia uma cena, mandava para ela ouvir, a gente conferia se estava soando poética e dramaturgicamente de acordo com a cena. Sem jamais ser caricato. Existe uma coisa bem forte dentro dessa obra: o elemento água. Esse tema aparece logo na primeira cena e vai sendo desenvolvido durante toda a ópera. Eu o manipulo de diversas maneiras para que traga unidade. Também passeei muito entre o atonalismo e o tonalismo; dependendo do momento dramatúrgico, quis olhar para o que cada cena queria dizer. A questão da água é muito forte, porque Conceição, desde o primeiro momento, falou: “Eu nasci no dia mais chuvoso do ano, era muita chuva quando minha mãe descia a favela da Pindura Saia”. E foi no dia de Imaculada Conceição, que sincreticamente é Oxum. A mãe dela era lavadeira e chorava muito quando estava triste. E cantava. Então eu quis trazer essa fluidez para a música. Outro elemento é a congada, importante para ela, que lembra muito das procissões em Minas. É uma memória afetiva, daquele som que vem de longe. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;E como a água está presente no texto ou na encenação?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. S.:&lt;/strong&gt; Conceição cita a mãe dela o tempo inteiro com esses olhos d’água e fala em Oxum, orixá das águas, das águas doces, das cachoeiras. Isso era central para ela, que chegou a dizer que queria muito o amarelo no espetáculo, porque é a cor de Oxum. Esse sincretismo está na escrita dela, e eu procurei manter no texto. A gente volta a Oxum em vários momentos, misturando com a questão católica, como na congada, manifestação que surgiu no século XVIII como resistência e permaneceu uma forma de os negros expressarem a religião deles dentro do catolicismo. A água, a gente imprimiu também no espaço cênico, no cenário, através das cores, o que nos ajudou a construir esse espaço do Pindura Saia de forma poética. Fomos em busca dessas tonalidades de água e dessa fluidez no próprio desenrolar do texto, dessa onda, dessa marola e na citação da própria de Oxum e do e dos olhos dessa mãe. &lt;br /&gt;
-&lt;strong&gt;J. R.:&lt;/strong&gt; Essa é um uma coisa muito importante, Ju, porque há um elemento que atravessa toda a história dela, que é a maternidade. Ela fala de como foi a filha dela, diante de tudo o que aconteceu, que a salvou, a fez sobreviver, sabe? Em uma das cenas, há &lt;em&gt;Menina&lt;/em&gt;, um poema que ela escreveu para a filha, “meu poema primeiro, que cuida de mim”. Ela cuidou muito da filha, enquanto, na verdade, a filha cuidava dela. Então, nesse nascer, a água também vem do ventre da mãe. Ela atravessa tudo. &lt;br /&gt;
-&lt;strong&gt;J. S.:&lt;/strong&gt; Ela narra o momento da chuva, fala da água que desce pelas pernas no nascimento e de como elas se misturam. E eu fui atrás dos trechos que representam esses episódios. Que texto pode representar essa importância da filha? Ou o momento em que ela conhece Oswaldo? Há textos dela muito femininos, que falam do calor feminino, da mulher que gera. Fui encontrando textos que representassem essas passagens citadas como passagens marcantes na vida dela, momentos de renascimento. &lt;br /&gt;
-&lt;strong&gt;J. R.: &lt;/strong&gt;Ela deixou isso para a gente, os momentos da vida que não poderiam faltar, que foram decisivos. São momentos de ruptura, que doem. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vocês falaram desse processo de trabalho conjunto, e Julianna (Santos) citou momentos em que trabalhava no texto já pensando na cena. Para você, isso foi um dado na hora de pensar a música, ou seja, ter o espetáculo como ele vinha sendo imaginado para o palco como um caminho? Seja de forma direta ou não.&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. R.: &lt;/strong&gt;Acho que aconteceu das duas maneiras.&lt;strong&gt; &lt;/strong&gt;Eu dizia muito para Ju:&lt;strong&gt; &lt;/strong&gt;me fala qual é o afeto dessa cena, desse texto. Eu não queria fazer uma música que não fosse o afeto que ela pretendia passar. E também acontecia o contrário. Eu escrevia a música e falava: “Ju, aqui pensei tal coisa para a cena, você acha que cabe?”. E ela ia lá e anotava. Para mim era muito importante que esse processo fosse conjunto. Até porque eu sou mulher, mas esse não é exatamente meu lugar de fala. Eu queria saber qual era o real sentimento daquela cena, o que aquilo queria dizer.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Juliana, você tem um vasto trabalho com a escrita para voz, mas essa é sua primeira ópera. Como foi pensar o canto nesse contexto, à luz da questão narrativa, da voz como parte de uma dramaturgia?&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;J. R: &lt;/strong&gt;Sempre escrevi muito para voz, e uma grande preocupação é a&lt;strong&gt; &lt;/strong&gt;prosódia. Eu me preocupo com a compreensão do texto, sobre esse cantar brasileiro. E, em uma ópera sobre uma escritora, o texto precisa ser compreendido. O que mudou foi que, dentro de uma dramaturgia, em uma obra que tem várias cenas, é preciso pensar no grande arco narrativo. O ponto é trabalhar prosódia, trabalhar o desenvolvimento das frases, do tema da ópera, de qual é o assunto que vou desenvolver, o que que vai trazer unidade musical para que não pareça um monte de canções emendadas. Essa era uma preocupação que eu tinha durante todo o processo. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Obrigado pela entrevista. &lt;/strong&gt; &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Julianna Santos (divulgação, Paulo Lacerda) / Juliana Ripke (divulgação)" data-entity-type="file" data-entity-uuid="a066e43d-15dd-4eec-b375-ea10c01465f7" src="http://concerto.com.br/sites/default/files/inline-images/w-entrevista.jpg" /&gt;
-&lt;figcaption&gt;Julianna Santos (divulgação, Paulo Lacerda) / Juliana Ripke (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;Conceição Evaristo: uma ópera escrevivência&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;,&lt;/strong&gt; &lt;strong&gt;de Juliana Ripke&lt;/strong&gt; &lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;Maíra Ferreira&lt;/strong&gt;&lt;/em&gt; – direção musical &lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;Julianna Santos&lt;/strong&gt;&lt;/em&gt; – direção cênica &lt;br /&gt;
-Dias 20, 22, 25, 27 e 29, Theatro São Pedro, São Paulo  &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15017" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;João Luiz Sampaio&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 01/11/2026 - 12:38&lt;/span&gt;
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Praça da Alfândega, s/nº - Altura da Av. Sepúlveda - Centro Histórico - Tel. (51) 3289-0156 &lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:20&lt;/span&gt;
 
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/entrevista" hreflang="pt-br"&gt;Entrevista&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Porto Alegre, RS&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Tue, 03 Nov 2026 11:20:05 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284231 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/node/284231#comments</comments>
+    </item>
+<item>
+  <title>Conjunto de Cordas Aliança Francesa</title>
+  <link>http://concerto.com.br/roteiros/conjunto-de-cordas-alianca-francesa-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Conjunto de Cordas Aliança Francesa&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 03/11/2026 - 11:16&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;72ª Feira do Livro de Porto Alegre. Bibiana Turchiello, Felipe Abel e Victor Rosin - violinos, Eliézer Braga e Giovani Leal - violas, Isadora Gehres - violoncelo e Ezequiel de Paula - contrabaixo. Programa:  trilhas sonoras do cinema e a cena pop contemporânea, como Le Festin, do filme Ratatouille; Amour plastique, do duo Videoclub, Balance ton quoi, da cantora belga Angèle, Dernière danse, de Indila; Le long de la route, de Zaz, e Je vole, do filme La Famille Bélier.&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-entrevista.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T18:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 18:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -718,29 +517,41 @@ Dias 20, 22, 25, 27 e 29, Theatro São Pedro, São Paulo  &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Em conversa&lt;/div&gt;
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
 
-  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/novembro-2026" hreflang="pt-br"&gt;Novembro 2026&lt;/a&gt;&lt;/div&gt;
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284231" hreflang="pt-br"&gt;Teatro Petrobras Carlos Urbim &lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Sun, 01 Nov 2026 12:38:12 +0000</pubDate>
-    <dc:creator>João Luiz Sampaio</dc:creator>
-    <guid isPermaLink="false">284103 at http://concerto.com.br</guid>
+  <pubDate>Tue, 03 Nov 2026 11:16:15 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284232 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/conjunto-de-cordas-alianca-francesa-0#comments</comments>
     </item>
 
   </channel>

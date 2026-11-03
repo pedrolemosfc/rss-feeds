@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-03 03:32 UTC
+Generated: 2026-11-03 12:04 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,8 +22,8 @@ Generated: 2026-11-03 03:32 UTC
   notes: scraped 85 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=59 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 59 items
+- **folha-show** [OK] items=60 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 60 items
 - **guia-restaurantes** [OK] items=77 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 77 items
 - **guia-shows** [OK] items=92 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -120,12 +120,12 @@ Generated: 2026-11-03 03:32 UTC
   notes: scraped 40 events
 - **audio-sp** [OK] items=30 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
   notes: scraped 30 events
-- **teatro-das-artes-sp** [OK] items=8 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
-  notes: scraped 8 events
+- **teatro-das-artes-sp** [OK] items=3 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
+  notes: scraped 3 events
 - **casa-de-francisca** [OK] items=49 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
   notes: scraped 49 events
-- **jazz-b** [OK] items=9 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 9 events
+- **jazz-b** [OK] items=10 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 10 events
 - **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 18 events
 - **manifesto-bar** [OK] items=15 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
@@ -191,7 +191,7 @@ Generated: 2026-11-03 03:32 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=189 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 189 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=190 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 190 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=169 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 169 unique items (from ['guia-restaurantes', 'guia-shows'])
