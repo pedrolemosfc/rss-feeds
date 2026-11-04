@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 60,
+    "items": 61,
     "ok": true,
-    "notes": "scraped 60 items"
+    "notes": "scraped 61 items"
   },
   {
     "name": "guia-restaurantes",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 190,
+    "items": 191,
     "ok": true,
-    "notes": "merged 3 feeds -> 190 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 191 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 24,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 13,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 13 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -612,9 +612,9 @@
     "name": "arena-sertaneja-fever",
     "source_url": "https://feverup.com/pt/sao-paulo/venue/arena-sertaneja",
     "output": "feeds/arena-sertaneja-fever.xml",
-    "items": 11,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 12,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
