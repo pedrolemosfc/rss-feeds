@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-03 19:38 UTC
+Generated: 2026-11-04 00:43 UTC
 
 ## Native feeds (not scraped)
 
@@ -100,8 +100,8 @@ Generated: 2026-11-03 19:38 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=6 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 6 events
-- **bourbon-street** [OK] items=20 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 20 events
+- **bourbon-street** [OK] items=24 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 24 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -122,8 +122,8 @@ Generated: 2026-11-03 19:38 UTC
   notes: scraped 30 events
 - **teatro-das-artes-sp** [OK] items=3 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 3 events
-- **casa-de-francisca** [FAIL] items=0 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: fetch failed: URLError: <urlopen error timed out>
+- **casa-de-francisca** [OK] items=53 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 53 events
 - **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 11 events
 - **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -182,8 +182,8 @@ Generated: 2026-11-03 19:38 UTC
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=14 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  

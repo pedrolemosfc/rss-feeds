@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 20,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 24 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: URLError: <urlopen error timed out>",
+    "items": 53,
+    "ok": true,
+    "notes": "scraped 53 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
