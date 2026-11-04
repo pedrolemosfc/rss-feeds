@@ -6,7 +6,7 @@
 <link>https://theatromunicipal.org.br/programacao/</link>
 <description>Eventos da programação do Theatro Municipal de São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 04 Nov 2026 18:03:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 23:46:11 +0000</lastBuildDate>
 <item>
 <title>Evento Cancelado: Nova ópera de Jocy de Oliveira e Édipo Rei (Double Bill)</title>
 <link>https://theatromunicipal.org.br/eventos/opera-nova-opera-de-jocy-de-oliveira-e-edipo-rei-double-bill/</link>
@@ -32,6 +32,12 @@
 <description>Theatro Municipal de São Paulo · Concertos</description>
 </item>
 <item>
+<title>Municipal Circula – Balé da Cidade no CEU Cidade Dutra</title>
+<link>https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/</link>
+<guid isPermaLink="true">https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/</guid>
+<description>Theatro Municipal de São Paulo · Dança</description>
+</item>
+<item>
 <title>Quarteto de Cordas – Diálogos: Price, Brahms e Dvořák</title>
 <link>https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/</link>
 <guid isPermaLink="true">https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/</guid>
@@ -44,16 +50,10 @@
 <description>Theatro Municipal de São Paulo · Ópera</description>
 </item>
 <item>
-<title>Ópera Os Pescadores de Pérolas, de Georges Bizet</title>
+<title>Pesquise por espetáculos, artistas, corpos artísticos, datas ou conteúdos institucionais.</title>
 <link>https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/</link>
 <guid isPermaLink="true">https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/</guid>
 <description>Theatro Municipal de São Paulo · Ópera</description>
-</item>
-<item>
-<title>Pesquise por espetáculos, artistas, corpos artísticos, datas ou conteúdos institucionais.</title>
-<link>https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/</link>
-<guid isPermaLink="true">https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/</guid>
-<description>Theatro Municipal de São Paulo · Concertos</description>
 </item>
 </channel>
 </rss>
