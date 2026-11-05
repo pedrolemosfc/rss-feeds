@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 04 Nov 2026 23:45:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:58:01 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1MyIsImRpc2xpa2VzIjoiMCJ9?token=LCOO3TPC3qUYooCNR97My7wRIJUcOFsVgXD7-7eThLo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1NCIsImRpc2xpa2VzIjoiMCJ9?token=_VrxvGRj_MgARp1UQ1bYDbuRgjG4gvKYa9AqCo6cWW4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;653&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;654&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,15 +82,98 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Filarmônica de Minas Gerais toca a Sinfonia nº 9 de Mahler</title>
+  <title>Orquestra Sinfônica de Porto Alegre lança concurso de composição</title>
+  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-de-composicao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Porto Alegre lança concurso de composição&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Obra sinfônica premiada receberá US$ 10 mil e será apresentada durante concerto da orquestra em março de 2027&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Orquestra Sinfônica de Porto Alegre acaba de lançar a primeira edição do Prêmio Internacional de Composição Ospa-Banrisul. A competição é destinada a compositores de mais de 18 anos e vai premiar uma obra orquestral com US$ 10 mil e a apresentação em concerto da orquestra no dia 12 de março de 2027.&lt;/p&gt;
+&lt;p&gt;Para participar, é preciso enviar uma obra sinfônica inédita, com duração de 25 a 30 minutos. As inscrições são gratuitas e serão abertas no dia 10 de novembro – o prazo se encerra no dia a 4 de janeiro de 2027. &lt;/p&gt;
+&lt;p&gt;O prêmio é resultado de uma cooperação entre a Fundação Cultural Pablo Komlós, que atua na elaboração e gestão de projetos culturais ligados à Ospa; a Fundação Orquestra Sinfônica de Porto Alegre (Fospa); e o Banrisul. &lt;/p&gt;
+&lt;p&gt;“Estimular a criação artística é parte da missão institucional da Fospa. Um prêmio de composição de música de concerto, com abrangência internacional, justifica-se pelo fato de que as artes não obedecem a limites de qualquer natureza, muito menos os geográficos”, afirma Gilberto Schwartsmann, presidente da Ospa.&lt;/p&gt;
+&lt;p&gt;“O prêmio cria uma oportunidade para que compositores de diferentes países apresentem seus trabalhos e tenham uma obra executada por uma das principais orquestras brasileiras. Essa iniciativa coloca Porto Alegre e o Rio Grande do Sul no circuito internacional da composição sinfônica e amplia a projeção da cultura produzida no Estado”, diz Fernando Lemos, presidente do Banrisul.&lt;/p&gt;
+&lt;p&gt;As composições, além da duração entre 25 e 30 minutos, devem ser estruturadas em pelo menos três movimentos contrastantes e respeitar a instrumentação sinfônica especificada no regulamento. A partitura deverá ser enviada em PDF, acompanhada de um áudio em MP3 gerado por software musical, MIDI ou similar. Para garantir a avaliação anônima, os dois arquivos deverão estar desidentificados, conforme as regras do edital, disponível no da Ospa (clique &lt;u&gt;&lt;a href="https://ospa.rs.gov.br/upload/arquivos/202611/03230653-versao-31126-1-premio-internacional-de-composicao-ospa-banrisul-portugues-revisao-luiza-1.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
+&lt;p&gt;O material enviado será avaliado “por uma comissão de seleção formada por três maestros ou maestras de notório saber, que não terão acesso aos nomes dos compositores, apenas às obras que também não serão identificadas”. Realizada entre 9 de janeiro e 10 de fevereiro de 2027, a análise “levará em conta o mérito artístico, a viabilidade técnica e a conformidade das composições às regras do edital”. O resultado final será divulgado no dia 11 de fevereiro.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt; &lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt;&lt;strong&gt;&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/trio-sitkovetsky-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Trio Sitkovetsky faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/usp-organiza-festival-britten-e-homenageia-o-legado-do-compositor" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;USP organiza Festival Britten e homenageia o legado do compositor&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, Por Clara Zamboni&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" data-entity-type="file" data-entity-uuid="5b13be80-5039-4891-a4f1-9be4c5df8c6e" src="http://concerto.com.br/sites/default/files/inline-images/w-ospa%20%281%29.jpg" /&gt;
+&lt;figcaption&gt;A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 02:09&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ospa%20%281%29.jpg" width="900" height="433" alt="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" title="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-zyEv7Z7ljPuEH4i2RK4BWlH8AEqaU-FGrC04hQKwjo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 02:09:07 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284299 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Filarmônica de Minas Gerais toca a ‘Sinfonia nº 9’ de Mahler</title>
   <link>http://concerto.com.br/noticias/musica-classica/orquestra-filarmonica-de-minas-gerais-toca-sinfonia-no-9-de-mahler</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Filarmônica de Minas Gerais toca a Sinfonia nº 9 de Mahler&lt;/span&gt;
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Filarmônica de Minas Gerais toca a ‘Sinfonia nº 9’ de Mahler&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, em Belo Horizonte, a Orquestra Filarmônica de Minas Gerais dá continuidade à Série Presto na Sala Minas Gerais. Com Fabio Mechetti na regência, a orquestra interpreta a &lt;em&gt;Sinfonia nº 9&lt;/em&gt;, de Mahler.&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;Sinfonia nº 9 &lt;/em&gt;é compreendida por uma parte dos pesquisadores como o testamento do compositor austríaco. Mahler compôs a obra em 1909, dois anos após perder a filha, receber o diagnóstico de uma doença cardíaca incurável e, pressionado por campanhas antissemitas, deixar a direção da Ópera Estatal de Viena. A turbulência na vida do compositor, relatada ao maestro e amigo Bruno Walter, fez com que críticos como Paul Bekker associassem a composição à morte do compositor, que chegaria em 1911.&lt;/p&gt;
 &lt;p&gt;Por outro lado, relatos de Mahler sobre a obra não atribuem a ela o tom de despedida. Em registros a Walter, o compositor se refere à obra como “uma adição satisfatória à minha pequena família”, sem comentários sobre motivações extramusicais. Pierre Boulez atribuia ainda a sensação de ruptura da obra às transformações musicais do período, marcado pela transição ao modernismo.&lt;/p&gt;
-&lt;p&gt;“Em outras palavras, em uma obra como a de Mahler, construída sobre a dualidade, fazendo conviver a nostalgia e a ironia, o sentimental e o moderno, nada pode ser tão óbvio. No caso específico da Nona sinfonia, talvez seja mais interessante compreender morte e vida como alegorias de uma sensação de não pertencimento a um mundo do qual, paradoxalmente, não é possível se distanciar”, escreve João Luis Sampaio em texto publicado na edição de julho de 2014 da Revista CONCERTO [ Clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-9-de-gustav-mahler"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/a&gt;; Acesso exclusivo para assinantes].&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;mais detalhes&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;“Em outras palavras, em uma obra como a de Mahler, construída sobre a dualidade, fazendo conviver a nostalgia e a ironia, o sentimental e o moderno, nada pode ser tão óbvio. No caso específico da Nona sinfonia, talvez seja mais interessante compreender morte e vida como alegorias de uma sensação de não pertencimento a um mundo do qual, paradoxalmente, não é possível se distanciar”, escreve João Luiz Sampaio em texto publicado na edição de julho de 2014 da Revista CONCERTO [clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-9-de-gustav-mahler"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
 Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
@@ -146,10 +229,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=gA9J0-D8MQiou6k7bjGspwY1za9qa4J4Nh-7qsH8RX4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=c1ao7zVxz7DSMOG6maucTSCraMJkxL14bLnBkRaqLRk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -165,12 +248,13 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
   <link>http://concerto.com.br/noticias/musica-classica/osesp-dedica-concerto-obra-de-haydn</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; Osesp dedica concerto à obra de Haydn&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, a Orquestra Sinfônica do Estado de São Paulo realiza concerto Haydn de Perto, na Estação Motiva Cultural. Sob regência de Thierry Fischer, a orquestra convida o oboísta Ricardo Barbosa para o &lt;em&gt;Concerto para oboé&lt;/em&gt;.&lt;em&gt; A representação do caos&lt;/em&gt;, de &lt;em&gt;A criação&lt;/em&gt;, e a &lt;em&gt;Sinfonia nº 104&lt;/em&gt;, Londres, completam o programa, que terá reapresentação na sexta-feira, dia 6.&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, a Orquestra Sinfônica do Estado de São Paulo realiza concerto Haydn de Perto, na Estação Motiva Cultural. Sob regência de Thierry Fischer, a orquestra convida o oboísta Ricardo Barbosa para o &lt;em&gt;Concerto para oboé&lt;/em&gt;.&lt;em&gt; A representação do caos&lt;/em&gt;, de &lt;em&gt;A criação&lt;/em&gt;, e a &lt;em&gt;Sinfonia nº 104&lt;/em&gt;, &lt;em&gt;Londres&lt;/em&gt;, completam o programa, que terá reapresentação na sexta-feira, dia 6.&lt;/p&gt;
 &lt;p&gt;Símbolo do classicismo, Haydn foi um dos expoentes do repertório sinfônico. O compositor austríaco nasceu em 1732, na vila de Rohrau, filho de um fabricante de carroças e de uma cozinheira. Na adolescência instalou-se em Viena, na casa do libretista Metastasio, que o apresentou a seu futuro mentor, o compositor Porpora. Em 1761, o jovem Haydn foi convidado a integrar a corte dos Esterházy como mestre de capela, que patrocinou seu trabalho por três décadas. &lt;/p&gt;
-&lt;p&gt;“Desde os primeiros anos de serviço para os Esterházy, Haydn se destacou como compositor, sobretudo por suas sinfonias. Já então, ele se revela um mestre do gênero, acabando por fixar a forma que ainda hoje reconhecemos: o primeiro movimento rápido, o segundo lento, o terceiro no estilo dançante e o quarto rápido”, descreve Camila Fresca em texto publicado na edição de novembro de 2013 da Revista CONCERTO [clique &lt;a href="https://concerto.com.br/noticias/arquivo/acervo-concerto-vida-e-obra-de-joseph-haydn"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
-&lt;p&gt;A&lt;em&gt; Sinfonia nº 104&lt;/em&gt;, 'Londres', é a última contribuição do compositor para o gênero. A obra de 1795 foi encomendada pelo maestro Johann Peter Salomon, junto com outras 11 sinfonias. Mesmo que o compositor não trabalhasse mais na corte, o quarto movimento combina melodias folclóricas eslavas que conheceu enquanto vivia nas propriedades dos Esterházy. Embora o tema de abertura fosse historicamente associado à cantiga britânica “Hot Cross Buns”, pesquisadores identificaram que a inspiração para o tema surgiu da balada croata Oj Jelena, que Haydn conheceu em Eisenstadt.&lt;/p&gt;
-&lt;p&gt;Ricardo Barbosa sobe ao palco para interpretar o &lt;em&gt;Concerto para oboé em dó maior&lt;/em&gt;. Vencedor do prêmio Pelúdio da TV Cultura em 2009, integra a Osesp desde 2011. Atualmente, ocupa o cargo de oboé solista no grupo. &lt;/p&gt;
+&lt;p&gt;“Desde os primeiros anos de serviço para os Esterházy, Haydn se destacou como compositor, sobretudo por suas sinfonias. Já então, ele se revela um mestre do gênero, acabando por fixar a forma que ainda hoje reconhecemos: o primeiro movimento rápido, o segundo lento, o terceiro no estilo dançante e o quarto rápido”, descreve Camila Fresca em texto publicado na edição de novembro de 2013 da Revista CONCERTO [clique &lt;a href="https://concerto.com.br/noticias/arquivo/acervo-concerto-vida-e-obra-de-joseph-haydn"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes]. &lt;/p&gt;
+&lt;p&gt;A&lt;em&gt; Sinfonia nº 104, Londres&lt;/em&gt;, é a última contribuição do compositor para o gênero. A obra de 1795 foi encomendada pelo maestro Johann Peter Salomon, junto com outras 11 sinfonias. Mesmo que o compositor não trabalhasse mais na corte, o quarto movimento combina melodias folclóricas eslavas que conheceu enquanto vivia nas propriedades dos Esterházy. Embora o tema de abertura fosse historicamente associado à cantiga britânica “Hot Cross Buns”, pesquisadores identificaram que a inspiração para o tema surgiu da balada croata Oj Jelena, que Haydn conheceu em Eisenstadt.&lt;/p&gt;
+&lt;p&gt;Ricardo Barbosa sobe ao palco para interpretar o &lt;em&gt;Concerto para oboé em dó maior&lt;/em&gt;. Vencedor do prêmio Prelúdio da TV Cultura em 2009, integra a Osesp desde 2011. Atualmente, ocupa o cargo de oboé solista no grupo. &lt;/p&gt;
 &lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
 Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
@@ -228,10 +312,10 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=PejlXhsjVBaGsQJ36c3HWgGThZ-Av3KIbcOPF4zNauc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yN5AHu3rdAljw9i7TngRAhDQ2SzN60aoHrRZ3G8iMms?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -268,7 +352,7 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;3&lt;/div&gt;
+              &lt;div class="field__item"&gt;75&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
@@ -316,7 +400,7 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
 
   &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
     &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;4&lt;/div&gt;
+              &lt;div class="field__item"&gt;14&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
@@ -506,70 +590,6 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
   <pubDate>Wed, 04 Nov 2026 15:35:50 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284292 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Jovem do RS</title>
-  <link>http://concerto.com.br/roteiros/orquestra-jovem-do-rs-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Jovem do RS&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 14:36&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sinfonia Pampa. Um palco para todos. Telmo Jaconi e Davi Coelho - regentes. Participação: Nicole Uepcoski - violino e Quinteto de Sopros e Coral da OJRS. Programa: Vittorio Monti - Czardas para violino; Giuseppe Cambini - Quinteto de sopros nº 1; Brahms - Danças húngaras nº 5 e nº 6; e música regional gaúcha. Auditório Osvaldo Stefanello.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-11T19:00:00Z" class="datetime"&gt;qua, 11/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/265978" hreflang="pt-br"&gt;Palácio da Justiça do Rio Grande do Sul &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca mediante distribuição de senhas.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 14:36:37 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284291 at http://concerto.com.br</guid>
     </item>
 
   </channel>
