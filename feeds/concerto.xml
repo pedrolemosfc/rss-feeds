@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 05 Nov 2026 16:32:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 23:42:27 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1NiIsImRpc2xpa2VzIjoiMCJ9?token=VjfQXJM7oRoLnFczP96CQ6dikgwhe7xQDPN-E_zGN1c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1NiIsImRpc2xpa2VzIjoiMCJ9?token=CzjFB_nlodhNIO-ru_egDH5ioU_vpSAgic0qZA_XL8M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;656&lt;/span&gt;
@@ -82,6 +82,217 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
+  <title>Cineclube Cauim</title>
+  <link>http://concerto.com.br/node/284310</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cineclube Cauim&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Olavo Bilac, 135 - Vila Seixas - Tel. (16) 3441-4341 - https://cauim.org/&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 17:16&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ribeirão Preto, SP&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 17:16:32 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284310 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>José Gustavo Julião de Camargo - viola caipira</title>
+  <link>http://concerto.com.br/roteiros/jose-gustavo-juliao-de-camargo-viola-caipira-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;José Gustavo Julião de Camargo - viola caipira&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 17:14&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto Revoredo. Programa: composições autorais do álbum Revoredo; e canções de Tom Jobim.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-10T20:00:00Z" class="datetime"&gt;ter, 10/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1381" hreflang="pt-br"&gt;Ribeirão Preto, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284310" hreflang="pt-br"&gt;Cineclube Cauim&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 17:14:30 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284311 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Bachiana Sênior Sesi-SP</title>
+  <link>http://concerto.com.br/roteiros/orquestra-bachiana-senior-sesi-sp</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Bachiana Sênior Sesi-SP&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 17:10&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto especial 80 anos da Fundação Dorina Nowill para Cegos. João Carlos Martins e Laércio Sinhorelli Diniz - regentes. Participação: Marcelo Bratke - piano. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-11T20:00:00Z" class="datetime"&gt;qua, 11/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-fiesp" hreflang="und"&gt;Centro Cultural Fiesp (456 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 17:10:45 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284309 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Grupo Cupido é Louco</title>
+  <link>http://concerto.com.br/roteiros/grupo-cupido-e-louco</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Cupido é Louco&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 17:07&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos Campestres. Programa: 14 modinhas do compositor e poeta brasileiro Domingos Caldas Barbosa. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-21T20:00:00Z" class="datetime"&gt;sab, 21/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3048" hreflang="pt-br"&gt;Diadema, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-clara-nunes" hreflang="und"&gt;Teatro Clara Nunes (377 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/concertos-campestres/3644565.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 17:07:48 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284308 at http://concerto.com.br</guid>
+    </item>
+<item>
   <title>São Paulo Companhia de Dança</title>
   <link>http://concerto.com.br/roteiros/sao-paulo-companhia-de-danca-237</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Companhia de Dança&lt;/span&gt;
@@ -90,8 +301,7 @@
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;br /&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculo Aperture, coreografia de Edward Clug. Música: Milko Lazar. Leo Kulas - figurino. Tom Visser - iluminação. Daan de Boer - assistente de iluminação. Marko Japelj - cenografia. Espetáculo EST.AÇÃO, coreografia de Lili de Grammont. Música: Ed Côrtes. Marco Lima - figurino e adereços. André Boll - iluminação. Espetáculo Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia. Música: Matan Onyameh, com base em música indiana pré-existente. Maor Zabar - figurino. Fabio Namatame - confeção de figurinos. Mirella Brandi - iluminação. &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
@@ -154,8 +364,7 @@
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;br /&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculo Aperture, coreografia de Edward Clug. Música: Milko Lazar. Leo Kulas - figurino. Tom Visser - iluminação. Daan de Boer - assistente de iluminação. Marko Japelj - cenografia. Espetáculo EST.AÇÃO, coreografia de Lili de Grammont. Música: Ed Côrtes. Marco Lima - figurino e adereços. André Boll - iluminação. Espetáculo Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia. Música: Matan Onyameh, com base em música indiana pré-existente. Maor Zabar - figurino. Fabio Namatame - confeção de figurinos. Mirella Brandi - iluminação. &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
@@ -223,7 +432,7 @@
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculo Aperture, coreografia de Edward Clug. Música: Milko Lazar. Leo Kulas - figurino. Tom Visser - iluminação. Daan de Boer - assistente de iluminação. Marko Japelj - cenografia. Espetáculo EST.AÇÃO, coreografia de Lili de Grammont. Música: Ed Côrtes. Marco Lima - figurino e adereços. André Boll - iluminação. Espetáculo Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia. Música: Matan Onyameh, com base em música indiana pré-existente. Maor Zabar - figurino. Fabio Namatame - confeção de figurinos. Mirella Brandi - iluminação. &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
@@ -344,324 +553,6 @@
   <pubDate>Thu, 05 Nov 2026 12:09:41 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284302 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Morre aos 99 anos o maestro Herbert Blomstedt</title>
-  <link>http://concerto.com.br/noticias/musica-classica/morre-aos-99-anos-o-maestro-herbert-blomstedt</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre aos 99 anos o maestro Herbert Blomstedt&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Maestro dirigiu orquestras como a Staatskapelle de Dresden e a Sinfônica de São Francisco e manteve-se ativo até maio deste ano&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Morreu na quarta-feira, aos 99 anos, o maestro Herbert Blomstedt, que, ao longo da carreira, esteve à frente das principais orquestras do mundo e ficou conhecido pela interpretação do repertório germânico, em especial das sinfonias de Anton Bruckner, compositor com o qual dizia ter especial afinidade – como mostram as inúmeras gravações de suas obras que deixou. O maestro manteve-se ativo, viajando pela Europa e pelos Estados Unidos para concertos, até maio deste ano, quando cancelou as apresentações marcadas.&lt;/p&gt;
-&lt;p&gt;Nascido em 1927, nos Estados Unidos, em uma família sueca, ele retornou à Europa aos 2 anos de idade.  Estudou na Academia Real de Música de Estocolmo, além de se formar em religião e filosofia na Universidade Uppsala. Anos mais tarde, nos EUA, passou pela Juilliard, em Nova York, e foi aluno de Leonard Bernstein no Festival de Tanglewood.&lt;/p&gt;
-&lt;p&gt;Ao longo da carreira, ele foi diretor da Staatskapelle de Dresden, de 1975 a 1985, da Sinfônica de São Francisco, de 1985 a 1995, e da Orquestra da Gewandhaus, de Leipzig, de 1998 a 2005. &lt;/p&gt;
-&lt;p&gt;O pai de Blomstedt era um missionário adventista – e a dedicação à religião marcou toda a vida do maestro. Ele não ensaiava às sextas-feiras e aos sábados, mas realizava concertos, uma vez que, para ele, fazer música não era trabalho, mas “uma celebração, uma comunicação espiritual com o público”. &lt;/p&gt;
-&lt;p&gt;“Acredito que os músicos devem possuir uma dimensão espiritual predominante; devem ser homens de fé –  cristãos, judeus, hindus, não importa – que compartilham o anseio por qualidades espirituais em suas vidas e em sua arte”, disse, em uma entrevista.&lt;/p&gt;
-&lt;p&gt;Durante uma entrevista concedida a Bruce Duffie, ele definiu como enxerga a importância da música na sociedade. “A música pode ser uma força ética imensa na sociedade. A música também pode ser uma maldição – e, sem dúvida, ela o é em certos segmentos da sociedade –, mas a música de que estamos tratando pode constituir uma força ética poderosa. Idealmente, a execução musical deveria levar todos aqueles que a ouvem ou a interpretam a decidir fazer algo diferente, a ser diferentes, a transformar algo em suas próprias vidas. Deparar-se com a beleza suprema é um desafio ao que, de fato, está acontecendo em nossa própria vida. A beleza possui inúmeras facetas; ela não se resume apenas a sons agradáveis”, afirmou. &lt;/p&gt;
-&lt;p&gt;“Vivenciar a ordem e a beleza da grande música coloca o ouvinte em contato com algo maior do que ele mesmo – algo que se pretende perfeito, belo e positivo –, e essa é uma das maiores bênçãos da grande música. Acredito que esse seja o aspecto mais importante. Naturalmente, ela traz outras coisas: aproxima as pessoas com boas intenções, proporciona muita alegria e também serve como entretenimento. É, talvez, uma boa maneira de se distanciar de certas frustrações da vida; contudo, esses são aspectos periféricos. Acredito que a principal razão de ser da música erudita – e do nosso envolvimento com ela, certamente no meu caso – reside no seu potencial de transformar vidas, de auxiliar as pessoas a alcançarem a felicidade plena ou um sentido para a existência”, completou. &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Herbert Blomstedt [Divulgação/Martin Lengemann]" data-entity-type="file" data-entity-uuid="0f47fa04-5d43-46cc-aa27-50fc67103087" src="http://concerto.com.br/sites/default/files/inline-images/csm_Blomstedt_Herbert_c_Martin-U-K-Lengemann_b45e270b70.jpg" /&gt;
-&lt;figcaption&gt;Herbert Blomstedt [Divulgação/Martin Lengemann]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 11:43&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/csm_Blomstedt_Herbert_c_Martin-U-K-Lengemann_b45e270b70.jpg" width="1818" height="1023" alt="Herbert Blomstedt [Divulgação/Martin Lengemann]" title="Herbert Blomstedt [Divulgação/Martin Lengemann]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=R_njmr7MY2XiNJ8i9PN77VlC_Jip83iF7wUojdxFFnc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 05 Nov 2026 11:43:54 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284300 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Obra sinfônica premiada receberá US$ 10 mil e será apresentada durante concerto da orquestra em março de 2027&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Orquestra Sinfônica de Porto Alegre acaba de lançar a primeira edição do Prêmio Internacional de Composição Ospa-Banrisul. A competição é destinada a compositores de mais de 18 anos e vai premiar uma obra orquestral com US$ 10 mil e a apresentação em concerto da orquestra no dia 12 de março de 2027.&lt;/p&gt;
-&lt;p&gt;Para participar, é preciso enviar uma obra sinfônica inédita, com duração de 25 a 30 minutos. As inscrições são gratuitas e serão abertas no dia 10 de novembro – o prazo se encerra no dia a 4 de janeiro de 2027. &lt;/p&gt;
-&lt;p&gt;O prêmio é resultado de uma cooperação entre a Fundação Cultural Pablo Komlós, que atua na elaboração e gestão de projetos culturais ligados à Ospa; a Fundação Orquestra Sinfônica de Porto Alegre (Fospa); e o Banrisul. &lt;/p&gt;
-&lt;p&gt;“Estimular a criação artística é parte da missão institucional da Fospa. Um prêmio de composição de música de concerto, com abrangência internacional, justifica-se pelo fato de que as artes não obedecem a limites de qualquer natureza, muito menos os geográficos”, afirma Gilberto Schwartsmann, presidente da Ospa.&lt;/p&gt;
-&lt;p&gt;“O prêmio cria uma oportunidade para que compositores de diferentes países apresentem seus trabalhos e tenham uma obra executada por uma das principais orquestras brasileiras. Essa iniciativa coloca Porto Alegre e o Rio Grande do Sul no circuito internacional da composição sinfônica e amplia a projeção da cultura produzida no Estado”, diz Fernando Lemos, presidente do Banrisul.&lt;/p&gt;
-&lt;p&gt;As composições, além da duração entre 25 e 30 minutos, devem ser estruturadas em pelo menos três movimentos contrastantes e respeitar a instrumentação sinfônica especificada no regulamento. A partitura deverá ser enviada em PDF, acompanhada de um áudio em MP3 gerado por software musical, MIDI ou similar. Para garantir a avaliação anônima, os dois arquivos deverão estar desidentificados, conforme as regras do edital, disponível no site da Ospa (clique &lt;u&gt;&lt;a href="https://ospa.rs.gov.br/upload/arquivos/202611/03230653-versao-31126-1-premio-internacional-de-composicao-ospa-banrisul-portugues-revisao-luiza-1.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
-&lt;p&gt;O material enviado será avaliado “por uma comissão de seleção formada por três maestros ou maestras de notório saber, que não terão acesso aos nomes dos compositores, apenas às obras que também não serão identificadas”. Realizada entre 9 de janeiro e 10 de fevereiro de 2027, a análise “levará em conta o mérito artístico, a viabilidade técnica e a conformidade das composições às regras do edital”. O resultado final será divulgado no dia 11 de fevereiro.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt; &lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;strong&gt;&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/trio-sitkovetsky-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Trio Sitkovetsky faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/usp-organiza-festival-britten-e-homenageia-o-legado-do-compositor" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;USP organiza Festival Britten e homenageia o legado do compositor&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, Por Clara Zamboni&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" data-entity-type="file" data-entity-uuid="5b13be80-5039-4891-a4f1-9be4c5df8c6e" src="http://concerto.com.br/sites/default/files/inline-images/w-ospa%20%281%29.jpg" /&gt;
-&lt;figcaption&gt;A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 02:09&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ospa%20%281%29.jpg" width="900" height="433" alt="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" title="A Orquestra Sinfônica de Porto Alegre durante concerto na Casa da Ospa [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=YB4OZcKSHg64XiFWR6Kf8srq-tunLNdL5pFXWJ8kb9c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 05 Nov 2026 02:09:07 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284299 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Filarmônica de Minas Gerais toca a ‘Sinfonia nº 9’ de Mahler</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-filarmonica-de-minas-gerais-toca-sinfonia-no-9-de-mahler</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Filarmônica de Minas Gerais toca a ‘Sinfonia nº 9’ de Mahler&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, em Belo Horizonte, a Orquestra Filarmônica de Minas Gerais dá continuidade à Série Presto na Sala Minas Gerais. Com Fabio Mechetti na regência, a orquestra interpreta a &lt;em&gt;Sinfonia nº 9&lt;/em&gt;, de Mahler.&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Sinfonia nº 9 &lt;/em&gt;é compreendida por uma parte dos pesquisadores como o testamento do compositor austríaco. Mahler compôs a obra em 1909, dois anos após perder a filha, receber o diagnóstico de uma doença cardíaca incurável e, pressionado por campanhas antissemitas, deixar a direção da Ópera Estatal de Viena. A turbulência na vida do compositor, relatada ao maestro e amigo Bruno Walter, fez com que críticos como Paul Bekker associassem a composição à morte do compositor, que chegaria em 1911.&lt;/p&gt;
-&lt;p&gt;Por outro lado, relatos de Mahler sobre a obra não atribuem a ela o tom de despedida. Em registros a Walter, o compositor se refere à obra como “uma adição satisfatória à minha pequena família”, sem comentários sobre motivações extramusicais. Pierre Boulez atribuia ainda a sensação de ruptura da obra às transformações musicais do período, marcado pela transição ao modernismo.&lt;/p&gt;
-&lt;p&gt;“Em outras palavras, em uma obra como a de Mahler, construída sobre a dualidade, fazendo conviver a nostalgia e a ironia, o sentimental e o moderno, nada pode ser tão óbvio. No caso específico da &lt;em&gt;Nona sinfonia&lt;/em&gt;, talvez seja mais interessante compreender morte e vida como alegorias de uma sensação de não pertencimento a um mundo do qual, paradoxalmente, não é possível se distanciar”, escreve João Luiz Sampaio em texto publicado na edição de julho de 2014 da Revista CONCERTO [clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-9-de-gustav-mahler"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;strong&gt;&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/trio-sitkovetsky-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Trio Sitkovetsky faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/usp-organiza-festival-britten-e-homenageia-o-legado-do-compositor" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;USP organiza Festival Britten e homenageia o legado do compositor&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, Por Clara Zamboni&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/festival-internacional-de-musica-do-para-realiza-38a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Internacional de Música do Pará realiza 38ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/leonardo-martinelli-compoe-notavel-trilha-sonora-para-o-filme-limite" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Leonardo Martinelli compõe notável trilha sonora para o filme ‘Limite’&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/em-resistance-igor-levit-mostra-que-musica-e-um-gesto-politico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Em ‘Resistance’, Igor Levit mostra que a música é um gesto político&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Fabio Mechetti e a Filarmônica de Minas Gerais [Divulgação/Rafael Motta] " data-entity-type="file" data-entity-uuid="99e09390-5754-4e26-b1ea-62444a2084d7" src="http://concerto.com.br/sites/default/files/inline-images/w-minas_rafael_motta_0_0_0.jpg" /&gt;
-&lt;figcaption&gt;Fabio Mechetti e a Filarmônica de Minas Gerais [Divulgação/ Rafael Motta] &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 22:32&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-minas_rafael_motta_0_0_0.jpg" width="900" height="600" alt="Fabio Mechetti e a Filarmônica de Minas Gerais [Divulgação/ Rafael Motta] " typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=Le2Aofhl-6soODznxovRxXxwADbr0jnEuA-S_8226Xo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 22:32:03 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284298 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Na Estação Motiva Cultural, Osesp dedica concerto à obra de Haydn</title>
-  <link>http://concerto.com.br/noticias/musica-classica/na-estacao-motiva-cultural-osesp-dedica-concerto-obra-de-haydn</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Na Estação Motiva Cultural, Osesp dedica concerto à obra de Haydn&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, a Orquestra Sinfônica do Estado de São Paulo realiza concerto Haydn de Perto, na Estação Motiva Cultural. Sob regência de Thierry Fischer, a orquestra convida o oboísta Ricardo Barbosa para o &lt;em&gt;Concerto para oboé&lt;/em&gt;.&lt;em&gt; A representação do caos&lt;/em&gt;, de &lt;em&gt;A criação&lt;/em&gt;, e a &lt;em&gt;Sinfonia nº 104&lt;/em&gt;, &lt;em&gt;Londres&lt;/em&gt;, completam o programa, que terá reapresentação na sexta-feira, dia 6.&lt;/p&gt;
-&lt;p&gt;Símbolo do classicismo, Haydn foi um dos expoentes do repertório sinfônico. O compositor austríaco nasceu em 1732, na vila de Rohrau, filho de um fabricante de carroças e de uma cozinheira. Na adolescência instalou-se em Viena, na casa do libretista Metastasio, que o apresentou a seu futuro mentor, o compositor Porpora. Em 1761, o jovem Haydn foi convidado a integrar a corte dos Esterházy como mestre de capela, que patrocinou seu trabalho por três décadas. &lt;/p&gt;
-&lt;p&gt;“Desde os primeiros anos de serviço para os Esterházy, Haydn se destacou como compositor, sobretudo por suas sinfonias. Já então, ele se revela um mestre do gênero, acabando por fixar a forma que ainda hoje reconhecemos: o primeiro movimento rápido, o segundo lento, o terceiro no estilo dançante e o quarto rápido”, descreve Camila Fresca em texto publicado na edição de novembro de 2013 da Revista CONCERTO [clique &lt;a href="https://concerto.com.br/noticias/arquivo/acervo-concerto-vida-e-obra-de-joseph-haydn"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes]. &lt;/p&gt;
-&lt;p&gt;A&lt;em&gt; Sinfonia nº 104, Londres&lt;/em&gt;, é a última contribuição do compositor para o gênero. A obra de 1795 foi encomendada pelo maestro Johann Peter Salomon, junto com outras 11 sinfonias. Mesmo que o compositor não trabalhasse mais na corte, o quarto movimento combina melodias folclóricas eslavas que conheceu enquanto vivia nas propriedades dos Esterházy. Embora o tema de abertura fosse historicamente associado à cantiga britânica “Hot Cross Buns”, pesquisadores identificaram que a inspiração para o tema surgiu da balada croata Oj Jelena, que Haydn conheceu em Eisenstadt.&lt;/p&gt;
-&lt;p&gt;Ricardo Barbosa sobe ao palco para interpretar o &lt;em&gt;Concerto para oboé em dó maior&lt;/em&gt;. Vencedor do prêmio Prelúdio da TV Cultura em 2009, integra a Osesp desde 2011. Atualmente, ocupa o cargo de oboé solista no grupo. &lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;span style="color:null;"&gt;&lt;strong&gt;Notícias&lt;/strong&gt;&lt;/span&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/trio-sitkovetsky-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Trio Sitkovetsky faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/usp-organiza-festival-britten-e-homenageia-o-legado-do-compositor" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;USP organiza Festival Britten e homenageia o legado do compositor&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, Por Clara Zamboni&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/festival-internacional-de-musica-do-para-realiza-38a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival Internacional de Música do Pará realiza 38ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/leonardo-martinelli-compoe-notavel-trilha-sonora-para-o-filme-limite" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Leonardo Martinelli compõe notável trilha sonora para o filme ‘Limite’&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/em-resistance-igor-levit-mostra-que-musica-e-um-gesto-politico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Em ‘Resistance’, Igor Levit mostra que a música é um gesto político&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" data-entity-type="file" data-entity-uuid="56df7eaf-20dd-4c41-8403-85c439d61903" src="http://concerto.com.br/sites/default/files/inline-images/w-20180913-Thierry-Fischere-e-Osesp6_por-Isabela-Guasco%20%281%29.jpg" /&gt;
-&lt;figcaption&gt;O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 21:58&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-20180913-Thierry-Fischere-e-Osesp6_por-Isabela-Guasco%20%281%29.jpg" width="900" height="600" alt="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" title="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIxIiwiZGlzbGlrZXMiOiIwIn0%3D?token=Yv2V_obHWKKi9VoTKlmCVdaU5VlzGURbYIliccADeVk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;21&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 21:58:40 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284297 at http://concerto.com.br</guid>
     </item>
 
   </channel>

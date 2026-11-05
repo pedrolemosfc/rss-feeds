@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-05 16:34 UTC
+Generated: 2026-11-05 23:44 UTC
 
 ## Native feeds (not scraped)
 
@@ -18,12 +18,12 @@ Generated: 2026-11-05 16:34 UTC
 
 ## Scraped feeds
 
-- **folha-jazz** [OK] items=85 → `out/folha-jazz.xml`  source: https://www1.folha.uol.com.br/folha-topicos/jazz/  
-  notes: scraped 85 items
+- **folha-jazz** [OK] items=84 → `out/folha-jazz.xml`  source: https://www1.folha.uol.com.br/folha-topicos/jazz/  
+  notes: scraped 84 items
 - **folha-criticas-de-musica** [OK] items=47 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 47 items
-- **folha-show** [OK] items=61 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 61 items
+- **folha-show** [OK] items=60 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 60 items
 - **guia-restaurantes** [OK] items=79 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
   notes: scraped 79 items
 - **guia-shows** [OK] items=92 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
@@ -68,8 +68,8 @@ Generated: 2026-11-05 16:34 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=15 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 15 native items
+- **mis-sp** [OK] items=16 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 16 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -114,16 +114,16 @@ Generated: 2026-11-05 16:34 UTC
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=16 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
   notes: scraped 16 events
-- **btg-pactual-hall** [OK] items=11 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
-  notes: scraped 11 events
+- **btg-pactual-hall** [OK] items=12 → `feeds/btg-pactual-hall.xml`  source: https://btgpactualhall.com.br/programacao/  
+  notes: scraped 12 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
 - **audio-sp** [OK] items=31 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
   notes: scraped 31 events
 - **teatro-das-artes-sp** [OK] items=3 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 3 events
-- **casa-de-francisca** [OK] items=47 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 47 events
+- **casa-de-francisca** [OK] items=52 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 52 events
 - **jazz-b** [OK] items=12 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 12 events
 - **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -132,8 +132,8 @@ Generated: 2026-11-05 16:34 UTC
   notes: scraped 15 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=9 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 9 events
+- **rockambole-meaple** [OK] items=10 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 10 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -182,8 +182,8 @@ Generated: 2026-11-05 16:34 UTC
   notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
 - **hangar-110** [OK] items=14 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
@@ -191,7 +191,7 @@ Generated: 2026-11-05 16:34 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=191 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 191 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **folha-musica-topicos** [OK] items=189 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 189 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
 - **guia-folha-restaurantes-shows** [OK] items=171 → `out/guia-folha-restaurantes-shows.xml`  
   notes: merged 2 feeds -> 171 unique items (from ['guia-restaurantes', 'guia-shows'])

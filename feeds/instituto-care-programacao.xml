@@ -6,7 +6,14 @@
 <link>https://institutocare.org.br/programacao/</link>
 <description>Eventos e programação do Instituto Çarê (WordPress REST CPT event; /feed/ retorna HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 05 Nov 2026 16:34:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 23:44:49 +0000</lastBuildDate>
+<item>
+<title>Acontece em Novembro no Çarê</title>
+<link>https://institutocare.org.br/programacao/acontece-em-novembro-no-care/</link>
+<guid isPermaLink="true">https://institutocare.org.br/programacao/acontece-em-novembro-no-care/</guid>
+<pubDate>Thu, 05 Nov 2026 18:01:16 +0000</pubDate>
+<description>Institucional — Conheça a programação de atividades do Instituto Çarê neste mês</description>
+</item>
 <item>
 <title>Exposição Recados Tramados</title>
 <link>https://institutocare.org.br/programacao/exposicao-recados-tramados/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://institutocare.org.br/programacao/escrita-transcricao-musical-brasileira/</guid>
 <pubDate>Thu, 28 Mar 2024 00:00:51 +0000</pubDate>
 <description>Musica — O Centro de Pesquisa e Formação do Sesc São Paulo recebe um [...]</description>
-</item>
-<item>
-<title>Piano Çarê Convida: Hercules Gomes</title>
-<link>https://institutocare.org.br/programacao/piano-care-convida-marco-2024/</link>
-<guid isPermaLink="true">https://institutocare.org.br/programacao/piano-care-convida-marco-2024/</guid>
-<pubDate>Fri, 22 Mar 2024 00:00:20 +0000</pubDate>
-<description>Musica — Na primeira apresentação do projeto Piano Çarê Convida, o Çarê recebe o [...]</description>
 </item>
 </channel>
 </rss>
