@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 05 Nov 2026 06:58:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:32:01 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1NCIsImRpc2xpa2VzIjoiMCJ9?token=_VrxvGRj_MgARp1UQ1bYDbuRgjG4gvKYa9AqCo6cWW4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY1NiIsImRpc2xpa2VzIjoiMCJ9?token=VjfQXJM7oRoLnFczP96CQ6dikgwhe7xQDPN-E_zGN1c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;654&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;656&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,9 +82,347 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica de Porto Alegre lança concurso de composição</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-de-composicao</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Porto Alegre lança concurso de composição&lt;/span&gt;
+  <title>São Paulo Companhia de Dança</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-companhia-de-danca-237</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Companhia de Dança&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 12:40&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T18:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 18:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2733" hreflang="pt-br"&gt;Guarulhos, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/214093" hreflang="pt-br"&gt;Sesc Guarulhos (349 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 18 a R$ 60. Vendas pelo App Credencial Sesc SP ou na Central de Relacionamentos Digital.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 12:40:11 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284306 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Companhia de Dança</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-companhia-de-danca-236</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Companhia de Dança&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 12:39&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 8 às 18h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-07T20:00:00Z" class="datetime"&gt;sab, 07/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2733" hreflang="pt-br"&gt;Guarulhos, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/214093" hreflang="pt-br"&gt;Sesc Guarulhos (349 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 18 a R$ 60. Vendas pelo App Credencial Sesc SP ou na Central de Relacionamentos Digital.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 12:39:31 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284305 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Companhia de Dança </title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-companhia-de-danca-235</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Companhia de Dança &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 12:36&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetaculos Aperture, coreografia de Edward Clug; EST.AÇÃO, coreografia de Lili de Grammont; e Fishy (estreia), coreografia do israelense Nadav Zelner para a Companhia.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 7 às 20h e dia 8 às 18h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-06T20:00:00Z" class="datetime"&gt;sex, 06/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2733" hreflang="pt-br"&gt;Guarulhos, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/214093" hreflang="pt-br"&gt;Sesc Guarulhos (349 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 18 a R$ 60. Vendas pelo App Credencial Sesc SP ou na Central de Relacionamentos Digital.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 12:36:40 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284304 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Fukuda Cello Ensemble</title>
+  <link>http://concerto.com.br/roteiros/fukuda-cello-ensemble-6</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fukuda Cello Ensemble&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 12:09&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Pelos caminhos da fé. Ricardo Fukuda - direção artística. Ricardo Fukuda, Diego Mesquita, Gabriel Alvico, Thiago Cordeiro, Gabriel Fonseca, Giovanni Sartori, Náthany Uzun, Henrique Pereira e Alexandre dos Santos - violoncelos e Thaís Duarte - soprano. Programa: Fauré - Elegie para violoncelo e orquestra; Bruch - Kol Nidre; Bloch- Prayer; Ravel - Kaddish; Taverner - Wake up and Die; e Arvo Part - L’abbe Aghaton para soprano e orquestra de violoncelos.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T11:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278240" hreflang="pt-br"&gt;Teatro Baccarelli &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 20.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 12:09:41 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284302 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Morre aos 99 anos o maestro Herbert Blomstedt</title>
+  <link>http://concerto.com.br/noticias/musica-classica/morre-aos-99-anos-o-maestro-herbert-blomstedt</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre aos 99 anos o maestro Herbert Blomstedt&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Maestro dirigiu orquestras como a Staatskapelle de Dresden e a Sinfônica de São Francisco e manteve-se ativo até maio deste ano&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Morreu na quarta-feira, aos 99 anos, o maestro Herbert Blomstedt, que, ao longo da carreira, esteve à frente das principais orquestras do mundo e ficou conhecido pela interpretação do repertório germânico, em especial das sinfonias de Anton Bruckner, compositor com o qual dizia ter especial afinidade – como mostram as inúmeras gravações de suas obras que deixou. O maestro manteve-se ativo, viajando pela Europa e pelos Estados Unidos para concertos, até maio deste ano, quando cancelou as apresentações marcadas.&lt;/p&gt;
+&lt;p&gt;Nascido em 1927, nos Estados Unidos, em uma família sueca, ele retornou à Europa aos 2 anos de idade.  Estudou na Academia Real de Música de Estocolmo, além de se formar em religião e filosofia na Universidade Uppsala. Anos mais tarde, nos EUA, passou pela Juilliard, em Nova York, e foi aluno de Leonard Bernstein no Festival de Tanglewood.&lt;/p&gt;
+&lt;p&gt;Ao longo da carreira, ele foi diretor da Staatskapelle de Dresden, de 1975 a 1985, da Sinfônica de São Francisco, de 1985 a 1995, e da Orquestra da Gewandhaus, de Leipzig, de 1998 a 2005. &lt;/p&gt;
+&lt;p&gt;O pai de Blomstedt era um missionário adventista – e a dedicação à religião marcou toda a vida do maestro. Ele não ensaiava às sextas-feiras e aos sábados, mas realizava concertos, uma vez que, para ele, fazer música não era trabalho, mas “uma celebração, uma comunicação espiritual com o público”. &lt;/p&gt;
+&lt;p&gt;“Acredito que os músicos devem possuir uma dimensão espiritual predominante; devem ser homens de fé –  cristãos, judeus, hindus, não importa – que compartilham o anseio por qualidades espirituais em suas vidas e em sua arte”, disse, em uma entrevista.&lt;/p&gt;
+&lt;p&gt;Durante uma entrevista concedida a Bruce Duffie, ele definiu como enxerga a importância da música na sociedade. “A música pode ser uma força ética imensa na sociedade. A música também pode ser uma maldição – e, sem dúvida, ela o é em certos segmentos da sociedade –, mas a música de que estamos tratando pode constituir uma força ética poderosa. Idealmente, a execução musical deveria levar todos aqueles que a ouvem ou a interpretam a decidir fazer algo diferente, a ser diferentes, a transformar algo em suas próprias vidas. Deparar-se com a beleza suprema é um desafio ao que, de fato, está acontecendo em nossa própria vida. A beleza possui inúmeras facetas; ela não se resume apenas a sons agradáveis”, afirmou. &lt;/p&gt;
+&lt;p&gt;“Vivenciar a ordem e a beleza da grande música coloca o ouvinte em contato com algo maior do que ele mesmo – algo que se pretende perfeito, belo e positivo –, e essa é uma das maiores bênçãos da grande música. Acredito que esse seja o aspecto mais importante. Naturalmente, ela traz outras coisas: aproxima as pessoas com boas intenções, proporciona muita alegria e também serve como entretenimento. É, talvez, uma boa maneira de se distanciar de certas frustrações da vida; contudo, esses são aspectos periféricos. Acredito que a principal razão de ser da música erudita – e do nosso envolvimento com ela, certamente no meu caso – reside no seu potencial de transformar vidas, de auxiliar as pessoas a alcançarem a felicidade plena ou um sentido para a existência”, completou. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Herbert Blomstedt [Divulgação/Martin Lengemann]" data-entity-type="file" data-entity-uuid="0f47fa04-5d43-46cc-aa27-50fc67103087" src="http://concerto.com.br/sites/default/files/inline-images/csm_Blomstedt_Herbert_c_Martin-U-K-Lengemann_b45e270b70.jpg" /&gt;
+&lt;figcaption&gt;Herbert Blomstedt [Divulgação/Martin Lengemann]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 05/11/2026 - 11:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/csm_Blomstedt_Herbert_c_Martin-U-K-Lengemann_b45e270b70.jpg" width="1818" height="1023" alt="Herbert Blomstedt [Divulgação/Martin Lengemann]" title="Herbert Blomstedt [Divulgação/Martin Lengemann]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=R_njmr7MY2XiNJ8i9PN77VlC_Jip83iF7wUojdxFFnc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 05 Nov 2026 11:43:54 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284300 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição</title>
+  <link>http://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Obra sinfônica premiada receberá US$ 10 mil e será apresentada durante concerto da orquestra em março de 2027&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Orquestra Sinfônica de Porto Alegre acaba de lançar a primeira edição do Prêmio Internacional de Composição Ospa-Banrisul. A competição é destinada a compositores de mais de 18 anos e vai premiar uma obra orquestral com US$ 10 mil e a apresentação em concerto da orquestra no dia 12 de março de 2027.&lt;/p&gt;
@@ -92,7 +430,7 @@
 &lt;p&gt;O prêmio é resultado de uma cooperação entre a Fundação Cultural Pablo Komlós, que atua na elaboração e gestão de projetos culturais ligados à Ospa; a Fundação Orquestra Sinfônica de Porto Alegre (Fospa); e o Banrisul. &lt;/p&gt;
 &lt;p&gt;“Estimular a criação artística é parte da missão institucional da Fospa. Um prêmio de composição de música de concerto, com abrangência internacional, justifica-se pelo fato de que as artes não obedecem a limites de qualquer natureza, muito menos os geográficos”, afirma Gilberto Schwartsmann, presidente da Ospa.&lt;/p&gt;
 &lt;p&gt;“O prêmio cria uma oportunidade para que compositores de diferentes países apresentem seus trabalhos e tenham uma obra executada por uma das principais orquestras brasileiras. Essa iniciativa coloca Porto Alegre e o Rio Grande do Sul no circuito internacional da composição sinfônica e amplia a projeção da cultura produzida no Estado”, diz Fernando Lemos, presidente do Banrisul.&lt;/p&gt;
-&lt;p&gt;As composições, além da duração entre 25 e 30 minutos, devem ser estruturadas em pelo menos três movimentos contrastantes e respeitar a instrumentação sinfônica especificada no regulamento. A partitura deverá ser enviada em PDF, acompanhada de um áudio em MP3 gerado por software musical, MIDI ou similar. Para garantir a avaliação anônima, os dois arquivos deverão estar desidentificados, conforme as regras do edital, disponível no da Ospa (clique &lt;u&gt;&lt;a href="https://ospa.rs.gov.br/upload/arquivos/202611/03230653-versao-31126-1-premio-internacional-de-composicao-ospa-banrisul-portugues-revisao-luiza-1.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
+&lt;p&gt;As composições, além da duração entre 25 e 30 minutos, devem ser estruturadas em pelo menos três movimentos contrastantes e respeitar a instrumentação sinfônica especificada no regulamento. A partitura deverá ser enviada em PDF, acompanhada de um áudio em MP3 gerado por software musical, MIDI ou similar. Para garantir a avaliação anônima, os dois arquivos deverão estar desidentificados, conforme as regras do edital, disponível no site da Ospa (clique &lt;u&gt;&lt;a href="https://ospa.rs.gov.br/upload/arquivos/202611/03230653-versao-31126-1-premio-internacional-de-composicao-ospa-banrisul-portugues-revisao-luiza-1.pdf" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
 &lt;p&gt;O material enviado será avaliado “por uma comissão de seleção formada por três maestros ou maestras de notório saber, que não terão acesso aos nomes dos compositores, apenas às obras que também não serão identificadas”. Realizada entre 9 de janeiro e 10 de fevereiro de 2027, a análise “levará em conta o mérito artístico, a viabilidade técnica e a conformidade das composições às regras do edital”. O resultado final será divulgado no dia 11 de fevereiro.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
@@ -149,10 +487,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjkiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=-zyEv7Z7ljPuEH4i2RK4BWlH8AEqaU-FGrC04hQKwjo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=YB4OZcKSHg64XiFWR6Kf8srq-tunLNdL5pFXWJ8kb9c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;9&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -171,7 +509,7 @@
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, em Belo Horizonte, a Orquestra Filarmônica de Minas Gerais dá continuidade à Série Presto na Sala Minas Gerais. Com Fabio Mechetti na regência, a orquestra interpreta a &lt;em&gt;Sinfonia nº 9&lt;/em&gt;, de Mahler.&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;Sinfonia nº 9 &lt;/em&gt;é compreendida por uma parte dos pesquisadores como o testamento do compositor austríaco. Mahler compôs a obra em 1909, dois anos após perder a filha, receber o diagnóstico de uma doença cardíaca incurável e, pressionado por campanhas antissemitas, deixar a direção da Ópera Estatal de Viena. A turbulência na vida do compositor, relatada ao maestro e amigo Bruno Walter, fez com que críticos como Paul Bekker associassem a composição à morte do compositor, que chegaria em 1911.&lt;/p&gt;
 &lt;p&gt;Por outro lado, relatos de Mahler sobre a obra não atribuem a ela o tom de despedida. Em registros a Walter, o compositor se refere à obra como “uma adição satisfatória à minha pequena família”, sem comentários sobre motivações extramusicais. Pierre Boulez atribuia ainda a sensação de ruptura da obra às transformações musicais do período, marcado pela transição ao modernismo.&lt;/p&gt;
-&lt;p&gt;“Em outras palavras, em uma obra como a de Mahler, construída sobre a dualidade, fazendo conviver a nostalgia e a ironia, o sentimental e o moderno, nada pode ser tão óbvio. No caso específico da Nona sinfonia, talvez seja mais interessante compreender morte e vida como alegorias de uma sensação de não pertencimento a um mundo do qual, paradoxalmente, não é possível se distanciar”, escreve João Luiz Sampaio em texto publicado na edição de julho de 2014 da Revista CONCERTO [clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-9-de-gustav-mahler"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
+&lt;p&gt;“Em outras palavras, em uma obra como a de Mahler, construída sobre a dualidade, fazendo conviver a nostalgia e a ironia, o sentimental e o moderno, nada pode ser tão óbvio. No caso específico da &lt;em&gt;Nona sinfonia&lt;/em&gt;, talvez seja mais interessante compreender morte e vida como alegorias de uma sensação de não pertencimento a um mundo do qual, paradoxalmente, não é possível se distanciar”, escreve João Luiz Sampaio em texto publicado na edição de julho de 2014 da Revista CONCERTO [clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/acervo-concerto-sinfonia-no-9-de-gustav-mahler"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; acesso exclusivo para assinantes].&lt;/p&gt;
 &lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-05"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
@@ -229,10 +567,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=c1ao7zVxz7DSMOG6maucTSCraMJkxL14bLnBkRaqLRk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=Le2Aofhl-6soODznxovRxXxwADbr0jnEuA-S_8226Xo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -244,9 +582,9 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     <guid isPermaLink="false">284298 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title> Osesp dedica concerto à obra de Haydn</title>
-  <link>http://concerto.com.br/noticias/musica-classica/osesp-dedica-concerto-obra-de-haydn</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; Osesp dedica concerto à obra de Haydn&lt;/span&gt;
+  <title>Na Estação Motiva Cultural, Osesp dedica concerto à obra de Haydn</title>
+  <link>http://concerto.com.br/noticias/musica-classica/na-estacao-motiva-cultural-osesp-dedica-concerto-obra-de-haydn</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Na Estação Motiva Cultural, Osesp dedica concerto à obra de Haydn&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 5, a Orquestra Sinfônica do Estado de São Paulo realiza concerto Haydn de Perto, na Estação Motiva Cultural. Sob regência de Thierry Fischer, a orquestra convida o oboísta Ricardo Barbosa para o &lt;em&gt;Concerto para oboé&lt;/em&gt;.&lt;em&gt; A representação do caos&lt;/em&gt;, de &lt;em&gt;A criação&lt;/em&gt;, e a &lt;em&gt;Sinfonia nº 104&lt;/em&gt;, &lt;em&gt;Londres&lt;/em&gt;, completam o programa, que terá reapresentação na sexta-feira, dia 6.&lt;/p&gt;
 &lt;p&gt;Símbolo do classicismo, Haydn foi um dos expoentes do repertório sinfônico. O compositor austríaco nasceu em 1732, na vila de Rohrau, filho de um fabricante de carroças e de uma cozinheira. Na adolescência instalou-se em Viena, na casa do libretista Metastasio, que o apresentou a seu futuro mentor, o compositor Porpora. Em 1761, o jovem Haydn foi convidado a integrar a corte dos Esterházy como mestre de capela, que patrocinou seu trabalho por três décadas. &lt;/p&gt;
@@ -265,10 +603,9 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
 &lt;strong&gt;Crítica&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/leonardo-martinelli-compoe-notavel-trilha-sonora-para-o-filme-limite" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Leonardo Martinelli compõe notável trilha sonora para o filme ‘Limite’&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
 &lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/em-resistance-igor-levit-mostra-que-musica-e-um-gesto-politico" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Em ‘Resistance’, Igor Levit mostra que a música é um gesto político&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Thierry Fischer à frente da Osesp [Divulgação] " data-entity-type="file" data-entity-uuid="9d547c0e-718a-49e8-9831-d8a377a3ab48" src="http://concerto.com.br/sites/default/files/inline-images/w-fischer%20%281%29_1.jpg" /&gt;
-&lt;figcaption&gt;Thierry Fischer à frente da Osesp [Divulgação] &lt;/figcaption&gt;
+&lt;img alt="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" data-entity-type="file" data-entity-uuid="56df7eaf-20dd-4c41-8403-85c439d61903" src="http://concerto.com.br/sites/default/files/inline-images/w-20180913-Thierry-Fischere-e-Osesp6_por-Isabela-Guasco%20%281%29.jpg" /&gt;
+&lt;figcaption&gt;O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
@@ -277,7 +614,7 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
 
   &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
     &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-fischer%20%281%29_1.jpg" width="900" height="600" alt="Thierry Fischer à frente da Osesp [Divulgação] " typeof="foaf:Image" /&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-20180913-Thierry-Fischere-e-Osesp6_por-Isabela-Guasco%20%281%29.jpg" width="900" height="600" alt="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" title="O maestro Thierry Fischer durante concerto com a Osesp [Divulgação/Isabela Guasco]" typeof="foaf:Image" /&gt;
 
 &lt;/div&gt;
           &lt;/div&gt;
@@ -312,10 +649,10 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=yN5AHu3rdAljw9i7TngRAhDQ2SzN60aoHrRZ3G8iMms?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQyOTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIxIiwiZGlzbGlrZXMiOiIwIn0%3D?token=Yv2V_obHWKKi9VoTKlmCVdaU5VlzGURbYIliccADeVk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;21&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -325,271 +662,6 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
   <pubDate>Wed, 04 Nov 2026 21:58:40 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284297 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_ConcertosEPTV_04nov_22nov_CARD</title>
-  <link>http://concerto.com.br/node/284296</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_ConcertosEPTV_04nov_22nov_CARD&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-card field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/2026_ConcertosEPTV_04nov_22nov_CARD.png" width="380" height="490" alt="Banner Concertos EPTV Novembro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 21:19&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://ingressodigital.com/evento/22334/concertos-eptv-2026&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-posicao-card field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Posição&lt;/div&gt;
-              &lt;div class="field__item"&gt;05&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;75&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-cliques-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cliques&lt;/div&gt;
-              &lt;div class="field__item"&gt;1&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 21:19:32 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">284296 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2026_ConcertosEPTV_04nov_22nov_CARD</title>
-  <link>http://concerto.com.br/node/284295</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_ConcertosEPTV_04nov_22nov_CARD&lt;/span&gt;
-
-  &lt;div class="field field--name-field-imagem-publicidade-roteiro field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/2026-11/2026_ConcertosEPTV_04nov_22nov_CARD_0.png" width="380" height="490" alt="Banner Concertos EPTV Novembro 2026" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 21:19&lt;/span&gt;
-
-  &lt;div class="field field--name-field-link-publicidade-roteiro field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://ingressodigital.com/evento/22334/concertos-eptv-2026&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-roteiro-todas-datas field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Todas as Datas&lt;/div&gt;
-              &lt;div class="field__item"&gt;Habilitado&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
-    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
-              &lt;div class="field__item"&gt;14&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 21:19:29 +0000</pubDate>
-    <dc:creator>Luiza</dc:creator>
-    <guid isPermaLink="false">284295 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>[ON-LINE] Luciana Hamond - piano</title>
-  <link>http://concerto.com.br/roteiros/line-luciana-hamond-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Luciana Hamond - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 17:30&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sala de Concerto. Programa: composições para piano solo que integram seu álbum autoral “Stonehenge”. Apresentação: Tony Villani.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-06T17:00:00Z" class="datetime"&gt;sex, 06/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/240856" hreflang="pt-br"&gt;Rádio MEC FM&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 17:30:32 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284294 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>[ON-LINE] Brasil Jazz Sinfônica</title>
-  <link>http://concerto.com.br/roteiros/line-brasil-jazz-sinfonica-21</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Brasil Jazz Sinfônica&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 16:56&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Especial Jazz Toca Família Caymmi. Participação: Gaby Amarantos e Xênia França - cantoras. Programa: obra dos Caymmi, desde o patriarca Dorival até os filhos Nana, Dori e Danilo, partituras exclusivas, escritas especialmente para a orquestra, que apresenta arranjos inéditos de grandes composições da família.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-05T23:30:00Z" class="datetime"&gt;qui, 05/11/2026 - 23:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/tv-cultura" hreflang="und"&gt;TV Cultura&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 16:56:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284293 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Attila Szaniszló (Hungria) - piano</title>
-  <link>http://concerto.com.br/roteiros/attila-szaniszlo-hungria-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Attila Szaniszló (Hungria) - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 04/11/2026 - 15:35&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Parceria com a Embaixada da Hungria. Auditório Ruy Barbosa. Favor confirmar horário.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-24T19:00:00Z" class="datetime"&gt;ter, 24/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/universidade-presbiteriana-mackenzie" hreflang="und"&gt;Universidade Presbiteriana Mackenzie - Auditório Ruy Barbosa (950 lugares),  Auditório da Escola Americana (250 lugares), Auditório Benedito Novaes Garcez (106 lugares) e Capela (90 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 04 Nov 2026 15:35:50 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284292 at http://concerto.com.br</guid>
     </item>
 
   </channel>
