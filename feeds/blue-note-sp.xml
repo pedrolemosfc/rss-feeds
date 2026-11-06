@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 05 Nov 2026 23:42:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:57:59 +0000</lastBuildDate>
 <item>
 <title>TRIBUTO WAYNE SHORTER – SPEAK NO EVIL 60 ANOS</title>
 <link>https://bluenotesp.com/shows/tributo-wayne-shorter-speak-no-evil-60-anos/</link>
@@ -54,6 +54,13 @@
 <link>https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/</guid>
 <pubDate>Tue, 27 Oct 2026 15:51:40 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>TERRA CELTA</title>
+<link>https://bluenotesp.com/shows/terra-celta/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/terra-celta/</guid>
+<pubDate>Fri, 23 Oct 2026 13:09:17 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -240,6 +247,13 @@
 </item>
 <item>
 <title>ED MOTTA QUARTETO</title>
+<link>https://bluenotesp.com/shows/ed-motta-quarteto-12dez/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/ed-motta-quarteto-12dez/</guid>
+<pubDate>Fri, 18 Sep 2026 14:26:05 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>ED MOTTA QUARTETO</title>
 <link>https://bluenotesp.com/shows/ed-motta-quarteto-05dez/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/ed-motta-quarteto-05dez/</guid>
 <pubDate>Fri, 18 Sep 2026 14:20:21 +0000</pubDate>
@@ -316,13 +330,6 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>U2 EXPERIENCE</title>
-<link>https://bluenotesp.com/shows/u2-experience-u2-rio/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/u2-experience-u2-rio/</guid>
-<pubDate>Thu, 03 Sep 2026 17:51:15 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
 <title>TRIBUTO A JOHN COLTRANE – A LOVE SUPREME</title>
 <link>https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</guid>
@@ -348,13 +355,6 @@
 <link>https://bluenotesp.com/shows/tributo-a-ella-fitzgerald-por-indiana-nomma/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-ella-fitzgerald-por-indiana-nomma/</guid>
 <pubDate>Wed, 10 Jun 2026 18:23:46 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>JEAN LUC PONTY PROJECT</title>
-<link>https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/</guid>
-<pubDate>Wed, 10 Jun 2026 18:20:56 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>
