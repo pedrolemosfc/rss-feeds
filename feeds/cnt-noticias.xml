@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 06 Nov 2026 07:00:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 16:02:05 +0000</lastBuildDate>
 <item>
 <title>Com juro real de 8,45% ao ano, Brasil lidera ranking mundial e desafia investimentos no transporte</title>
 <link>https://www.cnt.org.br/imprensa/noticia/com-juro-real-de-8-ao-ano-brasil-lidera-ranking-mundial</link>
@@ -27,6 +27,12 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/coalizao-de-transportes-estrutura-agenda-de-implementacao-ate-2030</guid>
 <pubDate>Mon, 26 Oct 2026 18:44:44 +0000</pubDate>
 <description>COP — Agenda concentra cerca de 85% do potencial de redução de emissões identificadas pela iniciativa até 2050 e reúne mais de 100 indicadores para acompanhar a implementação</description>
+</item>
+<item>
+<title>Sistema Transporte defende investimentos para a transição energética</title>
+<link>https://www.cnt.org.br/imprensa/noticia/sistema-transporte-defende-investimentos-para-a-transicao-energetica</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sistema-transporte-defende-investimentos-para-a-transicao-energetica</guid>
+<description>COP — O líder do projeto Transporte na COP31, Vinicius Ladeira, apresentou no CNN Talks, as prioridades para reduzir emissões e ampliar a competitividade do setor em debate com representantes do governo e de empresas</description>
 </item>
 <item>
 <title>Vander Costa defende diálogo entre Poderes e segurança jurídica durante Conferência em MG</title>
@@ -243,12 +249,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/pesquisa-cnt-mda-retrata-disputa-acirrada-no-2-turno</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/pesquisa-cnt-mda-retrata-disputa-acirrada-no-2-turno</guid>
 <description>Política — A 172ª edição mostra Flávio Bolsonaro com 50,5% das intenções de votos válidos e Lula com 49,5%, além da avaliação do governo federal</description>
-</item>
-<item>
-<title>Liderança digital desafia líderes a conciliar eficiência e inovação</title>
-<link>https://www.cnt.org.br/imprensa/noticia/liderana-digital-desafia-lderes-a-conciliar-eficincia-e-inovao</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/liderana-digital-desafia-lderes-a-conciliar-eficincia-e-inovao</guid>
-<description>SEST SENAT — Empresários e executivos do setor discutem liderança, estratégia e referências de inovação finlandesas para o transporte</description>
 </item>
 </channel>
 </rss>

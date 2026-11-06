@@ -6,13 +6,34 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:59:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 16:01:30 +0000</lastBuildDate>
+<item>
+<title>v1.117.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11170</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11170</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>Mobile app v1.41.8</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1418</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1418</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<description>Improve tab switching and the Inbox / To-dos switch.; Improve search fields and move global search to the bottom of the screen.; Improve editor toolbar responsiveness and fix scrolling and accidental taps while editing on Android.</description>
+</item>
 <item>
 <title>v1.116.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11160</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11160</guid>
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 <description>Whiteboard: Sub-whiteboard preview mode.</description>
+</item>
+<item>
+<title>Mobile app v1.41.7</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1417</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1417</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>Improve dialogs and notification messages with a refreshed Liquid Glass design.; Fix an issue where to-dos and search results could stay outdated after syncing.; Fix an issue where reloading the app could leave the database locked.</description>
 </item>
 <item>
 <title>v1.115.0</title>
@@ -545,27 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1908</guid>
 <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
 <description>You can now enable Premium mode in AI Tutor for even smarter, more in-depth responses on complex topics, at a higher credit cost.</description>
-</item>
-<item>
-<title>v1.90.7</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1907</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1907</guid>
-<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-<description>Improve the overall Goal Discovery experience.</description>
-</item>
-<item>
-<title>v1.90.6</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1906</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1906</guid>
-<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-<description>Goal Discovery: AI reads across your recent whiteboards and surfaces the learning directions already taking shape in your own thinking. Free to try.</description>
-</item>
-<item>
-<title>v1.90.5</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1905</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1905</guid>
-<pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-<description>Improve the overall AI Tutor capabilities. It can now read your whiteboards, understand more types of content, and search for cards and whiteboards by keywords.</description>
 </item>
 </channel>
 </rss>
