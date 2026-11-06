@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-06 16:02 UTC
+Generated: 2026-11-06 21:39 UTC
 
 ## Native feeds (not scraped)
 
@@ -80,8 +80,8 @@ Generated: 2026-11-06 16:02 UTC
   notes: mirrored 10 native items
 - **concerto** [OK] items=10 → `feeds/concerto.xml`  source: https://concerto.com.br/rss.xml  
   notes: mirrored 10 native items
-- **abti** [FAIL] items=0 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
-  notes: native feed has 0 items
+- **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
+  notes: mirrored 10 native items
 - **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
@@ -100,16 +100,16 @@ Generated: 2026-11-06 16:02 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=6 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 6 events
-- **bourbon-street** [OK] items=24 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 24 events
+- **bourbon-street** [OK] items=23 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 23 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **morumbis-live-nation** [OK] items=5 → `feeds/morumbis-live-nation.xml`  source: https://www.livenation.com.br/est%C3%A1dio-morumbis-tickets-vdp1277377  
   notes: scraped 5 events
-- **carioca-club** [OK] items=19 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
-  notes: scraped 19 events
+- **carioca-club** [OK] items=21 → `feeds/carioca-club.xml`  source: https://www.clubedoingresso.com/cariocaclub  
+  notes: scraped 21 events
 - **juventus-eventos** [OK] items=12 → `feeds/juventus-eventos.xml`  source: https://www.juventus.com.br/eventos/  
   notes: scraped 12 events
 - **komplexo-tempo** [OK] items=16 → `feeds/komplexo-tempo.xml`  source: https://komplexotempo.com.br/agenda-de-eventos/  
@@ -128,8 +128,8 @@ Generated: 2026-11-06 16:02 UTC
   notes: scraped 11 events
 - **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 18 events
-- **manifesto-bar** [OK] items=15 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
-  notes: scraped 15 events
+- **manifesto-bar** [OK] items=16 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
+  notes: scraped 16 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **rockambole-meaple** [OK] items=10 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
@@ -174,8 +174,8 @@ Generated: 2026-11-06 16:02 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  

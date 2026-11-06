@@ -6,7 +6,14 @@
 <link>https://www.cnt.org.br/pesquisas</link>
 <description>Pesquisas, boletins e publicações da CNT (API Documento/pesquisar; stream distinto das notícias)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 06 Nov 2026 16:02:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 21:38:55 +0000</lastBuildDate>
+<item>
+<title>Especial CNT Eleições 2026 – Consolidado após o 2º turno no Poder Executivo</title>
+<link>https://www.cnt.org.br/pesquisas?documento=1a2a5802-11aa-4f0e-b871-ac7ecb85ada6</link>
+<guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=1a2a5802-11aa-4f0e-b871-ac7ecb85ada6</guid>
+<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
+<description>Estudos e Publicações — O Especial CNT Eleições 2026 – Consolidado após o 2º turno no Poder Executivo reúne os perfis do presidente, do vice-presidente e dos 27 governadores eleitos, com suas trajetórias e principais pautas para o transporte. A publicação apresenta os resultados do segundo turno, o comparativo com o primeiro turno a partir dos dados do Tribunal Superior Eleitoral (TSE) e o novo mapa político do país. Traz também o calendário da transição até as posses, em janeiro de 2027. O m...</description>
+</item>
 <item>
 <title>Boletim Unificado - Outubro 2026</title>
 <link>https://www.cnt.org.br/pesquisas?documento=4ac88aa4-7425-45f2-a059-0811416ed677</link>
@@ -251,13 +258,6 @@
 <guid isPermaLink="true">https://www.cnt.org.br/pesquisas?documento=298cc662-1971-4c04-923f-4312a5b88ab8</guid>
 <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
 <description>Revista — A edição de maio da Revista CNT Transporte Atual destaca, em sua matéria de capa, as mudanças promovidas pela Resolução Contran 1.020/2025, que moderniza o processo de habilitação no Brasil. A publicação aborda ainda os avanços na segurança pública voltados ao setor, com destaque para a Lei Raul Jungmann, sancionada com apoio da CNT, que amplia os instrumentos de combate ao roubo de cargas ao endurecer as medidas contra receptadores e atingir as estruturas financeiras e logísticas d...</description>
-</item>
-<item>
-<title>Boletim Unificado - Abril 2026</title>
-<link>https://data.cnt.org.br/boletins/boletins-tecnicos-cnt-abr-2026/</link>
-<guid isPermaLink="true">https://data.cnt.org.br/boletins/boletins-tecnicos-cnt-abr-2026/</guid>
-<pubDate>Thu, 30 Apr 2026 09:00:00 +0000</pubDate>
-<description>Boletins — Boletim Unificado - Abril 2026</description>
 </item>
 </channel>
 </rss>

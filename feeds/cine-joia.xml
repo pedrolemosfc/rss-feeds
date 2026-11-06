@@ -6,7 +6,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 06 Nov 2026 16:00:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 21:37:04 +0000</lastBuildDate>
+<item>
+<title>Pra Sempre Cringe</title>
+<link>https://www.cinejoia.com.br/eventos/pra-sempre-cringe-3/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/pra-sempre-cringe-3/</guid>
+<pubDate>Fri, 06 Nov 2026 14:40:24 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>NOITE BANANADA NA SIM SP 2026</title>
 <link>https://www.cinejoia.com.br/eventos/noite-bananada-na-sim-sp-2026/</link>
@@ -348,13 +355,6 @@
 <link>https://www.cinejoia.com.br/eventos/los-cafres/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-cafres/</guid>
 <pubDate>Mon, 22 Jun 2026 15:33:58 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Pra Sempre Cringe</title>
-<link>https://www.cinejoia.com.br/eventos/pra-sempre-cringe-2/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/pra-sempre-cringe-2/</guid>
-<pubDate>Mon, 22 Jun 2026 15:29:10 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

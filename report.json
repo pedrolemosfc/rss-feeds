@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 24,
+    "items": 23,
     "ok": true,
-    "notes": "scraped 24 events",
+    "notes": "scraped 23 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 19,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 15,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
