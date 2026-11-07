@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 15,
+    "items": 14,
     "ok": true,
-    "notes": "mirrored 15 native items",
+    "notes": "mirrored 14 native items",
     "kind": "native-mirror"
   },
   {
@@ -315,9 +315,9 @@
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 16 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 23,
+    "items": 22,
     "ok": true,
-    "notes": "scraped 23 events",
+    "notes": "scraped 22 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -531,9 +531,9 @@
     "name": "cine-joia",
     "source_url": "https://www.cinejoia.com.br/agenda/",
     "output": "feeds/cine-joia.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
