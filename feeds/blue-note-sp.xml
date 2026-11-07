@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sat, 07 Nov 2026 02:00:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 08:55:37 +0000</lastBuildDate>
 <item>
 <title>PEARL JAM</title>
 <link>https://bluenotesp.com/shows/pearl-jam/</link>
@@ -26,6 +26,13 @@
 <link>https://bluenotesp.com/shows/so-pedrada-musical/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/so-pedrada-musical/</guid>
 <pubDate>Tue, 03 Nov 2026 12:33:17 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>ERIC CLAPTON TRIBUTE</title>
+<link>https://bluenotesp.com/shows/eric-clapton-tribute-gabi-anias/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/eric-clapton-tribute-gabi-anias/</guid>
+<pubDate>Tue, 03 Nov 2026 11:24:25 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -106,6 +113,13 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>MAR ABERTO</title>
+<link>https://bluenotesp.com/shows/mar-aberto/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/mar-aberto/</guid>
+<pubDate>Wed, 14 Oct 2026 16:58:56 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>RODRIGO OGI E BANDA</title>
 <link>https://bluenotesp.com/shows/rodrigo-ogi-e-banda/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/rodrigo-ogi-e-banda/</guid>
@@ -124,13 +138,6 @@
 <link>https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/</guid>
 <pubDate>Wed, 14 Oct 2026 16:24:06 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>BAILE CAFÉ CON RON</title>
-<link>https://bluenotesp.com/shows/baile-cafe-con-ron/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/baile-cafe-con-ron/</guid>
-<pubDate>Wed, 14 Oct 2026 15:25:15 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
@@ -285,13 +292,6 @@
 <link>https://bluenotesp.com/shows/kleiton-kledir/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/kleiton-kledir/</guid>
 <pubDate>Mon, 14 Sep 2026 11:56:29 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>BIG ALLANBIK</title>
-<link>https://bluenotesp.com/shows/big-allanbik/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/big-allanbik/</guid>
-<pubDate>Mon, 14 Sep 2026 11:41:41 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 <item>
