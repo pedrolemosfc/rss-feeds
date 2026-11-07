@@ -3,9 +3,9 @@
     "name": "folha-jazz",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
     "output": "out/folha-jazz.xml",
-    "items": 83,
+    "items": 82,
     "ok": true,
-    "notes": "scraped 83 items"
+    "notes": "scraped 82 items"
   },
   {
     "name": "folha-criticas-de-musica",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 188,
+    "items": 187,
     "ok": true,
-    "notes": "merged 3 feeds -> 188 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 187 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out",
+    "items": 14,
+    "ok": true,
+    "notes": "mirrored 14 native items",
     "kind": "native-mirror"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 21,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 21 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 31,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 31 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 11,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
