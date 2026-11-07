@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 80,
+    "items": 82,
     "ok": true,
-    "notes": "scraped 80 items"
+    "notes": "scraped 82 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 172,
+    "items": 174,
     "ok": true,
-    "notes": "merged 2 feeds -> 172 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 14,
+    "items": 12,
     "ok": true,
-    "notes": "mirrored 14 native items",
+    "notes": "mirrored 12 native items",
     "kind": "native-mirror"
   },
   {
@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 6,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -567,9 +567,9 @@
     "name": "farol-conde-arena",
     "source_url": "https://farmacondearena.com.br/agenda",
     "output": "feeds/farol-conde-arena.xml",
-    "items": 4,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 4 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
