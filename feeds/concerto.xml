@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sun, 08 Nov 2026 09:07:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 16:44:21 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY2NyIsImRpc2xpa2VzIjoiMCJ9?token=x7jIJZ1-Jn3qz3JMXBjOgP40Nh4bFdlx0wn89J3hwww?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY2OCIsImRpc2xpa2VzIjoiMCJ9?token=g-48jdQJKGvsY2QHrIEBQxgBllfLah-JB93dVBI8hQE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;667&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;668&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,13 +82,102 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Monteverdi Choir e English Baroque Soloists interpretam 'Theodora', de Händel, na Sala São Paulo</title>
+  <title>Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo </title>
+  <link>http://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Escrita em 1906, &lt;em&gt;Helena &lt;/em&gt;tem temática brasileira e é cantada em português&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viajei a Vitória para assistir à estreia contemporânea da ópera &lt;em&gt;Helena&lt;/em&gt;, de João Gomes de Araújo, nova produção da 14ª edição do Festival de Música Erudita do Espírito Santo. A montagem tem direção musical de Gabriel Rhein-Schirato, que também é consultor artístico do Festival, e direção cênica de Menelick de Carvalho, e conta com a participação da Orquestra Sinfônica do Estado do Espírito Santo e do Coro Vox Victoria. O elenco solista foi composto por Monique Galvão como Helena, Rodrigo Esteves no papel de Rogério, Rafael Stein como Júlio, Alessandro Santana como Silveira e, no papel de um camponês, Carlos Alexandre Kelert. &lt;/p&gt;
+&lt;p&gt;João Gomes de Araújo nasceu em Pindamonhangaba, São Paulo, em 1846. Formado no Conservatório de Música do Rio de Janeiro, aperfeiçoou-se em Milão graças a um apoio financeiro de d. Pedro II. Ali, conviveu com Carlos Gomes e integrou-se ao mundo operístico italiano. &lt;/p&gt;
+&lt;p&gt;A partir de 1888, Gomes de Araújo radicou-se em São Paulo, onde permaneceu até sua morte, em 1943, participando intensamente da vida musical da cidade. Sua produção abrange quatro óperas, onze missas, obras para coro, solistas e orquestra e dezenas de canções. &lt;/p&gt;
+&lt;p&gt;A ópera &lt;em&gt;Helena &lt;/em&gt;é de 1906 e teve apenas uma montagem, em 1916, no Theatro Municipal de São Paulo. Segundo as notas de programa redigidas pelo maestro Gabriel Rhein-Schirato, que fez sua tese de doutorado sobre a produção lírica de Gomes de Araújo, &lt;em&gt;Helena &lt;/em&gt;“representa uma guinada na obra do compositor tanto pela temática e características brasileiras, quanto por ser cantada em português”.&lt;/p&gt;
+&lt;p&gt;Com libreto de Bento de Camargo, inspirado livremente no romance &lt;em&gt;Inocência&lt;/em&gt;, de Visconde de Taunay, &lt;em&gt;Helena&lt;/em&gt; trata de um drama amoroso na zona rural do país. Segundo Rhein-Schirato, “sua cor local remonta à música regional brasileira de tradição oral”. Contudo, apesar disso, “trata-se de uma obra do romantismo, com inspiração no verismo italiano – particularmente na &lt;em&gt;Cavalleria Rusticana&lt;/em&gt;, de Pietro Mascagni”. &lt;/p&gt;
+&lt;p&gt;E é mesmo sua temática brasileira e o fato de ser cantada em português que dão relevância ao título, como um documento da época em que compositores brasileiros começavam a buscar uma identidade nacional dentro de uma tradição ainda fortemente ligada aos modelos operísticos italianos. &lt;/p&gt;
+&lt;p&gt;Porém, relativamente curta, com 40 minutos, em um ato e para uma pequena orquestra, construída sobre um libreto que não explora dimensões mais profundas do conflito, &lt;em&gt;Helena &lt;/em&gt;não apresenta o refinamento dramático e orquestral que a ópera italiana já havia alcançado à época.&lt;/p&gt;
+&lt;p&gt;O drama amoroso, que opõe Rogério e Júlio na conquista de Helena, se desenrola em duas partes separadas por um bonito intermezzo instrumental. Nas partes, as cenas se sucedem sem interrupção. A ópera é toda construída em um crescendo dramatúrgico que leva à tragédia final, que é o assassinato involuntário de Helena – Rogério tinha a intenção de matar seu concorrente, Júlio. &lt;/p&gt;
+&lt;p&gt;A montagem aconteceu no restaurado e bonito Teatro Carlos Gomes da capital capixaba, fundado em 1927 (ano que vem serão 100 anos). O teatro tem dimensões reduzidas, com um palco relativamente estreito, e por conta disso a encenação de &lt;em&gt;Helena &lt;/em&gt;resultou um pouco comprimida. Da mesma forma, cerca de 40 músicos ocuparam o pequeno e apertado fosso, o que também se refletiu no resultado sonoro, um pouco distante.&lt;/p&gt;
+&lt;p&gt;Foi bom o desempenho artístico geral do espetáculo, conduzido com verve pelo maestro Rhein-Schirato. Entre os solistas, destacou-se a mezzo soprano Monique Galvão, brasileira que desenvolve sua carreira sobretudo nos Estados Unidos. Galvão exibiu uma voz aveludada e encorpada, e protagonizou as cenas mais emocionantes da noite. &lt;/p&gt;
+&lt;p&gt;Gostei também, e especialmente, do coro, que teve uma atuação coesa e bem equilibrada – aliás, é nos bonitos coros em que mais transparece a brasilidade do universo rural da obra de Gomes de Araújo. &lt;/p&gt;
+&lt;p&gt;No todo, a produção é cuidada e bem-acabada, com os cenários (Giorgia Massetani e Alício Silva) e figurinos (Fábio Namatame e Camile Abreu) bastante adequados. E reconhece-se o compromisso de qualidade do núcleo de criação artística do Festival, dirigido por Livia Sabag e pelo maestro Rhein-Schirato, este também responsável pelo trabalho de pesquisa e edição da partitura.&lt;/p&gt;
+&lt;p&gt;É auspiciosa a iniciativa de recuperar a ópera de um autor de importante atividade na música brasileira da virada do século passado, como foi João Gomes de Araújo. E o público que lotou o Teatro Carlos Gomes retribuiu com muitos aplausos e grande entusiasmo.&lt;/p&gt;
+&lt;p&gt;A ópera foi transmitida ao vivo pelo YouTube – &lt;u&gt;&lt;a href="https://www.youtube.com/watch?v=Yh09gx29sSs" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;clique aqui para assistir&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;.&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;Nelson Rubens Kunze viajou a Vitória e assistiu à ópera Helena a convite do Festival de Música Erudita do Espírito Santo&lt;/em&gt;.]&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Cena de Helena, produção do 14º Festival de Música Erudita do Espírito Santo (divulgação, Fabio Prieto)" data-entity-type="file" data-entity-uuid="67fb1c8e-65c0-4080-ab00-ae168359d6f7" src="http://concerto.com.br/sites/default/files/inline-images/w-Helena_FabioPrieto_IMG_8812.jpg" /&gt;
+&lt;figcaption&gt;Cena de &lt;em&gt;Helena&lt;/em&gt;, produção do 14º Festival de Música Erudita do Espírito Santo (divulgação, Fabio Prieto)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;dom, 08/11/2026 - 10:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Helena_FabioPrieto_IMG_8812.jpg" width="900" height="600" alt="Cena de Helena, produção do 14º Festival de Música Erudita do Espírito Santo (divulgação, Fabio Prieto)" title="Cena de Helena, produção do 14º Festival de Música Erudita do Espírito Santo (divulgação, Fabio Prieto)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2751" hreflang="pt-br"&gt;Festival de Música Erudita do Espírito Santo&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=2Bb1xWxf4A0akFX_xy8uY--DAC1ViTIUk6dpgKgv7aE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 08 Nov 2026 10:42:58 +0000</pubDate>
+    <dc:creator>Nelson Rubens Kunze</dc:creator>
+    <guid isPermaLink="false">284325 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo#comments</comments>
+    </item>
+<item>
+  <title>Monteverdi Choir e English Baroque Soloists interpretam ‘Theodora’, de Händel, na Sala São Paulo</title>
   <link>http://concerto.com.br/noticias/musica-classica/monteverdi-choir-e-english-baroque-soloists-interpretam-theodora-de-handel</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Monteverdi Choir e English Baroque Soloists interpretam 'Theodora', de Händel, na Sala São Paulo&lt;/span&gt;
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Monteverdi Choir e English Baroque Soloists interpretam ‘Theodora’, de Händel, na Sala São Paulo&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No domingo, 8, na Sala São Paulo, Monteverdi Choir e English Baroque Soloists se apresentam pelo Tucca Música pela Cura. Sob regência de Christophe Rousset, o grupo executa o oratório &lt;em&gt;Theodora&lt;/em&gt;, de Händel.&lt;/p&gt;
-&lt;p&gt;Duas referências de performance historicamente informada marcam presença no concerto. Fundado em 1964, o Monteverdi Choir conta com mais de 150 gravações, além de ter sido premiado como Melhor Coro no Oper! Awards de 2024. O English Baroque Soloists, antes Monteverdi Choir Orchestra, foi idealizado para acompanhar o Monteverdi Choir em &lt;em&gt;Hércules&lt;/em&gt;, de Händel, em 1968. Nos anos 2000, os conjuntos trabalharam na célebre execução da integral das cantatas de Bach, sob regência de Sir John Elliot Gardiner. Juntos, eles integram o Monteverdi Choir &amp; Orchestras.&lt;/p&gt;
-&lt;p&gt;Christophe Rousset é um conhecedor da obra de Händel. O maestro e cravista foi vencedor da edição de 2024 do Prêmio Handel da Cidade de Halle, concedido pela Fundação Casa de Handel, por suas interpretações da obra em instrumentos de época.&lt;/p&gt;
+&lt;p&gt;Duas referências de performance historicamente informada marcam presença no concerto. Fundado em 1964, o Monteverdi Choir conta com mais de 150 gravações, além de ter sido premiado como Melhor Coro no Oper! Awards de 2024. O English Baroque Soloists foi idealizado para acompanhar o Monteverdi Choir em &lt;em&gt;Hércules&lt;/em&gt;, de Händel, em 1968. Nos anos 2000, os conjuntos trabalharam na célebre execução da integral das cantatas de Bach, sob regência de Sir John Elliot Gardiner. Juntos, eles integram o Monteverdi Choir &amp; Orchestras.&lt;/p&gt;
+&lt;p&gt;Christophe Rousset é um conhecedor da obra de Händel. O maestro e cravista foi vencedor da edição de 2024 do Prêmio Händel da Cidade de Halle, concedido pela Fundação Casa de Händel, por suas interpretações da obra em instrumentos de época.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Theodora&lt;/em&gt; ocupa lugar especial na obra de seu compositor. Na obra de 1750, a cristã Theodora é condenada por se recusar a louvar o deus romano Júpiter no aniversário do imperador. Para salvá-la, Dídimo toma seu lugar na prisão, mas ela retorna para cumprir sua pena. Juntos, os dois encaram a morte.&lt;/p&gt;
 &lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-08"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
@@ -145,10 +234,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=uicKKFQsVhJi1zFl55EsICzRNezdOokPgT9AuIJyIQk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=uVF1ZJc9Y9PoHMJrn8asdhLYAYTkYY491rOwW95I1Vg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;34&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;39&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -411,10 +500,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=xgoK0kVCS_kYz_HjMqQJQ4l9I7X_MntbOTrsdQGWfes?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=kx2vv_AC2f7dP5wyGC4FfpAHT3ydqquY3oGOB2dOruo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;28&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;34&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -509,70 +598,6 @@
   <pubDate>Fri, 06 Nov 2026 12:48:33 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284315 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Duo Marcelo Barboza - flauta e Jenniffer Campbell - harpa</title>
-  <link>http://concerto.com.br/roteiros/duo-marcelo-barboza-flauta-e-jenniffer-campbell-harpa</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Marcelo Barboza - flauta e Jenniffer Campbell - harpa&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 12:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sociedade Jundiaiense de Cultura Artística. Programa: Bach  - Sonata BWV 1031; Osvaldo Lacerda - Balada; Villa-Lobos -  Improviso nº 7; Villani-Côrtes -  Seresta para flauta; C. de Grandval  - Valse melancolique; Prokofiev -  Prelude in C; Frank Bridge - Four pieces; e Meditation - Spring song, Lullaby e Country dance.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T11:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1384" hreflang="pt-br"&gt;Jundiaí, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284315" hreflang="pt-br"&gt;Igrejinha Santa Clara&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/duo-marcelo-barboza-e-jennifer-campbell-flauta-e-harpa/3634495?token=24c917669f643eb92b1efd7e447d6084.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 12:37:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284316 at http://concerto.com.br</guid>
     </item>
 
   </channel>
