@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 10,
+    "items": 13,
     "ok": true,
-    "notes": "mirrored 10 native items",
+    "notes": "mirrored 13 native items",
     "kind": "native-mirror"
   },
   {
@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 16,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 27,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 39,
+    "items": 44,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 44 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 8,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 16,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

@@ -6,7 +6,7 @@
 <link>https://meaple.com.br/rockambole</link>
 <description>Shows da Casa Rockambole via API Meaple</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 09 Nov 2026 09:55:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 20:50:29 +0000</lastBuildDate>
 <item>
 <title>Dejavu Session na Casa Rockambole - Novembro 2026</title>
 <link>https://meaple.com.br/rockambole/dejavu-novembro-26</link>
@@ -65,6 +65,12 @@
 <title>Noite RISCO na SIM SP</title>
 <link>https://meaple.com.br/rockambole/risco-sim-sp</link>
 <guid isPermaLink="true">https://meaple.com.br/rockambole/risco-sim-sp</guid>
+<description>Casa Rockambole (Meaple)</description>
+</item>
+<item>
+<title>RANCORE na Casa Rockambole</title>
+<link>https://meaple.com.br/rockambole/rancore</link>
+<guid isPermaLink="true">https://meaple.com.br/rockambole/rancore</guid>
 <description>Casa Rockambole (Meaple)</description>
 </item>
 </channel>
