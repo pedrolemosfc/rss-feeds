@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 09 Nov 2026 01:47:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:55:16 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY2OCIsImRpc2xpa2VzIjoiMCJ9?token=sRW30_Pg8FiyQiISrsFHgDQOa8tF7qGDOlAwXi0XX4k?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY3MyIsImRpc2xpa2VzIjoiMCJ9?token=3o713x7t8REn0LjKm_08EQxTGsfMurV3HhWEumOwXYY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;668&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;673&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,381 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Chamber Festival recebe o violinista Nathan Amaral</title>
+  <link>http://concerto.com.br/noticias/musica-classica/sao-paulo-chamber-festival-recebe-o-violinista-nathan-amaral</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Chamber Festival recebe o violinista Nathan Amaral&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A terceira edição do São Paulo Chamber Festival, iniciativa da São Paulo Chamber Orchestra, acontece entre os dias 9 e 15 no Teatro Cultura Artística. O evento promove concertos e o intercâmbio entre músicos profissionais, jovens talentos e artistas convidados, com o tema Conexão e Integração.&lt;/p&gt;
+&lt;p&gt;Na apresentação de abertura, no dia 9, a São Paulo Chamber Soloists recebe o violinista Nathan Amaral para um programa com obras de Alexandre Guerra (&lt;em&gt;Serenata para cordas&lt;/em&gt;), Chausson (&lt;em&gt;Poème&lt;/em&gt;), Mahler (&lt;em&gt;Adagietto&lt;/em&gt; da &lt;em&gt;Sinfonia nº 5&lt;/em&gt; de Mahler), Ravel (&lt;em&gt;Tzigane&lt;/em&gt;) e Schubert (&lt;em&gt;Quarteto nº 14&lt;/em&gt;), com participação da harpista Jennifer Campbell. &lt;/p&gt;
+&lt;p&gt;Amaral desenvolve uma trajetória internacional marcante, com vitórias em importantes concursos, como o Sphinx, em 2024. Ele se formou na Universidade do Mozarteum de Salzburg, onde venceu o prêmio Paul Roczek como melhor aluno de violino. Ele também conquistou os concursos de Weimar, Wiener Klassik Preis, Ruggero Ricci e Waslau Burkowsky. &lt;/p&gt;
+&lt;p&gt;Entre seus projetos, está o SIM – Semana de Iniciação Musical, cuja missão é “oferecer acesso à educação musical de qualidade para todos, independentemente de sua origem”. O SIM participa da edição deste ano do festival.&lt;/p&gt;
+&lt;p&gt;No dia 13 , acontece o programa Encontros: Descobertas, concerto que reúne professores e jovens bolsistas do festival na interpretação de obras de Vanhal, Volkmann, Johanna Müller-Hermann e Rimsky-Korsakov; no dia 14, a atração é Encontros: Conexões, com obras de Rossini, Mendelssohn, Korine Fujiwara, Brahms e as &lt;em&gt;Bachianas brasileiras nº 1&lt;/em&gt;, de Heitor Villa-Lobos.&lt;/p&gt;
+&lt;p&gt;O concerto de encerramento, no dia 15, vai apresentar Metamorfoses. De Strauss, além de obras de Saint-Saëns e Haydn, com regência de Felix Krieger. Também serão apresentados os premiados do Concurso Jovens Solistas do do São Paulo Chamber Festival.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-11-09" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O violinista Nathan Amaral [Divulgação]" data-entity-type="file" data-entity-uuid="f9ddba65-03f3-4089-9ca6-164ba5ca450a" src="http://concerto.com.br/sites/default/files/inline-images/w-Nathan-Amaral-Article-.jpg" /&gt;
+&lt;figcaption&gt;O violinista Nathan Amaral [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 08:41&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Nathan-Amaral-Article-.jpg" width="900" height="567" alt="O violinista Nathan Amaral [Divulgação]" title="O violinista Nathan Amaral [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMzAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=P3h-znZ91D4hR6ojFoIY4a420tPNrjZmshbbeJqb_-Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 Nov 2026 08:41:39 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284330 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Chinês Zhu Wang abre Festival Internacional de Piano, no Rio</title>
+  <link>http://concerto.com.br/noticias/musica-classica/chines-zhu-wang-abre-festival-internacional-de-piano-no-rio</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Chinês Zhu Wang abre Festival Internacional de Piano, no Rio&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O Festival Internacional de Piano realiza sua nova edição entre os dias 9 e 15 de novembro, na Sala Cecília Meireles, no Rio de Janeiro, com direção artística da pianista e produtora Lilian Barreto. &lt;/p&gt;
+&lt;p&gt;No dia 9, a atração é o pianista chinês Zhu Wang, de 18 anos, que faz sua estreia no Brasil. Formado pela Juilliard School e pelo Curtis Institute of Music, ele começa a apresentação interpretando obras de Chopin (&lt;em&gt;Barcarolle&lt;/em&gt;), Schumann (&lt;em&gt;Humoresque&lt;/em&gt;) e Albéniz (&lt;em&gt;Triana&lt;/em&gt;, da Suite Iberia). &lt;/p&gt;
+&lt;p&gt;Em seguida, Wang se une à Orquestra Sinfônica Brasileira para apresentar o &lt;em&gt;Concerto nº 2 para piano e orquestra&lt;/em&gt; de Rachmaninov, sob regência da maestra francesa Nathalie Marin.&lt;/p&gt;
+&lt;p&gt;Já no dia 15, a série &lt;em&gt;O Feminino no Piano&lt;/em&gt; tem como atração duas jovens pianistas brasileiras, Olívia Tebaldi e Sara Canal. Elas vão tocar o &lt;em&gt;Concerto para dois pianos, K. 365&lt;/em&gt;, de Mozart, acompanhadas pela Orquestra Sinfônica Juvenil Chiquinha Gonzaga e pela maestra Priscila Bomfim. &lt;/p&gt;
+&lt;p&gt;O programa apresenta ainda peças de Maurice Ravel (&lt;em&gt;La valse&lt;/em&gt;), Darius Milhaud (&lt;em&gt;Suite Scaramouche&lt;/em&gt;) e uma suíte de Chiquinha Gonzaga, com arranjo do maestro Anderson Alves para &lt;em&gt;Saci Pererê&lt;/em&gt;, &lt;em&gt;Lua Branca&lt;/em&gt; e &lt;em&gt;Ô abre alas&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-11-09" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O pianista chinês Zhu Wang [Divulgação]" data-entity-type="file" data-entity-uuid="4a0a65e3-e04a-4f42-b65c-72c8d2466a21" src="http://concerto.com.br/sites/default/files/inline-images/QuarterFinals-ZhuWang_GWZ6458.jpg" /&gt;
+&lt;figcaption&gt;O pianista chinês Zhu Wang [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 08:35&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/QuarterFinals-ZhuWang_GWZ6458.jpg" width="900" height="600" alt="O pianista chinês Zhu Wang [Divulgação]" title="O pianista chinês Zhu Wang [Divulgação]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=vqj_KkGxGnLEBnWNlyPtxDk2PJyQqw2Mcd8j0qQa_8Y?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 Nov 2026 08:35:21 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284329 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Gravação de missa de Henrique Alves de Mesquita é disponibilizada na internet</title>
+  <link>http://concerto.com.br/noticias/musica-classica/gravacao-de-missa-de-henrique-alves-de-mesquita-e-disponibilizada-na</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gravação de missa de Henrique Alves de Mesquita é disponibilizada na internet&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Orquestra Sinfônica da UFRJ disponibilizou no YouTube o registro da &lt;em&gt;Missa São Francisco de Paula&lt;/em&gt;, obra de 1867 de Henrique Alves de Mesquita, gravado em agosto deste ano na Igreja de São Francisco de Paula, no Rio.&lt;/p&gt;
+&lt;p&gt;A missa havia sido apresentada pela última vez em 1912 e a partitura foi redescoberta em 2020, dando origem à edição interpretada pelos corpos artísticos das universidades federais do Rio de Janeiro e de Juiz de Fora, sob regência de Victor Cassemiro&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;Missa São Francisco de Paula&lt;/em&gt; foi composta para a festa do padroeiro da Venerável Ordem dos Mínimos de São Francisco de Paula. Foi estreada em 5 de maio daquele ano em cerimônia solene na Igreja de São Francisco de Paula, no centro do Rio de Janeiro, sob a regência do compositor.&lt;/p&gt;
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PcYHUTwvNlQ?si=lMjdhm6wcXJKPxuc" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Durante o trabalho de organização do arquivo da Venerável Ordem, realizado por Daisy Ketzer e Júlio Sperber sob a coordenação do Padre Álvaro Inácio, a partitura original foi reencontrada. A parceria com a Academia Brasileira de Música viabilizou a digitalização do material manuscrito. E a edição foi preparada pelo projeto Música Brasilis.&lt;/p&gt;
+&lt;p&gt;Escrevendo sobre a obra na época da estreia, o advogado, escritor e teatrólogo França Júnior  definiu como um “peça digna de mestre”. Já Machado de Assis afirmou que a missa “é uma obra de inspiração e de estudo e mais um florão para sua coroa de compositor”. Sobre o compositor, o escritor afirmou: “Cabe-lhe o papel invejável de ser o continuador de José Maurício. A arte brasileira atual precisa de um Beethoven: Mesquita pode sê-lo”.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Gravação foi realizada em agosto deste ano [Reprodução/YouTube]" data-entity-type="file" data-entity-uuid="e081ce04-48e0-4df2-b323-8a8121a1fb54" src="http://concerto.com.br/sites/default/files/inline-images/w-missa.jpg" /&gt;
+&lt;figcaption&gt;Gravação foi realizada em agosto deste ano [Reprodução/YouTube]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 08:30&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-missa.jpg" width="900" height="472" alt="Gravação foi realizada em agosto deste ano [Reprodução/YouTube]" title="Gravação foi realizada em agosto deste ano [Reprodução/YouTube]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=CCXxejjakZ9mb5kwVabt4LPPr8Ewycy0iJkxh9EfSp0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 Nov 2026 08:30:56 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284328 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Concurso Maria Callas realiza inscrições para sua 25ª edição</title>
+  <link>http://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;O Concurso Brasileiro de Canto Maria Callas, realização da Cia Ópera São Paulo, chega a um marco importante em março de 2027 – sua 25ª edição, que também vai homenagear a soprano pelos 50 anos de sua morte.&lt;/p&gt;
+&lt;p&gt;As inscrições para o concurso estão abertas até o dia 15 de novembro. Podem participar cantores brasileiros e latino-americanos entre 18 e 40 anos de idade, residentes ou não em seus países. Cantores de outras nacionalidades poderão se inscrever, desde que residentes em território brasileiro há mais de seis meses.&lt;/p&gt;
+&lt;p&gt;A fase eliminatória será remota. Ou seja, por meio de vídeo gravado pelos candidatos que serão avaliados por uma comissão interna da Cia Ópera São Paulo e da Associação Amigos da Ópera de Jacareí. No dia 16 de dezembro será divulgada a lista de candidatos selecionados para participar presencialmente da fase semifinal em São Paulo.&lt;/p&gt;
+&lt;p&gt;Mais informações podem ser obtidas neste &lt;u&gt;&lt;a href="https://www.ciaopera.com.br/?page_id=1037" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;link&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Concurso Maria Callas" data-entity-type="file" data-entity-uuid="5e7f304c-6d8a-45d7-93fa-d1437f97bc93" src="http://concerto.com.br/sites/default/files/inline-images/w-callas_0_1.jpg" /&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 08:28&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-callas_0_1.jpg" width="900" height="506" alt="Concurso Maria Callas" title="Concurso Maria Callas" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=ZBhjS05GcQizfAeEcOu4nEZUaC4kN8hdtdT0IdqVdh4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 Nov 2026 08:28:46 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284327 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Prepare-se: os destaques da semana da agenda de concertos e de ópera</title>
+  <link>http://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-e-de-opera</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prepare-se: os destaques da semana da agenda de concertos e de ópera&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Semana traz a ópera &lt;em&gt;Turandot, &lt;/em&gt;de&lt;em&gt; &lt;/em&gt;Puccini, no Theatro Municipal do Rio de Janeiro; o Festival Internacional de Piano do Rio de Janeiro e o São Paulo Chamber Festival, em São Paulo, também são destaques, assim como A canção da terra, de Mahler, com a Orquestra de Câmara da USP. Em Porto Alegre, a Ospa recebe a violinista Édua Zádory; em Curitiba, Fabio Zanon rege o Ensemble Orquestra de Câmara de Curitiba. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Segunda-feira, dia 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Festival Internacional de Piano do Rio de Janeiro &lt;/strong&gt;inicia suas atividades na Sala Cecília Meireles. O pianista Zhu Wang interpreta o &lt;em&gt;Concerto para piano nº 2, op. 18&lt;/em&gt;, de Rachmaninoff, com a Orquestra Sinfônica Brasileira Jovem, sob regência de Nathalie Marin.&lt;/p&gt;
+&lt;p&gt;O Teatro Cultura Artística recebe o &lt;strong&gt;São Paulo Chamber Festival&lt;/strong&gt;. No primeiro dia, o São Paulo Chamber Soloists recebe o violinista Nathan Amaral. O festival conta com concertos nos dias 13, 14 e 15.&lt;/p&gt;
+&lt;p&gt;Começa o &lt;strong&gt;Festival Britten&lt;/strong&gt; na Estação Motiva Cultural. Em concerto, os músicos do festival executam obras de John Dowland. O evento segue nos dias 15, 19 e 24 e conta com palestras e concertos de docentes, estudantes e egressos da universidade e convidados.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Terça-feira, dia 10&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Em São Paulo, o violonista &lt;strong&gt;Plínio Fernandes&lt;/strong&gt; se apresenta no Teatro Cultura Artística. O programa inclui obras de John Dowland, Fernando Sor, Rafael Marino Arcaro, Leo Brouwer e outros.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Grupo Martelo &lt;/strong&gt;realiza o espetáculo Sotaque na Estação Motiva Cultural. O grupo é composto pelos percussionistas Ruben Zúñiga e Rafael Alberto e pelos timpanistas Leonardo Gorosito e Danilo Valle. Eles interpretam Clarice Assad, André Mehmari, Léa Freire, Débora Gurgel, Hércules Gomes, Silvia Góes, Daniel Grajew e Luísa Mitre, e contam com a participação de Antonio Nóbrega.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quarta-feira, dia 11&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A&lt;strong&gt; Orquestra Bachiana Sênior Sesi-SP&lt;/strong&gt; celebra 80 anos da Fundação Dorina Nowill para Cegos, no Centro Cultural Fiesp. Sob regência de João Carlos Martins e Laércio Sinhorelli Diniz, a orquestra convida o pianista Marcelo Bratke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fabiana Cozza&lt;/strong&gt; e a &lt;strong&gt;Orquestra Mundana Refugi&lt;/strong&gt; compõem a Série Petrobras do Teatro Cultura Artística. O repertório combina o samba à linguagem orquestral.&lt;/p&gt;
+&lt;p&gt;Em Salvador, o &lt;strong&gt;Núcleo de Ópera da Bahia&lt;/strong&gt; interpreta a &lt;em&gt;Ópera dos terreiros&lt;/em&gt;, de Aldo Brizzi. O compositor assume a direção e assina o libreto com Jorge Portugal. O elenco traz Irma Ferreira, Carlos Morais, Graça Reis, Josehr Santos, Lucas Timóteo, Michel Silva, Milla Franco e Gabriel Menezes.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Quinta-feira, dia 12&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Na Sala São Paulo, Thomas Blunt rege o &lt;strong&gt;Coro da Osesp&lt;/strong&gt;, com a soprano Laura Pisani, a mezzo-soprano Ana Lucia Benedetti, o tenor Mikael Coutinho e o baixo Anderson Barbosa. O programa contém obras de Leonard Bernstein, Leonardo Gorosito, Leonardo Martinelli, Steve Reich e Stravinsky. Reapresentações acontecem nos dias 13 e 14.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Theatro Municipal do Rio de Janeiro &lt;/strong&gt;encena a ópera &lt;em&gt;Turandot&lt;/em&gt;, de Puccini. A direção musical e regência são de Carlos Vieu, e a concepção e direção cênica são de André Heller-Lopes. Eiko Senda e Tatiana Carlos interpretam Turandot, Andrés Presno e Enrique Bravo vivem Calaf, e Ludmilla Bauerfeldt e Lígia Ishitani assumem o papel de Liù. Apresentações ocorrem nos dias 13, 14, 17, 18, 20 e 21.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color:#7f0000;"&gt;Sexta-feira, dia 13&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Porto Alegre&lt;/strong&gt; recebe a violinista Édua Zádory no Complexo Cultural Casa da Ospa. Cláudio Cruz rege a orquestra e a solista na&lt;em&gt; Rapsódia nº 2 para violino e orquestra&lt;/em&gt;, de Bartók, e em &lt;em&gt;Hejre Kati&lt;/em&gt;, de Jenő Hubay. Obras de Kodály e Guarnieri completam o programa.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica de Sorocaba&lt;/strong&gt; realiza concerto de primavera na Sala Fundec. Eduardo Pereira rege os músicos e recebe o pianista Rogério Zaghi. O programa inclui a &lt;em&gt;Sinfonia nº 1&lt;/em&gt;, &lt;em&gt;'Primavera'&lt;/em&gt;, de Schumann, &lt;em&gt;Seis miniaturas&lt;/em&gt;, de Nilson Lombardi, e&lt;em&gt; Danças norueguesas&lt;/em&gt;, &lt;em&gt;op. 35&lt;/em&gt;, de Grieg.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra de Câmara da ECA-USP&lt;/strong&gt; faz concerto no Centro Cultural Camargo Guarnieri. A orquestra recebe o pianista Pedro Henrique Correia e a flautista Gabriela Fiorini, sob regência de William Coelho. O programa inclui a estreia mundial de &lt;em&gt;Olhos na lua, pés no chão&lt;/em&gt;, de Ana Fridman.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sábado, dia 14&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Orquestra Sinfônica da USP&lt;/strong&gt; se apresenta no Centro Cultural Camargo Guarnieri. Sob regência de Ricardo Bologna, os músicos e os solistas (a mezzo-soprano Luísa Francesconi e o tenor Giovanni Tristacci) interpretam &lt;em&gt;A canção da terra&lt;/em&gt;, de Mahler.&lt;/p&gt;
+&lt;p&gt;Em Ilhabela, o &lt;strong&gt;Paulo Bellinati Trio&lt;/strong&gt; dedica concerto a Garoto, no Instituto Baía dos Vermelhos. Formado pelos violonistas Paulo Bellinati, Swami Jr. e Daniel Murray, o grupo toca canções do compositor brasileiro.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fabio Zanon&lt;/strong&gt; rege o Ensemble Orquestra de Câmara de Curitiba na Capela Santa Maria Espaço Cultural, em Curitiba. O grupo toca o &lt;em&gt;Quarteto nº 2&lt;/em&gt;, &lt;em&gt;op. 2&lt;/em&gt;, de Haydn, &lt;em&gt;Vision of Orpheus&lt;/em&gt;, de David Leisner, e o &lt;em&gt;Quinteto, op. 143&lt;/em&gt;, de Castelnuovo-Tedesco. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Domingo, dia 15&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O violoncelista &lt;strong&gt;Rafael Cesário&lt;/strong&gt; e a pianista&lt;strong&gt; Erika Ribeiro&lt;/strong&gt; fazem recital na Fundação Maria Luisa e Oscar Americano. O programa inclui a &lt;em&gt;Sonata nº 1, op. 38&lt;/em&gt;, de Brahms, e a &lt;em&gt;Sonata, op. 65&lt;/em&gt;, de Chopin.&lt;/p&gt;
+&lt;p&gt;Em Salvador, Carlos Prazeres rege a &lt;strong&gt;Orquestra Sinfônica da Bahia&lt;/strong&gt;. A orquestra recebe a violoncelista Marina Martins e a soprano Camila Tittinger para interpretar o &lt;em&gt;Concerto para violoncelo&lt;/em&gt;,&lt;em&gt; op. 104&lt;/em&gt;, de Dvořák, e &lt;em&gt;Quatro Últimas Canções&lt;/em&gt;, de Strauss.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Osesp&lt;/strong&gt; organiza concerto de música de câmara na Estação Motiva Cultural. O Quarteto de Cordas Vibrato, os cantores Valquíria Gomes, Clarissa Cabral, Jabez Lima e João Vitor Ladeira, com Laércio Resende na eletrônica, interpretam obras de Laércio Resende, Beethoven e Roberto Sion.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Cena da produção de 'Turandot', que será exibida no Theatro Municipal do Rio de Janeiro [Divulgação/Fabiana Stig]" data-entity-type="file" data-entity-uuid="a1b0c057-8f35-4c24-9b77-28a9a1b0b286" src="http://concerto.com.br/sites/default/files/inline-images/w-Turandot_Foto-Fabiana-Stig-1-001.jpg" /&gt;
+&lt;figcaption&gt;Cena da produção de 'Turandot', que será exibida no Theatro Municipal do Rio de Janeiro [Divulgação/Fabiana Stig]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 04:03&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Turandot_Foto-Fabiana-Stig-1-001.jpg" width="978" height="620" alt="Cena da produção de 'Turandot', que será exibida no Theatro Municipal do Rio de Janeiro [Divulgação/Fabiana Stig]" title="Cena da produção de 'Turandot', que será exibida no Theatro Municipal do Rio de Janeiro [Divulgação/Fabiana Stig]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=K3dH-d-L7AueOzDrv24H7xlFg8E2yKrpijlhh__nNSg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;2&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 09 Nov 2026 04:03:06 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284324 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo </title>
@@ -155,10 +530,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxMiIsImRpc2xpa2VzIjoiMCJ9?token=RnDG3M_aNAABo5utYfkx-8_0JO9CC8ZWEZ-YA4ii3N0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxOCIsImRpc2xpa2VzIjoiMCJ9?token=nDc3NpVrCxgQietZTn_X17Yc3zhkWt8r63eQXFV_iUY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;18&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -234,10 +609,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQxIiwiZGlzbGlrZXMiOiIwIn0%3D?token=qLccVk17F-Q48rlAeyKuXuIWSnqX071WI8lxg7PL24A?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMjMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQ1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=QBSiI5TKQm1AVIgE2eeeIqo4T2cGFmtfu0eelIGcV5k?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;41&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;45&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -312,292 +687,7 @@
   <pubDate>Fri, 06 Nov 2026 21:21:08 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284321 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica Heliópolis</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-heliopolis-162</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Heliópolis&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 20:35&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Série Heliópolis &amp; Simoninha convidam.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T20:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278240" hreflang="pt-br"&gt;Teatro Baccarelli &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 20:35:18 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284320 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>São Paulo Escola de Dança</title>
-  <link>http://concerto.com.br/roteiros/sao-paulo-escola-de-danca-10</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Escola de Dança&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 20:22&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Lançamento do livro "Poéticas do Cotidiano: Dança e Educação", de Inês Bogéa e José Simões. A obra explora diferentes olhares sobre o ensino de dança no Brasil.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-16T12:15:00Z" class="datetime"&gt;seg, 16/11/2026 - 12:15&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/267574" hreflang="pt-br"&gt;São Paulo Escola de Dança&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 20:22:32 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284319 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Academia Brasileira de Música faz sessão solene em homenagem a Roberto Tibiriçá</title>
-  <link>http://concerto.com.br/noticias/musica-classica/academia-brasileira-de-musica-faz-sessao-solene-em-homenagem-roberto</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Academia Brasileira de Música faz sessão solene em homenagem a Roberto Tibiriçá&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A Academia Brasileira de Música faz nesta sexta-feira, dia 6, uma sessão solene de homenagem póstuma ao maestro Roberto Tibiriçá, que morreu no dia 3 de outubro, em São Paulo.&lt;/p&gt;
-&lt;p&gt;Tibiriçá ocupava a Cadeira nº 5 da ABM, fundada por Frei Pedro Sinzig e cujo patrono é José Maurício Nunes Garcia. A cadeira teve como primeiro sucessor o Padre João Batista Lehmann e, como segunda sucessora, Cleofe Person de Mattos.&lt;/p&gt;
-&lt;p&gt;Na sessão, o discurso de homenagem a Tibiriçá será proferido pelo compositor e acadêmico Ronaldo Miranda. A cerimônia será realizada em formato virtual, com transmissão ao vivo pelo canal da Academia Brasileira de Música no YouTube.&lt;/p&gt;
-&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/G2Nmekw62d8?si=tOk5DtPo76aCXrox" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Um dos grandes nomes da regência brasileira, Tibiriçá foi diretor de grupos como a Orquestra Sinfônica Brasileira, as sinfônicas de Minas Gerais e do Paraná, a Orquestra Petrobras Sinfônica e a Sinfônica Heliópolis, além de regente convidado da Osesp e do Theatro Municipal de São Paulo. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/temporada-2027-da-osesp-e-destaque-da-edicao-de-novembro-da-revista" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Temporada 2027 da Osesp é destaque da edição de novembro da Revista CONCERTO&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/morre-aos-99-anos-o-maestro-herbert-blomstedt" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Morre aos 99 anos o maestro Herbert Blomstedt&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;u&gt; &lt;a href="https://concerto.com.br/noticias/musica-classica/disposicao-da-orquestra-no-palco-gera-divergencia-entre-maestro-e" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Disposição da orquestra no palco gera divergência entre maestro e Filarmônica de Berlim&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt;&lt;strong&gt;&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/trio-sitkovetsky-faz-recitais-no-teatro-cultura-artistica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Trio Sitkovetsky faz recitais no Teatro Cultura Artística&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/usp-organiza-festival-britten-e-homenageia-o-legado-do-compositor" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;USP organiza Festival Britten e homenageia o legado do compositor&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, Por Clara Zamboni&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;u&gt;&lt;a href="https://concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O maestro Roberto Tibiriçá durante concerto com a Sinfônica do Paraná [Divulgação/Vitor Dias]" data-entity-type="file" data-entity-uuid="89f9621c-eb80-4ce8-ba66-2f3824eef6c6" src="http://concerto.com.br/sites/default/files/inline-images/w-RobertoTibirica_SERIE-OURO-2-DOMINGO-99_VitorDias_0.jpg" /&gt;
-&lt;figcaption&gt;O maestro Roberto Tibiriçá durante concerto com a Sinfônica do Paraná [Divulgação/Vitor Dias]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 15:24&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-RobertoTibirica_SERIE-OURO-2-DOMINGO-99_VitorDias.jpg" width="900" height="600" alt="O maestro Roberto Tibiriçá durante concerto com a Sinfônica do Paraná [Divulgação/Vitor Dias]" title="O maestro Roberto Tibiriçá durante concerto com a Sinfônica do Paraná [Divulgação/Vitor Dias]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzMTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=nAOcmuEs0kzt6BVuM2F8b0RlcDf0MpMTI5g9zAAUIXs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;35&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 15:24:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284318 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>[ON-LINE] Clara Sverner - piano</title>
-  <link>http://concerto.com.br/roteiros/line-clara-sverner-piano</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Clara Sverner - piano&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 14:31&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Programa Plateia. Recital da pianista realizado no dia 27 de agosto na Sala Cecília Meireles, no Rio de Janeiro. Apresentação: Toni Villani. Programa: Mozart - Sonata em lá maior K 331, Alla Turca; Ravel - Sonatine; Alexander Scriabin - Prelúdios op. 11; Chopin - Scherzo n° 2 op. 31; e Chiquinha Gonzaga - Biónne.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-08T11:00:00Z" class="datetime"&gt;dom, 08/11/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/240856" hreflang="pt-br"&gt;Rádio MEC FM&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 14:31:09 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284317 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Igrejinha Santa Clara</title>
-  <link>http://concerto.com.br/node/284315</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Igrejinha Santa Clara&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Noé Roveri, 213 - Serra do Japi - Tel. (11) 4587-0558 - https://dj.org.br/santa-clara/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 06/11/2026 - 12:48&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Jundiaí, SP&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Fri, 06 Nov 2026 12:48:33 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284315 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/ballet-carmen#comments</comments>
     </item>
 
   </channel>
