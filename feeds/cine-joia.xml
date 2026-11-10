@@ -6,7 +6,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 09 Nov 2026 20:50:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:12:01 +0000</lastBuildDate>
+<item>
+<title>Vanguart</title>
+<link>https://www.cinejoia.com.br/eventos/vanguart-3/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/vanguart-3/</guid>
+<pubDate>Mon, 09 Nov 2026 15:07:12 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>Pra Sempre Cringe</title>
 <link>https://www.cinejoia.com.br/eventos/pra-sempre-cringe-3/</link>
@@ -348,13 +355,6 @@
 <link>https://www.cinejoia.com.br/eventos/iseo-dodosound/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/iseo-dodosound/</guid>
 <pubDate>Mon, 22 Jun 2026 15:36:30 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>LOS CAFRES</title>
-<link>https://www.cinejoia.com.br/eventos/los-cafres/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/los-cafres/</guid>
-<pubDate>Mon, 22 Jun 2026 15:33:58 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

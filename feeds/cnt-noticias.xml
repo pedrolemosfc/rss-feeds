@@ -6,11 +6,11 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 09 Nov 2026 20:52:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:13:40 +0000</lastBuildDate>
 <item>
 <title>Pesquisa CNT de Rodovias 2026 aponta melhora na qualidade da malha brasileira</title>
-<link>https://www.cnt.org.br/imprensa/noticia/cnt-lanca-pesquisa-cnt-de-rodovias-2026-no-dia-9-de-novembro</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-lanca-pesquisa-cnt-de-rodovias-2026-no-dia-9-de-novembro</guid>
+<link>https://www.cnt.org.br/imprensa/noticia/cnt-lanca-pesquisa-cnt-de-rodovias-2026</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-lanca-pesquisa-cnt-de-rodovias-2026</guid>
 <pubDate>Mon, 09 Nov 2026 09:05:30 +0000</pubDate>
 <description>Infraestrutura — Percentual de rodovias classificadas como Ótimo ou Bom chega a 41,1%, enquanto 58,9% da extensão avaliada apresenta algum tipo de deficiência; problemas no pavimento elevam custos operacionais do transporte em 31,8%.</description>
 </item>
@@ -41,6 +41,12 @@
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/coalizao-de-transportes-estrutura-agenda-de-implementacao-ate-2030</guid>
 <pubDate>Mon, 26 Oct 2026 18:44:44 +0000</pubDate>
 <description>COP — Agenda concentra cerca de 85% do potencial de redução de emissões identificadas pela iniciativa até 2050 e reúne mais de 100 indicadores para acompanhar a implementação</description>
+</item>
+<item>
+<title>Copa SEST SENAT define finalistas que seguem para a decisão em Patos de Minas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</guid>
+<description>SEST SENAT — Equipes de todo o país se encontraram em São Vicente (SP) para as quartas de final; quatro times femininos e quatro masculinos seguem na disputa pelo título</description>
 </item>
 <item>
 <title>Transporte inicia agenda na COP31 com debates sobre energia, combustíveis de baixo carbono e resiliência climática</title>
@@ -121,10 +127,10 @@
 <description>Sustentabilidade — Durante o Frotas &amp; Fretes Verdes – XV Summit 2026, diretor de Relações Institucionais da Confederação destacou a importância de segurança jurídica, financiamento e políticas públicas para modernizar a frota brasileira</description>
 </item>
 <item>
-<title>ITL forma 40 gestores na 72ª turma da especialização em Gestão de Negócios</title>
-<link>https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</guid>
-<description>ITL — Profissionais de diferentes modais concluíram a formação com projetos voltados a desafios reais das empresas de transporte</description>
+<title>Cargas perigosas: sinalização dos veículos é fundamental para a segurança nas rodovias</title>
+<link>https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</guid>
+<description>SEST SENAT — Placas e painéis ajudam a identificar os riscos das substâncias transportadas e orientam equipes de emergência; curso gratuito do SEST SENAT aborda as regras para a sinalização correta dos veículos</description>
 </item>
 <item>
 <title>SEST SENAT inaugura Unidade em Goiana (PE) para ampliar formação profissional e atendimento em saúde</title>
@@ -133,10 +139,10 @@
 <description>SEST SENAT — Com investimento de R$ 20,5 milhões, estrutura acompanha o crescimento industrial da região e tem capacidade para mais de 53 mil atendimentos por ano</description>
 </item>
 <item>
-<title>Cargas perigosas: sinalização dos veículos é fundamental para a segurança nas rodovias</title>
-<link>https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cargas-perigosas-sinalizao--fundamental-para-a-segurana-nas-rodovias</guid>
-<description>SEST SENAT — Placas e painéis ajudam a identificar os riscos das substâncias transportadas e orientam equipes de emergência; curso gratuito do SEST SENAT aborda as regras para a sinalização correta dos veículos</description>
+<title>ITL forma 40 gestores na 72ª turma da especialização em Gestão de Negócios</title>
+<link>https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/itl-forma-40-gestores-na-72-turma-da-especializao-em-gesto-de-negcios</guid>
+<description>ITL — Profissionais de diferentes modais concluíram a formação com projetos voltados a desafios reais das empresas de transporte</description>
 </item>
 <item>
 <title>Pavilhão Internacional do Transporte terá debates e lançamentos durante a COP31</title>
@@ -211,16 +217,16 @@
 <description>Política — Material apoia as empresas na compreensão da aplicação da Emenda Constitucional nº 141/2026, dos prazos de adaptação e dos efeitos da mudança nos custos e nas operações do setor</description>
 </item>
 <item>
-<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
-<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
-</item>
-<item>
 <title>Projeto desenvolvido por alunos do ITL aposta na prevenção de falhas em caminhões com uso da tecnologia</title>
 <link>https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/tecnologia-ajuda-transportadora-a-antecipar-falhas-e-ampliar-disponibilidade-de-caminhoes</guid>
 <description>Tecnologia e inovação — Trabalho desenvolvido no curso executivo Gestão de Ativos, do ITL, integra telemetria, inteligência artificial e análise de dados para otimizar a manutenção de frotas</description>
+</item>
+<item>
+<title>Ambev passa a reconhecer formação do SEST SENAT e amplia oportunidades a novos motoristas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/sest-senat-homologa-escola-de-motoristas-profissionais-com-a-ambev</guid>
+<description>SEST SENAT — Iniciativa permite que a formação seja alternativa à exigência de experiência profissional na contratação de motoristas por transportadoras que atendem à companhia</description>
 </item>
 <item>
 <title>Da garagem aos portos, experiências brasileiras levam soluções do transporte à COP31</title>
@@ -245,12 +251,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/investimentos-em-infraestrutura-de-transporte-caem-proposta-de-orcamento-para-2027</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/investimentos-em-infraestrutura-de-transporte-caem-proposta-de-orcamento-para-2027</guid>
 <description>Economia e negócios — PLOA prevê R$ 16,07 bilhões para o setor, enquanto os investimentos públicos federais totais projetados crescem 12,8%, aponta análise da CNT</description>
-</item>
-<item>
-<title>Estudo de materialidade do transporte é apresentado no ESG Abralog Summit</title>
-<link>https://www.cnt.org.br/imprensa/noticia/estudo-de-materialidade-do-transporte-apresentado-esg-abralog-summit</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/estudo-de-materialidade-do-transporte-apresentado-esg-abralog-summit</guid>
-<description>ESG — Diretora do SEST SENAT destacou prioridades ESG do setor e falou sobre a atuação da entidade em prol da saúde e da qualificação dos trabalhadores</description>
 </item>
 </channel>
 </rss>
