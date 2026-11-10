@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 10 Nov 2026 12:45:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 20:54:45 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,7 +67,7 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY4MCIsImRpc2xpa2VzIjoiMCJ9?token=e1zUdTzqZra-gF8mMuWmC6oD8uygdXHGniBsY1yzFGk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY4MCIsImRpc2xpa2VzIjoiMCJ9?token=ww4TCTyt_zD6I3qb4DWmnCbR6OdIM3gbuZDo7fnNzK0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
           &lt;span id="like" class="spanLike"&gt;680&lt;/span&gt;
@@ -82,173 +82,83 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Concertos EPTV levam música de câmara a São Paulo e Minas Gerais</title>
-  <link>http://concerto.com.br/noticias/musica-classica/concertos-eptv-levam-musica-de-camara-sao-paulo-e-minas-gerais</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Concertos EPTV levam música de câmara a São Paulo e Minas Gerais&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A partir de quarta-feira, 11, os Concertos EPTV iniciam sua temporada de concertos gratuitos por São Paulo e Minas Gerais. O Trio León–Schaefer–Ring recebe a violinista Maria Fernanda Krug para apresentações em Americana (11), Pouso Alegre (16), Varginha (17) e Piracicaba (22), em um programa com obras de Beethoven e Mozart.&lt;/p&gt;
-&lt;p&gt;Os Concertos EPTV levam a música de câmara ao interior de São Paulo e ao sul de Minas Gerais. Há 25 anos em atividade, o Trio León–Schaefer–Ring realizou concertos no Brasil, na Argentina e no Chile. Maria Fernanda Krug é membro da Orquestra Sinfônica Municipal de São Paulo e desenvolve atividade como camerista no Brasil e no exterior.&lt;/p&gt;
-&lt;p&gt;A edição de 2026 homenageia as diferentes fases da obra de Beethoven. O &lt;em&gt;Quarteto op. 18 nº 1 em fá maior&lt;/em&gt;, de 1801, acompanha outros cinco na primeira experiência do compositor para a formação e traz influências de Haydn e Mozart. Já o Q&lt;em&gt;uarteto nº 16 em fá maior, op. 135&lt;/em&gt;, o último composto por Beethoven, mantém o bom humor no caráter, apesar da morte que chegaria um ano depois, em 1827.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-11"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-e-de-opera" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos e de ópera&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/chines-zhu-wang-abre-festival-internacional-de-piano-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Chinês Zhu Wang abre Festival Internacional de Piano, no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/gravacao-de-missa-de-henrique-alves-de-mesquita-e-disponibilizada-na" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gravação de missa de Henrique Alves de Mesquita é disponibilizada na internet&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="  O violinista Pablo de León, o violista Horacio Schaeffer e o violoncelista Roberto Ring [Divulgação]" data-entity-type="file" data-entity-uuid="b66dd7da-8ae4-4c9b-a4e0-bdbd4f6c38aa" src="http://concerto.com.br/sites/default/files/inline-images/w-trioimage%20%281%29.jpg" /&gt;
-&lt;figcaption&gt;O violinista Pablo de León, o violista Horacio Schaeffer e o violoncelista Roberto Ring [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 01:27&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-trioimage%20%281%29.jpg" width="900" height="738" alt="O violinista Pablo de León, o violista Horacio Schaeffer e o violoncelista Roberto Ring [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzNTQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=I8ygA1DWstiR-sSfheWEz6pxNcj3WJ8DBrfDblx69kM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 10 Nov 2026 01:27:14 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284354 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupo Martelo apresenta espetáculo Sotaque na Estação Motiva Cultural</title>
-  <link>http://concerto.com.br/noticias/musica-classica/grupo-martelo-apresenta-espetaculo-sotaque-na-estacao-motiva-cultural</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Martelo apresenta espetáculo Sotaque na Estação Motiva Cultural&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na terça-feira, 10, na Estação Motiva Cultural, o Grupo Martelo realiza o concerto Sotaque. O grupo interpreta obras de Clarice Assad, André Mehmari, Léa Freire, Débora Gurgel, Hércules Gomes, Silvia Góes, Daniel Grajew e Luísa Mitre, e conta com a participação de Antonio Nóbrega.&lt;/p&gt;
-&lt;p&gt;O Grupo Martelo se dedica ao repertório para percussão. Amigos há mais de 20 anos, Ruben Zúñiga, Rafael Alberto, Leonardo Gorosito e Danilo Valle conciliam o grupo com suas atividades em orquestras sinfônicas pelo país. Desde os anos da pandemia do covid-19, entretanto, o trabalho à distância permitiu que as atividades do grupo se intensificassem. &lt;/p&gt;
-&lt;p&gt;O concerto leva o mesmo nome da mais recente gravação do conjunto. Sotaque, de 2025, traz arranjos de Leonardo Gorosito, Rubén Zúñiga e Natália Mitre para obras brasileiras contemporâneas. Em entrevista à edição nº 30 do Panorama Clássico, podcast da Revista CONCERTO, Zúñiga explica que o trabalho reflete a identidade musical do grupo.&lt;/p&gt;
-&lt;p&gt;“Quando a gente formou o grupo, a gente sempre teve essa curiosidade de unir esses dois mundos, o da música de concerto e o da música popular, através da percussão. Quando a gente começou a pensar no álbum, foi de uma maneira bastante orgânica, porque a gente tem uma relação com cada um dos compositores.”, comenta Zúñiga [Clique &lt;a href="https://www.concerto.com.br/noticias/musica-classica/panorama-classico-30-grupo-martelo-lanca-o-album-sotaque"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-10"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-e-de-opera" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos e de ópera&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/chines-zhu-wang-abre-festival-internacional-de-piano-no-rio" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Chinês Zhu Wang abre Festival Internacional de Piano, no Rio&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/gravacao-de-missa-de-henrique-alves-de-mesquita-e-disponibilizada-na" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gravação de missa de Henrique Alves de Mesquita é disponibilizada na internet&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Grupo Martelo [Divulgação]" data-entity-type="file" data-entity-uuid="3fc8d45f-7565-4fea-bceb-088aa5d10983" src="http://concerto.com.br/sites/default/files/inline-images/w-Martelo.jpg" /&gt;
-&lt;figcaption&gt;Grupo Martelo [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 00:25&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Martelo.jpg" width="900" height="507" alt="Grupo Martelo [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzNTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=hB4HkgsGFMhi908MMbwv_B-9THeIqcFx9J2NH74NLdE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 10 Nov 2026 00:25:37 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284353 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupos do Núcleo Orquestra Criança Cidadã </title>
-  <link>http://concerto.com.br/roteiros/grupos-do-nucleo-orquestra-crianca-cidada</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupos do Núcleo Orquestra Criança Cidadã &lt;/span&gt;
+  <title>Richard Schuh - violino</title>
+  <link>http://concerto.com.br/roteiros/richard-schuh-violino</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Richard Schuh - violino&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 20:05&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 19:59&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concerto especial de 12 anos da Orquestra Criança Cidadã de Ipojuca. Grupos de Flauta. Nataly Gomes - orientadora. Programa: Beethoven - Ode to Joy; e Jacques Offenbach - Can-Can. Coros Infantil e Infantojuvenil. Jadson Dias - regente. Programa: Chico Buarque/Toquinho/Mutinho - O caderno; Michael Jackson - A paz (versão em português); Linda Spencer - Asas da Alva; Michael W. Smith /L. Wayne Hilliard - Eu Sou. Orquestra Infantil. Diógenes Santos - regente. Programa: Beatles - Yesterday; Brahms - Canção de Ninar; Charpentier - Te Deum; Beethoven - Ode to Joy; e Manuel Artés - Chamambo. Orquestra Infantojuvenil. Márcio Pereira - regente. Programa: Vivaldi - Concerto para Cordas RV 151; Arturo Márquez - Conga del Fuego Nuevo; e Maestro Duda - Suíte Nordestina. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Programa: Bach - Partita nº 2 BWV 1004: Chaconne; Beethoven - Sonata nº 7 op. 30 nº 2; e Brahms - Concerto para violino op. 77 (1⁰ movimento), versão para violino e piano.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;time datetime="2026-11-12T19:00:00Z" class="datetime"&gt;qui, 12/11/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1405" hreflang="pt-br"&gt;São Leopoldo, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/museu-historico-visconde-de-sao-leopoldo" hreflang="und"&gt;Museu Histórico Visconde de São Leopoldo&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 19:59:33 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284367 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Criança Cidadã</title>
+  <link>http://concerto.com.br/roteiros/orquestra-crianca-cidada-37</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criança Cidadã&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 19:54&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concerto oficial. Rafael Dommar - regente. Participação: Cleyton Laurentino da Silva Júnior - violoncelo (Vencedor do 1º lugar no Concurso Jovens Solistas 2026 da Orquestra Criança Cidadã). Programa: Haydn - Concerto para violoncelo nº 1; Rossini - Guilherme Tell: Abertura; e Dvorák - Sinfonia nº 9 (4º movimento), Do Novo Mundo. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-11T20:00:00Z" class="datetime"&gt;qua, 11/11/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -280,7 +190,308 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/252712" hreflang="pt-br"&gt;Paróquia Imaculada Conceição e Santo Antônio (250 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-de-santa-isabel-0" hreflang="und"&gt;Teatro de Santa Isabel (700 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos 1 hora antes do espetáculo na bilheteria do teatro.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 19:54:16 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284366 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Flautistas da Marambaia </title>
+  <link>http://concerto.com.br/roteiros/flautistas-da-marambaia-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Flautistas da Marambaia &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 18:26&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Participação: Ramon Araújo - violão. Programa: Walter Burle Marx - Suíte Violeiros de Guaratiba; e obras de Moacir Santos, Gilberto Gil, Dorival Caymmi e Tom Jobim, e de ritmos e danças da cultura popular, como cavalo-marinho, marujada e ciranda. As canções conversam com as águas, os mares e os mangues que inspiram o projeto desde a sua criação.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-21T11:00:00Z" class="datetime"&gt;sab, 21/11/2026 - 11:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/250730" hreflang="pt-br"&gt;Sítio Roberto Burle Marx &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos no dia da apresentação, a partir das 10h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 18:26:58 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284365 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>[ON-LINE] Instrumental Sesc Brasil</title>
+  <link>http://concerto.com.br/roteiros/line-instrumental-sesc-brasil-10</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Instrumental Sesc Brasil&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 18:20&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Maria Clara Valle Trio. Espetáculo Suspender o céu. Programa: ritmos de músicas populares brasileiras como maracatu, baião, jongo, valsa, modinha e as composições do álbum que ganham arranjos adaptados para esta formação, promovendo o diálogo entre as cordas, a bateria e o piano.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-20T19:00:00Z" class="datetime"&gt;dom, 20/12/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/242692" hreflang="pt-br"&gt;Sesc TV &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 18:20:52 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284364 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>[ON-LINE] Instrumental Sesc Brasil</title>
+  <link>http://concerto.com.br/roteiros/line-instrumental-sesc-brasil-9</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Instrumental Sesc Brasil&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 18:02&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Portunhol Selvagem. Benjamin Taubkin - direção. Programa: a partir do diálogo inédito entre instrumentos emblemáticos de diferentes regiões, como a harpa paraguaia, o quatro venezuelano, a gaita colombiana e o violoncelo, traçando um panorama da música instrumental sul-americana contemporânea. O show explora o território da improvisação livre, da criação coletiva e do intercâmbio de gêneros tradicionais do continente.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-13T19:00:00Z" class="datetime"&gt;dom, 13/12/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/242692" hreflang="pt-br"&gt;Sesc TV &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 18:02:40 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284363 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>[ON-LINE] Instrumental Sesc Brasil </title>
+  <link>http://concerto.com.br/roteiros/line-instrumental-sesc-brasil-8</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Instrumental Sesc Brasil &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 18:00&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Conde Favela Sexteto. Espetáculo comemorativo aos 60 anos do álbum "Os afro-sambas", de Baden Powell e Vinicius de Moraes. Programa: melodias originais das canções de 1966 como ponto de partida para explorar novas possibilidades harmônicas, expandindo as fronteiras dos temas por meio de arranjos que transitam entre subgêneros como o espiritual e o free jazz.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-06T19:00:00Z" class="datetime"&gt;dom, 06/12/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/242692" hreflang="pt-br"&gt;Sesc TV &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284362 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Carmen Monarcha - soprano e Adriana Azulay - piano</title>
+  <link>http://concerto.com.br/roteiros/carmen-monarcha-soprano-e-adriana-azulay-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Carmen Monarcha - soprano e Adriana Azulay - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 17:23&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;53º ENARTE – Encontro de Artes de Belém. Em memória de Marina Monarcha (falecida em 2022) e Altino Pimenta (falecido em 2003). Foyer. Informações: https://www.even3.com.br/enarte53-777882/ - Instagram: @emufpa.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-12T17:00:00Z" class="datetime"&gt;qui, 12/11/2026 - 17:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1386" hreflang="pt-br"&gt;Belém, PA&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-da-paz" hreflang="und"&gt;Theatro da Paz (787 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -293,28 +504,48 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 09 Nov 2026 20:05:48 +0000</pubDate>
+  <pubDate>Tue, 10 Nov 2026 17:23:06 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284352 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/grupos-do-nucleo-orquestra-crianca-cidada#comments</comments>
+    <guid isPermaLink="false">284361 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>SUSTENTAMus – Festival de Música e Sustentabilidade</title>
-  <link>http://concerto.com.br/roteiros/sustentamus-festival-de-musica-e-sustentabilidade</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;SUSTENTAMus – Festival de Música e Sustentabilidade&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 19:36&lt;/span&gt;
+  <title>Coro da Osesp estreia 'Cânticos da Casa do Sol', de Leonardo Martinelli</title>
+  <link>http://concerto.com.br/noticias/musica-classica/coro-da-osesp-estreia-canticos-da-casa-do-sol-de-leonardo-martinelli</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coro da Osesp estreia 'Cânticos da Casa do Sol', de Leonardo Martinelli&lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Música, consciência ambiental e solidariedade estarão reunidas no SUSTENTAMus, festival promovido por estudantes e professores da Faculdade de Música do Espírito Santo (Fames). Apresentações musicais de diferentes estilos, valorizando a diversidade artística e o protagonismo de estudantes, além da participação de músicos amadores e profissionais da comunidade da Grande Vitória. A proposta é transformar o espaço acadêmico em um ambiente de integração cultural, troca de experiências e reflexão sobre a preservação do meio ambiente.&lt;br /&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 12, na Sala São Paulo, Thomas Blunt rege o Coro da Osesp, com a soprano Laura Pisani, a mezzo-soprano Ana Lúcia Benedetti, o tenor Mikael Coutinho e o baixo Anderson Barbosa. O concerto traz a estreia mundial de &lt;em&gt;Cânticos da Casa do Sol&lt;/em&gt;, de Leonardo Martinelli. Completam o programa obras de Leonard Bernstein, Leonardo Gorosito e Steve Reich, com apresentações nos dias 13 e 14.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cânticos da Casa do Sol&lt;/em&gt; resgata a ousadia de Stravinsky na instrumentação. QUando encomendou a obra, o Coro da Osesp garantiu ao compositor liberdade para elaborar a peça para os instrumentos que precisasse. Foi então que &lt;em&gt;Les noces&lt;/em&gt; (As núpcias), para quatro solistas vocais, coro misto, quatro pianos e percussão e que também está no programa, chamou a atenção de Martinelli.&lt;/p&gt;
+&lt;p&gt;“Mas, conforme me aprofundava na partitura de Stravinsky, ficava claro o que ali me interessava. Foi quando abri mão dos solistas vocais e refiz todo o arsenal da percussão, focando instrumentos afro-brasileiros, por exemplo. Além disso, procurei explorar muito a espacialidade, o jogo de pergunta e resposta entre as forças musicais que se encontrarão no palco. Agora, se é sempre uma responsabilidade compor à luz de uma obra tão magnífica, a música de Stravinsky é muito generosa, ela não oprime quem quer conversar com ela. É uma dádiva poder estar ao lado deste gigante”, comenta, em entrevista a João Marcos Coelho, publicada na edição de novembro da Revista CONCERTO [Clique&lt;a href="https://www.concerto.com.br/node/284100"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt; aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
+&lt;p&gt;A composição também contém referências à vida e aos versos de Hilda Hilst. O título da obra remete à residência que a poeta brasileira construiu na zona rural de Campinas, onde escreveu &lt;em&gt;Poemas malditos, gozosos e devotos&lt;/em&gt;. O livro de 1984, que aborda os afetos contrastantes na relação entre o erótico e o sagrado, serviu de inspiração para as transformações que ocorrem no texto musical.&lt;/p&gt;
+&lt;p&gt;Os músicos também executam &lt;em&gt;Correnteza&lt;/em&gt;, para percussão, de Leonardo Gorosito. De acordo com as notas de programa de Laura Rónai, publicadas na &lt;a href="https://docs.osesp.net.br/COR_04_Revista_Uirapuru_n_56_WEB_a8d8656899.pdf"&gt;&lt;u&gt;Revista Uirapuru&lt;/u&gt;&lt;/a&gt;, o compositor explora subdivisões rítmicas em cinco tempos, garantindo a noção de movimento indicada pelo título da obra. Além disso, a organização dos instrumentos remete à disposição dos timbres em um coro. O reco-reco tem função de soprano, os gongos são os contraltos, os tambores funcionam como tenores e a zabumba, como baixo. Gorosito atua como chefe de percussão na Orquestra Sinfônica do Paraná e é membro do Grupo Martelo.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-12"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-semana-da-agenda-de-concertos-e-de-opera" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da semana da agenda de concertos e de ópera&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/grupo-martelo-apresenta-espetaculo-sotaque-na-estacao-motiva-cultural" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Grupo Martelo apresenta espetáculo Sotaque na Estação Motiva Cultural&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica-inscricoes-prorrogadas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música (inscrições prorrogadas)&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/gravacao-de-missa-de-henrique-alves-de-mesquita-e-disponibilizada-na" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gravação de missa de Henrique Alves de Mesquita é disponibilizada na internet&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/orquestra-sinfonica-de-porto-alegre-lanca-concurso-internacional-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Sinfônica de Porto Alegre lança concurso internacional de composição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Thomas Blunt [Divulgação]" data-entity-type="file" data-entity-uuid="0d55d700-3ead-47ac-8027-02b291efd2b5" src="http://concerto.com.br/sites/default/files/inline-images/w-blunt.jpg" /&gt;
+&lt;figcaption&gt;Thomas Blunt [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 10/11/2026 - 16:11&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-blunt.jpg" width="900" height="419" alt="Thomas Blunt [Divulgação]" typeof="foaf:Image" /&gt;
+
 &lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-11T12:30:00Z" class="datetime"&gt;qua, 11/11/2026 - 12:30&lt;/time&gt;
-&lt;/div&gt;
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -322,278 +553,39 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/fames-faculdade-de-musica-do-espirito-santo" hreflang="und"&gt;Fames - Faculdade de Música do Espírito Santo&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada solidária: doação de instrumentos musicais, roupas, livros e alimentos.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
-</description>
-  <pubDate>Mon, 09 Nov 2026 19:36:00 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284351 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/sustentamus-festival-de-musica-e-sustentabilidade#comments</comments>
-    </item>
-<item>
-  <title>Moacir Santos: 100 anos</title>
-  <link>http://concerto.com.br/roteiros/moacir-santos-100-anos-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Moacir Santos: 100 anos&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 17:26&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Myriam Taubkin - direção musical. Joatan Nascimento - trompete, Allan Abbadia - trombone, Josué dos Santos - saxofones, Martché - bateria, violão e flauta, Jam da Silva - percussão e eletrônicos, Victoria dos Santos - percussão, Vanessa Ferreira - contrabaixo, Henrique Araújo - cavaquinho e bandolim, Lulinha Alencar - sanfona e Fabio Leandro - piano. Participação: Xênia França - cantora. Gabriel Fontes Paiva - direção de arte.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T18:00:00Z" class="datetime"&gt;dom, 22/11/2026 - 18:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
 
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQzNjAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=VoM01WER2cQUZCXiiAYbrYe038ttqvVfKVuGNEAypDM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 24 a R$ 80. Vendas nas bilheterias da unidades Sesc ou pelo link: https://www.sescsp.org.br/programacao/centenario-de-moacir-santos/.&lt;/div&gt;
-          &lt;/div&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+    &lt;/div&gt;
 
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 09 Nov 2026 17:26:52 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284350 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/moacir-santos-100-anos-1#comments</comments>
-    </item>
-<item>
-  <title>Moacir Santos: 100 anos</title>
-  <link>http://concerto.com.br/roteiros/moacir-santos-100-anos-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Moacir Santos: 100 anos&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 17:25&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Myriam Taubkin - direção musical. Joatan Nascimento - trompete, Allan Abbadia - trombone, Josué dos Santos - saxofones, Martché - bateria, violão e flauta, Jam da Silva - percussão e eletrônicos, Victoria dos Santos - percussão, Vanessa Ferreira - contrabaixo, Henrique Araújo - cavaquinho e bandolim, Lulinha Alencar - sanfona e Fabio Leandro - piano. Participação: Layla e Jéssica Gaspar - cantoras. Gabriel Fontes Paiva - direção de arte.&lt;br /&gt;
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
 &lt;/div&gt;
           &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 22 às 18h com a participação de Xênia França.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-21T20:00:00Z" class="datetime"&gt;sab, 21/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 24 a R$ 80. Vendas nas bilheterias da unidades Sesc ou pelo link: https://www.sescsp.org.br/programacao/centenario-de-moacir-santos/.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Mon, 09 Nov 2026 17:25:26 +0000</pubDate>
+  <pubDate>Tue, 10 Nov 2026 16:11:13 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284349 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/moacir-santos-100-anos-0#comments</comments>
-    </item>
-<item>
-  <title>Moacir Santos: 100 anos</title>
-  <link>http://concerto.com.br/roteiros/moacir-santos-100-anos</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Moacir Santos: 100 anos&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 17:18&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Myriam Taubkin - direção musical. Joatan Nascimento - trompete, Allan Abbadia - trombone, Josué dos Santos - saxofones, Martché - bateria, violão e flauta, Jam da Silva - percussão e eletrônicos, Victoria dos Santos - percussão, Vanessa Ferreira - contrabaixo, Henrique Araújo - cavaquinho e bandolim, Lulinha Alencar - sanfona e Fabio Leandro - piano. Participação: Eliana Pittman - cantora. Gabriel Fontes Paiva - direção de arte.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 21 às 20h com a participação de Layla e Jéssica Gaspar; e dia 22 às 18h com a participação de Xênia França.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-20T19:00:00Z" class="datetime"&gt;sex, 20/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 24 a R$ 80. Vendas nas bilheterias da unidades Sesc ou pelo link: https://www.sescsp.org.br/programacao/centenario-de-moacir-santos/.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 09 Nov 2026 17:18:53 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284348 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/moacir-santos-100-anos#comments</comments>
-    </item>
-<item>
-  <title>Clube 8 de Setembro</title>
-  <link>http://concerto.com.br/node/284346</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Clube 8 de Setembro&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Praça Monsenhor João Batista Lisboa, 8 - Centro - Tel. (19) 3807-3679 &lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 09/11/2026 - 17:07&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Amparo, SP&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Mon, 09 Nov 2026 17:07:16 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284346 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/node/284346#comments</comments>
+    <guid isPermaLink="false">284360 at http://concerto.com.br</guid>
     </item>
 
   </channel>
