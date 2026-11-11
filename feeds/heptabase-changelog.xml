@@ -6,7 +6,21 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 20:56:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:01:04 +0000</lastBuildDate>
+<item>
+<title>v1.117.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11171</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11171</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<description>Tag Database: Edit text properties with the full editor.; AI Tutor: Opening a card or whiteboard link from the right pane now opens it in the left pane.; MCP, Heptabase CLI 0.11.0 &amp; AI Agent: Trash and restore whiteboards, and delete tags and tag database views.; Read and write rich-text property values as Hepta Markdown.; Label citations by page, timestamp, date, or title, and resolve paragraph citations and block references.</description>
+</item>
+<item>
+<title>Mobile app v1.41.9</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1419</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1419</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<description>You can now edit text properties with the full editor and formatting toolbar.; AI Agent: Trash and restore whiteboards, and delete tags and tag database views.; Fix an issue where the editor toolbar's block menu could act on a previously selected block instead of the current selection.; Migrate the data schema to support new features. Please update your Heptabase desktop and mobile apps to the latest version, and refresh your web app to sync.</description>
+</item>
 <item>
 <title>v1.117.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11170</link>
@@ -552,20 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13501</guid>
 <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
 <description>Mobile App: PDF highlight and annotation (iOS &amp; iPadOS only, Android coming soon)</description>
-</item>
-<item>
-<title>v1.91.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1910</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1910</guid>
-<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-<description>Heptabase CLI (Please check 👉 How to use Heptabase CLI )</description>
-</item>
-<item>
-<title>v1.90.8</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1908</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1908</guid>
-<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-<description>You can now enable Premium mode in AI Tutor for even smarter, more in-depth responses on complex topics, at a higher credit cost.</description>
 </item>
 </channel>
 </rss>
