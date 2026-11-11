@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 83,
+    "items": 84,
     "ok": true,
-    "notes": "scraped 83 items"
+    "notes": "scraped 84 items"
   },
   {
     "name": "guia-shows",
@@ -131,9 +131,9 @@
     "name": "noize",
     "source_url": "https://www.noize.com.br/",
     "output": "out/noize.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no article items found (empty or unparseable HTML)"
+    "items": 100,
+    "ok": true,
+    "notes": "scraped 100 items"
   },
   {
     "name": "treblezine",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 173,
+    "items": 174,
     "ok": true,
-    "notes": "merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 8,
+    "items": 11,
     "ok": true,
-    "notes": "mirrored 8 native items",
+    "notes": "mirrored 11 native items",
     "kind": "native-mirror"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 49,
+    "items": 51,
     "ok": true,
-    "notes": "scraped 49 events",
+    "notes": "scraped 51 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 3,
+    "ok": true,
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 39,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {

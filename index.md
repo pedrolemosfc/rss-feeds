@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-11 09:35 UTC
+Generated: 2026-11-11 17:59 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-11-11 09:35 UTC
   notes: scraped 48 items
 - **folha-show** [OK] items=55 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 55 items
-- **guia-restaurantes** [OK] items=83 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 83 items
+- **guia-restaurantes** [OK] items=84 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 84 items
 - **guia-shows** [OK] items=90 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 90 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -50,8 +50,8 @@ Generated: 2026-11-11 09:35 UTC
   notes: scraped 100 items
 - **qobuz-magazine-br** [OK] items=32 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
   notes: scraped 32 items
-- **noize** [FAIL] items=0 → `out/noize.xml`  source: https://www.noize.com.br/  
-  notes: no article items found (empty or unparseable HTML)
+- **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
+  notes: scraped 100 items
 - **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **estado-da-arte** [OK] items=100 → `out/estado-da-arte.xml`  source: https://estadodaarte.estadao.com.br/  
@@ -68,8 +68,8 @@ Generated: 2026-11-11 09:35 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=8 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 8 native items
+- **mis-sp** [OK] items=11 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 11 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -122,8 +122,8 @@ Generated: 2026-11-11 09:35 UTC
   notes: scraped 28 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
-- **casa-de-francisca** [OK] items=49 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 49 events
+- **casa-de-francisca** [OK] items=51 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 51 events
 - **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 11 events
 - **cavern-club-sp** [OK] items=17 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -168,18 +168,18 @@ Generated: 2026-11-11 09:35 UTC
   notes: scraped 80 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [FAIL] items=0 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: no event items found
+- **antt-cargas-rodoviarias** [OK] items=3 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 3 events
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=15 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 15 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 39 events
+- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 40 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
@@ -193,5 +193,5 @@ Generated: 2026-11-11 09:35 UTC
 
 - **folha-musica-topicos** [OK] items=183 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=173 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 173 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=174 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 174 unique items (from ['guia-restaurantes', 'guia-shows'])
