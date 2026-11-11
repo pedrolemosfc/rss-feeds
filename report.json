@@ -19,9 +19,9 @@
     "name": "folha-show",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/show/",
     "output": "out/folha-show.xml",
-    "items": 57,
+    "items": 55,
     "ok": true,
-    "notes": "scraped 57 items"
+    "notes": "scraped 55 items"
   },
   {
     "name": "guia-restaurantes",
@@ -131,9 +131,9 @@
     "name": "noize",
     "source_url": "https://www.noize.com.br/",
     "output": "out/noize.xml",
-    "items": 100,
-    "ok": true,
-    "notes": "scraped 100 items"
+    "items": 0,
+    "ok": false,
+    "notes": "no article items found (empty or unparseable HTML)"
   },
   {
     "name": "treblezine",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 185,
+    "items": 183,
     "ok": true,
-    "notes": "merged 3 feeds -> 185 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 183 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 52,
+    "items": 49,
     "ok": true,
-    "notes": "scraped 52 events",
+    "notes": "scraped 49 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 9,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 11,
+    "items": 10,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 10 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {

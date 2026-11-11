@@ -6,13 +6,13 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 02:01:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 09:34:51 +0000</lastBuildDate>
 <item>
 <title>v1.117.1</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11171</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11171</guid>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<description>Tag Database: Edit text properties with the full editor.; AI Tutor: Opening a card or whiteboard link from the right pane now opens it in the left pane.; MCP, Heptabase CLI 0.11.0 &amp; AI Agent: Trash and restore whiteboards, and delete tags and tag database views.; Read and write rich-text property values as Hepta Markdown.; Label citations by page, timestamp, date, or title, and resolve paragraph citations and block references.</description>
+<description>Heptabase changelog</description>
 </item>
 <item>
 <title>Mobile app v1.41.9</title>
