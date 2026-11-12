@@ -198,9 +198,9 @@
     "name": "kmm-blog",
     "source_url": "https://kmm.com.br/feed/",
     "output": "feeds/kmm-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -288,9 +288,9 @@
     "name": "buonny-blog",
     "source_url": "https://buonny.com.br/feed/",
     "output": "feeds/buonny-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 53,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 53 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
+    "items": 30,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 30 events",
     "kind": "venue-scrape"
   },
   {
