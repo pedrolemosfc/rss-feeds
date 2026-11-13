@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 13 Nov 2026 09:41:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 17:51:13 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjcwMyIsImRpc2xpa2VzIjoiMCJ9?token=P2E33I_d97MjkmqLZEM7mvhMvLA3Cbozhu-rMbwczsA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjcwOCIsImRpc2xpa2VzIjoiMCJ9?token=JmzoVaDnhxu6MftGAlyUZwsM33WdLjhRy0hqrMjOEWw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;703&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;708&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,9 +82,495 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title> 14º Festival de Música Erudita do Espírito Santo traz apresentações de música de câmara</title>
-  <link>http://concerto.com.br/noticias/musica-classica/14o-festival-de-musica-erudita-do-espirito-santo-traz-apresentacoes-de</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; 14º Festival de Música Erudita do Espírito Santo traz apresentações de música de câmara&lt;/span&gt;
+  <title>Lucía Rey Trío</title>
+  <link>http://concerto.com.br/roteiros/lucia-rey-trio</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lucía Rey Trío&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 17:16&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Lucía Rey (Espanha) - piano e compositora, Ander Garcia - contrabaixo e Alberto Brenes - bateria. Programa: repertório que transita entre o jazz contemporâneo, a música latina e influências da tradição musical espanhola. &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-19T20:00:00Z" class="datetime"&gt;qui, 19/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-ling" hreflang="und"&gt;Instituto Ling (300 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60. Vendas: www.institutoling.org.br e na recepção do instituto: de segunda a sábado, das 10h30 às 20h.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 17:16:09 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284413 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Escola de Música do Parque Ibirapuera </title>
+  <link>http://concerto.com.br/roteiros/escola-de-musica-do-parque-ibirapuera-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola de Música do Parque Ibirapuera &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 17:12&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculo Retalhos Brasileiros. Orquestra Brasileira de Aprendizes e Coro de Tudo se Faz Canção. Programa: diferentes sotaques, ritmos e manifestações regionais do país, reunindo instrumentos e vozes em uma apresentação vibrante que exalta a identidade sonora do Brasil. Auditório AXIA Ibirapuera .&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-28T19:00:00Z" class="datetime"&gt;sab, 28/11/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/parque-ibirapuera" hreflang="und"&gt;Parque Ibirapuera (800 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 17:12:34 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284412 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Escola de Música do Parque Ibirapuera </title>
+  <link>http://concerto.com.br/roteiros/escola-de-musica-do-parque-ibirapuera-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola de Música do Parque Ibirapuera &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 17:11&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Coral Harmona. Em sintonia com as reflexões do mês da Consciência Negra, o grupo transforma o canto coral em celebração da resistência, do pertencimento e da ancestralidade afro-brasileira, dando protagonismo a narrativas e expressões que valorizam a diversidade e a força da coletividade. Arena da Marquise.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-21T11:30:00Z" class="datetime"&gt;sab, 21/11/2026 - 11:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/parque-ibirapuera" hreflang="und"&gt;Parque Ibirapuera (800 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;Entrada franca.&lt;/p&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 17:11:11 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284411 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Escola de Música do Parque Ibirapuera </title>
+  <link>http://concerto.com.br/roteiros/escola-de-musica-do-parque-ibirapuera</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola de Música do Parque Ibirapuera &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 17:09&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Prática de Conjunto Sampa 8. O coletivo de estudantes aposta em uma criação horizontal e aberta, combinando referências individuais e escuta atenta para dar vida a arranjos contemporâneos selecionados e desenvolvidos pelos próprios jovens músicos. Arena da Marquise&lt;br /&gt;
+ &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T11:30:00Z" class="datetime"&gt;sab, 14/11/2026 - 11:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/parque-ibirapuera" hreflang="und"&gt;Parque Ibirapuera (800 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 17:09:32 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284410 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Maldição, gozo e devoção em concerto do Coro da Osesp</title>
+  <link>http://concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Sob regência de Thomas Blunt, grupo fez a estreia de &lt;em&gt;Cânticos da Casa do Sol&lt;/em&gt;, em que o compositor Leonardo Martinelli buscou diversos coloridos para cada um dos poemas de Hilda Hilst&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Conhecido na cena musical paulistana sobretudo como autor de óperas como &lt;em&gt;O Peru de Natal&lt;/em&gt;  e &lt;em&gt;Navalha na carne&lt;/em&gt;, o compositor Leonardo Martinelli vive um momento para lá de especial. Duas semanas depois de o Percorso Ensemble executar sua notável trilha sonora para o filme &lt;em&gt;Limite&lt;/em&gt;, de Mário Peixoto (leia &lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/leonardo-martinelli-compoe-notavel-trilha-sonora-para-o-filme-limite" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; a crítica de Nelson Rubens Kunze), na Estação Motiva Cultural, ele viu o Coro da Osesp, na Sala São Paulo, na quinta-feira, 12, estrear uma encomenda: os &lt;em&gt;Cânticos da Casa do Sol&lt;/em&gt;. O mesmo programa será repetido hoje, 13, e amanhã, 14 (veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-11-13" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
+&lt;p&gt;Variado, o programa começou com os ecléticos e coloridos &lt;em&gt;Chichester Psalms&lt;/em&gt;, de Bernstein – uma interpretação irregular no início mas que aos poucos se consolidou, e na qual não há como não destacar a personalidade e segurança da cativante solista mirim, Rafaela Sinhor, de 11 anos, integrante do Coro Infantil da Osesp. A apresentação teve ainda como convidado o Martelo, grupo de percussão que vem chamando a atenção não apenas pela qualidade técnica como pela inventividade de seus programas. Integrados ao efetivo do concerto, eles tiveram seu momento solista em &lt;em&gt;Correnteza&lt;/em&gt;, peça concisa e original de um dos integrantes do grupo, Leonardo Gorosito. Foi um ótimo cartão de visitas.&lt;/p&gt;
+&lt;p&gt;Fechando a primeira parte veio a obra de Martinelli, que deveria replicar a instrumentação de &lt;em&gt;As bodas&lt;/em&gt;, de Stravinsky. Portanto, além do coro e da percussão, subiram ao palco ainda o luxuoso e entrosado quarteto pianístico formado por Fernando Tomimura, Ricardo Ballestero, Cecília Moita e Lucas Thomazinho.&lt;/p&gt;
+&lt;p&gt;O desafio de compor uma nova peça a partir da orquestração de um clássico não é novidade para Martinelli. Em 2022, no Festival Artes Vertentes, em Tiradentes, ele estreou seus &lt;em&gt;Postais de Parte Alguma&lt;/em&gt;, sobre versos de Ana Martins Marques, com a mesma formação das &lt;em&gt;Folk Songs&lt;/em&gt;, de Luciano Berio. Tanto naquela época quanto agora, Martinelli tomou a sábia decisão de não tentar competir nem se deixar oprimir pela grandeza de seus “colegas” de programa. No caso específico dos &lt;em&gt;Cânticos&lt;/em&gt;, ele abandonou o quarteto solista empregado por Stravinsky, trouxe para a percussão instrumentos afro-brasileiros como alfaias, atabaques, caracaxá e ganzá, e explorou a espacialidade, promovendo perguntas e respostas entre os instrumentos dispostos no palco.&lt;/p&gt;
+&lt;p&gt;E a experiência operística também se fez presente. Em &lt;em&gt;Limite&lt;/em&gt;, ela era marcada sobretudo pelo sentido de tempo dramático – a música parecia reagir em tempo real a cada novo quadro ou sequência do filme, incutindo-lhe ritmo e acrescentando-lhe uma expressiva camada narrativa. Aqui os traços ficam na elaborada e idiomática escrita vocal e na relação sofisticada com os textos de Hilda Hilst – ecoando de forma distante o que Almeida Prado fez com a obra de sua prima nos &lt;em&gt;Pequenos funerais cantantes ao poeta Carlos Maria de Araújo&lt;/em&gt;, de 1969.&lt;/p&gt;
+&lt;p&gt;Martinelli escolheu alguns dos &lt;em&gt;Poemas malditos, gozosos e devotos&lt;/em&gt;, de 1984, que exploram o tema da devoção com uma carnalidade que beira o erótico. Há uma tensão constante entre busca e distanciamento, entre carne e espírito, que parece remeter aos êxtases de Santa Teresa de Ávila.&lt;/p&gt;
+&lt;p&gt;Em seu texto de programa ele explica os três afetos que explora na obra: “a maldição – tanto no sentido de reprovação divina quanto no dos desejos irrefreáveis aos quais os humanos estão sujeitos – o gozo e a devoção. Nessa peça, cada afeto é simbolizado por uma coleção de notas que se alternam e se materializam em múltiplas formas ao longo da partitura”.&lt;/p&gt;
+&lt;p&gt;Criativo, para além do jogo entre as “coleções de notas”, o compositor buscou também diversos coloridos para cada um dos poemas. Os intérpretes abraçaram a obra, tocando-a com carinho e convicção, e o desempenho do coro foi particularmente notável na seção a cappella. Já marquei na agenda a data de 15 de dezembro, quando o filme &lt;em&gt;A Paixão de Joana D’Arc&lt;/em&gt;, de Carl Theodor Dreyer (que Eisenstein chama em sua autobiografia de “um dos filmes mais lindos da história do cinema”), será exibido na Cinemateca Brasileira, em São Paulo, com execução ao vivo de mais uma trilha composta por Martinelli.&lt;/p&gt;
+&lt;p&gt;Depois de tamanha intensidade, veio o intervalo, e a primeira peça da segunda parte, &lt;em&gt;Música para teclados percutidos, vozes e órgão&lt;/em&gt;, em homenagem aos 90 anos do compositor minimalista norte-americano Steve Reich, constituiu um certo anticlímax. Não por culpa dos executantes, dedicados e empenhados, mas por conta da própria monotonia da partitura epidérmica, distante dos momentos mais inspirados de Reich.&lt;/p&gt;
+&lt;p&gt;De qualquer forma, quem cochilou (com justiça) com Reich teve todos os motivos para despertar – e muito – na obra de encerramento do programa. &lt;em&gt;As bodas&lt;/em&gt; (Svádiebka), de Stravinsky, são conhecidas no Ocidente por seu título francês, &lt;em&gt;Les Noces&lt;/em&gt; – mas que bom que o Coro da Osesp (que já tinha cantado Bernstein em hebraico e Martinelli em português) fez o esforço de interpretá-las em russo. Pois, embora compilado a partir da coleção folclórica de Pável Kirêievski, o texto de Stravinsky é uma sofisticada colagem de trechos de fala tirados do contexto original, em que o aspecto sonoro dos fonemas pode contar até mais do que a semântica. Na definição de André Boucourechliev em seu livro sobre o compositor, “é a música que determina o sentido profundo do argumento, não o contrário; em nenhum caso ela é uma ‘ilustração’ do texto. Este não existiria sem ela (ademais ele é organicamente ligado à música na criação popular em geral); são as formas musicais (globais, fragmentárias, parcelárias) que o ‘escolhem’, tratam, esclarecem – para recriá-lo em um novo ser musical total”.&lt;/p&gt;
+&lt;p&gt;Não há propriamente um libreto ou ação transcorrendo no palco. Os quatro solistas (Laura Pisani, soprano; Ana Lucia Benedetti, mezzo de timbre sempre impressionante; Mikael Coutinho, tenor; Andreson Barbosa, baixo) dão vozes a diversos personagens, sem realmente encarnar nenhum. O que se tem é a encenação de um ritual nupcial hierático – e completamente inventado.&lt;/p&gt;
+&lt;p&gt;Em suas &lt;em&gt;Chroniques de ma vie&lt;/em&gt;, Stravinsky conta que o idiossincrático efetivo instrumental “era o resultado de uma necessidade que decorria diretamente da própria música de &lt;em&gt;As bodas&lt;/em&gt;, e não foi em nada sugerido por um desejo de imitar as sonoridades das festas populares deste tipo que, ademais, nunca vi nem ouvi”. Analogamente, ele quase não utiliza motivos populares (à exceção de um tema do último quadro). “Não era minha intenção reconstituir os ritos camponeses de bodas, e as questões etnográficas me preocupavam muito pouco. Queria compor eu mesmo uma espécie de cerimônia cênica, servindo-me a meu gosto dos elementos rituais que me eram abundantemente fornecidos pelos costumes aldeões estabelecidos na Rússia há séculos para a celebração de casamentos. Eu me inspirei nestes costumes, mas reservando-me a liberdade completa de usá-los como me convinha.”&lt;/p&gt;
+&lt;p&gt;O resultado foi uma das mais poderosas criações stravinskyanas, a um só tempo continuação da &lt;em&gt;Sagração da primavera&lt;/em&gt; (no vigor rítmico, no caráter ritualístico, na encenação de uma Rússia rural imaginária) e ruptura com ela (ao abrir mão de uma orquestra imensa em prol de um número reduzido de instrumentistas). Com um gestual claro e preciso, Thomas Blunt conduziu a obra com verve e segurança, instrumentistas e cantores desincumbiram-se briosamente das dificuldades da partitura e, com celebrantes tão entusiasmados, a Sala São Paulo casou-se com Stravinsky.&lt;/p&gt;
+&lt;p&gt;Por amor, como sempre deveria ocorrer.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O maestro Thomas Blunt [Divulgação/Laura Manfredini]" data-entity-type="file" data-entity-uuid="d0d004c3-a0fc-4ef3-a207-db8b1d0ef19b" src="http://concerto.com.br/sites/default/files/inline-images/w-cor01_concerto_blunt_solistas_fotos_laura_manfredini_55_4fdba826b7.jpg" /&gt;
+&lt;figcaption&gt;O maestro Thomas Blunt [Divulgação/Laura Manfredini]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14829" typeof="schema:Person" property="schema:name" datatype="" content="irineup@hotmail.com" xml:lang=""&gt;Irineu Franco Perpetuo&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 14:35&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-cor01_concerto_blunt_solistas_fotos_laura_manfredini_55_4fdba826b7.jpg" width="900" height="600" alt="Criativo, para além do jogo entre as “coleções de notas”, o compositor buscou também diversos coloridos para cada um dos poemas. " title="Criativo, para além do jogo entre as “coleções de notas”, o compositor buscou também diversos coloridos para cada um dos poemas. " typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiI2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=PHVIK_TNwxnyuqnbs5mz-hItL_2hszJQ1p_uJTlxfik?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 14:35:19 +0000</pubDate>
+    <dc:creator>Irineu Franco Perpetuo</dc:creator>
+    <guid isPermaLink="false">284408 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp#comments</comments>
+    </item>
+<item>
+  <title>Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo</title>
+  <link>http://concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Hanurij Lee, de 20 anos venceu a competição de composição do 80º Concurso Internacional de Música de Genebra; o brasileiro Rafael Marino Arcaro, de 36 anos, ficou em segundo, e a chinesa Sing-Yat Chen, de 25 anos, em terceira&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O compositor sul-coreano Hanurij Lee, de apenas 20 anos, foi o vencedor da competição de composição da 80ª edição do Concurso Internacional de Música de Genebra, uma das mais tradicionais competições de música de concerto do mundo. O resultado foi anunciado após a etapa final realizada em Genebra, no último dia 11 de novembro, na qual os três finalistas apresentaram obras para orquestra sinfônica executadas pela Orchestre de la Suisse Romande. Lee recebeu o Primeiro Prêmio, no valor de 15 mil francos suíços.&lt;/p&gt;
+&lt;p&gt;O brasileiro Rafael Marino Arcaro, de 36 anos, conquistou o Segundo Prêmio, no valor de 10 mil francos suíços. A compositora Sing-Yat Chen, de Hong Kong, 25 anos, recebeu o Terceiro Prêmio, acompanhado de 5 mil francos suíços.&lt;/p&gt;
+&lt;p&gt;Os três finalistas haviam sido selecionados entre 188 candidatos de 46 países por um júri internacional presidido pela compositora sul-coreana Unsuk Chin e formado também por Toshio Hosokawa, Magnus Lindberg, Augusta Read Thomas e Katharina Rosenberger.&lt;/p&gt;
+&lt;p&gt;Além do prêmio principal, Hanurij Lee dominou a premiação paralela do concurso. O compositor recebeu o Prêmio do Público, o Prêmio do Público Jovem, o Prêmio dos Estudantes, o Prêmio Nicati-de Luze, o Prêmio Basel Sinfonietta e o Prêmio Primeurs Musicales.&lt;/p&gt;
+&lt;p&gt;A presença de Rafael Marino Arcaro na final representa um importante reconhecimento internacional para o compositor paulista. Nascido em Limeira, Arcaro iniciou sua formação em áreas como filosofia e cinema antes de dedicar-se à música. Estudou na Royal Academy of Music, em Londres, onde concluiu o mestrado, e posteriormente obteve o doutorado no King’s College London.&lt;/p&gt;
+&lt;p&gt;Nos últimos anos, o compositor brasileiro acumulou distinções relevantes, entre elas o segundo prêmio do Begüm Aslan Composition Prize, em 2025. Em 2022, teve seu &lt;em&gt;Concerto para violino&lt;/em&gt; estreado pela Filarmônica de Londres no programa Young Composers. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia mais aqui&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/compositor-brasileiro-rafael-marino-arcaro-e-finalista-do-80o-concurso-de" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Compositor brasileiro Rafael Marino Arcaro é finalista do 80º Concurso de Genebra&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/brasileiro-rafael-marino-arcaro-ganha-premio-no-begum-aslan-composition" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Brasileiro Rafael Marino Arcaro ganha prêmio no Begüm Aslan Composition Prize 2025&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/node/280399" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;Compositor Rafael Marino Arcaro se inspira na poesia de Manoel de Barros para “arejar as palavras, para que não morram de clichês”&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por João Marcos Coelho&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Arcaro, Chen e Lee, finalistas do Concurso de Composição de Genebra de 2026 (divulgação, Anne Laure Lechat)" data-entity-type="file" data-entity-uuid="0bb84a4c-215b-4afe-ae0b-eb66d13772cf" src="http://concerto.com.br/sites/default/files/inline-images/w-composition-winners_500x310_div_Anne-Laure_Lechat.jpg" /&gt;
+&lt;figcaption&gt;Arcaro, Chen e Lee, finalistas do Concurso de Composição de Genebra de 2026 (divulgação, Anne Laure Lechat)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 13:16&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-composition-winners_500x310_div_Anne-Laure_Lechat.jpg" width="500" height="310" alt="Arcaro, Chen e Lee, finalistas do Concurso de Composição de Genebra de 2026 (divulgação, Anne Laure Lechat)" title="Arcaro, Chen e Lee, finalistas do Concurso de Composição de Genebra de 2026 (divulgação, Anne Laure Lechat)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3088" hreflang="pt-br"&gt;Rafael Marino Arcaro&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=R7LMm8E8K3YQHhOvTSBNdo17VaXr0-obWKJZKNLAGyM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;3&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 13:16:27 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284409 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Duo Form &amp; Börner (Alemanha)</title>
+  <link>http://concerto.com.br/roteiros/duo-form-borner-alemanha</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Form &amp; Börner (Alemanha)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 13/11/2026 - 12:22&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Musical Évora.  Michael Form - flauta doce e Dirk Börner - cravo. Programa: obras de Bach, Händel, Improvisação de Toccata e Fuga; Paolo Benedetto Bellinzani - Sonata XII em ré menor; Johann Christian Schickhardt - La Folia; Purcell - Dioclesian: Chaconne Two in one upon a ground.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-18T12:30:00Z" class="datetime"&gt;qua, 18/11/2026 - 12:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1383" hreflang="pt-br"&gt;Porto Alegre, RS&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/261060" hreflang="pt-br"&gt;Teatro Oficina Olga Reverbel - Complexo Cultural Theatro São Pedro &lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Nov 2026 12:22:32 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284407 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title> 14º Festival do Espírito Santo traz apresentações de música de câmara</title>
+  <link>http://concerto.com.br/noticias/musica-classica/14o-festival-do-espirito-santo-traz-apresentacoes-de-musica-de-camara</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; 14º Festival do Espírito Santo traz apresentações de música de câmara&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na sexta-feira, 13, e no sábado, 14, o 14º Festival de Música Erudita do Espírito Santo segue suas atividades com apresentações de música de câmara no Teatro Carlos Gomes. Na sexta-feira, se apresentam o clarinetista Cristiano Costa e o pianista Willian Lizardo. No dia seguinte, sobem ao palco a soprano Raquel Paulin, acompanhada pelo pianista Antonio Vaz Lemes.&lt;/p&gt;
 &lt;p&gt;O duo de clarinete e piano, de Costa e Lizardo, propõe referências à ópera. Do austríaco Sigismund Neukomm, figura essencial para a divulgação das obras de Haydn e Mozart no Brasil do século XIX, &lt;em&gt;Fantasia para clarinete e piano&lt;/em&gt; apresenta variações para o instrumento de sopro, enquanto o piano marca as transições e os comentários, de forma semelhante à orquestra em uma produção operística. Do brasileiro Carlos Gomes, Ária, para clarinete e piano, contém inspiração no bel canto.&lt;/p&gt;
@@ -145,10 +631,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=_Llq1uqGIOzlkcsBzRvuuAERP6xSZlVYLIF_xBk0N90?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIxIiwiZGlzbGlrZXMiOiIwIn0%3D?token=tf_sMqVFVCahKYQxOh-Uzc91hDjePZ5kvOtVKl5S69k?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;13&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;21&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -158,441 +644,6 @@
   <pubDate>Thu, 12 Nov 2026 21:33:01 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284404 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>pianists Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo</title>
-  <link>http://concerto.com.br/noticias/musica-classica/pianists-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;pianists Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na segunda-feira, 16, as pianistas Katia e Marielle Labèque iniciam sua passagem pelo Brasil com concerto no Theatro Municipal do Rio de Janeiro. As irmãs realizam também recitais em Salvador (19) e em São Paulo (22 e 23).&lt;/p&gt;
-&lt;p&gt;As irmãs Katia e Marielle trabalham juntas há 55 anos. O duo estreou nos anos 70 com a gravação de&lt;em&gt; Visions de l’Amen&lt;/em&gt;, de Messiaen, que contou com o acompanhamento do compositor. Desde então, as pianistas foram reconhecidas por seus registros e apresentações de obras de diferentes períodos, com destaque para a gravação de &lt;em&gt;Rhapsody in blue&lt;/em&gt;, de Gershwin, sucesso de vendas que se tornou um dos primeiros discos de ouro da música clássica.&lt;/p&gt;
-&lt;p&gt;Obras de compositores contemporâneos fazem parte do cotidiano das pianistas. No Theatro Municipal do Rio de Janeiro, elas tocam o arranjo para dois pianos de &lt;em&gt;Les enfants terribles&lt;/em&gt;, de Philip Glass. A ópera-ballet de 1996 conta a história dos irmãos Paul e Lise, que se refugiam no universo da imaginação para suportar a morte a mãe e o isolamento. A partitura chegou à dupla durante a pandemia e foi gravada em 2024 pelo selo Deutsche Grammophon.&lt;/p&gt;
-&lt;p&gt;Em entrevista a Ana Cursino Guariglia, publicada na edição de novembro da Revista CONCERTO, Katia diz que a música de Philip Glass não recebe a devida atenção às nuances. A pianista dá como exemplo a música barroca, cujas repetições e sequências devem ser interpretadas com toques e inflexões diferentes a cada aparição. “É assim que trabalhamos a música de Philip Glass: tentamos nunca repetir o mesmo fraseado da mesma maneira.” [Clique &lt;a href="https://www.concerto.com.br/node/284099"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
-&lt;p&gt;Os concertos no Brasil trazem outras peças marcantes no repertório das pianistas. Em Salvador, elas apresentam o Concerto para dois pianos e orquestra de Francis Poulenc, com a orquestra Neojiba, sob regência de Ricardo Castro. Em São Paulo, o recital no Teatro Cultura Artística conta com obras de Fanny Mendelssohn, Grażyna Bacewicz, Emahoy Tsege Mariam Gebru e outros.&lt;/p&gt;
-&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-16"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/coro-da-osesp-estreia-canticos-da-casa-do-sol-de-leonardo-martinelli" hreflang="pt-br"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;Coro da Osesp estreia 'Cânticos da Casa do Sol', de Leonardo Martinelli&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/reportagem/rede-metodista-intimida-jornalista-que-defende-patrimonio-da-escola-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Rede Metodista intimida jornalista que defende patrimônio da Escola de Música de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/concertos-eptv-levam-musica-de-camara-sao-paulo-e-minas-gerais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concertos EPTV levam música de câmara a São Paulo e Minas Gerais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica-inscricoes-prorrogadas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música (inscrições prorrogadas)&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]" data-entity-type="file" data-entity-uuid="ba07bf3b-80ab-409c-8da1-8fc4028dce7d" src="http://concerto.com.br/sites/default/files/inline-images/w-labeque_0.jpg" /&gt;
-&lt;figcaption&gt;Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;
- &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 21:13&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-labeque.jpg" width="900" height="1351" alt="Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjExIiwiZGlzbGlrZXMiOiIwIn0%3D?token=cWCiNCNfuz707sy-EHgjcFK6HwHOvAnmOxuHQdpx4TI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;11&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 21:13:39 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284403 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Centro Cultural Venda Nova</title>
-  <link>http://concerto.com.br/node/284401</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centro Cultural Venda Nova&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua José Ferreira dos Santos, 184 - Jardim dos Comerciários -  Tel. (31) 3277-5533 - https://www.instagram.com/centroculturalvendanova/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:37&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Belo Horizonte, MG&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 20:37:51 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284401 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Criativa Jovem</title>
-  <link>http://concerto.com.br/roteiros/orquestra-criativa-jovem-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criativa Jovem&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:36&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Matheus de Souza Félix – regente. Programa: Vivaldi – Outono; Beethoven – Ode à Alegria; Luiz Gonzaga e Humberto Teixeira – Asa branca; Rafael dos Santos – Bolo de limão; canção tradicional italiana – Bella Ciao; e peças didáticas de Shinichi Suzuki, Brian Balmages e Renato Goulart. Informações: Instagram @abescmg.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 12/12 às 14h no Centro Cultural e Esportivo da ABESC.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-26T11:00:00Z" class="datetime"&gt;qui, 26/11/2026 - 11:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284401" hreflang="pt-br"&gt;Centro Cultural Venda Nova&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 20:36:47 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284402 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Criativa Jovem</title>
-  <link>http://concerto.com.br/roteiros/orquestra-criativa-jovem</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criativa Jovem&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Matheus de Souza Félix – regente. Programa: Vivaldi – Outono; Beethoven – Ode à Alegria; Luiz Gonzaga e Humberto Teixeira – Asa branca; Rafael dos Santos – Bolo de limão; canção tradicional italiana – Bella Ciao; e peças didáticas de Shinichi Suzuki, Brian Balmages e Renato Goulart. Informações: Instagram @abescmg.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 26 às 11h no Centro Cultural Venda Nova e dia 12/12 às 14h no Centro Cultural e Esportivo da ABESC.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-12T19:00:00Z" class="datetime"&gt;qui, 12/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/275208" hreflang="pt-br"&gt;Centro Cultural do TRT&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 20:02:24 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284400 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Criança Cidadã</title>
-  <link>http://concerto.com.br/roteiros/orquestra-crianca-cidada-38</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criança Cidadã&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:35&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Concertos para a Comunidade. Participação: Coral Infantil e Banda da OCC. Amilca Aniceto - regente. Programa: temas infantis que marcaram as décadas de 1990 e 2000.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-13T17:00:00Z" class="datetime"&gt;sex, 13/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1394" hreflang="pt-br"&gt;Recife, PE&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/253956" hreflang="pt-br"&gt;Compaz Dom Helder Câmara&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 18:35:53 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284399 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Alunos da Academia de Música da Osesp</title>
-  <link>http://concerto.com.br/roteiros/alunos-da-academia-de-musica-da-osesp-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alunos da Academia de Música da Osesp&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:24&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Recital de encerramento do semestre. Ana Paula Brito Ferreira, Isabella Ribeiro e Katherine de Andrade – sopranos, Verônica Rosa e Veronika Tavarez – mezzo sopranos, Davi Calmon – trompa, Gabriel Pottel – tenor, João Souza – clarinete, Matheus Firmino – violino, Paulo Henrique Furquim – trombone, Thiago Albuquerque – violoncelo,  Leonardo Lima – contrabaixo e Jessé Raimundo – tuba. Programa: Schumann – Du bist wie eine Blume; Paul Dukas – Villanelle pour cor et piano; Reinhold Glière – Intermezzo e Tarantella; Henri Tomasi – Concerto para trombone e orquestra; Donizetti – Torna a dir che m'ami (ópera Don Pasquale); Arthur Benjamin – Le Tombeau de Ravel; Fanny Mendelssohn – Wenn ich in deine Augen sehe; Shostakovich – Prelúdios; César Franck – Sonata em lá maior; Rossini – La Danza; e Haydn – Concerto para violoncelo nº 1.&lt;br /&gt;
-&lt;br /&gt;
-Sala São Paulo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T19:30:00Z" class="datetime"&gt;qua, 25/11/2026 - 19:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-sao-paulo" hreflang="und"&gt;Sala São Paulo (1388 lugares) - Sala do Coro (140 lugares) e Sala Carlos Gomes (120 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 18:24:56 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284398 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Alunos da Academia de Música da Osesp</title>
-  <link>http://concerto.com.br/roteiros/alunos-da-academia-de-musica-da-osesp-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alunos da Academia de Música da Osesp&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:23&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Recital de encerramento do semestre. Bruno Vidigal – baixo, Kuka Gonzaga e Veronika Tavarez – mezzo sopranos, Dayvison Gabriel – fagote, Gabriel Lima – violino, Bruna Pércia – soprano, Victor Enzo – viola, David Moraes – contrabaixo, Vitor Barrak – baixo e Victoria Azzolini – trompa. Fagote e Cordas Academia Osesp: Dayvison Gabriel – fagote, Verônica Lopes e Matheus Firmino – violinos, Victor Enzo – viola, Ivan Genov – violoncelo e David Moraes – contrabaixo. Programa: Mozart – Così fan tutte: Soave sia il vento e Sonata para violino K 526; Carl Weber – Andante e Rondo Ungarese op. 35; Händel – O Messias: Rejoice Greatly, o Daughter of Zion; Bach – Suíte para violoncelo nº 5 BWV 1011: Prelúdio; Giovanni Bottesini – Grande Allegro alla Mendelssohn; Händel – Be Comforted… The Lord Worketh Wonders; F. Strauss – Introduction, Thema und Variationen op. 13; e Jean Françaix – Divertimento para fagote e cordas.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T16:30:00Z" class="datetime"&gt;dom, 22/11/2026 - 16:30&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-sao-paulo" hreflang="und"&gt;Sala São Paulo (1388 lugares) - Sala do Coro (140 lugares) e Sala Carlos Gomes (120 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 18:23:50 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284397 at http://concerto.com.br</guid>
     </item>
 
   </channel>

@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 19,
+    "items": 20,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 20 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 51,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 51 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 11,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 11,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -630,9 +630,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -693,9 +693,9 @@
     "name": "sest-senat",
     "source_url": "https://www.sestsenat.org.br/noticias",
     "output": "feeds/sest-senat.xml",
-    "items": 40,
-    "ok": true,
-    "notes": "scraped 40 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
