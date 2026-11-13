@@ -59,9 +59,9 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out"
+    "items": 10,
+    "ok": true,
+    "notes": "scraped 10 items"
   },
   {
     "name": "billboard-br-sergio-martins",
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 54,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 54 events",
     "kind": "venue-scrape"
   },
   {
@@ -486,9 +486,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 17,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 17 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 40,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 15,
-    "ok": true,
-    "notes": "scraped 15 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -756,9 +756,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 14,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 14 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   }
 ]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 12 Nov 2026 18:24:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 01:11:25 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjY5NiIsImRpc2xpa2VzIjoiMCJ9?token=oOlqgue91DnTZz7ceTVrXPtmtHc5KsYUXyzxsQVXk3M?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjcwMSIsImRpc2xpa2VzIjoiMCJ9?token=rgVNT4Kr4wq1aJsqEPfquJtYqWQDC06q5QC1BJ4GtII?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;696&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;701&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,25 +82,211 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>[ON-LINE] Grandes compositores da Broadway</title>
-  <link>http://concerto.com.br/roteiros/line-grandes-compositores-da-broadway</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;[ON-LINE] Grandes compositores da Broadway&lt;/span&gt;
+  <title> 14º Festival de Música Erudita do Espírito Santo traz apresentações de música de câmara</title>
+  <link>http://concerto.com.br/noticias/musica-classica/14o-festival-de-musica-erudita-do-espirito-santo-traz-apresentacoes-de</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt; 14º Festival de Música Erudita do Espírito Santo traz apresentações de música de câmara&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na sexta-feira, 13, e no sábado, 14, o 14º Festival de Música Erudita do Espírito Santo segue suas atividades com apresentações de música de câmara no Teatro Carlos Gomes. Na sexta-feira, se apresentam o clarinetista Cristiano Costa e o pianista Willian Lizardo. No dia seguinte, sobem ao palco a soprano Raquel Paulin, acompanhada pelo pianista Antonio Vaz Lemes.&lt;/p&gt;
+&lt;p&gt;O duo de clarinete e piano, de Costa e Lizardo, propõe referências à ópera. Do austríaco Sigismund Neukomm, figura essencial para a divulgação das obras de Haydn e Mozart no Brasil do século XIX, &lt;em&gt;Fantasia para clarinete e piano&lt;/em&gt; apresenta variações para o instrumento de sopro, enquanto o piano marca as transições e os comentários, de forma semelhante à orquestra em uma produção operística. Do brasileiro Carlos Gomes, Ária, para clarinete e piano, contém inspiração no bel canto.&lt;/p&gt;
+&lt;p&gt;Na apresentação de Paulin e Vaz Lemes, o foco é a diversidade do Brasil. De Villa-Lobos, &lt;em&gt;Nozani-ná&lt;/em&gt; homenageia os cantos sagrados dos indígenas da tribo Paresi Haliti do Mato Grosso. Em seguida, &lt;em&gt;Ideti, a menina preta que buscava Deus&lt;/em&gt;, de Dinorá de Carvalho, conta a história de uma garota que é guiada pelo espírito da mãe rumo ao deus Obá Orun. A dupla também interpreta o primeiro movimento de &lt;em&gt;Shéhérazade&lt;/em&gt;, de Ravel, &lt;em&gt;Asie&lt;/em&gt;. O desejo de viajar pela Ásia contido pelos versos é compreendido, no programa, como similar à esperança e à busca por aventura dos imigrantes que chegaram ao Brasil.&lt;/p&gt;
+&lt;p&gt;"As três primeiras peças do programa são cantadas em idiomas diferentes do português: paresi-haliti, iorubá e francês. Com isso, nos remetemos à pluralidade de culturas e falas que coabitam o nosso país. Todas as obras têm narrativas impregnadas de ritual, do mágico, do sagrado e do sonho", explicam as &lt;a href="https://festivaldemusicaerudita.com.br/evento/duo-voz-e-piano/"&gt;&lt;u&gt;notas de programa&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-13"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/coro-da-osesp-estreia-canticos-da-casa-do-sol-de-leonardo-martinelli" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;Coro da Osesp estreia 'Cânticos da Casa do Sol', de Leonardo Martinelli&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/reportagem/rede-metodista-intimida-jornalista-que-defende-patrimonio-da-escola-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Rede Metodista intimida jornalista que defende patrimônio da Escola de Música de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/concertos-eptv-levam-musica-de-camara-sao-paulo-e-minas-gerais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concertos EPTV levam música de câmara a São Paulo e Minas Gerais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica-inscricoes-prorrogadas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música (inscrições prorrogadas)&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Raquel Paulin e Antonio Vaz Lemes [Reprodução/Instagram]" data-entity-type="file" data-entity-uuid="dac03b30-d396-4a18-89fe-4588b314a884" src="http://concerto.com.br/sites/default/files/inline-images/w-espiritosantocamarajpg.jpg" /&gt;
+&lt;figcaption&gt;Raquel Paulin e Antonio Vaz Lemes [Reprodução/Instagram]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 21:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-espiritosantocamarajpg.jpg" width="900" height="538" alt="Raquel Paulin e Antonio Vaz Lemes [Reprodução/Instagram]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=tiJSznRdL93viS9sGl5ECB0x5ZboQGSQMOFlMp8yW2g?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Nov 2026 21:33:01 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284404 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>pianists Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo</title>
+  <link>http://concerto.com.br/noticias/musica-classica/pianists-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;pianists Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na segunda-feira, 16, as pianistas Katia e Marielle Labèque iniciam sua passagem pelo Brasil com concerto no Theatro Municipal do Rio de Janeiro. As irmãs realizam também recitais em Salvador (19) e em São Paulo (22 e 23).&lt;/p&gt;
+&lt;p&gt;As irmãs Katia e Marielle trabalham juntas há 55 anos. O duo estreou nos anos 70 com a gravação de&lt;em&gt; Visions de l’Amen&lt;/em&gt;, de Messiaen, que contou com o acompanhamento do compositor. Desde então, as pianistas foram reconhecidas por seus registros e apresentações de obras de diferentes períodos, com destaque para a gravação de &lt;em&gt;Rhapsody in blue&lt;/em&gt;, de Gershwin, sucesso de vendas que se tornou um dos primeiros discos de ouro da música clássica.&lt;/p&gt;
+&lt;p&gt;Obras de compositores contemporâneos fazem parte do cotidiano das pianistas. No Theatro Municipal do Rio de Janeiro, elas tocam o arranjo para dois pianos de &lt;em&gt;Les enfants terribles&lt;/em&gt;, de Philip Glass. A ópera-ballet de 1996 conta a história dos irmãos Paul e Lise, que se refugiam no universo da imaginação para suportar a morte a mãe e o isolamento. A partitura chegou à dupla durante a pandemia e foi gravada em 2024 pelo selo Deutsche Grammophon.&lt;/p&gt;
+&lt;p&gt;Em entrevista a Ana Cursino Guariglia, publicada na edição de novembro da Revista CONCERTO, Katia diz que a música de Philip Glass não recebe a devida atenção às nuances. A pianista dá como exemplo a música barroca, cujas repetições e sequências devem ser interpretadas com toques e inflexões diferentes a cada aparição. “É assim que trabalhamos a música de Philip Glass: tentamos nunca repetir o mesmo fraseado da mesma maneira.” [Clique &lt;a href="https://www.concerto.com.br/node/284099"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; Acesso exclusivo para assinantes]. &lt;/p&gt;
+&lt;p&gt;Os concertos no Brasil trazem outras peças marcantes no repertório das pianistas. Em Salvador, elas apresentam o Concerto para dois pianos e orquestra de Francis Poulenc, com a orquestra Neojiba, sob regência de Ricardo Castro. Em São Paulo, o recital no Teatro Cultura Artística conta com obras de Fanny Mendelssohn, Grażyna Bacewicz, Emahoy Tsege Mariam Gebru e outros.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-16"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/coro-da-osesp-estreia-canticos-da-casa-do-sol-de-leonardo-martinelli" hreflang="pt-br"&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;Coro da Osesp estreia 'Cânticos da Casa do Sol', de Leonardo Martinelli&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/reportagem/rede-metodista-intimida-jornalista-que-defende-patrimonio-da-escola-de-musica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Rede Metodista intimida jornalista que defende patrimônio da Escola de Música de Piracicaba&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;/strong&gt; &lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/concertos-eptv-levam-musica-de-camara-sao-paulo-e-minas-gerais" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concertos EPTV levam música de câmara a São Paulo e Minas Gerais&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/textos/critica/festival-do-espirito-santo-recupera-opera-helena-de-joao-gomes-de-araujo" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival do Espírito Santo recupera ópera ‘Helena’, de João Gomes de Araújo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Nelson Rubens Kunze&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/sala-cecilia-meireles-anuncia-novo-premio-nacional-de-musica-inscricoes-prorrogadas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música (inscrições prorrogadas)&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/concurso-maria-callas-realiza-inscricoes-para-sua-25a-edicao" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Concurso Maria Callas realiza inscrições para sua 25ª edição&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]" data-entity-type="file" data-entity-uuid="ba07bf3b-80ab-409c-8da1-8fc4028dce7d" src="http://concerto.com.br/sites/default/files/inline-images/w-labeque_0.jpg" /&gt;
+&lt;figcaption&gt;Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 21:13&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-labeque.jpg" width="900" height="1351" alt="Katia e Marielle Labèque [Divulgação/© Umberto Nicoletti]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=YIJLEU3xBCWuEXNKuzA5IC0uGFgUnmsU5HXwHGpkCZQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Nov 2026 21:13:39 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284403 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Centro Cultural Venda Nova</title>
+  <link>http://concerto.com.br/node/284401</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centro Cultural Venda Nova&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua José Ferreira dos Santos, 184 - Jardim dos Comerciários -  Tel. (31) 3277-5533 - https://www.instagram.com/centroculturalvendanova/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 15:03&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:37&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Belo Horizonte, MG&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Thu, 12 Nov 2026 20:37:51 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284401 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Criativa Jovem</title>
+  <link>http://concerto.com.br/roteiros/orquestra-criativa-jovem-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criativa Jovem&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:36&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Apresentação: Ruy Castro. Programa: Irving Berlin - There’s no business like showbusiness, A pretty girl is like a melody, Soft lights and sweet music, Let’s have another cup of coffee e I say spinach (medley), Heat wave, Eastern Parade, Supper time, Harlem on my mind, They say it’s wonderful, I got lost in his arms, Beautiful faces (need beautiful clothes), Wild about you, It’ll come to you e “Anything you can do (I can do better).&lt;/div&gt;
+              &lt;div class="field__item"&gt;Matheus de Souza Félix – regente. Programa: Vivaldi – Outono; Beethoven – Ode à Alegria; Luiz Gonzaga e Humberto Teixeira – Asa branca; Rafael dos Santos – Bolo de limão; canção tradicional italiana – Bella Ciao; e peças didáticas de Shinichi Suzuki, Brian Balmages e Renato Goulart. Informações: Instagram @abescmg.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 16 às 22h na Rádio Nacional: https://radionacional.ebc.com.br/.&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 12/12 às 14h no Centro Cultural e Esportivo da ABESC.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-15T22:00:00Z" class="datetime"&gt;dom, 15/11/2026 - 22:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-26T11:00:00Z" class="datetime"&gt;qui, 26/11/2026 - 11:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -111,7 +297,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -132,7 +318,12 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/radio-mec" hreflang="und"&gt;Rádio Mec&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284401" hreflang="pt-br"&gt;Centro Cultural Venda Nova&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -140,54 +331,158 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 12 Nov 2026 15:03:04 +0000</pubDate>
+  <pubDate>Thu, 12 Nov 2026 20:36:47 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284394 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284402 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Teatro TotalEnergies</title>
-  <link>http://concerto.com.br/node/284392</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Teatro TotalEnergies&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua do Russel, 804 - Glória - Tel. (21) 3553 3557 - https://teatro.totalenergies.com.br/&lt;/div&gt;
-          &lt;/div&gt;
+  <title>Orquestra Criativa Jovem</title>
+  <link>http://concerto.com.br/roteiros/orquestra-criativa-jovem</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criativa Jovem&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 14:52&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 20:02&lt;/span&gt;
 
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rio de Janeiro, RJ&lt;/div&gt;
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Matheus de Souza Félix – regente. Programa: Vivaldi – Outono; Beethoven – Ode à Alegria; Luiz Gonzaga e Humberto Teixeira – Asa branca; Rafael dos Santos – Bolo de limão; canção tradicional italiana – Bella Ciao; e peças didáticas de Shinichi Suzuki, Brian Balmages e Renato Goulart. Informações: Instagram @abescmg.&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 26 às 11h no Centro Cultural Venda Nova e dia 12/12 às 14h no Centro Cultural e Esportivo da ABESC.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-12T19:00:00Z" class="datetime"&gt;qui, 12/11/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/275208" hreflang="pt-br"&gt;Centro Cultural do TRT&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
 </description>
-  <pubDate>Thu, 12 Nov 2026 14:52:03 +0000</pubDate>
+  <pubDate>Thu, 12 Nov 2026 20:02:24 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284392 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284400 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Sinfônica Juvenil Carioca</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-juvenil-carioca-4</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Juvenil Carioca&lt;/span&gt;
+  <title>Orquestra Criança Cidadã</title>
+  <link>http://concerto.com.br/roteiros/orquestra-crianca-cidada-38</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Criança Cidadã&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 14:49&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:35&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Mês da Consciência Negra. Raça - uma homenagem a Milton Nascimento. Carlos Sarria - regente. Participação: Zezé Motta - cantora e Coro Juvenil do Rio de Janeiro. Programa: músicas de Milton Nascimento. &lt;br /&gt;
+              &lt;div class="field__item"&gt;Concertos para a Comunidade. Participação: Coral Infantil e Banda da OCC. Amilca Aniceto - regente. Programa: temas infantis que marcaram as décadas de 1990 e 2000.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-13T17:00:00Z" class="datetime"&gt;sex, 13/11/2026 - 17:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1394" hreflang="pt-br"&gt;Recife, PE&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/253956" hreflang="pt-br"&gt;Compaz Dom Helder Câmara&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Nov 2026 18:35:53 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284399 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Alunos da Academia de Música da Osesp</title>
+  <link>http://concerto.com.br/roteiros/alunos-da-academia-de-musica-da-osesp-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alunos da Academia de Música da Osesp&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:24&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Recital de encerramento do semestre. Ana Paula Brito Ferreira, Isabella Ribeiro e Katherine de Andrade – sopranos, Verônica Rosa e Veronika Tavarez – mezzo sopranos, Davi Calmon – trompa, Gabriel Pottel – tenor, João Souza – clarinete, Matheus Firmino – violino, Paulo Henrique Furquim – trombone, Thiago Albuquerque – violoncelo,  Leonardo Lima – contrabaixo e Jessé Raimundo – tuba. Programa: Schumann – Du bist wie eine Blume; Paul Dukas – Villanelle pour cor et piano; Reinhold Glière – Intermezzo e Tarantella; Henri Tomasi – Concerto para trombone e orquestra; Donizetti – Torna a dir che m'ami (ópera Don Pasquale); Arthur Benjamin – Le Tombeau de Ravel; Fanny Mendelssohn – Wenn ich in deine Augen sehe; Shostakovich – Prelúdios; César Franck – Sonata em lá maior; Rossini – La Danza; e Haydn – Concerto para violoncelo nº 1.&lt;br /&gt;
 &lt;br /&gt;
- &lt;/div&gt;
+Sala São Paulo.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-16T19:00:00Z" class="datetime"&gt;seg, 16/11/2026 - 19:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T19:30:00Z" class="datetime"&gt;qua, 25/11/2026 - 19:30&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -198,7 +493,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -219,71 +514,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284392" hreflang="pt-br"&gt;Teatro TotalEnergies&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 14:49:03 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284393 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>53º ENARTE — Conexões Musicais Urbanas</title>
-  <link>http://concerto.com.br/roteiros/53o-enarte-conexoes-musicais-urbanas-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;53º ENARTE — Conexões Musicais Urbanas&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 12:58&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Às 17h: O cantochão dos mercedários no Pará, com Schola Gregoriana Paraensis. Às 19h30: Raízes II, com Madrigal da EMUFPA e participações de Thaina Souza e Adriana Azulay. Continuidade até dia 19. Informações: https://www.even3.com.br/enarte53-777882/.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-15T17:00:00Z" class="datetime"&gt;dom, 15/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1386" hreflang="pt-br"&gt;Belém, PA&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/igreja-de-santo-alexandre" hreflang="und"&gt;Igreja de Santo Alexandre&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-sao-paulo" hreflang="und"&gt;Sala São Paulo (1388 lugares) - Sala do Coro (140 lugares) e Sala Carlos Gomes (120 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -296,52 +527,25 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 12 Nov 2026 12:58:35 +0000</pubDate>
+  <pubDate>Thu, 12 Nov 2026 18:24:56 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284391 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284398 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Escola de Música da UFPA</title>
-  <link>http://concerto.com.br/node/284389</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Escola de Música da UFPA&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Av. Conselheiro Furtado, 2007 - Nazaré - Tel. (91) 3201-8724 - https://emufpa.ufpa.br/&lt;/div&gt;
-          &lt;/div&gt;
+  <title>Alunos da Academia de Música da Osesp</title>
+  <link>http://concerto.com.br/roteiros/alunos-da-academia-de-musica-da-osesp-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alunos da Academia de Música da Osesp&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 12:55&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Belém, PA&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 12:55:57 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284389 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>53º ENARTE — Conexões Musicais Urbanas</title>
-  <link>http://concerto.com.br/roteiros/53o-enarte-conexoes-musicais-urbanas-2</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;53º ENARTE — Conexões Musicais Urbanas&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 12:55&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 18:23&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Inclusão em Movimento, com Orquestra de Violoncelistas da Amazônia Inclusiva. Auditório Altino Pimenta. Continuidade até dia 19. Informações: https://www.even3.com.br/enarte53-777882/. &lt;/div&gt;
+              &lt;div class="field__item"&gt;Recital de encerramento do semestre. Bruno Vidigal – baixo, Kuka Gonzaga e Veronika Tavarez – mezzo sopranos, Dayvison Gabriel – fagote, Gabriel Lima – violino, Bruna Pércia – soprano, Victor Enzo – viola, David Moraes – contrabaixo, Vitor Barrak – baixo e Victoria Azzolini – trompa. Fagote e Cordas Academia Osesp: Dayvison Gabriel – fagote, Verônica Lopes e Matheus Firmino – violinos, Victor Enzo – viola, Ivan Genov – violoncelo e David Moraes – contrabaixo. Programa: Mozart – Così fan tutte: Soave sia il vento e Sonata para violino K 526; Carl Weber – Andante e Rondo Ungarese op. 35; Händel – O Messias: Rejoice Greatly, o Daughter of Zion; Bach – Suíte para violoncelo nº 5 BWV 1011: Prelúdio; Giovanni Bottesini – Grande Allegro alla Mendelssohn; Händel – Be Comforted… The Lord Worketh Wonders; F. Strauss – Introduction, Thema und Variationen op. 13; e Jean Françaix – Divertimento para fagote e cordas.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T18:00:00Z" class="datetime"&gt;sab, 14/11/2026 - 18:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T16:30:00Z" class="datetime"&gt;dom, 22/11/2026 - 16:30&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -352,7 +556,7 @@
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1386" hreflang="pt-br"&gt;Belém, PA&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -373,7 +577,7 @@
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284389" hreflang="pt-br"&gt;Escola de Música da UFPA&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sala-sao-paulo" hreflang="und"&gt;Sala São Paulo (1388 lugares) - Sala do Coro (140 lugares) e Sala Carlos Gomes (120 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -386,99 +590,9 @@
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 12 Nov 2026 12:55:03 +0000</pubDate>
+  <pubDate>Thu, 12 Nov 2026 18:23:50 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284390 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>53º ENARTE — Conexões Musicais Urbanas</title>
-  <link>http://concerto.com.br/roteiros/53o-enarte-conexoes-musicais-urbanas-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;53º ENARTE — Conexões Musicais Urbanas&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 12:53&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;A obra musical de Paulo André Barata, com Orquestra Guitarrônica do Pará. Continuidade até dia 19. Informações: https://www.even3.com.br/enarte53-777882/. Auditório Eneida de Moraes. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-14T17:00:00Z" class="datetime"&gt;sab, 14/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1386" hreflang="pt-br"&gt;Belém, PA&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/273755" hreflang="pt-br"&gt;Museu da Imagem e do Som do Pará&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 12:53:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284388 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Convento dos Mercedários - UFPA</title>
-  <link>http://concerto.com.br/node/284386</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Convento dos Mercedários - UFPA&lt;/span&gt;
-
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Portão 1, Blvd. Castilhos França, s/nº - Campina - Tel. (91) 3201-7022 - https://www.mercedarios.ufpa.br/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 12/11/2026 - 12:50&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;Belém, PA&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Thu, 12 Nov 2026 12:50:51 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284386 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284397 at http://concerto.com.br</guid>
     </item>
 
   </channel>

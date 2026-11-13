@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-12 18:27 UTC
+Generated: 2026-11-13 01:13 UTC
 
 ## Native feeds (not scraped)
 
@@ -32,8 +32,8 @@ Generated: 2026-11-12 18:27 UTC
   notes: scraped 5 items
 - **vejasp-tudo-de-som** [OK] items=30 → `out/vejasp-tudo-de-som.xml`  source: https://vejasp.abril.com.br/coluna/tudo-de-som/  
   notes: scraped 30 items
-- **correio-irlam-rocha-lima** [FAIL] items=0 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
-  notes: fetch failed: TimeoutError: The read operation timed out
+- **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
+  notes: scraped 10 items
 - **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
   notes: scraped 20 items
 - **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
@@ -122,12 +122,12 @@ Generated: 2026-11-12 18:27 UTC
   notes: scraped 28 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
-- **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 50 events
+- **casa-de-francisca** [OK] items=54 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 54 events
 - **jazz-b** [OK] items=11 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 11 events
-- **cavern-club-sp** [OK] items=17 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 17 events
+- **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 18 events
 - **manifesto-bar** [OK] items=15 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 15 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -178,16 +178,16 @@ Generated: 2026-11-12 18:27 UTC
   notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 40 events
+- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 39 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
-- **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
-  notes: scraped 15 events
+- **cafe-com-tony** [FAIL] items=0 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
+  notes: no event items found
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
   notes: scraped 50 events
-- **hangar-110** [OK] items=14 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
-  notes: scraped 14 events
+- **hangar-110** [OK] items=15 → `feeds/hangar-110.xml`  source: https://www.hangar110.com.br/agenda/  
+  notes: scraped 15 events
 
 ## Combined feeds
 
