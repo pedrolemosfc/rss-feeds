@@ -75,9 +75,9 @@
     "name": "asil-insights",
     "source_url": "https://asil.org/insights/",
     "output": "out/asil-insights.xml",
-    "items": 20,
-    "ok": true,
-    "notes": "scraped 20 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "xai-news",
@@ -99,9 +99,9 @@
     "name": "espaco-unimed-agenda",
     "source_url": "https://www.espacounimed.com.br/agenda-de-shows/",
     "output": "out/espaco-unimed-agenda.xml",
-    "items": 23,
+    "items": 24,
     "ok": true,
-    "notes": "scraped 23 items"
+    "notes": "scraped 24 items"
   },
   {
     "name": "page9-artes",
@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -630,9 +630,9 @@
     "name": "fabric-changelog",
     "source_url": "https://fabric.so/info/changelog",
     "output": "feeds/fabric-changelog.xml",
-    "items": 3,
-    "ok": true,
-    "notes": "scraped 3 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 16,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
