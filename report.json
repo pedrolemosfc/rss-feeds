@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 85,
+    "items": 86,
     "ok": true,
-    "notes": "scraped 85 items"
+    "notes": "scraped 86 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 175,
+    "items": 176,
     "ok": true,
-    "notes": "merged 2 feeds -> 175 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 176 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -432,9 +432,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 11,
+    "items": 9,
     "ok": true,
-    "notes": "scraped 11 events",
+    "notes": "scraped 9 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 45,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 45 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 12,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 48,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -738,9 +738,9 @@
     "name": "cafe-com-tony",
     "source_url": "https://www.youtube.com/@cafecomtony/videos",
     "output": "feeds/cafe-com-tony.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 15,
+    "ok": true,
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   },
   {
