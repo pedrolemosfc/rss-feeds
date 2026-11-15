@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-15 17:18 UTC
+Generated: 2026-11-15 22:59 UTC
 
 ## Native feeds (not scraped)
 
@@ -98,8 +98,8 @@ Generated: 2026-11-15 17:18 UTC
   notes: scraped 11 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
-- **arena-b3** [OK] items=4 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
-  notes: scraped 4 events
+- **arena-b3** [OK] items=3 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
+  notes: scraped 3 events
 - **bourbon-street** [OK] items=18 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
   notes: scraped 18 events
 - **songkick-pacaembu** [OK] items=7 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
@@ -174,12 +174,12 @@ Generated: 2026-11-15 17:18 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 50 events
+- **cly-blog** [OK] items=31 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 31 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 39 events
+- **cnt-noticias** [OK] items=38 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 38 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
