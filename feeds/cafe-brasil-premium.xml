@@ -6,7 +6,13 @@
 <link>https://www.cafebrasilpremium.com.br/app</link>
 <description>Novidades do app Café Brasil Premium (busca Inertia; paywall no player)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:36:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 17:17:35 +0000</lastBuildDate>
+<item>
+<title>Café Com Leite - Você nem Imagina</title>
+<link>https://www.cafebrasilpremium.com.br/app/podcast-cafe-com-leite/cafe-com-leite-voce-nem-imagina</link>
+<guid isPermaLink="true">https://www.cafebrasilpremium.com.br/app/podcast-cafe-com-leite/cafe-com-leite-voce-nem-imagina</guid>
+<description>Podcast Café Com Leite · audio</description>
+</item>
 <item>
 <title>Cafezinho 753 - Quando a Inteligência está na Ferramenta</title>
 <link>https://www.cafebrasilpremium.com.br/app/podcast-cafezinho-premium/cafezinho-753-quando-a-inteligencia-esta-na-ferramenta</link>
@@ -480,12 +486,6 @@
 <link>https://www.cafebrasilpremium.com.br/app/mla-50/mla-50-encontro-i-jason-vieira-e-christian-lupinacci</link>
 <guid isPermaLink="true">https://www.cafebrasilpremium.com.br/app/mla-50/mla-50-encontro-i-jason-vieira-e-christian-lupinacci</guid>
 <description>MLA 5.0 · video</description>
-</item>
-<item>
-<title>LíderCast 360 - Nanda Guardian</title>
-<link>https://www.cafebrasilpremium.com.br/app/podcast-lidercast/lidercast-360-nanda-guardian</link>
-<guid isPermaLink="true">https://www.cafebrasilpremium.com.br/app/podcast-lidercast/lidercast-360-nanda-guardian</guid>
-<description>Podcast LíderCast · audio</description>
 </item>
 </channel>
 </rss>
