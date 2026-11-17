@@ -59,17 +59,17 @@
     "name": "correio-irlam-rocha-lima",
     "source_url": "https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/",
     "output": "out/correio-irlam-rocha-lima.xml",
-    "items": 10,
-    "ok": true,
-    "notes": "scraped 10 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: TimeoutError: The read operation timed out"
   },
   {
     "name": "billboard-br-sergio-martins",
     "source_url": "https://billboard.com.br/author/sergio-martins/",
     "output": "out/billboard-br-sergio-martins.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 items"
   },
   {
     "name": "asil-insights",
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 32,
+    "items": 33,
     "ok": true,
-    "notes": "scraped 32 events",
+    "notes": "scraped 33 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 1,
+    "items": 3,
     "ok": true,
-    "notes": "scraped 1 events",
+    "notes": "scraped 3 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
