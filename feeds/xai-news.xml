@@ -6,12 +6,18 @@
 <link>https://x.ai/news</link>
 <description>xAI / SpaceXAI news (scraped)</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 13:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:28:05 +0000</lastBuildDate>
+<item>
+<title>Product · Building an accounting team with Grok Bot</title>
+<link>https://x.ai/news/grok-bot-accounting</link>
+<guid isPermaLink="true">https://x.ai/news/grok-bot-accounting</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More</title>
 <link>https://x.ai/news/grok-bot-1-0</link>
 <guid isPermaLink="true">https://x.ai/news/grok-bot-1-0</guid>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Product · Giving every team a data scientist with Grok Bot</title>
@@ -32,7 +38,7 @@
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Product · Using Grok Bot to detect and respond to incidents</title>
+<title>Using Grok Bot to detect and respond to incidents IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.</title>
 <link>https://x.ai/news/incident-sweep</link>
 <guid isPermaLink="true">https://x.ai/news/incident-sweep</guid>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>

@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Tue, 17 Nov 2026 13:35:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 22:28:59 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ilú Obá de Min part. MC Tha</title>
+		<link>https://casanaturamusical.com.br/eventos/ilu-oba-de-min-part-mc-tha/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ilu-oba-de-min-part-mc-tha</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 20:59:13 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17341</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gaby Amarantos</title>
+		<link>https://casanaturamusical.com.br/eventos/gaby-amarantos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gaby-amarantos</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17333</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Puro Suco</title>
 		<link>https://casanaturamusical.com.br/eventos/puro-suco/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=puro-suco</link>
 		
@@ -136,34 +164,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Mon, 21 Sep 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17175</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Agnes Nunes</title>
-		<link>https://casanaturamusical.com.br/eventos/agnes-nunes-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=agnes-nunes-2</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17170</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>UANA</title>
-		<link>https://casanaturamusical.com.br/eventos/uana/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uana</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 20:50:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17166</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

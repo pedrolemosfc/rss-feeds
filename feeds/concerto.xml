@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 17 Nov 2026 13:35:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:29:01 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjczNSIsImRpc2xpa2VzIjoiMCJ9?token=fvlIyvtrM3ZpAYzsBEadBVKV6n4iGZi3xWqll-R81RM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjczNyIsImRpc2xpa2VzIjoiMCJ9?token=ZgJXFdm4ZAKr65RC29goSkgwTxJ0bGen4Sk28cB9WQ8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;735&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;737&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,21 +82,70 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Projeto Música na Maturidade </title>
-  <link>http://concerto.com.br/roteiros/projeto-musica-na-maturidade-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Projeto Música na Maturidade &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 12:25&lt;/span&gt;
+  <title>Rede Metodista responde sobre encerramento da Escola de Música de Piracicaba </title>
+  <link>http://concerto.com.br/noticias/reportagem/rede-metodista-responde-sobre-encerramento-da-escola-de-musica-de-piracicaba</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Rede Metodista responde sobre encerramento da Escola de Música de Piracicaba &lt;/span&gt;
 
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetáculo Minha vida é uma viagem. Estudantes 60+ da Faculdade de Música do Espírito Santo (Fames). Programa: Trenzinho caipira, Capim da lagoa, Catira do passarinho, Cajueiro, Odeon, Tiro ao Álvaro, A banda, Canção do marinheiro, Naquela mesa, Ai que saudade d'ocê, Tocando em frente, Aquarela do Brasil e Bye bye tristeza.&lt;/div&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Instituição afirma não ter conhecimento de impedimento legal à comercialização de instrumentos adquiridos com recursos da Lei Rouanet; Câmara dos Vereadores aprova requerimento que solicita informações ao Poder Executivo e ao Codepag&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Após meses de insistência, a advogada do Instituto Educacional Piracicabano (IEP), Lígia Franco de Brito de Lara, respondeu aos questionamentos da Revista CONCERTO em relação ao encerramento da Escola de Música de Piracicaba (Empem). Segundo a entidade, “não há neste momento disponibilidade financeira para assegurar a continuidade das atividades da Escola de Música de Piracicaba” (leia a íntegra das respostas do IEP no fim desta matéria).&lt;/p&gt;
+&lt;p&gt;Como noticiado, a tradicional escola – criada há mais de 70 anos pelo compositor Ernst Mahle e um dos mais importantes polos de ensino e difusão da música clássica do país – fechou suas portas em julho. A questão voltou ao noticiário após o IEP da Rede Metodista, proprietária da Empem, fazer uma notificação extrajudicial intimidando a jornalista Beatriz Vicentini, que questionava em sua página no Facebook a venda de mobiliário e de instrumentos da Empem (&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/rede-metodista-intimida-jornalista-que-defende-patrimonio-da-escola-de-musica" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;clique aqui para ler&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;).&lt;/p&gt;
+&lt;p&gt;A Rede Metodista respondeu sobre os instrumentos e o acervo de 17 mil partituras, uma das mais importantes coleções do país: “Os instrumentos musicais, muitos deles com significativo tempo de utilização e necessidade de manutenção especializada, estão sendo destinados a instituições e interessados capazes de assegurar sua conservação e continuidade de utilização musical, mediante instrumentos jurídicos adequados”. Em relação ao acervo de partituras, afirma que ele foi “destinado à FOP/UNICAMP, em uma iniciativa voltada à preservação de sua memória e de seu valor histórico e cultural”.&lt;/p&gt;
+&lt;p&gt;Questionada se o processo de tombamento da Escola de Música de Piracicaba [aprovado pelo Conselho de Defesa do Patrimônio Cultural de Piracicaba (Codepac) em 2022] poderia limitar ou restringir o direito sobre a venda dos instrumentos, a Rede Metodista afirma que o processo não resultou em tombamento definitivo do imóvel nem do acervo da Empem. Segundo a entidade, o prazo legal de 180 dias para conclusão do procedimento já teria sido amplamente ultrapassado e que o mobiliário, instrumentos e partituras não constam da relação de bens tombados do município. A instituição ressalta ainda que o único ato vigente é o Decreto Municipal nº 19.930/2024, que reconhece a Empem como patrimônio histórico e cultural imaterial, proteção que, em seu entendimento, não se estende ao prédio nem aos instrumentos. A Rede Metodista sustenta também que, mesmo na hipótese de eventual tombamento material, a legislação não impediria a alienação dos bens.&lt;/p&gt;
+&lt;p&gt;Em relação à questão da comercialização de instrumentos adquiridos com recursos da Lei Rouanet, a Rede Metodista informa que “os itens adquiridos através de recursos da Lei Rouanet já estão em comodato sem ônus, para que possam continuar sendo utilizados para o fim que foram adquiridos”, dando como exemplo a harpa, que está de posse da Orquestra Sinfônica de Piracicaba.&lt;/p&gt;
+&lt;p&gt;A instituição afirma não ter conhecimento de impedimento legal à comercialização desses bens adquiridos com recursos de isenção fiscal mais de duas décadas após a compra, observando que eles foram incorporados ao patrimônio da escola e que a legislação vigente à época dos projetos citados não continha vedação expressa à alienação posterior. &lt;/p&gt;
+&lt;p&gt;A Rede Metodista acrescenta que uma eventual venda para a Orquestra Sinfônica de Piracicaba permanece apenas como possibilidade em análise e que tanto a Empem quanto a potencial compradora buscam esclarecimentos sobre eventuais restrições específicas existentes nos projetos originais antes de concretizar qualquer negócio.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Câmara de vereadores aprova requerimento&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Câmara dos Vereadores de Piracicaba aprovou ontem, dia 16 de novembro, por 19 votos favoráveis e nenhum contrário, o requerimento apresentado na semana passada pela vereadora Silvia Morales. O pleito solicita informações ao Executivo municipal e ao Codepac sobre a situação do patrimônio da Escola de Música, formulando 23 questionamentos relativos à existência de processos de tombamento, inventários de bens, condições de preservação do acervo, eventual retirada ou comercialização de instrumentos e documentos e possíveis providências para impedir a dispersão desse patrimônio. &lt;/p&gt;
+&lt;p&gt;O requerimento aprovado pergunta: “Diante da gravidade das informações divulgadas e da possibilidade de dispersão definitiva do acervo, o Codepac considera necessária a adoção de medidas cautelares ou judiciais para impedir a comercialização, retirada ou transferência de bens abrangido pelos processos de tombamento?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia abaixo, na íntegra, as respostas da Rede Metodista / Instituto Educacional Piracicabano aos questionamentos da Revista CONCERTO:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prezado Sr. Diretor-Editor da Revista CONCERTO, &lt;br /&gt;
+Na qualidade de advogada da Rede Metodista, seguem em negrito, retornos da minha cliente a respeito do tema.&lt;br /&gt;
+Fico à disposição.&lt;br /&gt;
+Att.&lt;br /&gt;
+Lígia Franco de Brito de Lara&lt;br /&gt;
+Advogada &lt;br /&gt;
+OAB PR 43.635&lt;br /&gt;
+OAB SP 555.655&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) O IEP não vai manter a Escola de Música de Piracicaba Ernst Mahle? Isso significa, então, que a Empem foi definitivamente fechada?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No momento não há disponibilidade financeira para assegurar a continuidade das atividades da Escola de Música. Dada a situação de reorganização da UNIMEP, os recursos e esforços estão sendo direcionados para a continuidade da Educação, dentro das possibilidades atuais da Rede Metodista e do setor educacional no Brasil.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) O que será feito dos instrumentos (órgão, harpa, pianos e outros) e do acervo de 17 mil partituras da Empem? Eles estão sendo vendidos no mercado? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O acervo de partituras foi destinado à FOP/UNICAMP, em uma iniciativa voltada à preservação de sua memória e de seu valor histórico e cultural.&lt;/p&gt;
+&lt;p&gt;Os instrumentos musicais, muitos deles com significativo tempo de utilização e necessidade de manutenção especializada, estão sendo destinados a instituições e interessados capazes de assegurar sua conservação e continuidade de utilização musical, mediante instrumentos jurídicos adequados.&lt;/p&gt;
+&lt;p&gt;A intenção é preservar a funcionalidade desses bens e permitir que continuem servindo à atividade cultural e musical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) Procede a informação de que o CODEPAC tem em curso um processo de tombamento do prédio da Escola de Música de Piracicaba? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A própria Revista CONCERTO noticiou em 01/09/2022: “Conselho de Defesa do Patrimônio recebe petição para tombamento da Escola de Música de Piracicaba”, sendo que no dia 06/09/2022 na reunião do CODEPAC, conforme noticiado, foi aberto o processo de tombamento. Ocorre que nos termos do art. 9º da LC 171/05 assegura preservação do bem até final de decisão, sendo que o prazo legal para prolatar tal decisão é de 180 dias (art. 9º, §1º da LC 171/05), prazo já esgotado em muito.&lt;/p&gt;
+&lt;p&gt;Ademais, cfe. faz prova a relação de bens tombados pelo CODEPAC (disponível no link &lt;a href="https://conselhos.piracicaba.sp.gov.br/codepac/"&gt;https://conselhos.piracicaba.sp.gov.br/codepac/&lt;/a&gt;) o acervo e o imóvel da EMPEM NÃO ESTÃO no rol de bens móveis tombados. Vale dizer que já houve decurso de mais de 180 dias do início do procedimento administrativo, portanto, não existe qualquer presunção de que tais bens gozem de proteção.&lt;/p&gt;
+&lt;p&gt;E, considerando que não foi decretado tombamento do imóvel nem do acervo por Decreto, não há como se impingir proteção legal definitiva sobre tais bens. Ademais, o Imóvel foi leiloado dentro do Processo de Recuperação Judicial e não havia qualquer registro na matrícula sobre eventual proteção ou tombamento.&lt;/p&gt;
+&lt;p&gt;Ainda, o único Decreto editado e válido é o de nº 19.930/2024, que reconhece que “Art. 1º. Fica registrado, como Patrimônio Histórico e Cultural Imaterial da cidade de Piracicaba, a Escola de Música de Piracicaba Maestro Ernst Mahle, conforme parecer de tombamento e homologação que ficam fazendo parte integrante do presente Decreto”.&lt;/p&gt;
+&lt;p&gt;Ainda, o Parecer de Tombamento e Homologação registra como bem o seguinte: “2. Registro do Bem. O objetivo do registro do bem individualizado no presente processo decorre do interesse público do Município na preservação daquele bem imaterial, dado o valor artístico e cultural que apresenta para a comunidade piracicabana, nacional e internacional”. Ou seja, o registro é da história e não do Imóvel ou do acervo (doc. Anexo).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4) O fato de o CODEPAC ter considerado a Empem oficialmente patrimônio imaterial histórico e cultural de Piracicaba – e se de fato está em curso um processo de tombamento do prédio – isso limita ou restringe o direito sobre a venda desses bens acima mencionados?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Como dito, o DECRETO é claro ao proteger o patrimônio IMATERIAL. Imóvel e acervo são todos bens MATERIAIS e não estão abarcados pelo Decreto.&lt;/p&gt;
+&lt;p&gt;Ademais, ainda que tais bens fossem tombados, o que se admite por argumento, isso não inviabiliza a alienação.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5) Instrumentos adquiridos com recursos captados por meio da Lei Rouanet podem ser colocados à venda livre no mercado? Pois apurei e encontrei no Salic diversos projetos da Empem, com recursos captados, entre eles estes abaixo:&lt;br /&gt;
+- Pronac 02738 / 2002 / Harpa Sinfônica / Valor captado: R$ 70.122,00 / Projeto encerrado com prestação de contas aprovada&lt;br /&gt;
+- Pronac 051889 / 2005 / Renovação do Acervo da Empem / Valor captado R$ 201.405 / Projeto encerrado com prestação de contas aprovada&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Os itens adquiridos através de recursos da Lei Rouanet já estão em comodato sem ônus, para que possam continuar sendo utilizados para o fim que foram adquiridos. A exemplo da Harpa, que já está de posse da Orquestra Sinfônica de Piracicaba.&lt;/p&gt;
+&lt;p&gt;No entanto, considerando que a aquisição da Harpa se deu há mais de 20 anos, não se tem notícia da inviabilidade de comercialização desses bens, uma vez que foram incorporados ao patrimônio da Escola.&lt;/p&gt;
+&lt;p&gt;O próprio Decreto nº 11.453 que foi Editado mais de 20 anos após (23 de março de 2023) e que “Dispõe sobre os mecanismos de fomento do sistema de financiamento à cultura” menciona e seu artigo 69 que “Os produtos materiais e os serviços resultantes de fomento pelo mecanismo de incentivo fiscal serão de exibição, utilização e circulação públicas e não poderão ser destinados ou restritos a circuitos privados ou a coleções particulares, exceto as hipóteses previstas neste Decreto”, ou seja, a pretensão de venda para a Orquestra Sinfônica de Piracicaba, trata-se de uma PRETENSÃO, e conforme apurado até o momento, não viola qualquer legislação atual, sendo que o negócio ainda não se concretizou justamente porque estão sendo buscados tanto pela pretensa Adquirente como pela EMPEM recursos e informações específicas se quando da realização do projeto houve alguma vedação expressa de alienação. A Lei nº 8.313/1991 e o Decreto nº 1.494/1995 vigentes em 2002 não continham dispositivo proibindo expressamente a venda posterior de bens após a conclusão e aprovação do projeto, o que ocorreu em 2003.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(wikimedia commons, Fábio Mendes)" data-entity-type="file" data-entity-uuid="ceed4bc6-54b2-4199-b556-0a8a5848f278" src="http://concerto.com.br/sites/default/files/inline-images/w-empem_liquidacao_Piracicaba.jpg" /&gt;
+&lt;figcaption&gt;(foto wikimedia commons, Fábio Mendes)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 23:30&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-empem_liquidacao_Piracicaba.jpg" width="900" height="600" alt="(foto wikimedia commons, Fábio Mendes)" title="(foto wikimedia commons, Fábio Mendes)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-24T19:30:00Z" class="datetime"&gt;ter, 24/11/2026 - 19:30&lt;/time&gt;
-&lt;/div&gt;
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -104,13 +153,89 @@
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3082" hreflang="pt-br"&gt;Escola de Música de Piracicaba&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0NzUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=hzHzLoXUB2e1aGQSvO-ZHU8Qn___RGD14CyEPPQEFYU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 17 Nov 2026 23:30:26 +0000</pubDate>
+    <dc:creator>Nelson Rubens Kunze</dc:creator>
+    <guid isPermaLink="false">284475 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro</title>
+  <link>http://concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na sexta-feira, 20, o Theatro São Pedro recebe as primeiras apresentações de &lt;em&gt;Conceição Evaristo: uma ópera escrevivência&lt;/em&gt;. A música é de Juliana Ripke e o libreto, de Julianna Santos, que também assina a direção cênica. A direção musical é de Maíra Ferreira. Récitas ocorrem nos dias 20, 22, 25, 27 e 29. &lt;/p&gt;
+&lt;p&gt;Em sua primeira ópera, Juliana Ripke homenageia a vida e a obra da escritora brasileira Conceição Evaristo. “Escrevivência”, termo da cirado pela pensadora, define a literatura inspirada pelas experiências de vida, pela memória, pelo corpo e pela ancestralidade. Essa perspectiva sobre a escrita também está ligada às vivências das mulheres negras. Ripke já havia se inspirado em Evaristo para duas de suas composições, &lt;em&gt;Eu-mulher&lt;/em&gt;, e &lt;em&gt;Vozes-mulheres&lt;/em&gt;, e sugeriu a produção da ópera ao Theatro São Pedro.&lt;/p&gt;
+&lt;p&gt;Ripke e Santos recuperaram símbolos da fé e da trajetória da escritora para desenvolverem a montagem. Em entrevista à edição de novembro da Revista CONCERTO, a compositora destaca a importância da água na narrativa, para recordar tanto as chuvas do dia do nascimento de Evaristo quanto as lágrimas da mãe da autora, que era lavadeira. Outra figura central associada ao símbolo é Oxum, orixá das águas, representada pela cor amarela. No decorrer das cenas, a música transita entre o tonalismo e o atonalismo. &lt;/p&gt;
+&lt;p&gt;Para planejar o libreto e a encenação, Santos reuniu textos, obras e depoimentos de Evaristo. Ela relata que a escritora garantiu liberdade para que ela e Ripke conduzissem a produção e fez dois pedidos: o início da ópera com seu nascimento e a inclusão de uma canção escrita por ela, musicada por Ripke e cantada pela filha da autora.&lt;/p&gt;
+&lt;p&gt;“E como acessar a memória de uma história, das sensações de uma sensibilidade? É um acesso quase ancestral de uma memória construída a partir de uma vivência, desse processo de trocas, das escutas dessas mulheres, da convivência e do compromisso com a comunidade. Conceição diz sempre que não fala por ela, que é a voz de muitas pessoas. Eu tentei recriar essa poética”, comenta Santos [Cique&lt;a href="Caminho da água "&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;u&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;; Acesso exclusivo para assinantes].&lt;/p&gt;
+&lt;p&gt;O elenco conta com as sopranos Lorena Pires, Edna D’Oliveira, Marina Pereira, a mezzo-soprano Juliana Taino, o tenor Mar Oliveira, o barítono Fúlvio Souza e a atriz Dirce Thomaz.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-20"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/grammy-anuncia-indicados-confira-nomes-das-categorias-de-musica-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Grammy anuncia indicados; confira nomes das categorias de música clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Dirce Thomaz no ensaio fotográfico de 'Conceição Evaristo: uma ópera escrevivência' [Reprodução/ Instagram/ Íris Zanetti]" data-entity-type="file" data-entity-uuid="b2853229-270d-4214-b82c-67d264752c62" src="http://concerto.com.br/sites/default/files/inline-images/w-%C3%B3peraevaristo.jpg" /&gt;
+&lt;figcaption&gt;Dirce Thomaz no ensaio fotográfico de 'Conceição Evaristo: uma ópera escrevivência' [Reprodução/ Instagram/ Íris Zanetti]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 19:29&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-%C3%B3peraevaristo.jpg" width="900" height="602" alt="Dirce Thomaz no ensaio fotográfico de 'Conceição Evaristo: uma ópera escrevivência' [Reprodução/ Instagram/ Íris Zanetti]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
@@ -118,65 +243,68 @@
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
   
   
 
   
 &lt;/section&gt;
 
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-sesc-gloria" hreflang="und"&gt;Centro Cultural Sesc Glória (1200 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0NzQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjYiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=s0MUKjEFUMN4wzw6SOsoYo4JntQdDrsgJvxZR5FYdd4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
 
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 13 a R$ 20. Vendas: https://lets.events/e/parceria-musica-na-maturidade-espetaculo-minha-vida-e-uma-viagem/.&lt;/div&gt;
-          &lt;/div&gt;
+          &lt;span id="like" class="spanLike"&gt;6&lt;/span&gt;
+    &lt;/div&gt;
 
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 17 Nov 2026 12:25:56 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 19:29:00 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284442 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/projeto-musica-na-maturidade-0#comments</comments>
+    <guid isPermaLink="false">284474 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Grammy anuncia indicados; confira nomes das categorias de música clássica</title>
-  <link>http://concerto.com.br/noticias/musica-classica/grammy-anuncia-indicados-confira-nomes-das-categorias-de-musica-classica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grammy anuncia indicados; confira nomes das categorias de música clássica&lt;/span&gt;
+  <title>14º Festival de Música Erudita do Espírito Santo inaugura projeto Orquestras em Rede</title>
+  <link>http://concerto.com.br/noticias/musica-classica/14o-festival-de-musica-erudita-do-espirito-santo-inaugura-projeto</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;14º Festival de Música Erudita do Espírito Santo inaugura projeto Orquestras em Rede&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A 69ª edição do prêmio Grammy anunciou  nesta segunda-feira, dia 16, seus indicados. A cerimônia de entrega será realizada no dia 6 de fevereiro de 2027. São oito as categorias destinadas à música de concerto.&lt;/p&gt;
-&lt;p&gt;A categoria Best Orchestral Performance é destinada a gravações orquestrais lançadas entre agosto de 2025 e agosto de 2026. De Barbara Hannigan, &lt;em&gt;An American Dream?&lt;/em&gt; (Alpha) apresenta obras de George Gershwin, Aaron Copland, Richard Rodgers, Billy Barnes e Jule Styne. Em &lt;em&gt;Clyne: Color Field&lt;/em&gt; (Naxos), Marin Alsop rege a Baltimore Symphony Orchestra em &lt;em&gt;Color Field&lt;/em&gt;, de Anna Clyne. David Alan Miller concorre com &lt;em&gt;Orbital&lt;/em&gt; (Albany Records), de Viet Cuong, gravado com a Albany Symphony. John Williams, em &lt;em&gt;John Williams and The President's Own,'Vol. 3&lt;/em&gt; (Naxos), rege a The United States Marine Band em composições próprias, de Whiting e de Offenbach. &lt;em&gt;Pájaros Mágicos&lt;/em&gt; (Platoon), de Gustavo Dudamel com a Los Angeles Philharmonic, é dedicado a obras de Stravinsky e Villa-Lobos.&lt;/p&gt;
-&lt;p&gt;O prêmio Best Opera Recording reconhece os solistas, regentes e produtores que participaram de gravações de óperas completas. &lt;em&gt;Vanessa&lt;/em&gt; (National Symphony Orchestra/Kennedy Center), de Barber, conta com a regência de Gianandrea Noseda e a participação dos cantores J'Nai Bridges, Susan Graham, Thomas Hampson, Nicole Heaston, Matthew Polenzani e Blanton Alspaugh. &lt;em&gt;The Amazing Adventures Of Kavalier &amp; Clay&lt;/em&gt;, de Mason Bates (The Metropolitan Opera), tem produção de David Frost, regência de Yannick Nézet-Séguin e participação de Lauren Snouffer, Andrzej Filończyk, Craig Colclough, Miles Mykkanen, Patrick Carfizzi, Edward Nelson &amp; Sun-Ly Pierce.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The Central Park Five&lt;/em&gt;, de Anthony Davis (Platoon), foi produzido por Anthony Davis, Greg Curtis, Anthony Parnther e teve Anthony Parnther à frente da Long Beach Opera, com Lacey Jo Benter, Bernard Holcomb, Orson Van Gay, Ashley Faatoalia, Cedric Berry, William Powell III e Justin Ryan. &lt;em&gt;What Belongs To You&lt;/em&gt;, de David T. Little (Bright Shiny Things), produzido por David T. Little, Andrew McKenna Lee e Gavin Chuck, traz Alan Pierson na regência. &lt;em&gt;Mazzoli: Breaking the Waves&lt;/em&gt; (Houston Grand Opera), regido por Patrick Summers e produzido por Blanton Alspaugh, registra Ryan McKinny e Lauren Snouffer em cena.&lt;/p&gt;
-&lt;p&gt;Na categoria Best Choral Performance, concorrem grupos corais de 16 ou mais integrantes, com ou sem acompanhamento instrumental, cantando em uníssono ou em diferentes vozes. Concorrem Donald Nally e o coro The Crossing com Farming (Deathbomb Arc Records); Eric Holtan e True Concord Voices and Orchestra com&lt;em&gt; Here I Am&lt;/em&gt; (Reference Recordings), obra de Jocelyn Hagen; Gustavo Dudamel com &lt;em&gt;Hopkins: My Fatherland&lt;/em&gt; (Decca Records); Craig Hella Johnson, o conjunto coral Conspirare e o percussionista Thomas Burritt em &lt;em&gt;Piedra De Sol &lt;/em&gt;(Divine Art), de Joby Talbot; e Melissa Attebury, o Trinity Choir, o Trinity Youth Chorus e o NOVUS com &lt;em&gt;Trans Requiem&lt;/em&gt;, de Andrew Yee.&lt;/p&gt;
-&lt;p&gt;Best Chamber Music/Small Ensemble Performance é a categoria destinada a grupos vocais ou instrumentais, com ou sem regente, de até 24 participantes. Os indicados são Ilya Kaler &amp; Rasa Vitauskaite com &lt;em&gt;Bridgetower Project - Beethoven, Florence Price, Paquito D'Rivera &lt;/em&gt;(Ongaku Records); &lt;em&gt;Neave Trio com In Her Hands&lt;/em&gt; (Chandos), com obras de Clara Schumann, Dora Pejačević e Cécile Chaminade; a orquestra de câmara Alarm Will Sound, sob regência de Alan Pierson, em &lt;em&gt;Paper Pianos&lt;/em&gt;, de Mary Kouyoumdjian (Cantaloupe Music); a mezzo-soprano Joyce DiDonato e o trio Time For Three em &lt;em&gt;Puts: Emily - No Prisoner Be &lt;/em&gt;(Platoon); e PUBLIQuartet com &lt;em&gt;Rhythm Nation&lt;/em&gt; (Avie).&lt;/p&gt;
-&lt;p&gt;Os solistas da premiação concorrem em Best Classical Instrumental Solo. O compositor e percussionista Andy Akiho é o solista em sua peça Beneath Lighted Coffers &amp; Concerto For Steel Pans &amp; Orchestra (Reference Recordings), regido por David Danzmayr. O quarteto Sandbox Percussion atua como solista com a Albany Symphony, regido por David Alan Miller na faixa Re(new)al, de Viet Cuong (Albany Records). O pianista Han Chen concorre com as Sonatas Nos. 3 &amp; 4 para piano, de Anton Rubinstein (Naxos). O violinista americano compete com a gravação de sua composição 24 American Caprices (Bright Shiny Things). O violoncelista Yo-Yo Ma leva a gravação Breathe/Burn: An Elegy, de Joel Thompson.&lt;/p&gt;
-&lt;p&gt;Os cantores fazem parte da categoria Best Classical Solo Vocal Album, que envolve árias, ciclos, fusões entre canção e literatura e outros tipos de música vocal. Os indicados são o tenor Nicholas Phan, com o álbum &lt;em&gt;Lamenting Earth&lt;/em&gt; (AVIE Records); a soprano Laura Strickling em &lt;em&gt;Legends: Rebellion&lt;/em&gt; (Sono Luminus); o barítono Kenneth Overton em &lt;em&gt;The Living Spiritual&lt;/em&gt; (Navona); o contratenor John Michael Holiday, com &lt;em&gt;Over My Head&lt;/em&gt; (Pentatone); e o contratenor Reginald Mobley, com &lt;em&gt;Solitude&lt;/em&gt; (Alpha Classics).&lt;/p&gt;
-&lt;p&gt;Best Classical Compendium reúne álbuns conceituais inspirados em compositores, tributos, temas ou outras ideias. Fazem parte da categoria o cantor e compositor Jon Batiste, no álbum &lt;em&gt;Black Mozart&lt;/em&gt; (Decca Records); Steven Blier, Joshua Blue, Will Liverman, Joseph Parrish, Alan Williams, Chaz'men Williams-Ali, Jorell Williams, Justin Austin e Jonathan Estabrooks com &lt;em&gt;My Brother's Keeper&lt;/em&gt; (NYFOS Records); Jonathan Allen, Silas Brown, Victor Caccese, Viet Cuong, Ian Rosenbaum, Terry Sweeney, regidos por David Alan Miller em &lt;em&gt;Renewal – Music Of Viet Cuong&lt;/em&gt; (Albany Records); o quinteto de sopros Imani Winds com &lt;em&gt;Rise&lt;/em&gt; (Imani Winds Media); e Eric Cha-Beach, Matt Poirier, Josh Quillen, Adam Sliwinski, Jason Treuting com 25X25 (Cantaloupe Music).&lt;/p&gt;
-&lt;p&gt;A última categoria, Best Contemporary Classical Composition, é destinada a compositores. Mason Bates e Anthony Davis concorrem com as óperas &lt;em&gt;The Amazing Adventures Of Kavalier &amp; Clay &lt;/em&gt;(The Metropolitan Opera) e &lt;em&gt;Central Park Five &lt;/em&gt;(Platoon), respectivamente; o irlandês Donnacha Dennehy é indicado por &lt;em&gt;Violin Concerto &lt;/em&gt;(Nonesuch Records); a norte-americana Sarah Kirkland Snider compete com a obra orquestral &lt;em&gt;Forward Into Light&lt;/em&gt; (New Amsterdam/Nonesuch); Curtis Stewart participa com &lt;em&gt;24 American Caprices&lt;/em&gt; (Bright Shiny Things).&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p style="line-height:1.38; text-align:justify; margin-top:16px; margin-bottom:16px"&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No domingo, 22, o projeto Orquestras em Rede estreia na programação do 14º Festival de Música Erudita do Espírito Santo. No Parque Cultural Casa do Governador, em Vilha Velha, a Orquestra Sinfônica do Espírito Santo recebe a Orquestra Sinfônica Sul Espírito Santo (Oses), a Orquestra de Câmara João XXIII, a Orquestra Jovem Capixaba, a Camerata Alef Bet, a Orquestra de Sopros das Montanhas e a Orquestra Jônice Tristão para o concerto Brasil, Saudades do Futuro.&lt;/p&gt;
+&lt;p&gt;O Orquestras em Rede propõe a aproximação entre orquestras capixabas. Ao longo de encontros artístico-pedagógicos, grupos profissionais trocam experiências com orquestras vinculadas a projetos sociais, buscando contribuir para a formação e o desenvolvimento dos integrantes. O projeto é patrocinado pela Shell e coordenado por Helder Trefzger, maestro titular da Orquestra Sinfônica do Espírito Santo.&lt;/p&gt;
+&lt;p&gt;“O projeto chegou na hora certa. O ES vive um momento de efervescência no movimento orquestral, com o surgimento de vários grupos. Foi extremamente positivo que a Oses, a orquestra mais antiga, tenha participado desse processo, compartilhando conhecimentos, trocando experiências musicais e fortalecendo vínculos, reafirmando o poder transformador da música na vida das pessoas”, comenta Trefzger em material de divulgação. &lt;/p&gt;
+&lt;p&gt;O concerto de estreia do projeto é dedicado à música brasileira. O programa traz obras dos consagrados Chiquinha Gonzaga, Luiz Gonzaga, Zequinha de Abreu, Pixinguinha e Alfredo da Rocha Vianna Filho e dos contemporâneos Ilza Nogueira, Marcelo Rauta e Leonardo Gorosito. Por fim, a Oses, sob regência de Trefzger, recebe a pianista Erika Ribeiro para o &lt;em&gt;Concerto para piano e orquestra nº1&lt;/em&gt;, de Camargo Guarnieri.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outros concertos do 14º Festival de Música Erudita do Espírito Santo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A programação da semana do Festival conta com concertos nos dias 20 e 21. Na sexta-feira, 20, a harpista Maíni Moreno, o flautista Lucas Rodrigues, a violinista Jacqueline Lima, o violista Rodney Silveira e o violoncelista Jonathan Azevedo realizam concerto de música de câmara. Com obras de Claude Debussy, Heitor Villa-Lobos, Maurício Dottori e Tatiana Catanzaro, a apresentação joga luz sobre a influência francesa no repertório brasileiro para flauta.&lt;/p&gt;
+&lt;p&gt;No sábado, 21, a pianista Erika Ribeiro faz recital solo com obras brasileiras. O repertório inclui &lt;em&gt;Saudades do Brasil, op. 67,&lt;/em&gt; de Darius Milhaud, &lt;em&gt;Corta-Jaca&lt;/em&gt;, de Fructuoso Viana, &lt;em&gt;Três estudos em forma de sonatina, op. 62, &lt;/em&gt;de Lorenzo Fernandes, e obras de Hermeto Pascoal, Valéria Bonafé, Milton Nascimento, Heloísa Fernandes e Léa Freire.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-22"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/grammy-anuncia-indicados-confira-nomes-das-categorias-de-musica-classica" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Grammy anuncia indicados; confira nomes das categorias de música clássica&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 &lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
 &lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img alt="Grammy Awards" data-entity-type="file" data-entity-uuid="7b2a7a8b-6647-4c54-acaa-5791010194c1" src="http://concerto.com.br/sites/default/files/inline-images/unnamed%20%2839%29.jpg" /&gt;&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Projeto Oruqestras em Rede [Divulgação]" data-entity-type="file" data-entity-uuid="c28a4021-36b2-48ba-b7c4-d19f02b45b29" src="http://concerto.com.br/sites/default/files/inline-images/w-orquestrasrede.jpeg" /&gt;
+&lt;figcaption&gt;Projeto Oruqestras em Rede [Divulgação]&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 22:18&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 19:17&lt;/span&gt;
 
   &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
     &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/unnamed%20%2839%29.jpg" width="1644" height="925" alt="Grammy Awards" title="Grammy Awards" typeof="foaf:Image" /&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-orquestrasrede.jpeg" width="900" height="506" alt="Projeto Oruqestras em Rede [Divulgação]" typeof="foaf:Image" /&gt;
 
 &lt;/div&gt;
           &lt;/div&gt;
@@ -211,35 +339,35 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0NDEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=AvtnMOmE8AHDI4780MVryabBQHb9S0aeARGTYl0HTYM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0NzMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=FtMg3U4PjExT1kKYUVUvda3LCukKCv6LAdXkY5KqhVI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;24&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 16 Nov 2026 22:18:28 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 19:17:20 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284441 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284473 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Orquestra Ouro Preto</title>
-  <link>http://concerto.com.br/roteiros/orquestra-ouro-preto-36</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Ouro Preto&lt;/span&gt;
+  <title>Orquestra Maré do Amanhã </title>
+  <link>http://concerto.com.br/roteiros/orquestra-mare-do-amanha</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Maré do Amanhã &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 17:49&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 18:29&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Mineiridades. Rodrigo Toffolo - regente. Programa: do barroco aos clássicos do Clube da Esquina.&lt;/div&gt;
+              &lt;div class="field__item"&gt;Participação: André Abreu - cantor. Programa: homenagem aos 35 anos de morte de Freddie Mercury.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-20T20:00:00Z" class="datetime"&gt;sex, 20/11/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-24T19:30:00Z" class="datetime"&gt;ter, 24/11/2026 - 19:30&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -250,7 +378,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1406" hreflang="pt-br"&gt;Belo Horizonte, MG&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -271,12 +399,13 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/pal%C3%A1cio-das-artes-2" hreflang="pt-br"&gt;Palácio das Artes - Grande Teatro Cemig (1705 lugares)&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/211463" hreflang="pt-br"&gt;Teatro Riachuelo Rio (999 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 50 a R$ 160. Vendas: https://bileto.sympla.com.br/event/128851/d/422709?share_id=1-copiarlink.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;Entrada franca, retirada de ingressos uma hora antes na bilheteria.&lt;/p&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -284,25 +413,26 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 16 Nov 2026 17:49:57 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 18:29:19 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284439 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284472 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Cantata Carmina Burana, de Carl Orff</title>
-  <link>http://concerto.com.br/roteiros/cantata-carmina-burana-de-carl-orff-39</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cantata Carmina Burana, de Carl Orff&lt;/span&gt;
+  <title>Companhia Portuguesa de Bailado Contemporâneo</title>
+  <link>http://concerto.com.br/roteiros/companhia-portuguesa-de-bailado-contemporaneo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Companhia Portuguesa de Bailado Contemporâneo&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 17:33&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 18:26&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Orquestra Filarmônica do Senai-SP, Madrigal Vivace de Jundiaí, Collegium Musicum, Vozes Paulistanas e Coral Canarinhos da Terra de Jundiaí. Emiliano Patarra - regente. Thayana Roverso - soprano, Cleyton Pulzi - tenor e Vinícius Atique - barítono. &lt;/div&gt;
+              &lt;div class="field__item"&gt;2ª Mostra Portugal Contemporâneo no Brasil. Arte Institute. Ana Ventura Miranda - idealização e direção. Dança em Diálogos. Habitar o agora, com Sofia Santos e Inês Alves. Favor confirmar horário. Continuidade até dia 1º de dezembro. Informações: https://arteinstitute.org/portugal-contemporaneo-no-brasil-2nd-edition/.&lt;br /&gt;
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T16:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 16:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-28T19:00:00Z" class="datetime"&gt;sab, 28/11/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -313,7 +443,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2796" hreflang="pt-br"&gt;Niterói, RJ&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -334,12 +464,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-sergio-cardoso" hreflang="und"&gt;Teatro Sérgio Cardoso (856 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/262817" hreflang="pt-br"&gt;Museu de Arte Contemporânea de Niterói&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -347,26 +472,26 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 16 Nov 2026 17:33:47 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 18:26:06 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284436 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284471 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke</title>
-  <link>http://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke-4</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke&lt;/span&gt;
+  <title>Recante</title>
+  <link>http://concerto.com.br/roteiros/recante</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Recante&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 16:46&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 18:18&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada lírica. Orquestra do Theatro São Pedro. Maíra Ferreira – direção musical. Julianna Santos – direção cênica. Julianna Santos – adaptação e libreto, sobre texto de Conceição Evaristo. Lorena Pires, Edna D’Oliveira e Marina Pereira – sopranos; Juliana Taino – mezzo soprano e Fúlvio Souza e Mar Oliveira – tenores. Ana Cursino Guariglia – pianista preparadora. Dirce Thomaz – atriz. Guilherme Rocha – assistente de direção musical. Cilene Guedes – assistente de direção cênica. Felipe Venâncio – direção de palco. Renata Mota – cenografia. Wagner Pinto – iluminação. Olintho Malaquias – figurino.&lt;br /&gt;
+              &lt;div class="field__item"&gt;2ª Mostra Portugal Contemporâneo no Brasil. Arte Institute. Ana Ventura Miranda - idealização e direção. Informações: https://arteinstitute.org/portugal-contemporaneo-no-brasil-2nd-edition/.&lt;br /&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T17:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 17:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-01T18:00:00Z" class="datetime"&gt;ter, 01/12/2026 - 18:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -377,7 +502,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -398,12 +523,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 82 a R$ 124. Vendas: https://theatrosaopedro.byinti.com.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/palacio-sao-clemente" hreflang="und"&gt;Palácio São Clemente - Consulado de Portugal (200 lugares)&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -411,31 +531,53 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 16 Nov 2026 16:46:29 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 18:18:40 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284431 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284470 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke</title>
-  <link>http://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke&lt;/span&gt;
+  <title>A Selva</title>
+  <link>http://concerto.com.br/node/284468</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;A Selva&lt;/span&gt;
+
+  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rua Sete de Setembro, 493 - Centro - Tel. (27) 99639-9616 - https://aselvaeventos.com.br/&lt;/div&gt;
+          &lt;/div&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 16:45&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 18:17&lt;/span&gt;
+
+  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Vitória, ES&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Tue, 17 Nov 2026 18:17:29 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284468 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Noiserv</title>
+  <link>http://concerto.com.br/roteiros/noiserv-3</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Noiserv&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 17/11/2026 - 18:17&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada lírica. Orquestra do Theatro São Pedro. Maíra Ferreira – direção musical. Julianna Santos – direção cênica. Julianna Santos – adaptação e libreto, sobre texto de Conceição Evaristo. Lorena Pires, Edna D’Oliveira e Marina Pereira – sopranos; Juliana Taino – mezzo soprano e Fúlvio Souza e Mar Oliveira – tenores. Ana Cursino Guariglia – pianista preparadora. Dirce Thomaz – atriz. Guilherme Rocha – assistente de direção musical. Cilene Guedes – assistente de direção cênica. Felipe Venâncio – direção de palco. Renata Mota – cenografia. Wagner Pinto – iluminação. Olintho Malaquias – figurino.&lt;br /&gt;
+              &lt;div class="field__item"&gt;2ª Mostra Portugal Contemporâneo no Brasil. Arte Institute. Ana Ventura Miranda - idealização e direção. Continuidade até 1º de dezembro. Informações: https://arteinstitute.org/portugal-contemporaneo-no-brasil-2nd-edition/.&lt;br /&gt;
 &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 29 às 17h.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-27T20:00:00Z" class="datetime"&gt;sex, 27/11/2026 - 20:00&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T19:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 19:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -446,7 +588,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1407" hreflang="pt-br"&gt;Vitória, ES&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -467,12 +609,7 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 82 a R$ 124. Vendas: https://theatrosaopedro.byinti.com.&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284468" hreflang="pt-br"&gt;A Selva&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -480,147 +617,9 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/notic
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Mon, 16 Nov 2026 16:45:42 +0000</pubDate>
+  <pubDate>Tue, 17 Nov 2026 18:17:00 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284430 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke</title>
-  <link>http://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke-2</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 16:44&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada lírica. Orquestra do Theatro São Pedro. Maíra Ferreira – direção musical. Julianna Santos – direção cênica. Julianna Santos – adaptação e libreto, sobre texto de Conceição Evaristo. Lorena Pires, Edna D’Oliveira e Marina Pereira – sopranos; Juliana Taino – mezzo soprano e Fúlvio Souza e Mar Oliveira – tenores. Ana Cursino Guariglia – pianista preparadora. Dirce Thomaz – atriz. Guilherme Rocha – assistente de direção musical. Cilene Guedes – assistente de direção cênica. Felipe Venâncio – direção de palco. Renata Mota – cenografia. Wagner Pinto – iluminação. Olintho Malaquias – figurino.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 27 às 20h e dia 29 às 17h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T20:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 82 a R$ 124. Vendas: https://theatrosaopedro.byinti.com.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 16 Nov 2026 16:44:56 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284429 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke</title>
-  <link>http://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 16:44&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada lírica. Orquestra do Theatro São Pedro. Maíra Ferreira – direção musical. Julianna Santos – direção cênica. Julianna Santos – adaptação e libreto, sobre texto de Conceição Evaristo. Lorena Pires, Edna D’Oliveira e Marina Pereira – sopranos; Juliana Taino – mezzo soprano e Fúlvio Souza e Mar Oliveira – tenores. Ana Cursino Guariglia – pianista preparadora. Dirce Thomaz – atriz. Guilherme Rocha – assistente de direção musical. Cilene Guedes – assistente de direção cênica. Felipe Venâncio – direção de palco. Renata Mota – cenografia. Wagner Pinto – iluminação. Olintho Malaquias – figurino.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dias 25 e 27 às 20h e dia 29 às 17h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-22T17:00:00Z" class="datetime"&gt;dom, 22/11/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 82 a R$ 124. Vendas: https://theatrosaopedro.byinti.com.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 16 Nov 2026 16:44:00 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284428 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284469 at http://concerto.com.br</guid>
     </item>
 
   </channel>
