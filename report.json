@@ -67,9 +67,9 @@
     "name": "billboard-br-sergio-martins",
     "source_url": "https://billboard.com.br/author/sergio-martins/",
     "output": "out/billboard-br-sergio-martins.xml",
-    "items": 20,
-    "ok": true,
-    "notes": "scraped 20 items"
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
   },
   {
     "name": "asil-insights",
@@ -378,9 +378,9 @@
     "name": "songkick-pacaembu",
     "source_url": "https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu",
     "output": "feeds/songkick-pacaembu.xml",
-    "items": 7,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 7 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 20,
+    "items": 21,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 21 events",
     "kind": "venue-scrape"
   },
   {
@@ -459,18 +459,18 @@
     "name": "teatro-das-artes-sp",
     "source_url": "https://teatrodasartessp.com.br/programacao/",
     "output": "feeds/teatro-das-artes-sp.xml",
-    "items": 2,
+    "items": 1,
     "ok": true,
-    "notes": "scraped 2 events",
+    "notes": "scraped 1 events",
     "kind": "venue-scrape"
   },
   {
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 45,
+    "items": 46,
     "ok": true,
-    "notes": "scraped 45 events",
+    "notes": "scraped 46 events",
     "kind": "venue-scrape"
   },
   {
@@ -756,9 +756,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 15,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   }
 ]

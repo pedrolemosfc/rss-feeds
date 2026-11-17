@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 16 Nov 2026 18:40:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 02:59:41 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjcyOSIsImRpc2xpa2VzIjoiMCJ9?token=Y1j-9xlOXxIr-FST7gOGS_4CyASug2LWeHltEljjkGc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjczMiIsImRpc2xpa2VzIjoiMCJ9?token=33V5t9Rfdvz6mhKCTK-Ay1zHXVmLicvk_iKarI35nw0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;729&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;732&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,86 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Grammy anuncia indicados; confira nomes das categorias de música clássica</title>
+  <link>http://concerto.com.br/noticias/musica-classica/grammy-anuncia-indicados-confira-nomes-das-categorias-de-musica-classica</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grammy anuncia indicados; confira nomes das categorias de música clássica&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A 69ª edição do prêmio Grammy anunciou  nesta segunda-feira, dia 16, seus indicados. A cerimônia de entrega será realizada no dia 6 de fevereiro de 2027. São oito as categorias destinadas à música de concerto.&lt;/p&gt;
+&lt;p&gt;A categoria Best Orchestral Performance é destinada a gravações orquestrais lançadas entre agosto de 2025 e agosto de 2026. De Barbara Hannigan, &lt;em&gt;An American Dream?&lt;/em&gt; (Alpha) apresenta obras de George Gershwin, Aaron Copland, Richard Rodgers, Billy Barnes e Jule Styne. Em &lt;em&gt;Clyne: Color Field&lt;/em&gt; (Naxos), Marin Alsop rege a Baltimore Symphony Orchestra em &lt;em&gt;Color Field&lt;/em&gt;, de Anna Clyne. David Alan Miller concorre com &lt;em&gt;Orbital&lt;/em&gt; (Albany Records), de Viet Cuong, gravado com a Albany Symphony. John Williams, em &lt;em&gt;John Williams and The President's Own,'Vol. 3&lt;/em&gt; (Naxos), rege a The United States Marine Band em composições próprias, de Whiting e de Offenbach. &lt;em&gt;Pájaros Mágicos&lt;/em&gt; (Platoon), de Gustavo Dudamel com a Los Angeles Philharmonic, é dedicado a obras de Stravinsky e Villa-Lobos.&lt;/p&gt;
+&lt;p&gt;O prêmio Best Opera Recording reconhece os solistas, regentes e produtores que participaram de gravações de óperas completas. &lt;em&gt;Vanessa&lt;/em&gt; (National Symphony Orchestra/Kennedy Center), de Barber, conta com a regência de Gianandrea Noseda e a participação dos cantores J'Nai Bridges, Susan Graham, Thomas Hampson, Nicole Heaston, Matthew Polenzani e Blanton Alspaugh. &lt;em&gt;The Amazing Adventures Of Kavalier &amp; Clay&lt;/em&gt;, de Mason Bates (The Metropolitan Opera), tem produção de David Frost, regência de Yannick Nézet-Séguin e participação de Lauren Snouffer, Andrzej Filończyk, Craig Colclough, Miles Mykkanen, Patrick Carfizzi, Edward Nelson &amp; Sun-Ly Pierce.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Central Park Five&lt;/em&gt;, de Anthony Davis (Platoon), foi produzido por Anthony Davis, Greg Curtis, Anthony Parnther e teve Anthony Parnther à frente da Long Beach Opera, com Lacey Jo Benter, Bernard Holcomb, Orson Van Gay, Ashley Faatoalia, Cedric Berry, William Powell III e Justin Ryan. &lt;em&gt;What Belongs To You&lt;/em&gt;, de David T. Little (Bright Shiny Things), produzido por David T. Little, Andrew McKenna Lee e Gavin Chuck, traz Alan Pierson na regência. &lt;em&gt;Mazzoli: Breaking the Waves&lt;/em&gt; (Houston Grand Opera), regido por Patrick Summers e produzido por Blanton Alspaugh, registra Ryan McKinny e Lauren Snouffer em cena.&lt;/p&gt;
+&lt;p&gt;Na categoria Best Choral Performance, concorrem grupos corais de 16 ou mais integrantes, com ou sem acompanhamento instrumental, cantando em uníssono ou em diferentes vozes. Concorrem Donald Nally e o coro The Crossing com Farming (Deathbomb Arc Records); Eric Holtan e True Concord Voices and Orchestra com&lt;em&gt; Here I Am&lt;/em&gt; (Reference Recordings), obra de Jocelyn Hagen; Gustavo Dudamel com &lt;em&gt;Hopkins: My Fatherland&lt;/em&gt; (Decca Records); Craig Hella Johnson, o conjunto coral Conspirare e o percussionista Thomas Burritt em &lt;em&gt;Piedra De Sol &lt;/em&gt;(Divine Art), de Joby Talbot; e Melissa Attebury, o Trinity Choir, o Trinity Youth Chorus e o NOVUS com &lt;em&gt;Trans Requiem&lt;/em&gt;, de Andrew Yee.&lt;/p&gt;
+&lt;p&gt;Best Chamber Music/Small Ensemble Performance é a categoria destinada a grupos vocais ou instrumentais, com ou sem regente, de até 24 participantes. Os indicados são Ilya Kaler &amp; Rasa Vitauskaite com &lt;em&gt;Bridgetower Project - Beethoven, Florence Price, Paquito D'Rivera &lt;/em&gt;(Ongaku Records); &lt;em&gt;Neave Trio com In Her Hands&lt;/em&gt; (Chandos), com obras de Clara Schumann, Dora Pejačević e Cécile Chaminade; a orquestra de câmara Alarm Will Sound, sob regência de Alan Pierson, em &lt;em&gt;Paper Pianos&lt;/em&gt;, de Mary Kouyoumdjian (Cantaloupe Music); a mezzo-soprano Joyce DiDonato e o trio Time For Three em &lt;em&gt;Puts: Emily - No Prisoner Be &lt;/em&gt;(Platoon); e PUBLIQuartet com &lt;em&gt;Rhythm Nation&lt;/em&gt; (Avie).&lt;/p&gt;
+&lt;p&gt;Os solistas da premiação concorrem em Best Classical Instrumental Solo. O compositor e percussionista Andy Akiho é o solista em sua peça Beneath Lighted Coffers &amp; Concerto For Steel Pans &amp; Orchestra (Reference Recordings), regido por David Danzmayr. O quarteto Sandbox Percussion atua como solista com a Albany Symphony, regido por David Alan Miller na faixa Re(new)al, de Viet Cuong (Albany Records). O pianista Han Chen concorre com as Sonatas Nos. 3 &amp; 4 para piano, de Anton Rubinstein (Naxos). O violinista americano compete com a gravação de sua composição 24 American Caprices (Bright Shiny Things). O violoncelista Yo-Yo Ma leva a gravação Breathe/Burn: An Elegy, de Joel Thompson.&lt;/p&gt;
+&lt;p&gt;Os cantores fazem parte da categoria Best Classical Solo Vocal Album, que envolve árias, ciclos, fusões entre canção e literatura e outros tipos de música vocal. Os indicados são o tenor Nicholas Phan, com o álbum &lt;em&gt;Lamenting Earth&lt;/em&gt; (AVIE Records); a soprano Laura Strickling em &lt;em&gt;Legends: Rebellion&lt;/em&gt; (Sono Luminus); o barítono Kenneth Overton em &lt;em&gt;The Living Spiritual&lt;/em&gt; (Navona); o contratenor John Michael Holiday, com &lt;em&gt;Over My Head&lt;/em&gt; (Pentatone); e o contratenor Reginald Mobley, com &lt;em&gt;Solitude&lt;/em&gt; (Alpha Classics).&lt;/p&gt;
+&lt;p&gt;Best Classical Compendium reúne álbuns conceituais inspirados em compositores, tributos, temas ou outras ideias. Fazem parte da categoria o cantor e compositor Jon Batiste, no álbum &lt;em&gt;Black Mozart&lt;/em&gt; (Decca Records); Steven Blier, Joshua Blue, Will Liverman, Joseph Parrish, Alan Williams, Chaz'men Williams-Ali, Jorell Williams, Justin Austin e Jonathan Estabrooks com &lt;em&gt;My Brother's Keeper&lt;/em&gt; (NYFOS Records); Jonathan Allen, Silas Brown, Victor Caccese, Viet Cuong, Ian Rosenbaum, Terry Sweeney, regidos por David Alan Miller em &lt;em&gt;Renewal – Music Of Viet Cuong&lt;/em&gt; (Albany Records); o quinteto de sopros Imani Winds com &lt;em&gt;Rise&lt;/em&gt; (Imani Winds Media); e Eric Cha-Beach, Matt Poirier, Josh Quillen, Adam Sliwinski, Jason Treuting com 25X25 (Cantaloupe Music).&lt;/p&gt;
+&lt;p&gt;A última categoria, Best Contemporary Classical Composition, é destinada a compositores. Mason Bates e Anthony Davis concorrem com as óperas &lt;em&gt;The Amazing Adventures Of Kavalier &amp; Clay &lt;/em&gt;(The Metropolitan Opera) e &lt;em&gt;Central Park Five &lt;/em&gt;(Platoon), respectivamente; o irlandês Donnacha Dennehy é indicado por &lt;em&gt;Violin Concerto &lt;/em&gt;(Nonesuch Records); a norte-americana Sarah Kirkland Snider compete com a obra orquestral &lt;em&gt;Forward Into Light&lt;/em&gt; (New Amsterdam/Nonesuch); Curtis Stewart participa com &lt;em&gt;24 American Caprices&lt;/em&gt; (Bright Shiny Things).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="line-height:1.38; text-align:justify; margin-top:16px; margin-bottom:16px"&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="Grammy Awards" data-entity-type="file" data-entity-uuid="7b2a7a8b-6647-4c54-acaa-5791010194c1" src="http://concerto.com.br/sites/default/files/inline-images/unnamed%20%2839%29.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 22:18&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/unnamed%20%2839%29.jpg" width="1644" height="925" alt="Grammy Awards" title="Grammy Awards" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0NDEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=F6dkQNmenzjxX4Rfmgirr1LZt7C14A4T01wUTTWq9q0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 16 Nov 2026 22:18:28 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284441 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra Ouro Preto</title>
@@ -143,7 +223,6 @@
   <pubDate>Mon, 16 Nov 2026 17:49:57 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284439 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/roteiros/orquestra-ouro-preto-36#comments</comments>
     </item>
 <item>
   <title>Cantata Carmina Burana, de Carl Orff</title>
@@ -547,69 +626,6 @@
   <pubDate>Mon, 16 Nov 2026 16:42:36 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284427 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke</title>
-  <link>http://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ópera Conceição Evaristo: uma ópera escrevivência, de Juliana Ripke&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 16/11/2026 - 16:40&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada lírica. Ensaio aberto. Orquestra do Theatro São Pedro. Maíra Ferreira – direção musical. Julianna Santos – direção cênica. Julianna Santos – adaptação e libreto, sobre texto de Conceição Evaristo. Lorena Pires, Edna D’Oliveira e Marina Pereira – sopranos; Juliana Taino – mezzo soprano e Fúlvio Souza e Mar Oliveira – tenores. Ana Cursino Guariglia – pianista preparadora. Dirce Thomaz – atriz. Guilherme Rocha – assistente de direção musical. Cilene Guedes – assistente de direção cênica. Felipe Venâncio – direção de palco. Renata Mota – cenografia. Wagner Pinto – iluminação. Olintho Malaquias – figurino. Apresentação dias 20, 25 e 27 às 20h e dias 22 e 29 às 17h. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-18T19:00:00Z" class="datetime"&gt;qua, 18/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/theatro-sao-pedro-0" hreflang="und"&gt;Theatro São Pedro (636 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 16 Nov 2026 16:40:24 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284426 at http://concerto.com.br</guid>
     </item>
 
   </channel>
