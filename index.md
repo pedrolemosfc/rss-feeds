@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-17 22:31 UTC
+Generated: 2026-11-18 07:43 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,10 +22,10 @@ Generated: 2026-11-17 22:31 UTC
   notes: scraped 82 items
 - **folha-criticas-de-musica** [OK] items=48 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 48 items
-- **folha-show** [OK] items=48 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 48 items
-- **guia-restaurantes** [OK] items=86 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 86 items
+- **folha-show** [OK] items=47 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 47 items
+- **guia-restaurantes** [OK] items=87 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 87 items
 - **guia-shows** [OK] items=90 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 90 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -34,8 +34,8 @@ Generated: 2026-11-17 22:31 UTC
   notes: scraped 30 items
 - **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
   notes: scraped 10 items
-- **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
-  notes: scraped 20 items
+- **billboard-br-sergio-martins** [FAIL] items=0 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **xai-news** [OK] items=93 → `out/xai-news.xml`  source: https://x.ai/news  
@@ -96,12 +96,12 @@ Generated: 2026-11-17 22:31 UTC
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **suhai-music-hall** [FAIL] items=0 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
-  notes: scraped 50 events
+- **blue-note-sp** [FAIL] items=0 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
+  notes: no event items found
 - **arena-b3** [OK] items=3 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 3 events
-- **bourbon-street** [OK] items=18 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 18 events
+- **bourbon-street** [OK] items=19 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 19 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -122,12 +122,12 @@ Generated: 2026-11-17 22:31 UTC
   notes: scraped 26 events
 - **teatro-das-artes-sp** [OK] items=1 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 1 events
-- **casa-de-francisca** [OK] items=53 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 53 events
+- **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 50 events
 - **jazz-b** [OK] items=8 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 8 events
-- **cavern-club-sp** [OK] items=19 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 19 events
+- **cavern-club-sp** [OK] items=18 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 18 events
 - **manifesto-bar** [OK] items=11 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 11 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -174,8 +174,8 @@ Generated: 2026-11-17 22:31 UTC
   notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
@@ -191,7 +191,7 @@ Generated: 2026-11-17 22:31 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=176 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 176 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=176 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 176 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **folha-musica-topicos** [OK] items=175 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 175 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **guia-folha-restaurantes-shows** [OK] items=177 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 177 unique items (from ['guia-restaurantes', 'guia-shows'])
