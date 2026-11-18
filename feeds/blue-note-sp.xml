@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 17 Nov 2026 22:29:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 17:20:59 +0000</lastBuildDate>
 <item>
 <title>MILES DAVIS – 100 ANOS</title>
 <link>https://bluenotesp.com/shows/miles-davis-100-anos/</link>
@@ -337,6 +337,13 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>HEBER NUNES</title>
+<link>https://bluenotesp.com/shows/heber-nunes-genese/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/heber-nunes-genese/</guid>
+<pubDate>Thu, 03 Sep 2026 17:58:10 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>ANDRÉ FRATESCHI E PIERO DAMIANI</title>
 <link>https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/</guid>
@@ -348,13 +355,6 @@
 <link>https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</guid>
 <pubDate>Wed, 10 Jun 2026 18:31:49 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>TRIBUTO A MILES DAVIS – BITCHES BREW</title>
-<link>https://bluenotesp.com/shows/tributo-a-miles-davis-bitches-brew-musicman-jazz/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-miles-davis-bitches-brew-musicman-jazz/</guid>
-<pubDate>Wed, 10 Jun 2026 18:27:53 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>

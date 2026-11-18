@@ -12,7 +12,7 @@
 	<atom:link href="https://mis-sp.org.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mis-sp.org.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos do MIS-SP</description>
-	<lastBuildDate>Wed, 18 Nov 2026 07:40:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 17:20:34 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -2917,10 +2917,10 @@
 		<link>https://mis-sp.org.br/evento/abertura-mostra-de-cinema-israelense/</link>
 		
 		<dc:creator><![CDATA[Comunicação MIS-SP]]></dc:creator>
-		<pubDate>Tue, 24 Nov 2026 22:30:00 +0000</pubDate>
+		<pubDate>Tue, 24 Nov 2026 22:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://mis-sp.org.br/?post_type=tribe_events&#038;p=98612</guid>
 
-					<description><![CDATA[<p><strong>Exibição do filme</strong> <strong><em>Kupa Rashit: the movie</em></strong></p>
+					<description><![CDATA[<p>Exibição do filme “Kupa Rashit: The Movie”</p>
 <p>O post <a href="https://mis-sp.org.br/evento/abertura-mostra-de-cinema-israelense/">Abertura | Mostra de Cinema Israelense</a> apareceu primeiro em <a href="https://mis-sp.org.br">MIS</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div style="margin-bottom:var(--wp--preset--spacing--80)" class="mio-section-content-boxed align wp-block-museuio-companion-section"><div class="mio-section__content">
@@ -2937,7 +2937,7 @@
 <div style="--mio-bg-image-position: 66% 23%;--mio-bg-image-url: url(https://mis-sp.org.br/wp-content/uploads/2026/11/Israeal.jpg);--mio-cta-bg-color: #1a1a1a;--mio-cta-fg-color: #ffffff;--mio-title-bg-color: transparent;--mio-title-fg-color: #1a1a1a;--mio-top-bg-color: #c8ff00;--mio-top-fg-color: #1a1a1a;--mio-image-overlay-bg-color: transparent" class="has-mio-padding-block-medium has-mio-padding-inline-medium mio-preset-medium align wp-block-museuio-companion-featured-item-a"><div class="mio-piece-display">
 			<div class="mio-piece-display__top-wrapper">
 				<div class="mio-piece-display__top-box">
-					<p class="mio-piece-display__top">24.11<br>19H30</p> 
+					<p class="mio-piece-display__top">24.11<br>19H</p> 
 				</div>
 			</div>
 			<div class="mio-piece-display__info">
@@ -2987,7 +2987,7 @@
 						<ul class="tribe-events-c-subscribe-dropdown__list">
 															<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--gcal">
 									<a
-										href="https://www.google.com/calendar/event?action=TEMPLATE&#038;dates=20261124T193000/20261124T220000&#038;text=Abertura%20%7C%20Mostra%20de%20Cinema%20Israelense&#038;details=%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--20%29%3Bpadding-left%3Avar%28--wp--preset--spacing--30%29%22%3E%3Cp+class%3D%22has-mio-white-color+has-text-color+has-link-color+has-mio-regular-font-size%22+style%3D%22font-style%3Anormal%3Bfont-weight%3A700%22%3EON-LINE%3C%2Fp%3E+%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group+alignfull%22%3E%3Cp+class%3D%22has-mio-small-font-size%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--30%29%3Bmargin-bottom%3A0%22%3ELegenda%3C%2Fp%3E+%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--60%29%3Bmargin-bottom%3Avar%28--wp--preset--spacing--60%29%22%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22border-width%3A4px%3Bpadding-top%3Avar%28--wp--preset--spacing--60%29%3Bpadding-right%3Avar%28--wp--preset--spacing--60%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--6%3C%2Fdiv%3E+%28Veja+a+descri%C3%A7%C3%A3o+completa+de+evento+aqui%3A+https%3A%2F%2Fmis-sp.org.br%2Fevento%2Fabertura-mostra-de-cinema-israelense%2F%29&#038;trp=false&#038;ctz=America/Sao_Paulo&#038;sprop=website:https://mis-sp.org.br"
+										href="https://www.google.com/calendar/event?action=TEMPLATE&#038;dates=20261124T190000/20261124T220000&#038;text=Abertura%20%7C%20Mostra%20de%20Cinema%20Israelense&#038;details=%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--20%29%3Bpadding-left%3Avar%28--wp--preset--spacing--30%29%22%3E%3Cp+class%3D%22has-mio-white-color+has-text-color+has-link-color+has-mio-regular-font-size%22+style%3D%22font-style%3Anormal%3Bfont-weight%3A700%22%3EON-LINE%3C%2Fp%3E+%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group+alignfull%22%3E%3Cp+class%3D%22has-mio-small-font-size%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--30%29%3Bmargin-bottom%3A0%22%3ELegenda%3C%2Fp%3E+%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--60%29%3Bmargin-bottom%3Avar%28--wp--preset--spacing--60%29%22%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22border-width%3A4px%3Bpadding-top%3Avar%28--wp--preset--spacing--60%29%3Bpadding-right%3Avar%28--wp--preset--spacing--60%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--6%3C%2Fdiv%3E+%28Veja+a+descri%C3%A7%C3%A3o+completa+de+evento+aqui%3A+https%3A%2F%2Fmis-sp.org.br%2Fevento%2Fabertura-mostra-de-cinema-israelense%2F%29&#038;trp=false&#038;ctz=America/Sao_Paulo&#038;sprop=website:https://mis-sp.org.br"
 										class="tribe-events-c-subscribe-dropdown__list-item-link"
 										target="_blank"
 										rel="noopener noreferrer nofollow noindex"
@@ -3048,7 +3048,7 @@
 
 
 
-<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">19h30</p>
+<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">19h</p>
 </div>
 
 
@@ -3072,7 +3072,7 @@
 
 
 
-<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">Auditório MIS<strong>&nbsp;</strong>(172 lugares)</p>
+<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">Auditório MIS<strong> </strong>(168 lugares)</p>
 </div>
 
 
@@ -3093,7 +3093,47 @@
 
 
 
-<p class="wp-block-paragraph">Realizada pelo quinto ano consecutivo, a mostra reafirma o cinema como espaço de encontro, troca e diálogo entre diferentes experiências e perspectivas.&nbsp;</p>
+<p class="wp-block-paragraph">Realizada pelo quinto ano consecutivo, a mostra reafirma o cinema como espaço de encontro, troca e diálogo entre diferentes experiências e perspectivas.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Na edição de 2026, a Mostra de Cinema Israelense traz o tema “Rir para sobreviver: humor, ironia e resiliência no cinema israelense”, propondo um mergulho na tradição que há muito tempo ocupa um lugar singular na experiência judaica: a do humor. Da literatura ídiche dos shtetls da Europa Oriental aos palcos, jornais e telas do século 20, a capacidade de rir de si mesmo tornou-se não apenas uma expressão cultural, mas também uma forma de enfrentar as incertezas da existência.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">A seleção de filmes desta quinta edição, que tem curadoria de Bruno Szlak, revela como o humor permanece uma poderosa ferramenta para compreender a sociedade israelense contemporânea. Em um país marcado por conflitos, tensões políticas, desafios econômicos, transformações culturais e profundas divisões internas, a comédia frequentemente funciona como uma válvula de escape coletiva.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">O filme <strong>Kupa Rashit: The Movie</strong>, que será exibido no dia da abertura no MIS, traz de volta os personagens da série <em>Kupa Rashit</em>, que são acusados de um crime grave e precisam deixar o supermercado de Yavne para provar sua inocência. “O supermercado, espaço aparentemente banal, transforma-se em microcosmo da sociedade israelense, onde diferenças étnicas, religiosas, econômicas e geracionais convivem em permanente estado de negociação — e de confusão”, afirma o curador da mostra.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">A programação completa, com informações sobre os demais filmes da mostra, locais de exibição e valores, pode ser conferida no site do Instituto Brasil-Israel: <a href="https://www.institutobrasilisrael.org/5a-mostra-de-cinema-israelense/#filmes">https://www.institutobrasilisrael.org/5a-mostra-de-cinema-israelense/#filmes</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">&nbsp;</p>
 
 
 
@@ -3105,7 +3145,7 @@
 
 
 
-<p class="wp-block-paragraph"><strong>19h30 | Exibição do filme</strong> <strong><em>Kupa Rashit: the movie</em></strong> <strong>(2026, 91 min, Israel)</strong>&nbsp;</p>
+<p class="wp-block-paragraph"><strong>19h30 | Exibição do filme</strong> &#8220;<strong>Kupa Rashit: The Movie&#8221;</strong> <strong>(2026, 91 min, Israel)</strong> </p>
 
 
 
@@ -3385,7 +3425,7 @@
 
 
 
-<p class="wp-block-paragraph">Nesse contexto, tão desigual e infelizmente muito parecido com o Brasil de hoje, um par de tênis importados, carros de luxo e roupas de grife são objetos de desejo. Assaltos e sequestros assolam o país. Enquanto um plano econômico insano congela as contas bancárias de toda a população, o presidente com cara de galã, passeia de jet ski e desfila ao lado de sua submissa esposa.&nbsp;</p>
+<p class="wp-block-paragraph">Nesse contexto, tão desigual e infelizmente muito parecido com o Brasil de hoje, um par de tênis importados, carros de luxo e roupas de grife são objetos de desejo. Assaltos e sequestros assolam o país. Enquanto um plano econômico insano congela as contas bancárias de toda a população, o presidente com cara de galã passeia de jet ski e desfila ao lado de sua submissa esposa.&nbsp;</p>
 
 
 
@@ -3397,7 +3437,7 @@
 
 
 
-<p class="wp-block-paragraph">O conflito começa quando o filho da empregada de um poderoso publicitário é sequestrado por engano. O garoto é confundido com o filho do milionário por conta de suas características físicas. O garoto loiro de olhos azuis é levado para o cativeiro. O fato em si já seria trágico o suficiente, mas o poderoso publicitário vai além e não revela à imprensa o engano, usando o acontecimento a seu favor. Ele esconde seu filho verdadeiro enquanto utiliza o sequestro do menino para enganar a polícia e lavar uma grande quantidade de dinheiro sujo, proveniente de negociatas e propinas políticas.</p>
+<p class="wp-block-paragraph">O conflito começa quando o filho da empregada de um poderoso publicitário é sequestrado por engano. O garoto é confundido com o filho do milionário por conta de suas características físicas. O garoto loiro de olhos azuis é levado para o cativeiro. O fato em si já seria trágico o suficiente, mas o poderoso publicitário vai além e não revela à imprensa o engano, usando o acontecimento a seu favor. Ele esconde seu filho verdadeiro enquanto utiliza o sequestro do menino para enganar a polícia e lavar uma grande quantidade de dinheiro sujo, proveniente de negociatas e propinas políticas.&nbsp;</p>
 
 
 
@@ -3413,15 +3453,11 @@
 
 
 
-<p class="wp-block-paragraph"><strong>Camila Raffanti</strong> é roteirista há mais de quinze anos, estudou rádio e televisão na FAAP e é licenciada em artes cênicas pela Unesp. Integrou a equipe de roteiro das quatro temporadas da série <em>O negócio</em> (HBO), é criadora e roteiras de <em>Rio Heroes</em> (Fox Premium) e colaborou em produções como <em>Sítio do Picapau Amarelo</em> (TV Globo) e <em>Mothern</em> (GNT). Também escreveu os roteiros do longa <em>Pronto, falei</em> e das produções da Netflix <em>Olhar indiscreto</em> e <em>O lado bom de ser traída</em>, ambas entre as mais assistidas da plataforma em 2023. Entre seus trabalhos mais recentes mais recentes estão o filme <em>Pecadora</em>, com estreia prevista para novembro de 2026, e uma nova série original para o Globoplay com lançamento programado para 2027.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>Camila Raffanti</strong> é roteirista há mais de quinze anos.&nbsp;Estudou rádio e televisão na FAAP e é licenciada em artes cênicas pela Unesp. Integrou a equipe de roteiro das quatro temporadas da série <em>O negócio</em> (HBO), é criadora e roteirista de <em>Rio Heroes</em> (Fox Premium) e colaborou em produções como <em>Sítio do Picapau Amarelo</em> (TV Globo) e <em>Mothern</em> (GNT). Também escreveu os roteiros do longa <em>Pronto, falei</em> e das produções da Netflix <em>Olhar indiscreto</em> e <em>O lado bom de ser traída</em>, ambas entre as mais assistidas da plataforma em 2023. Entre seus trabalhos mais recentes, estão o filme <em>Pecadora</em>, com estreia prevista para novembro de 2026, e uma nova série original para o Globoplay com lançamento programado para 2027.&nbsp;&nbsp;</p>
 
 
 
-<p class="wp-block-paragraph">APCA de melhor programa de TV em 2017.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph"><strong>João Daniel Tikhomiroff</strong> é fundador e presidente executivo da Mixer Films e um dos principais nomes da produção audiovisual brasileira. Iniciou sua trajetória na publicidade, área em que conquistou 41 Leões no Festival Internacional de Criatividade de Cannes. No audiovisual, dirigiu e produziu mais de cinquenta séries, documentários e longas-metragens para plataformas e emissoras como HBO/Max, Netflix, Globo, Globoplay, Disney, SBT e Fox. Entre seus trabalhos de destaque estão o filme <em>Besouro</em>, a série <em>Escola de gênios</em>, <em>A garota da moto</em>, <em>Julie os fantasmas</em>, <em>O negócio</em> e a minissérie documental <em>30 segundos</em>. Seus projetos receberam reconhecimento em festivais e premiações nacionais e internacionais, fortalecendo a sua atuação como diretor, produtor e criador de conteúdo.</p>
+<p class="wp-block-paragraph"><strong>João Daniel Tikhomiroff</strong> é fundador e presidente executivo da Mixer Films e um dos principais nomes da produção audiovisual brasileira. Iniciou sua trajetória na publicidade, área em que conquistou 41 Leões no Festival Internacional de Criatividade de Cannes. No audiovisual, dirigiu e produziu mais de cinquenta séries, documentários e longas-metragens para plataformas e emissoras como HBO Max, Netflix, Globo, Globoplay, Disney, SBT e Fox. Entre seus trabalhos de destaque, estão o filme <em>Besouro</em>, as séries <em>Escola de gênios</em>, <em>A garota da moto</em>, <em>Julie os fantasmas</em>, <em>O negócio</em> e a minissérie documental <em>30 segundos</em>. Seus projetos receberam reconhecimento em festivais e premiações nacionais e internacionais, fortalecendo a sua atuação como diretor, produtor e criador de conteúdo.&nbsp;</p>
 
 
 
@@ -4987,7 +5023,7 @@
 
 
 
-<p class="wp-block-paragraph">Após a sessão, será realizado um bate-papo com a presença do escritor <strong>André Alves&nbsp;</strong>e&nbsp;da psicanalista&nbsp;<strong>Patrícia Vianna Getlinger</strong>.&nbsp;</p>
+<p class="wp-block-paragraph">Após a sessão, será realizado um bate-papo com a presença do escritor e psicanalista <strong>André Alves</strong> e da psicanalista <strong>Patrícia Vianna Getlinger</strong>.&nbsp;</p>
 
 
 
@@ -5011,11 +5047,11 @@
 
 
 
-<p class="wp-block-paragraph"><strong>André Alves</strong> é escritor, pesquisador e psicanalista, cofundador da floatvibes e co-host do podcast <em>Vibes em Análise</em>. </p>
+<p class="wp-block-paragraph"><strong>André Alves</strong> é psicanalista, pesquisador e escritor. Apresenta o podcast <em>Vibes em Análise</em> e é coautor do livro Vibes em análise: psicanálise para escutar as vibrações da cultura contemporânea, publicado pela Companhia Editora Nacional em 2023. Também é criador do &#8220;Psicanálise selvagem&#8221;, um projeto dedicado à&nbsp;análise de personagens ficcionais de filmes e séries.&nbsp;</p>
 
 
 
-<p class="wp-block-paragraph"><strong>Patrícia Vianna Getlinger</strong>&nbsp;é membro efetivo e docente da Sociedade Brasileira de Psicanálise de São Paulo e Membro do Departamento de Psicanálise do Sedes Sapientiae. Autora de <em>Transmissão inconsciente e valor sentimental</em>, publicado na <em>Revista Brasileira de Psicanálise</em> (volume 60, n. 2, 2026).&nbsp;</p>
+<p class="wp-block-paragraph"><strong>Patrícia Vianna Getlinger</strong> é membro efetivo e docente da Sociedade Brasileira de Psicanálise de São Paulo e Membro do Departamento de Psicanálise do Sedes Sapientiae. Autora de <em>Transmissão inconsciente e valor sentimental</em>, publicado na <em>Revista Brasileira de Psicanálise</em> (volume 60, n. 2, 2026).&nbsp;</p>
 
 
 
@@ -5023,7 +5059,7 @@
 
 
 
-<p class="wp-block-paragraph">O filme <em>Valor sentimental</em>, de Joachim Trier, inicia-se com a narração de um texto escrito por Nora na infância, no qual ela imagina a própria casa como um ser vivo. Testemunha silenciosa da história familiar, esse espaço guarda marcas e segredos de várias gerações e convida a pensar sobre os laços invisíveis da transmissão transgeracional. Em seguida, vemos Nora, já adulta e consagrada como atriz, ser tomada por uma angústia que a paralisa no exato momento de entrar em cena. No decorrer da trama, sem explicações diretas, entrevemos os sofrimentos impronunciáveis que parecem sustentar esse sintoma. &nbsp;</p>
+<p class="wp-block-paragraph">O filme <em>Valor sentimental</em>, de Joachim Trier, inicia-se com a narração de um texto escrito por Nora na infância, no qual ela imagina a própria casa como um ser vivo. Testemunha silenciosa da história familiar, esse espaço guarda marcas e segredos de várias gerações e convida a pensar sobre os laços invisíveis da transmissão transgeracional. Em seguida, vemos Nora, já adulta e consagrada como atriz, ser tomada por uma angústia que a paralisa no exato momento de entrar em cena. No decorrer da trama, sem explicações diretas, entrevemos os sofrimentos impronunciáveis que parecem sustentar esse sintoma.&nbsp;&nbsp;</p>
 
 
 
@@ -5103,7 +5139,7 @@
 		<link>https://mis-sp.org.br/evento/lancamento-de-livro-mundo-portatil-estetica-e-ideologia-da-representacao-fotografica-de-boris-kossoy/</link>
 		
 		<dc:creator><![CDATA[Comunicação MIS-SP]]></dc:creator>
-		<pubDate>Wed, 02 Dec 2026 22:00:00 +0000</pubDate>
+		<pubDate>Wed, 02 Dec 2026 21:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://mis-sp.org.br/?post_type=tribe_events&#038;p=98598</guid>
 
 					<description><![CDATA[<p>Lançamento do livro de <strong>Boris Kossoy</strong> seguida de sessão de autógrafos com a presença do autor.</p>
@@ -5129,7 +5165,7 @@
 <div style="--mio-bg-image-position: 64% 17%;--mio-bg-image-url: url(https://mis-sp.org.br/wp-content/uploads/2026/11/foto-05.jpeg);--mio-cta-bg-color: #1a1a1a;--mio-cta-fg-color: #ffffff;--mio-title-bg-color: transparent;--mio-title-fg-color: #1a1a1a;--mio-top-bg-color: #c8ff00;--mio-top-fg-color: #1a1a1a;--mio-image-overlay-bg-color: transparent" class="has-mio-padding-block-medium has-mio-padding-inline-medium mio-preset-medium align wp-block-museuio-companion-featured-item-a"><div class="mio-piece-display">
 			<div class="mio-piece-display__top-wrapper">
 				<div class="mio-piece-display__top-box">
-					<p class="mio-piece-display__top">02.12<br>QUA<br>19H</p> 
+					<p class="mio-piece-display__top">02.12<br>QUA<br>18H</p> 
 				</div>
 			</div>
 			<div class="mio-piece-display__info">
@@ -5179,7 +5215,7 @@
 						<ul class="tribe-events-c-subscribe-dropdown__list">
 															<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--gcal">
 									<a
-										href="https://www.google.com/calendar/event?action=TEMPLATE&#038;dates=20261202T190000/20261202T220000&#038;text=Lan%C3%A7amento%20de%20livro%20%7C%20%26%238220%3BMundo%20port%C3%A1til%3A%20est%C3%A9tica%20e%20ideologia%20da%20representa%C3%A7%C3%A3o%20fotogr%C3%A1fica%26%238221%3B%2C%20de%20Boris%20Kossoy&#038;details=%3Cdiv+class%3D%22wp-block-group%22%3E%3Ch2+class%3D%22wp-block-heading+is-style-mio-remove-margin-block+has-poppins-font-family+has-mio-subheader-1-font-size%22+style%3D%22text-transform%3Anone%22%3ELan%C3%A7amento+de+livro%3C%2Fh2%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--40%29%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--20%29%3Bpadding-left%3Avar%28--wp--preset--spacing--30%29%22%3E%3Cp+class%3D%22has-mio-white-color+has-text-color+has-link-color+has-mio-regular-font-size%22+style%3D%22font-style%3Anormal%3Bfont-weight%3A700%22%3EON-LINE%3C%2Fp%3E+%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3C%2Fdiv%3E%3C%2Fdiv%3E+%28Veja+a+descri%C3%A7%C3%A3o+completa+de+evento+aqui%3A+https%3A%2F%2Fmis-sp.org.br%2Fevento%2Flancamento-de-livro-mundo-portatil-estetica-e-ideologia-da-representacao-fotografica-de-boris-kossoy%2F%29&#038;trp=false&#038;ctz=America/Sao_Paulo&#038;sprop=website:https://mis-sp.org.br"
+										href="https://www.google.com/calendar/event?action=TEMPLATE&#038;dates=20261202T180000/20261202T220000&#038;text=Lan%C3%A7amento%20de%20livro%20%7C%20%26%238220%3BMundo%20port%C3%A1til%3A%20est%C3%A9tica%20e%20ideologia%20da%20representa%C3%A7%C3%A3o%20fotogr%C3%A1fica%26%238221%3B%2C%20de%20Boris%20Kossoy&#038;details=%3Cdiv+class%3D%22wp-block-group%22%3E%3Ch2+class%3D%22wp-block-heading+is-style-mio-remove-margin-block+has-poppins-font-family+has-mio-subheader-1-font-size%22+style%3D%22text-transform%3Anone%22%3ELan%C3%A7amento+de+livro%3C%2Fh2%3E%3Cdiv+class%3D%22wp-block-group%22+style%3D%22margin-top%3Avar%28--wp--preset--spacing--40%29%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3Bpadding-bottom%3Avar%28--wp--preset--spacing--20%29%3Bpadding-left%3Avar%28--wp--preset--spacing--30%29%22%3E%3Cp+class%3D%22has-mio-white-color+has-text-color+has-link-color+has-mio-regular-font-size%22+style%3D%22font-style%3Anormal%3Bfont-weight%3A700%22%3EON-LINE%3C%2Fp%3E+%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group%22%3E%3Cdiv+class%3D%22wp-block-group+has-mio-black-background-color+has-background+has-mio-x-small-font-size%22+style%3D%22padding-top%3Avar%28--wp--preset--spacing--20%29%3Bpadding-right%3Avar%28--wp--preset--spacing--30%29%3C%2Fdiv%3E%3C%2Fdiv%3E+%28Veja+a+descri%C3%A7%C3%A3o+completa+de+evento+aqui%3A+https%3A%2F%2Fmis-sp.org.br%2Fevento%2Flancamento-de-livro-mundo-portatil-estetica-e-ideologia-da-representacao-fotografica-de-boris-kossoy%2F%29&#038;trp=false&#038;ctz=America/Sao_Paulo&#038;sprop=website:https://mis-sp.org.br"
 										class="tribe-events-c-subscribe-dropdown__list-item-link"
 										target="_blank"
 										rel="noopener noreferrer nofollow noindex"
@@ -5240,7 +5276,7 @@
 
 
 
-<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">Às 19h</p>
+<p class="is-style-mio-remove-margin-block has-mio-regular-font-size wp-block-paragraph">Às 18h</p>
 </div>
 
 
