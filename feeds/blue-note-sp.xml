@@ -6,7 +6,7 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 19 Nov 2026 00:30:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 10:29:11 +0000</lastBuildDate>
 <item>
 <title>BIA GOES CANTA LENY, ROSA E JOYCE</title>
 <link>https://bluenotesp.com/shows/bia-goes-canta-leny-rosa-e-joyce/</link>
@@ -169,13 +169,6 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>ROLLING STONE SESSIONS APRESENTA: HURRICANES</title>
-<link>https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/</guid>
-<pubDate>Tue, 27 Oct 2026 15:51:40 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
 <title>TERRA CELTA</title>
 <link>https://bluenotesp.com/shows/terra-celta/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/terra-celta/</guid>
@@ -295,13 +288,6 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>MARCELO RUBENS PAIVA</title>
-<link>https://bluenotesp.com/shows/marcelo-rubens-paiva/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/marcelo-rubens-paiva/</guid>
-<pubDate>Thu, 01 Oct 2026 15:01:33 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
 <title>ED MOTTA QUARTETO</title>
 <link>https://bluenotesp.com/shows/ed-motta-quarteto-12dez/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/ed-motta-quarteto-12dez/</guid>
@@ -344,6 +330,13 @@
 <description>Blue Note SP</description>
 </item>
 <item>
+<title>HEBER NUNES</title>
+<link>https://bluenotesp.com/shows/heber-nunes-genese/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/heber-nunes-genese/</guid>
+<pubDate>Thu, 03 Sep 2026 17:58:10 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
 <title>ANDRÉ FRATESCHI E PIERO DAMIANI</title>
 <link>https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/</guid>
@@ -355,6 +348,13 @@
 <link>https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</guid>
 <pubDate>Wed, 10 Jun 2026 18:31:49 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>TRIBUTO MILTON NASCIMENTO – MUSICMAN JAZZ</title>
+<link>https://bluenotesp.com/shows/tributo-milton-nascimento-musicman-jazz-geraes-50-anos/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-milton-nascimento-musicman-jazz-geraes-50-anos/</guid>
+<pubDate>Wed, 10 Jun 2026 18:29:53 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>

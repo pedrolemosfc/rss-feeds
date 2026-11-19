@@ -6,7 +6,14 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 19 Nov 2026 00:31:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 10:29:39 +0000</lastBuildDate>
+<item>
+<title>Marcos Valle e Convidados</title>
+<link>https://www.cinejoia.com.br/eventos/marcos-valle-e-convidados/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/marcos-valle-e-convidados/</guid>
+<pubDate>Wed, 18 Nov 2026 15:09:10 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
 <item>
 <title>uma produtora na sim sp 2026</title>
 <link>https://www.cinejoia.com.br/eventos/uma-produtora-na-sim-sp-2026/</link>
@@ -348,13 +355,6 @@
 <link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</guid>
 <pubDate>Tue, 30 Jun 2026 11:55:25 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
-<title>Mãeana Canta Jg</title>
-<link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</guid>
-<pubDate>Fri, 26 Jun 2026 11:48:03 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>

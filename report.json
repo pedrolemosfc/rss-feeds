@@ -3,9 +3,9 @@
     "name": "folha-jazz",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/jazz/",
     "output": "out/folha-jazz.xml",
-    "items": 82,
+    "items": 81,
     "ok": true,
-    "notes": "scraped 82 items"
+    "notes": "scraped 81 items"
   },
   {
     "name": "folha-criticas-de-musica",
@@ -155,9 +155,9 @@
     "name": "folha-musica-topicos",
     "source_url": "https://www1.folha.uol.com.br/folha-topicos/",
     "output": "out/folha-musica-topicos.xml",
-    "items": 175,
+    "items": 174,
     "ok": true,
-    "notes": "merged 3 feeds -> 175 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
+    "notes": "merged 3 feeds -> 174 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])"
   },
   {
     "name": "guia-folha-restaurantes-shows",
@@ -432,9 +432,9 @@
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 9,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 50,
+    "items": 46,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 46 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 8,
+    "items": 6,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 6 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 50,
+    "ok": true,
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
