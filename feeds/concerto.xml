@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 18 Nov 2026 17:20:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:30:16 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc0MyIsImRpc2xpa2VzIjoiMCJ9?token=qkwpZOiCYaHUkWk4x8F4Kau1JCsMrNc6m0IgaaTKN_U?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc0NSIsImRpc2xpa2VzIjoiMCJ9?token=ysCiw8i8L2YwWkzPN2ivUAwqNsB7Er6rtv0JniamjfA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;743&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;745&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,459 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Osesp convida maestro David Robertson e pianista Orli Shaham</title>
+  <link>http://concerto.com.br/noticias/musica-classica/osesp-convida-maestro-david-robertson-e-pianista-orli-shaham</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Osesp convida maestro David Robertson e pianista Orli Shaham&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 19, a Orquestra Sinfônica do Estado de São Paulo recebe o maestro David Robertson. A solista será a pianista Orli Shaham, que toca o &lt;em&gt;Concerto nº 2&lt;/em&gt; de Chopin, também na sexta-feira, 20, e no sábado, 21. No domingo, 22, Shaham realiza recital solo com obras de Clara Schumann, Chopin e Sarah Kirkland Snider.&lt;/p&gt;
+&lt;p&gt;David Robertson é conhecido por suas gravações premiadas. Em 2021, venceu o prêmio Grammy na categoria Melhor Gravação de Ópera com Porgy and Bess, de Gershwin, ao lado da Metropolitan Opera. Além disso, é reconhecido como Cavaleiro da Ordem das Artes e das Letras pelo governo francês e atua como diretor dos estudos de regência da Juilliard School.&lt;/p&gt;
+&lt;p&gt;O programa joga luz sobre o bel canto italiano. A abertura de &lt;em&gt;Il pirata&lt;/em&gt;, de Bellini, introduz a história de um nobre da Sicília que retorna a sua casa e descobre que sua amada foi forçada a se casar. A abertura concentra os contrastes e a carga dramática presentes no restante da ópera, estreada em 1827 no Teatro alla Scala, em Milão.&lt;/p&gt;
+&lt;p&gt;A escrita vocal influenciou o &lt;em&gt;Concerto para piano nº 2, op. 21&lt;/em&gt;, de Chopin. Nele, o compositor prioriza a criatividade e a expressividade do solista, que desenvolve os temas apresentados pela orquestra no primeiro movimento. O segundo movimento,&lt;em&gt; Larghetto&lt;/em&gt;, propõe frases longas e refinadas, semelhantes às da escrita operística, que depois dão lugar a um recitativo. A solista, Orli Shaham, é reconhecida com prêmios como o Gilmore Young Artist Award e o Avery Fisher Career Grant, além de lecionar na Juilliard School.&lt;/p&gt;
+&lt;p&gt;A veia moderna do programa aparece com &lt;em&gt;Naïve and Sentimental Music&lt;/em&gt;, de John Adams. A obra de 1999 representa os dilemas e as transformações da escrita musical do século XX ao respeitar a escrita sistemática do minimalismo e, ao mesmo tempo, recuperar a clareza rítmica e harmônica e o refinamento melódico característico dos períodos anteriores. A combinação entre estilos contrastantes também aparece na instrumentação, que une a orquestra a sintetizadores e à guitarra elétrica.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-19"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em&lt;/span&gt; &lt;span style="color:#7f0000;"&gt;São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="David Robertson [Divulgação/ Chris Lee]" data-entity-type="file" data-entity-uuid="fe692695-7074-40dd-b443-cc2f8ff6246d" src="http://concerto.com.br/sites/default/files/inline-images/w-Robertson.jpg" /&gt;
+&lt;figcaption&gt;David Robertson [Divulgação/ Chris Lee]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 22:38&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Robertson.jpg" width="900" height="1086" alt="David Robertson [Divulgação/ Chris Lee]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0OTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=qLC-VfjRkw6iAp8SyZZGA8famiPam8ItdNqHNCifj6Q?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 22:38:43 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284496 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Jan Wagner rege a Filarmônica de Minas Gerais e Leonardo Hilsdorf em obras de Grieg e Nielsen</title>
+  <link>http://concerto.com.br/noticias/musica-classica/jan-wagner-rege-filarmonica-de-minas-gerais-e-leonardo-hilsdorf-em-obras</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Jan Wagner rege a Filarmônica de Minas Gerais e Leonardo Hilsdorf em obras de Grieg e Nielsen&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quinta-feira, 19, o maestro Jan Wagner rege a Orquestra Filarmônica de Minas Gerais e recebe o pianista Leonardo Hilsdorf na Sala Minas Gerais. Orquestra e solista tocam o Concerto para piano em lá menor, de Grieg. Obras de Nielsen completam o repertório das apresentações.&lt;/p&gt;
+&lt;p&gt;O venezuelano Jan Wagner tem mais de 30 anos de experiência com orquestras ao redor do mundo. Vencedor do concurso dinamarquês Nikolai Malko para jovens regentes, em 1995, regeu algumas das mais importantes orquestras escandinavas, como as filarmônicas reais de Helsinque e Estocolmo e a Orquestra da Rádio Norueguesa.&lt;/p&gt;
+&lt;p&gt;O repertório do concerto é dedicado à música escandinava. A &lt;em&gt;Abertura Helios, op. 17&lt;/em&gt;, do dinamarquês Carl Nielsen, aproveita o símbolo do deus grego do Sol para retratar musicalmente o amanhecer sobre o Mar Egeu, memória do período em que o compositor viveu na Grécia. Também de Nielsen, a &lt;em&gt;Sinfonia nº 5 &lt;/em&gt;foi composta em 1920 e conta com dois movimentos contrastantes. A oposição, como expressam as &lt;a href="https://filarmonica.art.br/wp-content/uploads/2025/10/2026_AV9_Programa-vWeb.pdf"&gt;&lt;u&gt;notas de programa do concerto&lt;/u&gt;&lt;/a&gt;, está alinhada com a mentalidade do autor diante de suas obras, que dizia: “A única coisa que a música, no fim, pode expressar (são) forças de repouso em contraste com forças ativas”.&lt;/p&gt;
+&lt;p&gt;Com Leonardo Hilsdorf, a orquestra toca O Concerto para piano em lá menor de Grieg. O compositor noruguês escreveu a obra, em 1868, durante sua estadia na Dinamarca. Embora o &lt;em&gt;Concerto para piano em lá menor &lt;/em&gt;de Schumann tenha servido de inspiração para a obra, a influência da música folclórica norueguesa se revela na dança presente no terceiro movimento.&lt;/p&gt;
+&lt;p&gt;Veja &lt;a href="https://www.concerto.com.br/roteiros/2026-11-19"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
+Notícias&lt;u&gt;&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
+&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Leonardo Hilsdorf [Reprodução/ Instagram]" data-entity-type="file" data-entity-uuid="cceb3b41-0db8-4e30-8640-c802433838da" src="http://concerto.com.br/sites/default/files/inline-images/w-hilsdorf_0.jpg" /&gt;
+&lt;figcaption&gt;Leonardo Hilsdorf [Reprodução/ Instagram]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 22:21&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-hilsdorf_0.jpg" width="900" height="633" alt="Leonardo Hilsdorf [Reprodução/ Instagram]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0OTUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=vkB537Y-xZMddEM8ORFpn5tZzadMMl59qwczcR0DZeA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 22:21:59 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284495 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Cia. Jovem de Dança</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-cia-jovem-de-danca-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Cia. Jovem de Dança&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 21:49&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculos Trama de nós (estreia), coreográfica de Ingrid Silva; Aroeira, coreografia de Anelita Gallo; e Quando o sol encontrou a lua, de Antonio Gomes.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-10T19:00:00Z" class="datetime"&gt;qui, 10/12/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/207890" hreflang="pt-br"&gt;Teatro do Colégio Santa Cruz&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, distribuição de ingressos uma hora antes do espetáculo.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 21:49:50 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284494 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>São Paulo Cia. Jovem de Dança</title>
+  <link>http://concerto.com.br/roteiros/sao-paulo-cia-jovem-de-danca</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;São Paulo Cia. Jovem de Dança&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 21:46&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Espetáculos Trama de nós (pré-estreia), coreográfica de Ingrid Silva; Aroeira, coreografia de Anelita Gallo, e Quando o sol encontrou a lua, de Antonio Gomes. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 10/12 às 19h no Teatro do Colégio Santa Cruz, em São Paulo.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-20T20:00:00Z" class="datetime"&gt;sex, 20/11/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1574" hreflang="pt-br"&gt;Garça, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-miguel-monico" hreflang="und"&gt;Teatro Municipal Sala Miguel Monico&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca, distribuição de ingressos uma hora antes do espetáculo.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 21:46:05 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284493 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>2026_Ospa_15nov_30nov_FB</title>
+  <link>http://concerto.com.br/node/284492</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026_Ospa_15nov_30nov_FB&lt;/span&gt;
+
+  &lt;div class="field field--name-field-banner field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/banner/2026-11/2026_Ospa_15nov_30nov_FB.gif" width="728" height="91" alt="Fullbanner Ospa Novembro 2026" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/guilhermelukesic" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Luiza&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 20:58&lt;/span&gt;
+
+  &lt;div class="field field--name-field-banner-link field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Link&lt;/div&gt;
+              &lt;div class="field__item"&gt;https://ospa.rs.gov.br/1-premio-internacional-de-composicao-ospa-banrisul&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-visualizacoes-publicidade field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Visualizações&lt;/div&gt;
+              &lt;div class="field__item"&gt;101&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-controle-banner field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Controle Banner&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nenhuma Opção&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-flag-publicidade field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Não exibir flag de Publicidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 20:58:09 +0000</pubDate>
+    <dc:creator>Luiza</dc:creator>
+    <guid isPermaLink="false">284492 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Duo Brutalust </title>
+  <link>http://concerto.com.br/roteiros/duo-brutalust</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duo Brutalust &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 20:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Maria Sappho (EUA) - piano, compositora e pesquisadora e Colin Frank (Canadá) - percussão, compositor e artista sonoro. Programa: o duo investiga as fronteiras entre improvisação livre, música experimental e novas tecnologias sonoras. Teatro.&lt;br /&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-15T20:00:00Z" class="datetime"&gt;ter, 15/12/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-24-de-maio" hreflang="pt-br"&gt;Sesc 24 de Maio (216 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 15 a R$ 50.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 20:01:38 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284491 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Orquestra Forte de Copacabana </title>
+  <link>http://concerto.com.br/roteiros/orquestra-forte-de-copacabana-12</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Forte de Copacabana &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 19:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Luiz Potter - regente. Programa: Programa: Joe Garland – In the Mood; Redd Evans / David Mann – No Moon at All; Pablo Beltrán Ruiz / Luis Demetrio, letra em inglês de Norman Gimbel – Sway (¿Quién será?); Jacob do Bandolim – Santa Morena; Moacir Santos / Nei Lopes – Oduduá; Dámaso Pérez Prado – Mambo nº 5; Tom Jobim / Vinícius de Moraes – Chega de Saudade (cantado); João Donato / Gilberto Gil – Bananeira; Lupicínio Rodrigues e Felisberto Martins – Se Acaso Você Chegasse; Russo Passapusso, Antônio Carlos / Jocafi – Vapor de Cachoeira.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-28T18:00:00Z" class="datetime"&gt;sab, 28/11/2026 - 18:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/forte-de-copacabana" hreflang="und"&gt;Forte de Copacabana&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Nov 2026 19:50:12 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284490 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Orquestra de Sopros de Novo Hamburgo</title>
@@ -144,469 +597,6 @@
   <pubDate>Wed, 18 Nov 2026 14:19:57 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284486 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Brasil Jazz Sinfônica</title>
-  <link>http://concerto.com.br/roteiros/orquestra-brasil-jazz-sinfonica-10</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Brasil Jazz Sinfônica&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 14:19&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Retratos do Brasil. João Maurício Galindo - regente. Késia - cantora. Programa: uma homenagem a Elza Soares. Teatro Paulo Autran.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-28T20:00:00Z" class="datetime"&gt;sab, 28/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 12 a R$ 40. Vendas em pelo site https://www.sescsp.org.br, pelo app Credencial Sesc SP ou nas bilheterias das unidades do Sesc São Paulo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 14:19:15 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284485 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Brasil Jazz Sinfônica</title>
-  <link>http://concerto.com.br/roteiros/orquestra-brasil-jazz-sinfonica-9</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Brasil Jazz Sinfônica&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 14:16&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Retratos do Brasil. João Maurício Galindo - regente. Késia - cantora. Programa: uma homenagem a Elza Soares. Teatro Paulo Autran.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 28 às 20h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-27T20:00:00Z" class="datetime"&gt;sex, 27/11/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/sesc-pinheiros" hreflang="und"&gt;Sesc Pinheiros&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 12 a R$ 40. Vendas em pelo site https://www.sescsp.org.br, pelo app Credencial Sesc SP ou nas bilheterias das unidades do Sesc São Paulo.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 14:16:30 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284484 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Grupo Chorolê  – The Israeli Choro Ensemble (Israel)</title>
-  <link>http://concerto.com.br/roteiros/grupo-chorole-israeli-choro-ensemble-israel</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Grupo Chorolê  – The Israeli Choro Ensemble (Israel)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 13:39&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Espetáculo Chorolê – Concerto. Salit Lahav – flauta e acordeon, Jonathan Hadas – clarinete, Daniel Ring – cavaquinho, Nir Steinberg – violão de 7 cordas e Oded Aloni – pandeiro e percussão. Programa: obras de Bach, Chopin, Tchaikovsky, Radamés Gnattali, Moacir Santos e Jacob do Bandolim.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-29T18:00:00Z" class="datetime"&gt;dom, 29/11/2026 - 18:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/unibes-cultural" hreflang="und"&gt;Unibes Cultural (296 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 80. Vendas: https://www.sympla.com.br/evento/chorole-the-israeli-choro-ensemble.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 13:39:32 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284483 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Morre Nelson Dupré, arquiteto responsável pelo projeto da Sala São Paulo</title>
-  <link>http://concerto.com.br/noticias/musica-classica/morre-nelson-dupre-arquiteto-responsavel-pelo-projeto-da-sala-sao-paulo</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Morre Nelson Dupré, arquiteto responsável pelo projeto da Sala São Paulo&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Morreu ontem, dia 17, o arquiteto Nelson Dupré, aos 79 anos. Um dos principais nomes da arquitetura brasileira, ele foi responsável pelo projeto da Sala São Paulo, nos anos 1990, e, mais recentemente, pelo retrofit da Estão Motiva Cultural. A causa da morte não foi divulgada. Dupré também era professor da Universidade Mackenzie. &lt;/p&gt;
-&lt;p&gt;Dupré conduziu o projeto de restauro e a construção da Sala São Paulo (o projeto acústico foi desenhado pela Artec com a colaboração do consultor acústico José Augusto Nepomuceno). Participaram ainda da construção o arquiteto Ismael Solé, o engenheiro de som e maestro Christopher Blair e o engenheiro Bernard Baudouin, da Akustiks.&lt;/p&gt;
-&lt;p&gt;Em suas redes sociais, a Osesp lamentou a morte de Dupré, que também trabalhou em projetos no Theatro Municipal, na Cinemateca e no Museu Biológico do Instituto Butantan.&lt;/p&gt;
-&lt;p&gt;“Alguns lugares só existem porque alguém soube ouvi-los antes de todo mundo. Para a Sala São Paulo, uma dessas pessoas é o arquiteto Nelson Dupré, cujo falecimento recebemos com profunda tristeza. Entre 1997 e 1999, Dupré conduziu o restauro que ressignificou a antiga estação de trem da Praça Júlio Prestes e a transformou em casa para a Osesp e em destino para quem ama arte e cultura. Foi um trabalho de rigor e de respeito pelo patrimônio histórico, em que a memória do edifício não foi apagada, e sim afinada para receber o público e a música. Vinte e cinco anos depois, em 2024, Dupré assinou o retrofit da antiga área de espera dos trens, que deu origem à Estação Motiva Cultural. Onde por décadas se aguardava a partida, hoje as pessoas chegam para se encontrar”, afirmou a orquestra.&lt;/p&gt;
-&lt;p&gt;“Seguimos fazendo música nos espaços que Nelson Dupré ajudou a devolver à sociedade. A ele, que ao longo de quase três décadas se tornou também um amigo desta casa, nosso muito obrigado.”&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O arquiteto Nelson Dupré [Reprodução/@osesp]" data-entity-type="file" data-entity-uuid="07dc3c8e-60d4-4c52-a8b4-63c08b74514b" src="http://concerto.com.br/sites/default/files/inline-images/w-dupre.jpg" /&gt;
-&lt;figcaption&gt;O arquiteto Nelson Dupré [Reprodução/@osesp]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 13:20&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-dupre.jpg" width="900" height="506" alt="O arquiteto Nelson Dupré [Reprodução/@osesp]" title="O arquiteto Nelson Dupré [Reprodução/@osesp]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0ODIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjExIiwiZGlzbGlrZXMiOiIwIn0%3D?token=uQTnJNW3RPnBuqnIAP-vCq7ppfKXwQ2T8WVX7jHqQ0s?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;11&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 13:20:43 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284482 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Pianista Sonia Rubinsky é eleita para a Academia Brasileira de Música</title>
-  <link>http://concerto.com.br/noticias/musica-classica/pianista-sonia-rubinsky-e-eleita-para-academia-brasileira-de-musica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pianista Sonia Rubinsky é eleita para a Academia Brasileira de Música&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A pianista Sonia Rubinsky foi eleita para a cadeira nº 23 da Academia Brasileira de Música, anteriormente ocupada pela também pianista Laís de Souza Brasil. A cadeira tem como patrono o compositor Leopoldo Miguez e, como fundador, o compositor Camargo Guarnieri.&lt;/p&gt;
-&lt;p&gt;“A eleição de Sonia Rubinsky representa a chegada à Academia Brasileira de Música de uma artista cuja trajetória reúne reconhecimento internacional, excelência interpretativa e um compromisso permanente com a música brasileira. Sua experiência artística, seu trabalho de pesquisa e sua dedicação à divulgação do patrimônio musical nacional vêm ao encontro da missão da Academia de preservar, valorizar e difundir a criação musical brasileira”, afirmou, em nota, a instituição.&lt;/p&gt;
-&lt;p&gt;“Sua contribuição à música brasileira tem como um de seus marcos o trabalho de pesquisa, preparação e gravação da obra pianística integral de Villa-Lobos, reunida em oito CDs, projeto que se estendeu por treze anos. Além da realização artística e musicológica, o trabalho envolveu a tradução dos textos das canções do &lt;em&gt;Guia Prático&lt;/em&gt; e uma cuidadosa curadoria iconográfica.”&lt;/p&gt;
-&lt;p&gt;A pianista se dedica atualmente à gravação dos cinco concertos para piano e orquestra do compositor, com a Orquestra Sinfônica do Estado de São Paulo (Osesp), sob a regência de Roberto Minczuk, pelo selo Naxos. Sonia Rubinsky também colabora diretamente com a revisão e a edição das partituras, em parceria com o Centro de Documentação Musical da Osesp e o pesquisador e Acadêmico Manoel Corrêa do Lago. &lt;/p&gt;
-&lt;p&gt;“Seu compromisso com a música brasileira estende-se a diversos outros compositores, entre eles Almeida Prado, Camargo Guarnieri, Francisco Mignone, Alberto Nepomuceno, Ernesto Nazareth, Guerra-Peixe, Osvaldo Lacerda, Brasílio Itiberê e Carlos Gomes. Sua discografia inclui, ainda, gravações de obras de Mozart, Bach, Debussy, Messiaen, Scarlatti, Mendelssohn e Rachmaninov”, anota a Academia Brasileira de Música.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="A pianista Sonia Rubinsky [Divulgação]" data-entity-type="file" data-entity-uuid="7dc3bb64-3840-4254-82c9-3c311f85a53f" src="http://concerto.com.br/sites/default/files/inline-images/w-Sonia%20Rubinsky_0.jpg" /&gt;
-&lt;figcaption&gt;A pianista Sonia Rubinsky [Divulgação]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 13:16&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Sonia%20Rubinsky_0.jpg" width="900" height="675" alt="A pianista Sonia Rubinsky [Divulgação]" title="A pianista Sonia Rubinsky [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ0ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjEwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=_uIFW9OW66wJPeGK9dF45s7XtBpJTula4-o-ds70MSg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;10&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 13:16:30 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284481 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>EurAsia Dance Company</title>
-  <link>http://concerto.com.br/roteiros/eurasia-dance-company-1</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;EurAsia Dance Company&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 00:22&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;De 18 a 30 de novembro, em Belém, São Paulo e Rio de Janeiro. Divulgação dos vencedores da audição. Espetáculos Maya, Ommanipadmehu,, Svarupa e Vyakta.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-25T19:00:00Z" class="datetime"&gt;qua, 25/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-italiano-di-cultura" hreflang="und"&gt;Instituto Italiano Di Cultura&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/eurasia-dance-company-apresenta-om-mani-padme-hum-e-svarupa-vyakta/3608726?referrer=www.eurasiadanceproject.com&amp;referrer=www.eurasiadanceproject.com&amp;referrer=tinyurl.com&amp;referrer=tinyurl.com.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 00:22:01 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284480 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>EurAsia Dance Company</title>
-  <link>http://concerto.com.br/roteiros/eurasia-dance-company-0</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;EurAsia Dance Company&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qua, 18/11/2026 - 00:20&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;De 18 a 30 de novembro, em Belém, São Paulo e Rio de Janeiro. Espetáculos Maya, Ommanipadmehu,, Svarupa e Vyakta.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-26T19:00:00Z" class="datetime"&gt;qui, 26/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/istituto-italiano-di-cultura" hreflang="und"&gt;Instituto Italiano di Cultura (285 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca, retirada de ingressos: https://www.even3.com.br/festa-de-fim-de-ano-do-iicsp-807276/.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Wed, 18 Nov 2026 00:20:43 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284479 at http://concerto.com.br</guid>
     </item>
 
   </channel>

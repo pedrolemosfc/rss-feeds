@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 87,
+    "items": 88,
     "ok": true,
-    "notes": "scraped 87 items"
+    "notes": "scraped 88 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 177,
+    "items": 178,
     "ok": true,
-    "notes": "merged 2 feeds -> 177 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 178 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "mirrored 20 native items",
+    "notes": "mirrored 19 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 33,
+    "items": 32,
     "ok": true,
-    "notes": "scraped 33 events",
+    "notes": "scraped 32 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 19,
+    "items": 18,
     "ok": true,
-    "notes": "scraped 19 events",
+    "notes": "scraped 18 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 26,
+    "items": 31,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 31 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 8,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: TimeoutError: The read operation timed out",
+    "items": 11,
+    "ok": true,
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 10,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {

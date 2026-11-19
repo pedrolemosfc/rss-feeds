@@ -12,13 +12,13 @@
 	<atom:link href="https://acontece.ens.edu.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acontece.ens.edu.br/</link>
 	<description>Espelho do RSS nativo do Acontece (ENS). Certificado SSL incompleto no origin; mirror via jsDelivr para o Reader.</description>
-	<lastBuildDate>Wed, 18 Nov 2026 17:20:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2026 00:29:57 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.11</generator>
+	<generator>https://wordpress.org/?v=6.7.12</generator>
 
 <image>
 	<url>https://acontece.ens.edu.br/wp-content/uploads/2021/08/cropped-logo-acontece-simples-colorida-retangular-1-32x32.png</url>

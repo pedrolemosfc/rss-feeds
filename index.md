@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-18 17:26 UTC
+Generated: 2026-11-19 00:33 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-11-18 17:26 UTC
   notes: scraped 48 items
 - **folha-show** [OK] items=47 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 47 items
-- **guia-restaurantes** [OK] items=87 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 87 items
+- **guia-restaurantes** [OK] items=88 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 88 items
 - **guia-shows** [OK] items=90 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 90 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -68,8 +68,8 @@ Generated: 2026-11-18 17:26 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=20 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 20 native items
+- **mis-sp** [OK] items=19 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 19 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=9 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -86,8 +86,8 @@ Generated: 2026-11-18 17:26 UTC
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
   notes: scraped 10 events
-- **teatro-bradesco** [OK] items=33 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 33 events
+- **teatro-bradesco** [OK] items=32 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 32 events
 - **vibra-sp** [OK] items=19 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 19 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
@@ -100,8 +100,8 @@ Generated: 2026-11-18 17:26 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=3 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 3 events
-- **bourbon-street** [OK] items=19 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 19 events
+- **bourbon-street** [OK] items=18 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 18 events
 - **songkick-pacaembu** [OK] items=8 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 8 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -118,22 +118,22 @@ Generated: 2026-11-18 17:26 UTC
   notes: scraped 9 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=26 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 26 events
+- **audio-sp** [OK] items=31 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 31 events
 - **teatro-das-artes-sp** [OK] items=1 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 1 events
 - **casa-de-francisca** [OK] items=50 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
   notes: scraped 50 events
-- **jazz-b** [OK] items=8 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
-  notes: scraped 8 events
+- **jazz-b** [OK] items=12 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
+  notes: scraped 12 events
 - **cavern-club-sp** [OK] items=16 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
   notes: scraped 16 events
-- **manifesto-bar** [FAIL] items=0 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
-  notes: fetch failed: TimeoutError: The read operation timed out
+- **manifesto-bar** [OK] items=11 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
+  notes: scraped 11 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=10 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 10 events
+- **rockambole-meaple** [OK] items=12 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 12 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -193,5 +193,5 @@ Generated: 2026-11-18 17:26 UTC
 
 - **folha-musica-topicos** [OK] items=175 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 175 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=177 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 177 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=178 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 178 unique items (from ['guia-restaurantes', 'guia-shows'])
