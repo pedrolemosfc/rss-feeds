@@ -6,7 +6,14 @@
 <link>https://www.sestsenat.org.br/noticias</link>
 <description>Notícias do SEST SENAT (API publicador; SPA sem RSS nativo)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 19 Nov 2026 10:31:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:48:05 +0000</lastBuildDate>
+<item>
+<title>SEST SENAT realiza leilão de três terrenos no estado de São Paulo</title>
+<link>https://www.sestsenat.org.br/noticia/sest-senat-realiza-leilao-de-tres-terrenos-no-estado-de-sao-paulo</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sest-senat-realiza-leilao-de-tres-terrenos-no-estado-de-sao-paulo</guid>
+<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
+<description>Notícia — Imóveis estão localizados em Itaquaquecetuba, Presidente Prudente e Registro; leilão eletrônico será realizado nos dias 2 e 3 de dezembro</description>
+</item>
 <item>
 <title>SEST SENAT de Ourinhos (SP) se destaca ao levar tecnologia para a sala de aula</title>
 <link>https://www.sestsenat.org.br/noticia/sest-senat-de-ourinhos-sp-se-destaca-ao-levar-tecnologia-para-a-sala-de-aula</link>
@@ -190,13 +197,6 @@
 <description>Notícia — Com 17 edições realizadas até o momento, circuito do SEST SENAT resultou em 1,6 mil contratações. Participam da iniciativa 132 empresas</description>
 </item>
 <item>
-<title>Executive Program fecha programação com ferramentas para planejar o futuro</title>
-<link>https://www.sestsenat.org.br/noticia/executive-program-fecha-programacao-com-ferramentas-para-planejar-o-futuro</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/executive-program-fecha-programacao-com-ferramentas-para-planejar-o-futuro</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<description>Notícia — No último dia, empresários exploraram os efeitos de novas tecnologias e possíveis mudanças nos negócios</description>
-</item>
-<item>
 <title>Leilão de terreno em Porto Alegre oferece oportunidade de investimento em área estratégica</title>
 <link>https://www.sestsenat.org.br/noticia/leilo-de-terreno-em-porto-alegre-oferece-oportunidade-de-investimento-em-rea-estratgica</link>
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/leilo-de-terreno-em-porto-alegre-oferece-oportunidade-de-investimento-em-rea-estratgica</guid>
@@ -209,6 +209,13 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/tecnologia-e-colaboracao-temas-de-destaque-executive-program</guid>
 <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Da exploração espacial às entregas por drones, especialistas relacionaram novas aplicações aos desafios das empresas do setor</description>
+</item>
+<item>
+<title>Executive Program fecha programação com ferramentas para planejar o futuro</title>
+<link>https://www.sestsenat.org.br/noticia/executive-program-fecha-programacao-com-ferramentas-para-planejar-o-futuro</link>
+<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/executive-program-fecha-programacao-com-ferramentas-para-planejar-o-futuro</guid>
+<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+<description>Notícia — No último dia, empresários exploraram os efeitos de novas tecnologias e possíveis mudanças nos negócios</description>
 </item>
 <item>
 <title>Segundo dia do Executive Program teve debates sobre os impactos da tecnologia no transporte</title>
@@ -279,13 +286,6 @@
 <guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sest-senat-realiza-leilo-de-quatro-terrenos-urbanos-em-so-paulo-e-no-paran</guid>
 <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
 <description>Notícia — Certame reúne áreas de 7,2 mil a 24,5 mil metros quadrados em quatro municípios</description>
-</item>
-<item>
-<title>SEST SENAT completa 33 anos com 176 Unidades e mais de 21 milhões de atendimentos</title>
-<link>https://www.sestsenat.org.br/noticia/sest-senat-completa-33-anos-com-176-unidades-e-mais-de-21-milhes-de-atendimentos</link>
-<guid isPermaLink="true">https://www.sestsenat.org.br/noticia/sest-senat-completa-33-anos-com-176-unidades-e-mais-de-21-milhes-de-atendimentos</guid>
-<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
-<description>Notícia — Rede presente em todas as regiões do país oferece serviços de saúde, educação profissional, esporte e lazer para trabalhadores do transporte, seus dependentes e a comunidade</description>
 </item>
 </channel>
 </rss>

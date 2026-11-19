@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Thu, 19 Nov 2026 10:28:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2026 20:46:01 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zimbra</title>
+		<link>https://casanaturamusical.com.br/eventos/zimbra-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=zimbra-2</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 14:52:54 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17352</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Fundo de Quintal</title>
 		<link>https://casanaturamusical.com.br/eventos/fundo-de-quintal-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fundo-de-quintal-3</link>
 		
@@ -150,20 +164,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Tue, 06 Oct 2026 20:51:15 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17214</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Tasha e Tracie</title>
-		<link>https://casanaturamusical.com.br/eventos/tasha-e-tracie/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tasha-e-tracie</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17207</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

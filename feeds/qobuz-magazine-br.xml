@@ -6,13 +6,12 @@
 <link>https://www.qobuz.com/br-pt/magazine</link>
 <description>Qobuz Magazine (BR-PT): news, panoramas, interviews e demais seções (scraped, deduped)</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 19 Nov 2026 10:28:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:45:27 +0000</lastBuildDate>
 <item>
 <title>O aplicativo Qobuz para Apple TV</title>
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/11/18/o-aplicativo-qobuz-para-apple-tv/</link>
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/11/18/o-aplicativo-qobuz-para-apple-tv/</guid>
 <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
-<description>Tutorials</description>
 </item>
 <item>
 <title>Latin Grammy 2026: Rosalía, a grande vencedora</title>
@@ -31,6 +30,7 @@
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/11/11/10-artistas-de-jungle/</link>
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/11/11/10-artistas-de-jungle/</guid>
 <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
 </item>
 <item>
 <title>Álbum da Semana: Shygirl - “SWALLOW!”</title>
@@ -124,6 +124,27 @@
 <description>Para ler</description>
 </item>
 <item>
+<title>Álbum da Semana: Adriana Calcanhotto, Arnaldo Antunes - Vice-Versa</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/09/25/album-da-semana-adriana-calcanhotto-arnaldo-antunes-vice-versa/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/09/25/album-da-semana-adriana-calcanhotto-arnaldo-antunes-vice-versa/</guid>
+<pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+<description>News</description>
+</item>
+<item>
+<title>100 anos de John Coltrane</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/09/23/100-anos-de-john-coltrane/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/09/23/100-anos-de-john-coltrane/</guid>
+<pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
+<description>Atualidades Musicais</description>
+</item>
+<item>
+<title>Álbum da Semana: Agnes Obel - “The Meaning of Flowers”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/09/18/album-da-semana-agnes-obel-the-meaning-of-flowers/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/09/18/album-da-semana-agnes-obel-the-meaning-of-flowers/</guid>
+<pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+<description>Escolhas da Redação</description>
+</item>
+<item>
 <title>Qobuzissime &amp; Entrevista: Justus Eichhorn – “The Source”</title>
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/09/11/qobuzissime-enrevista-justus-eichhorn-the-source/</link>
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/09/11/qobuzissime-enrevista-justus-eichhorn-the-source/</guid>
@@ -131,11 +152,46 @@
 <description>Para ler</description>
 </item>
 <item>
+<title>Álbum da Semana: Ezra Collective - “Here Because of Hope”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/09/11/album-da-semana-ezra-collective-here-because-of-hope/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/09/11/album-da-semana-ezra-collective-here-because-of-hope/</guid>
+<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<description>Escolhas da Redação</description>
+</item>
+<item>
+<title>Dolly Parton Voou Mais Alto</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/08/31/dolly-parton-voou-mais-alto/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/08/31/dolly-parton-voou-mais-alto/</guid>
+<pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
+<description>Atualidades Musicais</description>
+</item>
+<item>
+<title>Álbum da Semana: Erykah Badu &amp; The Alchemist - "Before The World Blows"</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/08/28/album-da-semana-erykah-badu-the-alchemist-before-the-world-blows/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/08/28/album-da-semana-erykah-badu-the-alchemist-before-the-world-blows/</guid>
+<pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
+<description>Escolhas da Redação</description>
+</item>
+<item>
+<title>Elenco: A casa da Bossa Nova e a revolução estética nos anos 1960</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/08/27/elenco-a-casa-da-bossa-nova-e-revolucao-estetica-nos-anos-1960/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/08/27/elenco-a-casa-da-bossa-nova-e-revolucao-estetica-nos-anos-1960/</guid>
+<pubDate>Thu, 27 Aug 2026 15:00:00 +0000</pubDate>
+<description>News</description>
+</item>
+<item>
 <title>Produzindo Madonna</title>
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/08/25/produzindo-madonna/</link>
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/08/25/produzindo-madonna/</guid>
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <description>Panoramas</description>
+</item>
+<item>
+<title>Álbum da Semana: Jorja Smith - “What Are The Odds”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/08/24/album-da-semana-jorja-smith-what-are-the-odds/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/08/24/album-da-semana-jorja-smith-what-are-the-odds/</guid>
+<pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+<description>Escolhas da Redação</description>
 </item>
 <item>
 <title>A Arte de Fazer Mixtapes por Pluxee</title>
@@ -222,10 +278,73 @@
 <description>Panoramas</description>
 </item>
 <item>
+<title>Entrevista - Courtney Barnett: “O tempo me fascina. Volto a ele sem cessar, sem jamais resolver minha relação com ele”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/05/11/entrevista-courtney-barnett-o-tempo-me-fascina-volto-a-ele-sem-cessar-sem-jamais-resolver-minha-relacao-com-ele/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/05/11/entrevista-courtney-barnett-o-tempo-me-fascina-volto-a-ele-sem-cessar-sem-jamais-resolver-minha-relacao-com-ele/</guid>
+<pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+<description>Para ler</description>
+</item>
+<item>
+<title>Entrevista: O Registro Fotográfico de “Migalhas” pela Jovem Dionisio</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/04/29/entrevista-o-registro-fotografico-de-migalhas-pela-jovem-dionisio/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/04/29/entrevista-o-registro-fotografico-de-migalhas-pela-jovem-dionisio/</guid>
+<pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
 <title>O labirinto roxo: Como entender a discografia de Prince</title>
 <link>https://www.qobuz.com/br-pt/magazine/story/2026/04/24/o-labirinto-roxo-como-entender-a-discografia-de-prince/</link>
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/04/24/o-labirinto-roxo-como-entender-a-discografia-de-prince/</guid>
 <pubDate>Fri, 24 Apr 2026 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>"La Bulle Acoustique" com Arlo Parks</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/04/14/la-bulle-acoustique-com-arlo-parks/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/04/14/la-bulle-acoustique-com-arlo-parks/</guid>
+<pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Shabaka: “Tudo o que você pode ser é fiel a si mesmo“</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/03/29/shabaka-tudo-o-que-voce-pode-ser-e-fiel-a-si-mesmo/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/03/29/shabaka-tudo-o-que-voce-pode-ser-e-fiel-a-si-mesmo/</guid>
+<pubDate>Sun, 29 Mar 2026 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Willie Colón, o rei da salsa</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/02/24/willie-colon-o-rei-da-salsa/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/02/24/willie-colon-o-rei-da-salsa/</guid>
+<pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Entrevista: Onde a música se torna imagem — Dumbo Gets Mad conta o seu mundo</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/02/22/entrevista-onde-a-musica-se-torna-imagem-dumbo-gets-mad-conta-o-seu-mundo/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/02/22/entrevista-onde-a-musica-se-torna-imagem-dumbo-gets-mad-conta-o-seu-mundo/</guid>
+<pubDate>Sun, 22 Feb 2026 15:00:00 +0000</pubDate>
+<description>Para ler</description>
+</item>
+<item>
+<title>Entrevista: Diogo Strausz - “Dance Para Se Salvar”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2026/01/22/entrevista-diogo-strausz-dance-para-se-salvar/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2026/01/22/entrevista-diogo-strausz-dance-para-se-salvar/</guid>
+<pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
+<description>Para ler</description>
+</item>
+<item>
+<title>Quincy Jones em 10 álbuns</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/11/27/quincy-jones-em-10-albuns/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/11/27/quincy-jones-em-10-albuns/</guid>
+<pubDate>Thu, 27 Nov 2025 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Porque Qobuz se chama Qobuz?</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/11/18/porque-qobuz-se-chama-qobuz/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/11/18/porque-qobuz-se-chama-qobuz/</guid>
+<pubDate>Tue, 18 Nov 2025 15:00:00 +0000</pubDate>
 <description>Panoramas</description>
 </item>
 <item>
@@ -234,6 +353,83 @@
 <guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/11/12/hi-fi-para-levar-3-portateis-que-honram-sua-assinatura-qobuz/</guid>
 <pubDate>Wed, 12 Nov 2025 15:00:00 +0000</pubDate>
 <description>Atualidades Musicais</description>
+</item>
+<item>
+<title>Entrevista - Brad Meldhau : “Demorei a entender que não podia forçar as coisas”.</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/09/04/entrevista-brad-meldhau-demorei-a-entender-que-nao-podia-forcar-as-coisas/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/09/04/entrevista-brad-meldhau-demorei-a-entender-que-nao-podia-forcar-as-coisas/</guid>
+<pubDate>Thu, 04 Sep 2025 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Dino Saluzzi: “Eu queria expressar a própria vida, os anos, as perdas, as coisas que amei. Queria tocar como se fosse a última vez”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/07/28/dino-saluzzi-eu-queria-expressar-a-propria-vida-os-anos-as-perdas-as-coisas-que-amei-queria-tocar-como-se-fosse-a-ultima-vez/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/07/28/dino-saluzzi-eu-queria-expressar-a-propria-vida-os-anos-as-perdas-as-coisas-que-amei-queria-tocar-como-se-fosse-a-ultima-vez/</guid>
+<pubDate>Mon, 28 Jul 2025 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Ozzy Osbourne, o eterno rei das trevas</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/07/23/ozzy-osbourne-o-eterno-rei-das-trevas/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/07/23/ozzy-osbourne-o-eterno-rei-das-trevas/</guid>
+<pubDate>Wed, 23 Jul 2025 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Tagua Tagua quer pista, quer arte, quer o mundo!</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/05/20/tagua-tagua-quer-pista-quer-arte-quer-o-mundo/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/05/20/tagua-tagua-quer-pista-quer-arte-quer-o-mundo/</guid>
+<pubDate>Tue, 20 May 2025 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Entrevista Blondshell : “Minha música é o único lugar onde não tenho filtro”</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/05/07/entrevista-blondshell-minha-musica-e-o-unico-lugar-onde-nao-tenho-filtro/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/05/07/entrevista-blondshell-minha-musica-e-o-unico-lugar-onde-nao-tenho-filtro/</guid>
+<pubDate>Wed, 07 May 2025 15:00:00 +0000</pubDate>
+<description>Entrevistas</description>
+</item>
+<item>
+<title>Black Metal em 10 Álbuns</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2025/03/11/black-metal-em-10-albuns/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2025/03/11/black-metal-em-10-albuns/</guid>
+<pubDate>Tue, 11 Mar 2025 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Aphex Twin em 10 álbuns</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2024/12/04/aphex-twin-em-10-albuns/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2024/12/04/aphex-twin-em-10-albuns/</guid>
+<pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Neoclassicismo: um novo mundo entre a música clássica e a eletrônica</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2023/11/01/neoclassicismo-um-novo-mundo-entre-a-musica-classica-e-a-eletronica/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2023/11/01/neoclassicismo-um-novo-mundo-entre-a-musica-classica-e-a-eletronica/</guid>
+<pubDate>Wed, 01 Nov 2023 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>Benedito, nego dito, maldito: a vida de Itamar Assumpção</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2023/09/15/benedito-nego-dito-maldito-a-vida-de-itamar-assumpcao/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2023/09/15/benedito-nego-dito-maldito-a-vida-de-itamar-assumpcao/</guid>
+<pubDate>Fri, 15 Sep 2023 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>50 anos do hip hop: a história do movimento que mudou a música</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2023/09/04/50-anos-do-hip-hop-a-historia-do-movimento-que-mudou-a-musica/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2023/09/04/50-anos-do-hip-hop-a-historia-do-movimento-que-mudou-a-musica/</guid>
+<pubDate>Mon, 04 Sep 2023 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
+</item>
+<item>
+<title>A ascensão de Elton John: os primeiros 10 anos</title>
+<link>https://www.qobuz.com/br-pt/magazine/story/2023/06/28/a-ascensao-de-elton-john-os-primeiros-10-anos/</link>
+<guid isPermaLink="true">https://www.qobuz.com/br-pt/magazine/story/2023/06/28/a-ascensao-de-elton-john-os-primeiros-10-anos/</guid>
+<pubDate>Wed, 28 Jun 2023 15:00:00 +0000</pubDate>
+<description>Panoramas</description>
 </item>
 </channel>
 </rss>
