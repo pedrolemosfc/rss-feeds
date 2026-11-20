@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
     "kind": "venue-scrape"
   },
   {
@@ -686,7 +686,7 @@
     "output": "feeds/antt-noticias.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 29,
-    "ok": true,
-    "notes": "scraped 29 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

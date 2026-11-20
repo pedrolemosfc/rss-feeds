@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Fri, 20 Nov 2026 13:05:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 21:52:35 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc1MyIsImRpc2xpa2VzIjoiMCJ9?token=ip71YYolr9MLWeNhMh5yArtXSlrFc2ESw_pDD4YnKkk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc1NyIsImRpc2xpa2VzIjoiMCJ9?token=crqY9YJpe66dDvJ8ABH-tF8kwTuh4iGDU3LvUOH5ZIk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;753&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;757&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -88,7 +88,7 @@
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Estão abertas até 13 de dezembro as inscrições da primeira fase de audições para cantores solistas para o Festival de Ópera de Óbidos (FOO) 2027. Esta primeira fase exige o envio de material em vídeo e currículo. Os selecionados terão abertas as vagas para audição presencial em 4 e 5 de janeiro, realizadas na cidade do Porto, em Portugal.&lt;/p&gt;
 &lt;p&gt;“Este é um convite à descoberta de novas vozes, ao reencontro com talentos e à valorização de artistas cuja identidade, sensibilidade e qualidade possam enriquecer os nossos projetos artísticos”, define a soprano Carla Caramujo, diretora artística do FOO. Ela ressalta que as audições não são necessariamente para a edição 2027 do festival. &lt;/p&gt;
-&lt;p&gt;À frente do evento anual desde 2025, Carla c0onvidou artistas brasileiros para colaborar nessas duas edições. Em 2025, o diretor cênico André Heller-Lopes assinou a montagem de &lt;em&gt;L’enfant et les sortilèges&lt;/em&gt;; em 2026, o Brasil esteve representado pela soprano Luisa Francesconi, como Orfeu de &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;, de Gluck.&lt;/p&gt;
+&lt;p&gt;À frente do evento anual desde 2025, Carla convidou artistas brasileiros para colaborar nessas duas edições. Em 2025, o diretor cênico André Heller-Lopes assinou a montagem de &lt;em&gt;L’enfant et les sortilèges&lt;/em&gt;; em 2026, o Brasil esteve representado pela soprano Luisa Francesconi, como Orfeu de &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;, de Gluck.&lt;/p&gt;
 &lt;p&gt;Carla avisa que não há agenda fechada nem programação específica à qual essas audições atenderão. “São audições para atender aos projetos futuros; estou ponderando até fazer esta ação uma vez por ano se vir que há muita procura e necessidade.”&lt;/p&gt;
 &lt;p&gt;Regulamento e formulário de inscrição para a fase de seleção podem ser encontrados &lt;strong&gt;&lt;u&gt;&lt;a href="festivaloperaobidos.pt/audicoes" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/strong&gt;. As audições estão abertas a cantores de todos os registros vocais e que tenham formação superior em Canto.&lt;/p&gt;
 &lt;hr /&gt;
@@ -105,6 +105,7 @@
 &lt;img alt="Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]" data-entity-type="file" data-entity-uuid="15c88364-9be7-4146-b913-6539670ba828" src="http://concerto.com.br/sites/default/files/inline-images/w-FOO-20260910-LaCenerentola-3227x%C2%A9Susana_Neves.jpg" /&gt;
 &lt;figcaption&gt;Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 20/11/2026 - 12:11&lt;/span&gt;
@@ -146,10 +147,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjUiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=DEu-dlJciAoDjNTW3LPrkYq4lmsTqMmQbQ3sCI2vAY0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=i2OjLfUT26bLIwlAujIB1DI85Jmms_rh3amAqNlYbn0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;5&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;16&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -166,10 +167,10 @@
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;
 
             &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A parceria entre Mozart e o libretista Lorenzo da Ponte foi uma das mais especiais da história da ópera. A qualidade de música e texto e o modo como os dois elementos se combinam marcam a trilogia por eles criada, formada por &lt;em&gt;Don Giovanni&lt;/em&gt;, &lt;em&gt;As bodas de Fígaro&lt;/em&gt; e &lt;em&gt;Così fan tutte&lt;/em&gt;, que estão entre as mais populares do repertório. &lt;/p&gt;
-&lt;p&gt;As Bodas ganham este mês uma nova produção pelas forças da Associação Coral da Cidade de São Paulo/Uniopera, no Teatro Bradesco, com récitas nos dias 27, 28, 29 e 30 de novembro e 1º, 2, 3, 4, 5 e 6 de dezembro.&lt;/p&gt;
+&lt;p&gt;As Bodas ganham este mês uma nova produção pelas forças da Associação Coral da Cidade de São Paulo/Uniopera, no Teatro Bradesco, com récitas nos dias 27, 28, 29 e 30 de novembro e 2, 3, 4, 5 e 6 de dezembro.&lt;/p&gt;
 &lt;p&gt;A ópera tem como partida o desejo do Conde Almaviva de fazer valer o direito do senhor e ter a noite de núpcias das mulheres que vivem em suas terras. A partir daí, os eventos se desenrolam enquanto Susanna e Figaro tentam escapar do Conde e de suas artimanhas. &lt;/p&gt;
-&lt;p&gt;"&lt;em&gt;As bodas de Fígaro&lt;/em&gt; é uma comédia extremamente divertida, mas existe uma inteligência muito grande por trás desse humor. Mozart coloca no mesmo palco personagens de diferentes posições sociais e dá a todos eles complexidade, desejo e capacidade de transformar a ação. É uma obra que fala de poder e das relações humanas sem deixar de ser leve, ágil e musicalmente extraordinária. Talvez esteja aí uma das razões para continuar tão viva depois de 240 anos", afirma Luciano Camargo, fundador da UNIOPERA e diretor artístico do espetáculo.&lt;/p&gt;
-&lt;p&gt;Das recitas dos dias 27 e 29 de novembro e 1º, 3 e 5 de dezembro, participam os solistas Ádamo Oliveira, Isabella Luchi, Leandro Abreu, Gabriella Pace e Luiza Sayão. Já nos dias 28 e 30 de novembro e 2, 4 e 6 de dezembro, cantam Luis Felipe Sousa, Giulia Moura, Paulo Mendes, Rosana Lamosa e Lara Cavalcanti. A direção cênica é de Rodolfo García Vázquez. &lt;/p&gt;
+&lt;p&gt;“&lt;em&gt;As bodas de Fígaro&lt;/em&gt; é uma comédia extremamente divertida, mas existe uma inteligência muito grande por trás desse humor. Mozart coloca no mesmo palco personagens de diferentes posições sociais e dá a todos eles complexidade, desejo e capacidade de transformar a ação. É uma obra que fala de poder e das relações humanas sem deixar de ser leve, ágil e musicalmente extraordinária. Talvez esteja aí uma das razões para continuar tão viva depois de 240 anos”, afirma Luciano Camargo, fundador da Uniopera e diretor artístico do espetáculo.&lt;/p&gt;
+&lt;p&gt;Das recitas dos dias 27 e 29 de novembro e 3 e 5 de dezembro, participam os solistas Ádamo Oliveira, Isabella Luchi, Leandro Abreu, Gabriella Pace e Luiza Sayão. Já nos dias 28 e 30 de novembro e 2, 4 e 6 de dezembro, cantam Luis Felipe Sousa, Giulia Moura, Paulo Mendes, Rosana Lamosa e Lara Cavalcanti. A direção cênica é de Rodolfo García Vázquez. &lt;/p&gt;
 &lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-11-27" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
@@ -226,10 +227,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjciLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=ydi6a8K-geVvVD7QC0-Ce0wzhg6N2X_2r2AOnBaMVrI?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=IPXjeWxGdPPVz7_b1gnC9RgHIIC6fsjgeXYiYXBayvk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;7&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;17&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -302,10 +303,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=b6Wur-nPkegbF2cw5yEIUXdb1ANYvijlo_Maew9cbaE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=lxwjWt77ktlfIZVCNkYKECbvWSsDa4ODIalDTXg8DUk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;14&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;19&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -378,10 +379,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=0c3xsLGj1x1yvgbSU3eLqMhKJ713OwJUfwRY9pfUm6o?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=xBU58IVzHunBj7F86iHAtmYr3I2T5fdO1DkiEKkZ1r0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;16&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;19&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;

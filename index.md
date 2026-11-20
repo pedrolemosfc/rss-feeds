@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-20 13:07 UTC
+Generated: 2026-11-20 21:55 UTC
 
 ## Native feeds (not scraped)
 
@@ -141,7 +141,7 @@ Generated: 2026-11-20 13:07 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: no event items found
+  notes: fetch failed: RemoteDisconnected: Remote end closed connection without response
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=4 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -171,11 +171,11 @@ Generated: 2026-11-20 13:07 UTC
 - **antt-cargas-rodoviarias** [OK] items=6 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 6 events
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
-  notes: no event items found
+  notes: fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=29 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 29 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  

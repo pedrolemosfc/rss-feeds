@@ -6,7 +6,28 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 13:06:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 21:54:12 +0000</lastBuildDate>
+<item>
+<title>v1.118.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11180</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11180</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
+<item>
+<title>Mobile app v1.42.0</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1420</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1420</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<description>Improve search index building: it is faster, keeps the app responsive, and continues where it left off if the app is closed.</description>
+</item>
+<item>
+<title>Mobile app v1.41.10</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v14110</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v14110</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>Each voice note can now be up to 20 minutes long.; Improve the look of the app cards on Home.; Improve loading speed of the AI chat history for large workspaces.</description>
+</item>
 <item>
 <title>Claude, ChatGPT &amp; Grok Bot Plugin v0.2.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#claude-chatgpt--grok-bot-plugin-v020</link>
@@ -281,7 +302,7 @@
 <description>Editor: Search inside code blocks &amp; folded lists</description>
 </item>
 <item>
-<title>Mobile app v1.38.2</title>
+<title>Mobile app v1.38.2  </title>
 <link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1382</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1382</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
@@ -545,27 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1921</guid>
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <description>App: Live public link for cards</description>
-</item>
-<item>
-<title>Mobile app v1.35.2.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v13520</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v13520</guid>
-<pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-<description>Fix a database locking issue that occurred when users received updates.; Fix an issue where some iPad users couldn't input codes during login.</description>
-</item>
-<item>
-<title>v1.91.3</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1913</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1913</guid>
-<pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-<description>Improve network stability for AI Tutor.; You can now install Official Heptabase CLI Skills to help your AI agent use the CLI effectively.; Fix an issue where the highlight toolbar in the main pane couldn't delete highlights when the highlight sidebar was opened on the right.; Fix a table layout broken issue in the AI Tutor mode.</description>
-</item>
-<item>
-<title>v1.91.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1911</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1911</guid>
-<pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-<description>Goal Discovery: choose which whiteboards to include and rediscover goals anytime.; Improve Heptabase CLI setup dialogs and fix Unicode output in the Windows cmd launcher.; Fix an issue where imported arXiv PDFs could get the wrong card title.</description>
 </item>
 </channel>
 </rss>
