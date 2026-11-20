@@ -6,7 +6,7 @@
 <link>https://suhaimusichall.com.br/eventos/</link>
 <description>Eventos do Suhai Music Hall</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 19 Nov 2026 20:46:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 03:28:24 +0000</lastBuildDate>
 <item>
 <title>Criolo</title>
 <link>https://suhaimusichall.com.br/evento/criolo/</link>
@@ -57,13 +57,6 @@
 <description>Suhai Music Hall · 06 dez</description>
 </item>
 <item>
-<title>Deep Purple</title>
-<link>https://suhaimusichall.com.br/evento/deep-purple/</link>
-<guid isPermaLink="true">https://suhaimusichall.com.br/evento/deep-purple/</guid>
-<pubDate>Sat, 05 Dec 2026 12:00:00 +0000</pubDate>
-<description>Suhai Music Hall · 05 dez</description>
-</item>
-<item>
 <title>Daniel Caesar</title>
 <link>https://suhaimusichall.com.br/evento/daniel-caesar/</link>
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/daniel-caesar/</guid>
@@ -90,6 +83,12 @@
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/zz-top/</guid>
 <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 21 nov</description>
+</item>
+<item>
+<title>Deep Purple</title>
+<link>https://suhaimusichall.com.br/evento/deep-purple/</link>
+<guid isPermaLink="true">https://suhaimusichall.com.br/evento/deep-purple/</guid>
+<description>Suhai Music Hall</description>
 </item>
 </channel>
 </rss>
