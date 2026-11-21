@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Sat, 21 Nov 2026 12:46:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 20:35:28 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc1OSIsImRpc2xpa2VzIjoiMCJ9?token=PnaNjX7ifrO6K6Z089a4eoJpUFuv8wvs3T-3JdxbnCc?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc2MiIsImRpc2xpa2VzIjoiMCJ9?token=zbaM8m2sZ6DX8OnlM92ruW5s-owuQovSn3V0DQdk514?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;759&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;762&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,176 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Dellarte lança temporada 2027 com oito atrações internacionais</title>
+  <link>http://concerto.com.br/noticias/reportagem/dellarte-lanca-temporada-2027-com-oito-atracoes-internacionais</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte lança temporada 2027 com oito atrações internacionais&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Tradicional série O Globo/Dellarte Concertos Internacionais, em sua 32ª edição, será realizada no Theatro Municipal do Rio de Janeiro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Dellarte, entidade promotora de concertos internacionais do Rio de Janeiro, lançou a sua temporada 2027, novamente em parceira com O Globo. A programação terá oito atrações, de abril a novembro, com importantes solistas e conjuntos do circuito clássico internacional.&lt;/p&gt;
+&lt;p&gt;A abertura da temporada ficará a cargo do pianista alemão Andreas Staier, que construiu sua carreira atuando tanto ao cravo quanto ao fortepiano e é reconhecido como um dos maiores músicos ligados à interpretação historicamente informada do repertório dos séculos XVIII e XIX. Em maio, a série receberá os Interpreti Veneziani, conjunto de câmara fundado em Veneza em 1987, cuja atividade é dedicada principalmente ao repertório barroco italiano, com especial atenção à obra de Antonio Vivaldi.&lt;/p&gt;
+&lt;p&gt;Em junho, a série contará com a Orquestra de Câmara da Filarmônica Tcheca liderada pelo spalla Vlastimil Kobrle, formação ligada à Filarmônica Tcheca, cuja história remonta a 1896. Ainda em junho, a Kammerakademie Potsdam retorna ao país acompanhada pelo oboísta e regente François Leleux e pelo flautista Emmanuel Pahud, músicos com destacada presença nas principais salas de concerto e festivais internacionais.&lt;/p&gt;
+&lt;p&gt;A programação prossegue no segundo semestre, em agosto, com a acordeonista letã Ksenija Sidorova e o Quarteto Estación Buenos Aires, grupo dedicado à música de Astor Piazzolla e ao repertório vinculado ao tango contemporâneo. A atração de setembro é o alemão Minguet Quartett, um dos mais requisitados quartetos de cordas da atualidade. O concerto no Rio de Janeiro contará com a presença do violoncelista Claudio Bohórquez, que se formou com Boris Pergamenschikow e Heinrich Schiff.&lt;/p&gt;
+&lt;p&gt;Em outubro, a série recebe os Trondheim Soloists, premiado conjunto norueguês de cordas formado em 1988. Sob direção artística de Guro Kleven Hagen, o conjunto terá a participação do violinista Gjermund Larsen, especializado no violino hardanger, instrumento tradicional de cordas friccionadas originário da Noruega.&lt;/p&gt;
+&lt;p&gt;O encerramento da temporada, em novembro, ficará a cargo da violinista Anne-Sophie Mutter, que se apresenta ao lado do Mutter Virtuosi, grupo formado por jovens músicos apoiados por sua fundação, em um projeto que alia atividade artística e formação de novos talentos.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;SERVIÇO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assinaturas Série O Globo/Dellarte Concertos Internacionais 2027&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Renovação de assinaturas&lt;/strong&gt;: até 27 de novembro&lt;br /&gt;
+&lt;strong&gt;Troca de assinaturas&lt;/strong&gt;: de 30 de novembro a 4 de dezembro&lt;br /&gt;
+&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: a partir de 7 de dezembro&lt;br /&gt;
+&lt;strong&gt;Mais informações&lt;/strong&gt;: pelo e-mail: &lt;a href="mailto:callcenter@dellarte.com.br"&gt;callcenter@dellarte.com.br&lt;/a&gt;;&lt;br /&gt;
+Telefone e WhatsApp: 21-98698-1103 (segunda a sexta-feira, das 9h às 16h).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" data-entity-type="file" data-entity-uuid="63e0a1ba-28c8-4907-a798-6ff799e8efd4" src="http://concerto.com.br/sites/default/files/inline-images/w-InterpretiVeziani_repro_site.jpg" /&gt;
+&lt;figcaption&gt;O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 21/11/2026 - 16:25&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-InterpretiVeziani_repro_site.jpg" width="900" height="628" alt="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" title="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3013" hreflang="pt-br"&gt;Dellarte&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=ZsIMxZI_zD74rxfy8Pz5xWA5OluwQDSKALG0x6IWTgE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;4&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 21 Nov 2026 16:25:36 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284608 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Corte de 20% dos incentivos fiscais ameaça a Cultura</title>
+  <link>http://concerto.com.br/textos/politica-cultural/corte-de-20-dos-incentivos-fiscais-ameaca-cultura</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Corte de 20% dos incentivos fiscais ameaça a Cultura&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Incentivos fiscais para a área da Cultura representam menos de 1% do total; deputados apresentam emenda para evitar prejuízo a setores como Cultura, esporte e fundos sociais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Em um esforço correto e responsável para buscar o equilíbrio fiscal, tramita no Senado Federal o Projeto de Lei Complementar (PLP) 299/2026, que estabelece novas medidas de ajuste e amplia mecanismos de controle das contas públicas. Entre as propostas previstas está a ampliação do corte linear aplicado a incentivos fiscais, de 10% para 20%. &lt;/p&gt;
+&lt;p&gt;A medida gerou preocupação entre agentes culturais, produtores, artistas, instituições e entidades ligadas à Cultura, uma vez que o novo corte impactará diretamente recursos de doações e patrocínios feitos por meio da Lei Rouanet, a lei federal de incentivo fiscal. &lt;/p&gt;
+&lt;p&gt;Diante desse cenário, os deputados federais Paulo Teixeira (PT-SP) e Pedro Uczai (PT-SC) apresentaram uma emenda, que propõe excluir dos cortes os incentivos destinados a algumas áreas de interesse público.&lt;/p&gt;
+&lt;p&gt;“Nessa área de incentivos tributários nós temos que separar o joio do trigo”, afirmou Teixeira em um post do Instagram. “O joio são aqueles incentivos que foram concedidos numa farra tributária [...], que deu incentivo para todas as empresas Brasil, sem discutir mérito [...]. Mas não pode ter cortes naqueles incentivos tributários que sustentam programas meritórios. E quais são esses incentivos? Primeira a Cultura! É fundamental manter os incentivos para a Lei Rouanet, por exemplo.”&lt;/p&gt;
+&lt;p&gt;A proposta beneficia também áreas como esporte, fundos da infância e da adolescência, fundos da pessoa idosa e da pessoa com deficiência, apoio e atenção oncológica e outras iniciativas de interesse social. &lt;/p&gt;
+&lt;p&gt;É importante lembrar, que os incentivos fiscais para a área da Cultura representam menos de 1% do total das renúncias fiscais federais. Portanto, a economia obtida na conta do equilíbrio fiscal é marginal, enquanto os efeitos negativos sobre a produção cultural são expressivos.&lt;/p&gt;
+&lt;p&gt;E mais: o corte prejudicaria a economia brasileira como um todo – e por extensão o próprio equilíbrio fiscal: dados divulgados pelo Fórum Brasileiro pelos Direitos Culturais (FBDC), com base na Conta Satélite da Cultura do IBGE, apontam que o setor cultural responde por 3,59% do Produto Interno Bruto (PIB) brasileiro, movimenta cerca de R$ 910,6 bilhões na economia e emprega aproximadamente 7,4 milhões de pessoas, o equivalente a 5,8% da população ocupada do país.&lt;/p&gt;
+&lt;p&gt;Evidentemente, é necessário enfrentar o desafio do equilíbrio das contas públicas. No entanto, essa ação não pode ocorrer à custa da Cultura, que, para além de sua relevância simbólica e artística, gera emprego, renda e desenvolvimento para o país.&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Imagem gerada por IA)" data-entity-type="file" data-entity-uuid="9f194584-70ee-4f17-bfdd-0c389f2f6e70" src="http://concerto.com.br/sites/default/files/inline-images/w-CulturaMenos20PorCento.jpg" /&gt;
+&lt;figcaption&gt;(Imagem gerada por IA)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 21/11/2026 - 12:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-CulturaMenos20PorCento.jpg" width="900" height="600" alt="(Imagem gerada por IA)" title="(Imagem gerada por IA)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/politica-cultural" hreflang="pt-br"&gt;Política Cultural&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2309" hreflang="pt-br"&gt;Lei Rouanet&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxNyIsImRpc2xpa2VzIjoiMCJ9?token=TciVQPL1keiCXf_RtbO7Q0UgLIJO8RkOroxGf5Wj3RE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;17&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sat, 21 Nov 2026 12:42:27 +0000</pubDate>
+    <dc:creator>Nelson Rubens Kunze</dc:creator>
+    <guid isPermaLink="false">284607 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/politica-cultural/corte-de-20-dos-incentivos-fiscais-ameaca-cultura#comments</comments>
     </item>
 <item>
   <title>Festival de Ópera de Óbidos promove audições para cantores solistas</title>
@@ -147,10 +317,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=7cwq4UmmkjOpvdzuuBezL1a5j1ozBHgNTVSRhLHe_Sw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI4IiwiZGlzbGlrZXMiOiIwIn0%3D?token=pbx8mRPYIMU-ONKN1ObsG6_QAVzys1RD5oQrEXnxNWo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;24&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;28&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -227,10 +397,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=r_ft-BA36krpPror6zLI0pKfXS75YcyO7QkmyITp4K0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=lp2hjm-2xdAFTw4axTF3v6OxXOc0oiPf57Q3Yt5e6dg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;25&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;30&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -303,10 +473,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=YBW8vj9QQObLzAcWbKCbdVNl-NAAzze5PfpeGciNCzY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjM0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=jB5TawrGOC5kn56Oeo4ILwqPfTSwJhXnvf_j1I8ulqE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;29&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;34&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -379,10 +549,10 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI2IiwiZGlzbGlrZXMiOiIwIn0%3D?token=D0E9iPQ68ngpKr6NEOR4HndGvW_vb7SszEIoM7yIv1c?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=zx98lJTEhmfoN8Ih-xGeyX8KDz20OVY54AHI2_Oa2xk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;26&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;32&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -520,132 +690,6 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
   <pubDate>Thu, 19 Nov 2026 21:12:58 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284601 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>SP Chamber Orchestra</title>
-  <link>http://concerto.com.br/roteiros/sp-chamber-orchestra-9</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;SP Chamber Orchestra&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 19/11/2026 - 21:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Missa de Natal. Giovanna Elias – regente. Programa: Bach – Jesus, alegria dos homens BWV 147; Mozart – Missa da Coroação K 317 e Ave verum corpus K 618; Salmo Responsorial 88 (89) –  Ó Senhor, eu cantarei eternamente o vosso amor!; Saint-Saëns – Oratorio de Natal op. 12: Laudate coeli; César Franck – Panis Angelicus; e Händel – Oratório O Messias HWV 56: Hallelujah. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-20T12:00:00Z" class="datetime"&gt;dom, 20/12/2026 - 12:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/igreja-nossa-senhora-da-consolacao" hreflang="und"&gt;Igreja Nossa Senhora da Consolação &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 19 Nov 2026 21:11:52 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284600 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica Heliópolis e Coral Heliópolis</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-heliopolis-e-coral-heliopolis-2</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica Heliópolis e Coral Heliópolis&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 19/11/2026 - 21:10&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Temporada Baccarelli. Concerto de Natal. &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-20T16:00:00Z" class="datetime"&gt;dom, 20/12/2026 - 16:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/278240" hreflang="pt-br"&gt;Teatro Baccarelli &lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 20.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Thu, 19 Nov 2026 21:10:54 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284599 at http://concerto.com.br</guid>
     </item>
 
   </channel>
