@@ -279,9 +279,9 @@
     "name": "abti",
     "source_url": "https://www.abti.org.br/feed/",
     "output": "feeds/abti.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "native feed has 0 items",
+    "items": 10,
+    "ok": true,
+    "notes": "mirrored 10 native items",
     "kind": "native-mirror"
   },
   {
@@ -351,9 +351,9 @@
     "name": "blue-note-sp",
     "source_url": "https://bluenotesp.com/shows/",
     "output": "feeds/blue-note-sp.xml",
-    "items": 50,
+    "items": 49,
     "ok": true,
-    "notes": "scraped 50 events",
+    "notes": "scraped 49 events",
     "kind": "venue-scrape"
   },
   {
@@ -378,9 +378,9 @@
     "name": "songkick-pacaembu",
     "source_url": "https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu",
     "output": "feeds/songkick-pacaembu.xml",
-    "items": 8,
+    "items": 7,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 7 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 29,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 29 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 44,
+    "items": 42,
     "ok": true,
-    "notes": "scraped 44 events",
+    "notes": "scraped 42 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -513,9 +513,9 @@
     "name": "rockambole-meaple",
     "source_url": "https://meaple.com.br/rockambole",
     "output": "feeds/rockambole-meaple.xml",
-    "items": 9,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 9 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -639,9 +639,9 @@
     "name": "tradexa-blog",
     "source_url": "https://www.tradexa.com.br/blog",
     "output": "feeds/tradexa-blog.xml",
-    "items": 20,
-    "ok": true,
-    "notes": "scraped 20 events",
+    "items": 0,
+    "ok": false,
+    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 29,
+    "ok": true,
+    "notes": "scraped 29 events",
     "kind": "venue-scrape"
   },
   {

@@ -6,7 +6,7 @@
 <link>https://www.cnt.org.br/</link>
 <description>Notícias da Confederação Nacional do Transporte (API cms2 listar-noticias; RSS nativo cdn está desatualizado)</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 22 Nov 2026 02:22:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 12:44:05 +0000</lastBuildDate>
 <item>
 <title>Unicamp discute na COP31 como testar soluções de mobilidade nas cidades</title>
 <link>https://www.cnt.org.br/imprensa/noticia/unicamp-discute-na-cop31-como-testar-solues-de-mobilidade-nas-cidades</link>
@@ -47,6 +47,12 @@
 <description>Internacional — Quarto dia da Missão Internacional do Transporte discutiu a integração da agenda ESG aos negócios e o papel da liderança na preparação das equipes para as transformações tecnológicas</description>
 </item>
 <item>
+<title>10ª turma de Aviation Management conclui formação internacional nos Estados Unidos</title>
+<link>https://www.cnt.org.br/imprensa/noticia/10-turma-de-aviation-management-conclui-formao-internacional-nos-estados-unidos</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/10-turma-de-aviation-management-conclui-formao-internacional-nos-estados-unidos</guid>
+<description>ITL — Encerramento na Embry-Riddle marca a conclusão de 14 meses de estudos e integra as comemorações pelos 10 anos de parceria entre o ITL e a universidade norte-americana</description>
+</item>
+<item>
 <title>Transporte mantém atividade 17,6% acima do pré-pandemia, mas cenário econômico exige atenção</title>
 <link>https://www.cnt.org.br/imprensa/noticia/transporte-mantm-atividade-176-acima-do-pr-pandemia-mas-cenrio-econmico-exige-ateno</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/transporte-mantm-atividade-176-acima-do-pr-pandemia-mas-cenrio-econmico-exige-ateno</guid>
@@ -57,12 +63,6 @@
 <link>https://www.cnt.org.br/imprensa/noticia/cop31-debate-como-reduzir-as-emisses-das-viagens-tursticas</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cop31-debate-como-reduzir-as-emisses-das-viagens-tursticas</guid>
 <description>COP — Em sessão no Pavilhão Internacional do Transporte, representantes do setor defenderam o uso de dados para planejar opções de mobilidade de menor emissão.</description>
-</item>
-<item>
-<title>10ª turma de Aviation Management conclui formação internacional nos Estados Unidos</title>
-<link>https://www.cnt.org.br/imprensa/noticia/10-turma-de-aviation-management-conclui-formao-internacional-nos-estados-unidos</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/10-turma-de-aviation-management-conclui-formao-internacional-nos-estados-unidos</guid>
-<description>ITL — Encerramento na Embry-Riddle marca a conclusão de 14 meses de estudos e integra as comemorações pelos 10 anos de parceria entre o ITL e a universidade norte-americana</description>
 </item>
 <item>
 <title>Senado aprova mudanças no pacote de ajuste fiscal e preserva créditos de PIS/Cofins</title>
@@ -107,16 +107,16 @@
 <description>Opinião — Com o PLI-SP 2050, São Paulo busca construir uma estratégia de longo prazo capaz de conciliar desenvolvimento econômico, eficiência logística e responsabilidade socioambiental, reconhecendo que a participação da sociedade é fundamental para construir soluções consistentes e sustentáveis</description>
 </item>
 <item>
-<title>COP31 debate uso de hidrogênio de baixo carbono nas operações de transporte</title>
-<link>https://www.cnt.org.br/imprensa/noticia/cop31-debate-uso-de-hidrognio-de-baixo-carbono-nas-operaes-de-transporte</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cop31-debate-uso-de-hidrognio-de-baixo-carbono-nas-operaes-de-transporte</guid>
-<description>COP — Sistema Transporte destacou o potencial do hidrogênio para diversificar as fontes de energia, da propulsão de veículos à produção de combustíveis</description>
-</item>
-<item>
 <title>CNT inicia sondagem do Índice de Confiança do Transportador Rodoviário de Cargas</title>
 <link>https://www.cnt.org.br/imprensa/noticia/cnt-inicia-sondagem-do-ndice-de-confiana-do-transportador-rodovirio-de-cargas</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cnt-inicia-sondagem-do-ndice-de-confiana-do-transportador-rodovirio-de-cargas</guid>
 <description>Transporte de cargas — Levantamento ouvirá empresários de cinco estados do país para avaliar a percepção do setor sobre o cenário atual e as perspectivas para 2027</description>
+</item>
+<item>
+<title>COP31 debate uso de hidrogênio de baixo carbono nas operações de transporte</title>
+<link>https://www.cnt.org.br/imprensa/noticia/cop31-debate-uso-de-hidrognio-de-baixo-carbono-nas-operaes-de-transporte</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/cop31-debate-uso-de-hidrognio-de-baixo-carbono-nas-operaes-de-transporte</guid>
+<description>COP — Sistema Transporte destacou o potencial do hidrogênio para diversificar as fontes de energia, da propulsão de veículos à produção de combustíveis</description>
 </item>
 <item>
 <title>Liderança estratégica e gestão de dados marcam primeiro dia da Missão na Finlândia</title>
@@ -221,16 +221,16 @@
 <description>COP — Painel realizado no Pavilhão Internacional do Transporte apresentou estratégias de planejamento, financiamento e cooperação para reduzir emissões nas cidades brasileiras</description>
 </item>
 <item>
-<title>Copa SEST SENAT define finalistas que seguem para a decisão em Patos de Minas</title>
-<link>https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</link>
-<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</guid>
-<description>SEST SENAT — Equipes de todo o país se encontraram em São Vicente (SP) para as quartas de final; quatro times femininos e quatro masculinos seguem na disputa pelo título</description>
-</item>
-<item>
 <title>Transporte inicia agenda na COP31 com debates sobre energia, combustíveis de baixo carbono e resiliência climática</title>
 <link>https://www.cnt.org.br/imprensa/noticia/transporte-inicia-agenda-na-cop31-com-debates-sobre-energia-combustveis-de-baixo-carbono-e-resilincia-climtica</link>
 <guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/transporte-inicia-agenda-na-cop31-com-debates-sobre-energia-combustveis-de-baixo-carbono-e-resilincia-climtica</guid>
 <description>COP — Ministério de Portos e Aeroportos (Mpor) destacou a experiência brasileira na agenda portuária e o potencial do etanol para a navegação internacional</description>
+</item>
+<item>
+<title>Copa SEST SENAT define finalistas que seguem para a decisão em Patos de Minas</title>
+<link>https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</link>
+<guid isPermaLink="true">https://www.cnt.org.br/imprensa/noticia/copa-sest-senat-define-finalistas-que-seguem-para-a-deciso-em-patos-de-minas</guid>
+<description>SEST SENAT — Equipes de todo o país se encontraram em São Vicente (SP) para as quartas de final; quatro times femininos e quatro masculinos seguem na disputa pelo título</description>
 </item>
 <item>
 <title>Sistema Transporte defende investimentos para a transição energética</title>
