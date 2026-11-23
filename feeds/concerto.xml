@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Mon, 23 Nov 2026 02:54:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:50:57 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc2OSIsImRpc2xpa2VzIjoiMCJ9?token=hGwNb5FQzKp4PTgxoFcd7_FIWNzK3kDiLtQaHz7O3kU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc3MiIsImRpc2xpa2VzIjoiMCJ9?token=LF8J8lK7p0Nykl55wL-X92r2InNXKNNMv5JOF36NX-E?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;769&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;772&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,503 +82,20 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Dellarte lança temporada 2027 com oito atrações internacionais</title>
-  <link>http://concerto.com.br/noticias/reportagem/dellarte-lanca-temporada-2027-com-oito-atracoes-internacionais</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dellarte lança temporada 2027 com oito atrações internacionais&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Tradicional série O Globo/Dellarte Concertos Internacionais, em sua 32ª edição, será realizada no Theatro Municipal do Rio de Janeiro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Dellarte, entidade promotora de concertos internacionais do Rio de Janeiro, lançou a sua temporada 2027, novamente em parceira com O Globo. A programação terá oito atrações, de abril a novembro, com importantes solistas e conjuntos do circuito clássico internacional.&lt;/p&gt;
-&lt;p&gt;A abertura da temporada ficará a cargo do pianista alemão Andreas Staier, que construiu sua carreira atuando tanto ao cravo quanto ao fortepiano e é reconhecido como um dos maiores músicos ligados à interpretação historicamente informada do repertório dos séculos XVIII e XIX. Em maio, a série receberá os Interpreti Veneziani, conjunto de câmara fundado em Veneza em 1987, cuja atividade é dedicada principalmente ao repertório barroco italiano, com especial atenção à obra de Antonio Vivaldi.&lt;/p&gt;
-&lt;p&gt;Em junho, a série contará com a Orquestra de Câmara da Filarmônica Tcheca liderada pelo spalla Vlastimil Kobrle, formação ligada à Filarmônica Tcheca, cuja história remonta a 1896. Ainda em junho, a Kammerakademie Potsdam retorna ao país acompanhada pelo oboísta e regente François Leleux e pelo flautista Emmanuel Pahud, músicos com destacada presença nas principais salas de concerto e festivais internacionais.&lt;/p&gt;
-&lt;p&gt;A programação prossegue no segundo semestre, em agosto, com a acordeonista letã Ksenija Sidorova e o Quarteto Estación Buenos Aires, grupo dedicado à música de Astor Piazzolla e ao repertório vinculado ao tango contemporâneo. A atração de setembro é o alemão Minguet Quartett, um dos mais requisitados quartetos de cordas da atualidade. O concerto no Rio de Janeiro contará com a presença do violoncelista Claudio Bohórquez, que se formou com Boris Pergamenschikow e Heinrich Schiff.&lt;/p&gt;
-&lt;p&gt;Em outubro, a série recebe os Trondheim Soloists, premiado conjunto norueguês de cordas formado em 1988. Sob direção artística de Guro Kleven Hagen, o conjunto terá a participação do violinista Gjermund Larsen, especializado no violino hardanger, instrumento tradicional de cordas friccionadas originário da Noruega.&lt;/p&gt;
-&lt;p&gt;O encerramento da temporada, em novembro, ficará a cargo da violinista Anne-Sophie Mutter, que se apresenta ao lado do Mutter Virtuosi, grupo formado por jovens músicos apoiados por sua fundação, em um projeto que alia atividade artística e formação de novos talentos.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;SERVIÇO&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Assinaturas Série O Globo/Dellarte Concertos Internacionais 2027&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Renovação de assinaturas&lt;/strong&gt;: até 27 de novembro&lt;br /&gt;
-&lt;strong&gt;Troca de assinaturas&lt;/strong&gt;: de 30 de novembro a 4 de dezembro&lt;br /&gt;
-&lt;strong&gt;Novas assinaturas&lt;/strong&gt;: a partir de 7 de dezembro&lt;br /&gt;
-&lt;strong&gt;Mais informações&lt;/strong&gt;: pelo e-mail: &lt;a href="mailto:callcenter@dellarte.com.br"&gt;callcenter@dellarte.com.br&lt;/a&gt;;&lt;br /&gt;
-Telefone e WhatsApp: 21-98698-1103 (segunda a sexta-feira, das 9h às 16h).&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" data-entity-type="file" data-entity-uuid="63e0a1ba-28c8-4907-a798-6ff799e8efd4" src="http://concerto.com.br/sites/default/files/inline-images/w-InterpretiVeziani_repro_site.jpg" /&gt;
-&lt;figcaption&gt;O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 21/11/2026 - 16:25&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-InterpretiVeziani_repro_site.jpg" width="900" height="628" alt="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" title="O conjunto Interpreti Veneziani é uma das atrações do ano (reprodução site)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/reportagem" hreflang="pt-br"&gt;Reportagem&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/3013" hreflang="pt-br"&gt;Dellarte&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjMzIiwiZGlzbGlrZXMiOiIwIn0%3D?token=jtbZ05oTNLpjOVN30cTSkxAr2RrUfyEW8N9h-M1V0kU?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;33&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sat, 21 Nov 2026 16:25:36 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284608 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Corte de 20% dos incentivos fiscais ameaça a Cultura</title>
-  <link>http://concerto.com.br/textos/politica-cultural/corte-de-20-dos-incentivos-fiscais-ameaca-cultura</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Corte de 20% dos incentivos fiscais ameaça a Cultura&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Incentivos fiscais para a área da Cultura representam menos de 1% do total; deputados apresentam emenda para evitar prejuízo a setores como Cultura, esporte e fundos sociais&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Em um esforço correto e responsável para buscar o equilíbrio fiscal, tramita no Senado Federal o Projeto de Lei Complementar (PLP) 299/2026, que estabelece novas medidas de ajuste e amplia mecanismos de controle das contas públicas. Entre as propostas previstas está a ampliação do corte linear aplicado a incentivos fiscais, de 10% para 20%. &lt;/p&gt;
-&lt;p&gt;A medida gerou preocupação entre agentes culturais, produtores, artistas, instituições e entidades ligadas à Cultura, uma vez que o novo corte impactará diretamente recursos de doações e patrocínios feitos por meio da Lei Rouanet, a lei federal de incentivo fiscal. &lt;/p&gt;
-&lt;p&gt;Diante desse cenário, os deputados federais Paulo Teixeira (PT-SP) e Pedro Uczai (PT-SC) apresentaram uma emenda, que propõe excluir dos cortes os incentivos destinados a algumas áreas de interesse público.&lt;/p&gt;
-&lt;p&gt;“Nessa área de incentivos tributários nós temos que separar o joio do trigo”, afirmou Teixeira em um post do Instagram. “O joio são aqueles incentivos que foram concedidos numa farra tributária [...], que deu incentivo para todas as empresas Brasil, sem discutir mérito [...]. Mas não pode ter cortes naqueles incentivos tributários que sustentam programas meritórios. E quais são esses incentivos? Primeira a Cultura! É fundamental manter os incentivos para a Lei Rouanet, por exemplo.”&lt;/p&gt;
-&lt;p&gt;A proposta beneficia também áreas como esporte, fundos da infância e da adolescência, fundos da pessoa idosa e da pessoa com deficiência, apoio e atenção oncológica e outras iniciativas de interesse social. &lt;/p&gt;
-&lt;p&gt;É importante lembrar, que os incentivos fiscais para a área da Cultura representam menos de 1% do total das renúncias fiscais federais. Portanto, a economia obtida na conta do equilíbrio fiscal é marginal, enquanto os efeitos negativos sobre a produção cultural são expressivos.&lt;/p&gt;
-&lt;p&gt;E mais: o corte prejudicaria a economia brasileira como um todo – e por extensão o próprio equilíbrio fiscal: dados divulgados pelo Fórum Brasileiro pelos Direitos Culturais (FBDC), com base na Conta Satélite da Cultura do IBGE, apontam que o setor cultural responde por 3,59% do Produto Interno Bruto (PIB) brasileiro, movimenta cerca de R$ 910,6 bilhões na economia e emprega aproximadamente 7,4 milhões de pessoas, o equivalente a 5,8% da população ocupada do país.&lt;/p&gt;
-&lt;p&gt;Evidentemente, é necessário enfrentar o desafio do equilíbrio das contas públicas. No entanto, essa ação não pode ocorrer à custa da Cultura, que, para além de sua relevância simbólica e artística, gera emprego, renda e desenvolvimento para o país.&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="(Imagem gerada por IA)" data-entity-type="file" data-entity-uuid="9f194584-70ee-4f17-bfdd-0c389f2f6e70" src="http://concerto.com.br/sites/default/files/inline-images/w-CulturaMenos20PorCento.jpg" /&gt;
-&lt;figcaption&gt;(Imagem gerada por IA)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sab, 21/11/2026 - 12:42&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-CulturaMenos20PorCento.jpg" width="900" height="600" alt="(Imagem gerada por IA)" title="(Imagem gerada por IA)" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/politica-cultural" hreflang="pt-br"&gt;Política Cultural&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Tags&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/2309" hreflang="pt-br"&gt;Lei Rouanet&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIzNSIsImRpc2xpa2VzIjoiMCJ9?token=Rk9EnM4sfB7D5aUPvKBa9PJffEVVCpLeYKH2PINgWXk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;35&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Sat, 21 Nov 2026 12:42:27 +0000</pubDate>
-    <dc:creator>Nelson Rubens Kunze</dc:creator>
-    <guid isPermaLink="false">284607 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/textos/politica-cultural/corte-de-20-dos-incentivos-fiscais-ameaca-cultura#comments</comments>
-    </item>
-<item>
-  <title>Festival de Ópera de Óbidos promove audições para cantores solistas</title>
-  <link>http://concerto.com.br/noticias/opera/festival-de-opera-de-obidos-promove-audicoes-para-cantores-solistas</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Festival de Ópera de Óbidos promove audições para cantores solistas&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Estão abertas até 13 de dezembro as inscrições da primeira fase de audições para cantores solistas para o Festival de Ópera de Óbidos (FOO) 2027. Esta primeira fase exige o envio de material em vídeo e currículo. Os selecionados terão abertas as vagas para audição presencial em 4 e 5 de janeiro, realizadas na cidade do Porto, em Portugal.&lt;/p&gt;
-&lt;p&gt;“Este é um convite à descoberta de novas vozes, ao reencontro com talentos e à valorização de artistas cuja identidade, sensibilidade e qualidade possam enriquecer os nossos projetos artísticos”, define a soprano Carla Caramujo, diretora artística do FOO. Ela ressalta que as audições não são necessariamente para a edição 2027 do festival. &lt;/p&gt;
-&lt;p&gt;À frente do evento anual desde 2025, Carla convidou artistas brasileiros para colaborar nessas duas edições. Em 2025, o diretor cênico André Heller-Lopes assinou a montagem de &lt;em&gt;L’enfant et les sortilèges&lt;/em&gt;; em 2026, o Brasil esteve representado pela soprano Luisa Francesconi, como Orfeu de &lt;em&gt;Orfeu e Eurídice&lt;/em&gt;, de Gluck.&lt;/p&gt;
-&lt;p&gt;Carla avisa que não há agenda fechada nem programação específica à qual essas audições atenderão. “São audições para atender aos projetos futuros; estou ponderando até fazer esta ação uma vez por ano se vir que há muita procura e necessidade.”&lt;/p&gt;
-&lt;p&gt;Regulamento e formulário de inscrição para a fase de seleção podem ser encontrados &lt;strong&gt;&lt;u&gt;&lt;a href="festivaloperaobidos.pt/audicoes" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;/strong&gt;. As audições estão abertas a cantores de todos os registros vocais e que tenham formação superior em Canto.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/uniopera-encena-bodas-de-figaro-de-mozart-no-teatro-bradesco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/osesp-convida-maestro-david-robertson-e-pianista-orli-shaham" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Osesp convida maestro David Robertson e pianista Orli Shaham&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]" data-entity-type="file" data-entity-uuid="15c88364-9be7-4146-b913-6539670ba828" src="http://concerto.com.br/sites/default/files/inline-images/w-FOO-20260910-LaCenerentola-3227x%C2%A9Susana_Neves.jpg" /&gt;
-&lt;figcaption&gt;Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 20/11/2026 - 12:11&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-FOO-20260910-LaCenerentola-3227x%C2%A9Susana_Neves.jpg" width="900" height="600" alt="Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]" title="Cena da produção de 'La Cenerentola', de Rossini, no Festival de Óbidos [Divulgação/Susana Neves]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQ3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=r3dVWETLOFEwGEJgFRGfN0hscy42kBCOO9R8OI2hnxM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;47&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 20 Nov 2026 12:11:44 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284606 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco</title>
-  <link>http://concerto.com.br/noticias/opera/uniopera-encena-bodas-de-figaro-de-mozart-no-teatro-bradesco</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A parceria entre Mozart e o libretista Lorenzo da Ponte foi uma das mais especiais da história da ópera. A qualidade de música e texto e o modo como os dois elementos se combinam marcam a trilogia por eles criada, formada por &lt;em&gt;Don Giovanni&lt;/em&gt;, &lt;em&gt;As bodas de Fígaro&lt;/em&gt; e &lt;em&gt;Così fan tutte&lt;/em&gt;, que estão entre as mais populares do repertório. &lt;/p&gt;
-&lt;p&gt;As Bodas ganham este mês uma nova produção pelas forças da Associação Coral da Cidade de São Paulo/Uniopera, no Teatro Bradesco, com récitas nos dias 27, 28, 29 e 30 de novembro e 2, 3, 4, 5 e 6 de dezembro.&lt;/p&gt;
-&lt;p&gt;A ópera tem como partida o desejo do Conde Almaviva de fazer valer o direito do senhor e ter a noite de núpcias das mulheres que vivem em suas terras. A partir daí, os eventos se desenrolam enquanto Susanna e Figaro tentam escapar do Conde e de suas artimanhas. &lt;/p&gt;
-&lt;p&gt;“&lt;em&gt;As bodas de Fígaro&lt;/em&gt; é uma comédia extremamente divertida, mas existe uma inteligência muito grande por trás desse humor. Mozart coloca no mesmo palco personagens de diferentes posições sociais e dá a todos eles complexidade, desejo e capacidade de transformar a ação. É uma obra que fala de poder e das relações humanas sem deixar de ser leve, ágil e musicalmente extraordinária. Talvez esteja aí uma das razões para continuar tão viva depois de 240 anos”, afirma Luciano Camargo, fundador da Uniopera e diretor artístico do espetáculo.&lt;/p&gt;
-&lt;p&gt;Das recitas dos dias 27 e 29 de novembro e 3 e 5 de dezembro, participam os solistas Ádamo Oliveira, Isabella Luchi, Leandro Abreu, Gabriella Pace e Luiza Sayão. Já nos dias 28 e 30 de novembro e 2, 4 e 6 de dezembro, cantam Luis Felipe Sousa, Giulia Moura, Paulo Mendes, Rosana Lamosa e Lara Cavalcanti. A direção cênica é de Rodolfo García Vázquez. &lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://concerto.com.br/roteiros/2026-11-27" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/osesp-convida-maestro-david-robertson-e-pianista-orli-shaham" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Osesp convida maestro David Robertson e pianista Orli Shaham&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;hr /&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Elenco de 'As bodas de Fígaro' [Divulgação/Uniopera]" data-entity-type="file" data-entity-uuid="16241f5a-8e54-441f-9842-ee40729b96b4" src="http://concerto.com.br/sites/default/files/inline-images/w-bodas.jpeg" /&gt;
-&lt;figcaption&gt;Elenco de 'As bodas de Fígaro' [Divulgação/Uniopera]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 20/11/2026 - 12:00&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-bodas.jpeg" width="900" height="534" alt="Elenco de 'As bodas de Fígaro' [Divulgação/Uniopera]" title="Elenco de 'As bodas de Fígaro' [Divulgação/Uniopera]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDUiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQ3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=ltrCDiaarSjd2g-F4ePWAMoPkhksNzWLCDYR3oOGdak?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;47&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 20 Nov 2026 12:00:59 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284605 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Eco apresenta obras de Cherubini e Schumann no Teatro B32</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-eco-apresenta-obras-de-cherubini-e-schumann-no-teatro-b32</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Eco apresenta obras de Cherubini e Schumann no Teatro B32&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;No sábado, 21, a Orquestra Eco apresenta o programa Da batalha da alma ao brilho supremo da arquitetura clássica, no Teatro B32. Ira Levin rege o grupo na &lt;em&gt;Sinfonia em ré maior&lt;/em&gt;, de Cherubini, e na &lt;em&gt;Sinfonia nº 2&lt;/em&gt;, de Schumann.&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Sinfonia em ré maior&lt;/em&gt; é a única contribuição de Cherubini para o gênero. O compositor italiano escreveu a obra em 1815, sob encomenda da London Philharmonic Society. Com quatro movimentos, a peça permanece fiel às técnicas composicionais do século XVIII e à influência da escrita de Haydn no &lt;em&gt;Minuetto&lt;/em&gt;. Apesar de ter composto uma única sinfonia, Cherubini escreveu mais de 30 óperas e era reconhecido por contemporâneos como Beethoven.&lt;/p&gt;
-&lt;p&gt;A &lt;em&gt;Sinfonia nº 2 &lt;/em&gt;de Schumann foi composta entre 1845 e 1846. Registros indicam que o compositor ficou determinado a escrever uma obra na tonalidade de dó maior após ter entrado em contato com a então esquecida &lt;em&gt;Sinfonia nº 9&lt;/em&gt; de Schubert, &lt;em&gt;“A grande”&lt;/em&gt;, no final da década de 1830. O processo de criação da &lt;em&gt;Sinfonia nº 2&lt;/em&gt; , entretanto, foi conturbado pelas crises na saúde física e mental enfrentadas pelo compositor. Assim como&lt;em&gt; A grande&lt;/em&gt; de Schubert, a&lt;em&gt; Segunda sinfonia&lt;/em&gt; de Schumann contou com Mendelssohn na regência durante a estreia em Leipzig, em 1846.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-21"&gt;mais detalhes&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Orquestra Eco [Reprodução/ Instagram]" data-entity-type="file" data-entity-uuid="4f554212-6dfe-4643-92e2-9495040ca11e" src="http://concerto.com.br/sites/default/files/inline-images/w-ECOlevinjpg_0.jpg" /&gt;
-&lt;figcaption&gt;Orquestra Eco [Reprodução/ Instagram]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 20/11/2026 - 02:26&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-ECOlevinjpg.jpg" width="900" height="453" alt="Orquestra Eco [Reprodução/ Instagram]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDQiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQ5IiwiZGlzbGlrZXMiOiIwIn0%3D?token=d3Hnro3CkqKlncN9nsCtTVMH-W0g9_WH3rCsWS3bLzk?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;49&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 20 Nov 2026 02:26:09 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284604 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Furiosa Portátil homenageia Cristóvão Bastos</title>
-  <link>http://concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na quarta-feira, 25 e na quinta-feira, 26, a Orquestra Furiosa Portátil comemora os 80 anos de Cristóvão Bastos com apresentações na Casa do Choro, no Rio de Janeiro. Sob regência de Pedro Aragão, o grupo toca as composições do homenageado. O programa se repete no dia 8 de dezembro, no Teatro Carlos Gomes.&lt;/p&gt;
-&lt;p&gt;Cristóvão Bastos é figura marcante para a história do conjunto musical. O compositor e arranjador atuou como professor de piano e prática de conjunto na Escola Furiosa Portátil (EPM). Em 2005, o projeto pedagógico deu origem à Orquestra Furiosa Portátil, que recebeu obras compostas especialmente para a formação. Com mais de 65 anos de carreira, Bastos é conhecido por suas obras e pelas parcerias com Chico Buarque, Aldir Blanc e Paulinho da Viola.&lt;/p&gt;
-&lt;p&gt;Os concertos contam com a participação do homenageado ao piano. O repertório inclui &lt;em&gt;O baile&lt;/em&gt;, &lt;em&gt;Gafieira suburbana&lt;/em&gt;, &lt;em&gt;Praia Vermelha&lt;/em&gt;, &lt;em&gt;Resposta ao tempo&lt;/em&gt; e &lt;em&gt;Todo o sentimento&lt;/em&gt;. A orquestra convida também o cantor Renato Braz e o clarinetista Nailor Proveta.&lt;/p&gt;
-&lt;p&gt;Veja &lt;u&gt;&lt;a href="https://www.concerto.com.br/roteiros/2026-11-25"&gt;&lt;span style="color:null;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt;&lt;/u&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/prepare-se-os-destaques-da-programacao-de-concertos-da-semana" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: os destaques da programação de concertos da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/pianistas-katia-e-marielle-labeque-fazem-recitais-no-rio-de-janeiro-em" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Pianistas Katia e Marielle Labèque fazem recitais no Rio de Janeiro, em Salvador e em São Paulo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/reportagem/sul-coreano-vence-concurso-de-musica-de-genebra-brasileiro-rafael-marino-arcaro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Sul-coreano vence Concurso de Música de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Cristóvão Bastos [Divulgação/ Marcelo Castello Branco]" data-entity-type="file" data-entity-uuid="cbdb4a0f-6547-47d2-b0d1-b08078e94b76" src="http://concerto.com.br/sites/default/files/inline-images/w-bastos_0.jpg" /&gt;
-&lt;figcaption&gt;Cristóvão Bastos [Divulgação/ Marcelo Castello Branco]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;sex, 20/11/2026 - 02:12&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-bastos.jpg" width="900" height="452" alt="Cristóvão Bastos [Divulgação/ Marcelo Castello Branco]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ2MDMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjQyIiwiZGlzbGlrZXMiOiIwIn0%3D?token=fZ0QG-IWb4mziOo6YQiI0llFjNRtFaXyBQqRmUSzmL8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;42&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Fri, 20 Nov 2026 02:12:07 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284603 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Academia de Música da Osesp</title>
-  <link>http://concerto.com.br/roteiros/academia-de-musica-da-osesp-23</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Academia de Música da Osesp&lt;/span&gt;
+  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-59</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 19/11/2026 - 21:14&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:44&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Recital de formatura: classe de canto. Ana Paula Ferreira, Joyce Coutinho e Julia Polim – sopranos; Luíza Freitas – mezzo soprano; Brenda Umbelino – contralto; Luan Augusto Pereira – tenor; Vitor Barrak – baixo; Robson Godoy – tenor e Luan Strombek – barítono. Programa: Brenda Umbelino – Enquanto canto; Händel – Conservate, raddoppiate HWV 185 e Alcina HWV 34: È gelosia; Barbara Strozzi – Cantate, ariette e duetti op. 2: La fanciulletta semplice (Spesso per entro al petto); Babi de Oliveira – Recomendação; Edino Krieger – Três sonetos de Drummond: Os poderes infernais, Carta e Legado; Fanny Hensel – Seis canções op. 1: Warum sind denn die Rosen so blass? H. 312; Mozart – La clemenza di Tito K 621: Parto, parto; Donizetti – Linda di Chamounix: Ah, tardai troppo… O luce di quest´anima; Puccini – La bohème: Donde lieta uscì; Villa-Lobos – Canção do poeta do século XVIII e Quatro canções da floresta do Amazonas: I. Veleiros e IV. Melodia Sentimental; Helza Camêu – Cinco peças para canto op. 5: A balada das folhas; Eunice Katunda – Quatro incelenças, ou Quatro cantigas de velório: Incelença dos cravos e rosas; Osvaldo Lacerda – Ponto de Mãe Sereia; Amy Beach – 3 Browning Songs op. 44: I send my heart up to thee! e Four Songs op. 48: Come, ah come!; Lili Boulanger – Reflets; Tradicional – The Water Is Wide; e Negro Spiritual – Set Down, Servant! &lt;br /&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Arábica. Rossini Parucci – regente. Marcus Julius Lander – clarinete. Programa: Mozart – Concerto para clarinete K 622; e Mendelssohn – Sinfonia nº 5, Reforma.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-22T19:30:00Z" class="datetime"&gt;ter, 22/12/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-05T20:00:00Z" class="datetime"&gt;sab, 05/12/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -589,7 +106,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -610,12 +127,12 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/273425" hreflang="pt-br"&gt;Estação Motiva Cultural&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -623,26 +140,31 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 19 Nov 2026 21:14:07 +0000</pubDate>
+  <pubDate>Mon, 23 Nov 2026 14:44:46 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284602 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284730 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-59#comments</comments>
     </item>
 <item>
-  <title>Academia de Música da Osesp</title>
-  <link>http://concerto.com.br/roteiros/academia-de-musica-da-osesp-22</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Academia de Música da Osesp&lt;/span&gt;
+  <title>Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel</title>
+  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-58</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Universidade Estadual de Londrina – Osuel&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;qui, 19/11/2026 - 21:12&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:44&lt;/span&gt;
 
   &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
     &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Recital de formatura: classe de canto. Ana Paula Ferreira, Joyce Coutinho e Julia Polim – sopranos; Luíza Freitas – mezzo soprano; Brenda Umbelino – contralto; Luan Augusto Pereira e Robson Godoy – tenores; Vitor Barra – baixo; Luan Strombek – barítono e Juliana Ripke – piano. Programa: Mignone – Improviso; Hekel Tavares – Oração do guerreiro; Ned Rorem – Four Poems of Tennyson; Britten – Winter Words op. 52: At day-close in November e Before life and after e The Holy Sonnets of John Donne op. 35: Oh my blacke soule; Mozart – Exsultate Jubilate K 165 e Die Entführung aus dem Serail K 384: O, wie will ich triumphieren; Ambroise Thomas – Mignon: Je suis Titania; Josef Rheinberger – Selig sind die Toten WoO 22; Schubert – Fahrt zum Hades D 526; Liza Lehmann – Breton Folk-Songs: I dreamt my love was singing; Fanny Hensel – Seis canções op. 1: Schwanenlied H 358; Vivaldi – Bajazet RV 703: Anche il mar par che sommerga; Bach – Magnificat BWV 243: Virga Jesse floruit; e Ednardo/Climério Ferreira – Enquanto engomo a calça. &lt;br /&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Série Arábica. Rossini Parucci – regente. Marcus Julius Lander – clarinete. Programa: Mozart – Concerto para clarinete K 622; e Mendelssohn – Sinfonia nº 5, Reforma. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
+              &lt;div class="field__item"&gt;dia 5 às 20h. &lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
     &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-21T19:30:00Z" class="datetime"&gt;seg, 21/12/2026 - 19:30&lt;/time&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-04T20:00:00Z" class="datetime"&gt;sex, 04/12/2026 - 20:00&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
 
@@ -653,7 +175,7 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
 
   &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1429" hreflang="pt-br"&gt;Londrina, PR&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
@@ -674,7 +196,258 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
 
   &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/273425" hreflang="pt-br"&gt;Estação Motiva Cultural&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-universitario-ouro-verde" hreflang="und"&gt;Cine Teatro Ouro Verde&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 60 a R$ 100.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:44:02 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284729 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-sinfonica-da-universidade-estadual-de-londrina-osuel-58#comments</comments>
+    </item>
+<item>
+  <title>Tributo ao Cinema</title>
+  <link>http://concerto.com.br/roteiros/tributo-ao-cinema</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tributo ao Cinema&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos de Ano Novo. Música ao vivo e projeções cinematográficas. Orquestra Sinfônica de Vermelhos. Roberto Minczuk – regente. Programa: R. Strauss – Assim falou Zaratustra, filme 2001 – Uma odisseia no espaço; Richard Wagner – A Valquíria, filme Apocalypse Now; Maurice Jarre – Abertura e tema principal, filme Lawrence da Arábia; Miklós Rózsa – Prelúdio, filme El Cid; John Williams – Tema principal, filmes A lista de Schindler e Star Wars: Uma nova esperança; Mahler – Sinfonia nº 5: Adagietto (4º movimento), filme Morte em Veneza; Vangelis – Main Title e Love Theme, filme Blade Runner: O caçador de androides; Howard Shore – May It Be e Gollum’s Song, filme O senhor dos anéis; Monty Norman – James Bond Theme, Adele Adkins/Paul Epworth – Skyfall e Hans Zimmer – James Bond Death, do filme James Bond: de 007 contra o satânico doutor No a Skyfall; Leonard Bernstein – Prologue, Somewhere e Dance at the Gym, de West Side Story; Nino Rota – Love Theme (Speak Softly, Love) e valsa, filme O poderoso chefão; Mozart – Sinfonia nº 25 K 183, filme Amadeus; Herman Hupfeld – As Time Goes By, filme Casablanca; Hans Zimmer/Lisa Gerrard – Now We Are Free, filme Gladiador; e Ennio Morricone — Tema principal e The Ecstasy of Gold, filme Três homens em conflito. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-30T19:30:00Z" class="datetime"&gt;qua, 30/12/2026 - 19:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1440" hreflang="pt-br"&gt;Ilhabela, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/complexo-cultural-baia-dos-vermelhos" hreflang="und"&gt;Instituto Baía dos Vermelhos&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 50 a R$ 330.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:43:07 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284728 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/tributo-ao-cinema#comments</comments>
+    </item>
+<item>
+  <title>Paulo Bellinati Trio</title>
+  <link>http://concerto.com.br/roteiros/paulo-bellinati-trio-1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Paulo Bellinati Trio&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos de Ano Novo. Paulo Bellinati Trio toca Garoto. Paulo Bellinati, Swami Jr. e Daniel Murray – violões. Programa: obras de Garoto. Sala do Porão. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-28T20:30:00Z" class="datetime"&gt;seg, 28/12/2026 - 20:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1440" hreflang="pt-br"&gt;Ilhabela, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/complexo-cultural-baia-dos-vermelhos" hreflang="und"&gt;Instituto Baía dos Vermelhos&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;R$ 160.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:42:15 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284727 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/paulo-bellinati-trio-1#comments</comments>
+    </item>
+<item>
+  <title>Flor – cantora</title>
+  <link>http://concerto.com.br/roteiros/flor-cantora</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Flor – cantora&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:41&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos de Ano Novo. Sala do Porão. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-27T20:30:00Z" class="datetime"&gt;dom, 27/12/2026 - 20:30&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1440" hreflang="pt-br"&gt;Ilhabela, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/complexo-cultural-baia-dos-vermelhos" hreflang="und"&gt;Instituto Baía dos Vermelhos&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:41:30 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284726 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/flor-cantora#comments</comments>
+    </item>
+<item>
+  <title>Orquestra Popular de Ilhabela</title>
+  <link>http://concerto.com.br/roteiros/orquestra-popular-de-ilhabela-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Popular de Ilhabela&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:40&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporada Sob o mesmo céu. Ricardo Ramalho – regente. Carlos Eduardo Quirino – trompete e flugelhorn; Douglas Drummond – trompete; Daniel Nascimento – trombone; Rildo Ramos e Rodrigo Ribeiro – saxofones tenores; e David Cassiano – saxofone alto. Programa: Triste; Cumbias; Serrado; Flor de Lis; Só louco; Closeli Dancing; Feels So Good; e Mis Abuelos. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-18T20:00:00Z" class="datetime"&gt;sex, 18/12/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1440" hreflang="pt-br"&gt;Ilhabela, SP&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/complexo-cultural-baia-dos-vermelhos" hreflang="und"&gt;Instituto Baía dos Vermelhos&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
@@ -687,9 +460,138 @@ Notícias&lt;u&gt; &lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.co
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Thu, 19 Nov 2026 21:12:58 +0000</pubDate>
+  <pubDate>Mon, 23 Nov 2026 14:40:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284601 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284725 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-popular-de-ilhabela-0#comments</comments>
+    </item>
+<item>
+  <title>Orquestra Filarmônica de Goiás</title>
+  <link>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-202</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Filarmônica de Goiás&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:39&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos sinfônicos na Capital. Encerramento da temporada. Neil Thomson – regente. Programa: Krieger – L´Estro Armonico; Guerra-Peixe – Suíte Pernambucana; e Santoro – Sinfonia nº 5. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-09T20:00:00Z" class="datetime"&gt;qua, 09/12/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1419" hreflang="pt-br"&gt;Goiânia, GO&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-do-sesi-3" hreflang="und"&gt;Teatro do Sesi Goiânia&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:39:37 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284724 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-202#comments</comments>
+    </item>
+<item>
+  <title>Orquestra Filarmônica de Goiás</title>
+  <link>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-201</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Filarmônica de Goiás&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 14:38&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Concertos sinfônicos na Capital. Concerto de Natal. Neil Thomson – regente. Programa: Carlos Gomes – O guarani; John Williams – Medley; e Freddy Portilho – Christmas Rhapsody, Medley sertanejo e Christmas Memories. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-04T20:00:00Z" class="datetime"&gt;sex, 04/12/2026 - 20:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1419" hreflang="pt-br"&gt;Goiânia, GO&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/centro-cultural-oscar-niemeyer" hreflang="und"&gt;Centro Cultural Oscar Niemeyer (1500 lugares)&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 23 Nov 2026 14:38:43 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284723 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/roteiros/orquestra-filarmonica-de-goias-201#comments</comments>
     </item>
 
   </channel>

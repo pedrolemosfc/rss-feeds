@@ -6,7 +6,7 @@
 <link>https://suhaimusichall.com.br/eventos/</link>
 <description>Eventos do Suhai Music Hall</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 23 Nov 2026 02:54:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:51:10 +0000</lastBuildDate>
 <item>
 <title>Criolo</title>
 <link>https://suhaimusichall.com.br/evento/criolo/</link>
@@ -50,6 +50,13 @@
 <description>Suhai Music Hall · 19 dez</description>
 </item>
 <item>
+<title>Reserva Sertaneja</title>
+<link>https://suhaimusichall.com.br/evento/reserva-sertaneja/</link>
+<guid isPermaLink="true">https://suhaimusichall.com.br/evento/reserva-sertaneja/</guid>
+<pubDate>Sun, 13 Dec 2026 12:00:00 +0000</pubDate>
+<description>Suhai Music Hall · 13 dez</description>
+</item>
+<item>
 <title>Super Show de Natal Kidzhouse</title>
 <link>https://suhaimusichall.com.br/evento/super-show-de-natal-kidzhouse/</link>
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/super-show-de-natal-kidzhouse/</guid>
@@ -76,19 +83,6 @@
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/a-perfect-circle/</guid>
 <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 27 nov</description>
-</item>
-<item>
-<title>ZZ Top</title>
-<link>https://suhaimusichall.com.br/evento/zz-top/</link>
-<guid isPermaLink="true">https://suhaimusichall.com.br/evento/zz-top/</guid>
-<pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
-<description>Suhai Music Hall · 21 nov</description>
-</item>
-<item>
-<title>Deep Purple</title>
-<link>https://suhaimusichall.com.br/evento/deep-purple/</link>
-<guid isPermaLink="true">https://suhaimusichall.com.br/evento/deep-purple/</guid>
-<description>Suhai Music Hall</description>
 </item>
 </channel>
 </rss>
