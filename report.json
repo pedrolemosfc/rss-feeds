@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 90,
+    "items": 91,
     "ok": true,
-    "notes": "scraped 90 items"
+    "notes": "scraped 91 items"
   },
   {
     "name": "guia-shows",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 179,
+    "items": 180,
     "ok": true,
-    "notes": "merged 2 feeds -> 179 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 180 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 14,
+    "items": 13,
     "ok": true,
-    "notes": "mirrored 14 native items",
+    "notes": "mirrored 13 native items",
     "kind": "native-mirror"
   },
   {
@@ -351,9 +351,9 @@
     "name": "blue-note-sp",
     "source_url": "https://bluenotesp.com/shows/",
     "output": "feeds/blue-note-sp.xml",
-    "items": 48,
+    "items": 50,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 50 events",
     "kind": "venue-scrape"
   },
   {
@@ -477,9 +477,9 @@
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 10,
+    "items": 8,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 8 events",
     "kind": "venue-scrape"
   },
   {
@@ -495,9 +495,9 @@
     "name": "manifesto-bar",
     "source_url": "https://manifestobar.com.br/bar/programacao/",
     "output": "feeds/manifesto-bar.xml",
-    "items": 10,
+    "items": 11,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 11 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 6,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 6 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 10,
+    "items": 25,
     "ok": true,
-    "notes": "scraped 10 events",
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {

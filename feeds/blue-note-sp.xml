@@ -6,7 +6,35 @@
 <link>https://bluenotesp.com/shows/</link>
 <description>Shows do Blue Note São Paulo (WP REST / HTML)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 23 Nov 2026 14:51:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 02:57:37 +0000</lastBuildDate>
+<item>
+<title>LET’S GROOVE</title>
+<link>https://bluenotesp.com/shows/lets-groove/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/lets-groove/</guid>
+<pubDate>Mon, 23 Nov 2026 16:48:27 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>GEORGE MICHAEL TRIBUTE</title>
+<link>https://bluenotesp.com/shows/george-michael-tribute/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/george-michael-tribute/</guid>
+<pubDate>Mon, 23 Nov 2026 16:40:59 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>JAY VAQUER</title>
+<link>https://bluenotesp.com/shows/jay-vaquer/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/jay-vaquer/</guid>
+<pubDate>Mon, 23 Nov 2026 16:35:07 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
+<item>
+<title>TRIBUTO VINCE GUARALDI – A CHARLIE BROWN CHRISTMAS</title>
+<link>https://bluenotesp.com/shows/tributo-vince-guaraldi-a-charlie-brown-christmas/</link>
+<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-vince-guaraldi-a-charlie-brown-christmas/</guid>
+<pubDate>Mon, 23 Nov 2026 16:12:59 +0000</pubDate>
+<description>Blue Note SP</description>
+</item>
 <item>
 <title>CLAPTONMANIACS – TRIBUTO ERIC CLAPTON</title>
 <link>https://bluenotesp.com/shows/claptonmaniacs-tributo-eric-clapton/</link>
@@ -274,13 +302,6 @@
 <description>Blue Note SP</description>
 </item>
 <item>
-<title>HENDRIX FRANKENREITER</title>
-<link>https://bluenotesp.com/shows/hendrix-frankenreiter/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/hendrix-frankenreiter/</guid>
-<pubDate>Thu, 01 Oct 2026 16:52:46 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
 <title>MEL LISBOA</title>
 <link>https://bluenotesp.com/shows/mel-lisboa/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/mel-lisboa/</guid>
@@ -334,13 +355,6 @@
 <link>https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</link>
 <guid isPermaLink="true">https://bluenotesp.com/shows/tributo-a-john-coltrane-a-love-supreme-musicman-jazz/</guid>
 <pubDate>Wed, 10 Jun 2026 18:31:49 +0000</pubDate>
-<description>Blue Note SP</description>
-</item>
-<item>
-<title>TRIBUTO MILTON NASCIMENTO – MUSICMAN JAZZ</title>
-<link>https://bluenotesp.com/shows/tributo-milton-nascimento-musicman-jazz-geraes-50-anos/</link>
-<guid isPermaLink="true">https://bluenotesp.com/shows/tributo-milton-nascimento-musicman-jazz-geraes-50-anos/</guid>
-<pubDate>Wed, 10 Jun 2026 18:29:53 +0000</pubDate>
 <description>Blue Note SP</description>
 </item>
 </channel>

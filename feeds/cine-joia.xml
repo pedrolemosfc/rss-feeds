@@ -6,7 +6,7 @@
 <link>https://www.cinejoia.com.br/agenda/</link>
 <description>Shows do Cine Joia (WP REST mec-events; datas = publish date)</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 23 Nov 2026 14:51:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 02:57:58 +0000</lastBuildDate>
 <item>
 <title>Marcos Valle e Convidados</title>
 <link>https://www.cinejoia.com.br/eventos/marcos-valle-e-convidados/</link>
@@ -64,13 +64,6 @@
 <description>Cine Joia</description>
 </item>
 <item>
-<title>HEYOON</title>
-<link>https://www.cinejoia.com.br/eventos/heyoon/</link>
-<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/heyoon/</guid>
-<pubDate>Tue, 03 Nov 2026 10:34:05 +0000</pubDate>
-<description>Cine Joia</description>
-</item>
-<item>
 <title>FEBRE90’S</title>
 <link>https://www.cinejoia.com.br/eventos/febre90s/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/febre90s/</guid>
@@ -78,7 +71,7 @@
 <description>Cine Joia</description>
 </item>
 <item>
-<title>Nation of Language e Mannequin Puss</title>
+<title>This is Lorelei e Mannequin Pussy</title>
 <link>https://www.cinejoia.com.br/eventos/nation-of-language-e-mannequin-puss/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/nation-of-language-e-mannequin-puss/</guid>
 <pubDate>Tue, 20 Oct 2026 11:11:18 +0000</pubDate>
@@ -355,6 +348,13 @@
 <link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</link>
 <guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-data-extra/</guid>
 <pubDate>Tue, 30 Jun 2026 11:55:25 +0000</pubDate>
+<description>Cine Joia</description>
+</item>
+<item>
+<title>Mãeana Canta Jg</title>
+<link>https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</link>
+<guid isPermaLink="true">https://www.cinejoia.com.br/eventos/maeana-canta-jg-no-cine-joia/</guid>
+<pubDate>Fri, 26 Jun 2026 11:48:03 +0000</pubDate>
 <description>Cine Joia</description>
 </item>
 </channel>
