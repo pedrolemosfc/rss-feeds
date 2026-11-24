@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Tue, 24 Nov 2026 02:57:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 14:58:16 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc3MiIsImRpc2xpa2VzIjoiMCJ9?token=x5OYZTEy9LV71pdKvyYT9bC6hHSD1Zru1-27SztJhTY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc3NCIsImRpc2xpa2VzIjoiMCJ9?token=CZ6wBWzauYMsp9_H2pb8lRlZOLFRZWykBWJn4dQrHg0?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;772&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;774&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -80,6 +80,235 @@
   <pubDate>Sat, 18 May 2030 23:19:43 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Andrea Saffirio - piano</title>
+  <link>http://concerto.com.br/roteiros/andrea-saffirio-piano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Andrea Saffirio - piano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 13:10&lt;/span&gt;
+
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
+              &lt;div class="field__item"&gt;Programa: do jazz a música contemporânea. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-10T19:00:00Z" class="datetime"&gt;qui, 10/12/2026 - 19:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1382" hreflang="pt-br"&gt;Rio de Janeiro, RJ&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Local&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/instituto-italiano-di-cultura" hreflang="und"&gt;Instituto Italiano de Cultura&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 24 Nov 2026 13:10:32 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284807 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>A Escola de Música de Piracicaba acabou. Cidinha Mahle, não</title>
+  <link>http://concerto.com.br/textos/opiniao/escola-de-musica-de-piracicaba-acabou-cidinha-mahle-nao</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;A Escola de Música de Piracicaba acabou. Cidinha Mahle, não&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Por Beatriz Vicentini&lt;/strong&gt; &lt;em&gt;[jornalista e escritora]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Olhar para Cidinha Mahle, que amanhã se sentará ao piano para mais um “Concerto ao final da tarde”, produz uma sensação de profunda vergonha; vergonha de uma indiferença compartilhada por tantos, que aos poucos destrói projetos, compromissos, memória e parte da própria história da música em Piracicaba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ela completou 95 anos na última semana. É possível quase carregá-la no colo, com seus no máximo 50 quilos. Movimenta-se num corpo curvado sobre si próprio. &lt;/p&gt;
+&lt;p&gt;Ainda jovens, ela e o marido resolveram que fariam de Piracicaba uma cidade onde se ouvisse música. Onde as pessoas aprendessem a gostar de música, inclusive de fazer música. Que fosse possível se conhecer artistas consagrados em concertos e audições. Que houvesse espaços de arte e cultura, como outros construíam projetos de desenvolvimento financeiro, lucros e política.&lt;/p&gt;
+&lt;p&gt;Passadas várias décadas, a vida lhe tirou muita coisa. O marido já morreu – e por vezes é possível ouvi-la falar dele como se ainda estivesse em sua companhia. A escola que ambos criaram foi fechada, com o prédio sendo leiloado: “Foi um baque, coisa que a gente não esperava”, admitiu ela um dia. Os instrumentos ali oferecidos para estudo e prática qualificada não tiveram a manutenção necessária – e sabe-se lá em que mãos se encontram hoje. O desrespeito daqueles a quem ela e o marido confiaram para que sua obra se mantivesse, cresceu. Nos últimos anos, a indiferença para com ela foi tanta que era como se nada daquilo para o qual ambos dedicaram sua vida tivesse alguma importância. Indiferença dos novos “donos” de sua escola, indiferença dos que assumiram o poder local. &lt;/p&gt;
+&lt;p&gt;Mas ela continua tocando o seu piano duas horas por dia, numa rotina de que não abre mão. Insiste em estudar como sempre estudou. Não administra mais nada, mas consegue trazer para perto de si ex-alunos, gente que aprendeu a gostar de fazer música, para promover com ela concertos mensais, os encontros de final de tarde. Como as salas que deveriam, por justiça, se abrirem para suas apresentações foram se fechando, ela buscou outras – menores, alternativas, mas ainda capazes de reverberar aplausos. Se não tem mais a agilidade de décadas atrás, mantém ainda uma sólida vontade onde o que parece importar é a música. Como alimento, como sustentação de sonhos que ela conseguiu realizar em décadas anteriores.&lt;/p&gt;
+&lt;p&gt;Até hoje, não parece viável confrontar essa vontade férrea, que deixa a impressão de ter sido fortalecida quanto mais dificuldades se acumulavam. Não foi fácil conviver com sua independência, sua centralização das decisões, seu pulso firme enquanto o marido gostava mesmo era de compor, de reger, de mergulhar num mundo menos prático e mais criativo. &lt;/p&gt;
+&lt;p&gt;Olhar para Cidinha Mahle, que amanhã se sentará ao piano para mais um “Concerto ao final da tarde – preparando o Natal”, ao lado de um coro por ela ensaiado, assim como músicos fazendo soar violoncelo, bandolim, fagote e violinos, produz uma sensação de profunda vergonha. Vergonha dos metodistas, vergonha de prefeitos e secretários municipais de cultura, vergonha de um órgão cuja finalidade é proteger o patrimônio histórico e nada protegeu, vergonha de uma cidade que, ao invés de reagir, se calou mesmo com os alertas do que estava sendo destruído. Vergonha de um tempo onde cultura se tornou algo descartável – assumidamente, porque é preciso investir e canalizar “recursos e esforços dentro das possibilidades atuais do setor educacional do Brasil”, como disseram aqueles a quem uma escola de música foi confiada. Vergonha de uma indiferença compartilhada por tantos, que aos poucos destrói projetos, compromissos, memória e parte da própria história da música em Piracicaba.&lt;/p&gt;
+&lt;p&gt;Admita-se – ainda que como hipótese triste – que não mais se lutasse tanto por um prédio que abrigou tantos sons, tantos concertos, tantos jovens instrumentistas que depois ganhariam reconhecimento em várias partes do mundo, mas deveria ter havido, ao menos, certa reverência para com partituras, com instrumentos, a celebrarem a e refazerem sons, harmonias, a música que se faz em conjunto, permitindo que as pessoas sintam mais, que se expressem melhor, que despertem para novos universos de beleza, emoção e percepção daquilo que vai muito além de palavras, lucro, prioridades administrativas e interesses políticos. &lt;/p&gt;
+&lt;p&gt;A Escola de Música de Piracicaba “Maestro Ernst Mahle” não existe mais. Mas Cidinha Mahle continua inabalável. Destrui-la é algo bem mais difícil do que foi o processo de destruição da Empem. Assim como supor que é fácil ir se trocando espaços de cultura e arte por outras versões mais compactadas de seres humanos fatiados em suas potencialidades. Aplausos a ela, gratidão por sua força e mais um concerto de Natal – para além da mensagem de esperança renovada a cada dezembro, que permaneça o registro de uma história que não precisaria estar terminando assim.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;CONCERTOS AO CAIR DA TARDE – PREPARANDO O NATAL &lt;br /&gt;
+Quarta-feira, dia 25/11, Lar Escola Coração de Maria Nossa Mãe (Piracicaba), 18h30.&lt;br /&gt;
+IMAGEM: Divulgação Concertos ao Final da Tarde em anos anteriores. Cidinha Mahle à frente de parte do coro e músicos que compuseram a apresentação&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Cidinha Mahle e músicos dos Concertos ao cair da tarde (divulgação)" data-entity-type="file" data-entity-uuid="0eb0f42c-b577-46e9-a8e7-3b591d96c688" src="http://concerto.com.br/sites/default/files/inline-images/w-CidinhaMahle_ConcertoAoCairDaTarde_div.jpg" /&gt;
+&lt;figcaption&gt;Cidinha Mahle e músicos dos Concertos ao cair da tarde (divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 10:22&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-CidinhaMahle_ConcertoAoCairDaTarde_div.jpg" width="900" height="594" alt="Cidinha Mahle e músicos dos Concertos ao cair da tarde (divulgação)" title="Cidinha Mahle e músicos dos Concertos ao cair da tarde (divulgação)" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opiniao" hreflang="pt-br"&gt;Opinião&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MTAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxMiIsImRpc2xpa2VzIjoiMCJ9?token=NurZWTZy3L01f0rmGL3kMo46z3dwuvrDEH0wC2qsqd8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;12&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 24 Nov 2026 10:22:06 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284810 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/opiniao/escola-de-musica-de-piracicaba-acabou-cidinha-mahle-nao#comments</comments>
+    </item>
+<item>
+  <title>Corpos negros no teatro de ópera</title>
+  <link>http://concerto.com.br/textos/critica/corpos-negros-no-teatro-de-opera</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Corpos negros no teatro de ópera&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conceição Evaristo: uma ópera escrevivência,&lt;/em&gt; de Julianna Ripke e Julianna Santos, presta homenagem à escritora em seus 80 anos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conceição Evaristo: uma ópera escrevivência&lt;/em&gt; começa com uma explosão.&lt;/p&gt;
+&lt;p&gt;No palco, Mãe Joana, grávida, caminha pela favela, tomada pela dor do parto, longe de qualquer ajuda ou socorro. O ambiente é escuro. Chove. Ela chora. A música, de enorme força dramática, explode, mas também se insinua, contorce. Joana está sozinha no mundo da rua, mas Imaculada Conceição e Oxum a observam. A ela ou à menina, a pequena Conceição, prestes a nascer?&lt;/p&gt;
+&lt;p&gt;Há toda uma simbologia nessa abertura. Na resiliência da mãe e da filha, em sua luta para chegar ao mundo, sugerindo a afirmação da vida – uma vida que se impõe, que teima em viver diante da adversidade e de forças que querem silenciá-la. Na maternidade, associada à ancestralidade que perpassa o terreno e abraça a espiritualidade. Na dor. Na falta. Na perda que ronda.&lt;/p&gt;
+&lt;p&gt;São elementos que, na sequência, serão retomados na ópera composta por Juliana Ripke, a partir de um libreto de Julianna Santos, em cartaz no Theatro São Pedro, responsável pela encomenda da obra que gira em torno da vida da escritora Conceição Evaristo. E que mostra como o palco da ópera é também espaço para a discussão de temas que permanecem urgentes, reforçando, como coloca a autora em seu texto sobre o espetáculo, que a "arte também nos oferece caminhos para compreender a sociedade, reconhecer nossas histórias e construir outras possibilidades de existência".&lt;/p&gt;
+&lt;p&gt;Mas há outro elemento, importante como os demais: uma dualidade tão presente quanto cruel. Há as águas-lembranças dos marejados olhos, mas também a água que acaba. Há a estrela mais brilhante, que é o marido no céu, mas também o medo da filha de passar fome. Há uma gente que às vezes é feliz, mas apenas porque a ela é determinado pelo mundo à sua volta que o sentido único deve ser o do sofrimento. E há a definição que a própria Conceição Evaristo dá à mulher, aquela que comporta em si “a calma e o desespero”.&lt;/p&gt;
+&lt;p&gt;Em meio a esse contexto, conhecemos a história de Conceição Evaristo, a partir da escolha de alguns marcos importantes. O nascimento. O ambiente familiar, com seus personagens, a vó Rita, o Tio Totó. A infância, desde os 8 anos, marcada pelo trabalho. A descoberta de si na sala de aula, como aluna, e mais tarde como professora. O casamento. O nascimento da filha. A perda do marido. A perda da mãe. A compreensão da escrita como espaço da existência.&lt;/p&gt;
+&lt;p&gt;Os fatos são introduzidos pela narradora, a própria Conceição, interpretada pela atriz Dirce Thomaz, cujo texto é extraído de um esboço biográfico preparado pela escritora para o espetáculo. Sua presença se torna necessária quando se considera a estrutura do libreto, uma vez que Julianna Santos optou, ao construir o texto, por utilizar apenas passagens de textos de Conceição Evaristo, que nem sempre remetem a episódios, mas, antes, a evocações poéticas. &lt;/p&gt;
+&lt;p&gt;Do ponto de vista das ideias, a escolha faz sentido, em diálogo com o conceito de escrevivência, introduzido pela escritora em sua obra. Ele se refere a uma produção literária que parte de uma vivência dos autores negros como elemento fundamental para preencher a lacuna histórica que delegou aos brancos a tarefa de contar essa vivência, como a própria autora coloca em uma entrevista de 2020 [assista &lt;a href="https://www.youtube.com/watch?v=QXopKuvxevY" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;aqui&lt;/span&gt;&lt;/a&gt;]. Não se trata, de um exercício de autorreferência individual, em que a experiência cotidiana se impõe como filtro do mundo, mas, sim, de uma percepção que surge de uma imagem, a da mãe preta, cuja voz precisa ser libertada do uso que dela foi feito por aqueles que a escravizaram. &lt;/p&gt;
+&lt;p&gt;Como diz Conceição Evaristo, o escreviver “pretende borrar, desfazer uma imagem do passado, em que o corpo-voz de mulheres negras escravizadas tinha sua potência de emissão também sob o controle dos escravocratas” – e reconhecer “que as letras e a escrita” hoje também pertencem aos corpos negros. “Nós nos apropriamos desses signos gráficos, do valor da escrita, sem esquecer a pujança da oralidade de nossas e de nossos ancestrais. Potência de voz, de criação, de engenhosidade que a casa-grande soube escravizar para o deleite de seus filhos. E se a voz de nossas ancestrais tinha rumos e funções demarcadas pela casa-grande, a nossa escrita não.”&lt;/p&gt;
+&lt;p&gt;A experiência individual, aquela dos fatos da existência, torna-se, assim, indissociável da reflexão constante sobre o passado e o presente e o modo como o tempo constrói uma noção de identidade em meio a uma experiência que é também coletiva. E o fato passa a ser tão importante quanto a reflexão que coloca a respeito do “eu”, reflexão que é histórica ou poética e, talvez seja melhor dizer, as duas coisas. &lt;/p&gt;
+&lt;p&gt;É um processo que não termina. E é interessante a forma como Julianna Santos constrói em cena a figura da Conceição narradora, que no espetáculo não apenas observa, mas também interage com seu passado e, assim, se mostra constantemente construindo e reconstruindo suas memórias, nos dando uma chave de compreensão do espetáculo não como uma história de superação, mas também de permanência, uma permanência que nasce da crença – e do poder – da escrita como concebida por Conceição Evaristo.&lt;/p&gt;
+&lt;p&gt;Mas de tudo isso decorre uma consequência, talvez inevitável quando se coloca no palco uma personagem real de tamanha importância no debate contemporâneo: como as reflexões e percepções que compõem o libreto são extraídas totalmente dos textos da autora, Conceição Evaristo, paradoxalmente, deixa de ser personagem da peça sobre sua vida, uma vez que a máscara do ator, a que emula e amplifica a vida daquele que está sendo interpretado, submete-se à figura real. Sua presença no palco nos momentos finais da ópera, profundamente emocionante, reforça esse sentido. E é simbólico que, com sua aparição, a merecida ovação do público, em uma quase catarse, torne inaudível o final do espetáculo.&lt;/p&gt;
+&lt;p&gt;Há outras consequências do ponto de vista da construção de um arco narrativo. Por mais condensada que seja a história posta em cena, há ainda assim muito a narrar, e muitos personagens importantes a apresentar, o que torna os momentos biográficos por vezes atropelados, ainda que seja inteligente a forma como a direção cênica, também de Santos, utiliza os mesmos cantores em diferentes papéis, em uma movimentação cênica artesanal e orgânica, para a qual contribuem a luz de Wagner Pinto e a cenografia de Renata Mota.&lt;/p&gt;
+&lt;p&gt;Não é que esses momentos não carreguem força ou potência: mas, aqui e ali, são mais sugestões do que construções dramáticas. Isso dá à narrativa um caráter fragmentado. O foco cronológico se mantém como eixo, mas impõe-se uma sucessão de quadros, o que tem, claro, consequência direta na música, também construída de forma episódica, em que pesem algumas recorrências de elementos. É notável, no entanto, o modo como Juliana Ripke cria uma identidade muito particular para cada uma delas: a explosão da abertura, a cena em que os personagens cantam um samba, a delicadeza reduzida à sua forma mais essencial no dueto de amor, a cena da morte do Tio Totó ou a tocante gentileza da canção que é interpretada por Ainá, filha de Conceição Evaristo na vida real, são testemunhos de um senso dramático sofisticado, pelos quais a maestra Maíra Ferreira, à frente da Orquestra do Theatro São Pedro, navega com sensibilidade, dando enorme fluência para o espetáculo.&lt;/p&gt;
+&lt;p&gt;A escrita vocal de Ripke também faz escolhas dramáticas. O papel de Conceição Evaristo, interpretado com apuro técnico e cênico pela soprano Lorena Pires Adão, é levado frequentemente para as regiões agudas, o que, ao explorar os limites da voz, coloca a personagem em um espaço próprio, como que pairando sobre os demais, contrastando com a escrita dramática para Mãe Joana (Edna D’Oliveira) ou com o lirismo tão bem trabalhado pela excelente Marina Pereira nos múltiplos papéis que assume. &lt;/p&gt;
+&lt;p&gt;Ótimo desempenho tiveram também a mezzo soprano Juliana Taino, o tenor Mar Oliveira e o barítono Fúlvio Souza.  Mas é preciso, acima de tudo, falar de Edna D’Oliveira. E não apenas pela maturidade cênica e vocal com que ela recria a dualidade entre calma e desespero de Mãe Joana. Vê-la em meio a um elenco notável, inteiramente formado por cantores negros, é lembrar que é também por ela e pelos espaços que ajudou a abrir que eles hoje estão naquele palco. &lt;/p&gt;
+&lt;p&gt;Conceição Evaristo não está sozinha em suas lutas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;['Conceição Evaristo: uma ópera escrevivência' segue em cartaz até o dia 29 no Theatro São Pedro; veja &lt;a href="https://concerto.com.br/roteiros/opera-conceicao-evaristo-uma-opera-escrevivencia-de-juliana-ripke-2" target="_blank"&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO.]&lt;/em&gt;&lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Edna D'Oliveira, Dirce Thomaz e Lorena Pires Adão em cena de 'Conceição Evaristo: uma ópera escrevivência', em cartaz no Theatro São Pedro [Íris Zanetti]" data-entity-type="file" data-entity-uuid="f542d007-52ff-4fc3-8e57-3538e5def1a5" src="http://concerto.com.br/sites/default/files/inline-images/w-escrevivencia_n.jpg" /&gt;
+&lt;figcaption&gt;Edna D'Oliveira, Dirce Thomaz e Lorena Pires Adão em cena de 'Conceição Evaristo: uma ópera escrevivência', em cartaz no Theatro São Pedro [Íris Zanetti]&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15017" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;João Luiz Sampaio&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 09:28&lt;/span&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-escrevivencia_n.jpg" width="900" height="600" alt="Edna D'Oliveira, Dirce Thomaz e Lorena Pires Adão em cena de 'Conceição Evaristo: uma ópera escrevivência', em cartaz no Theatro São Pedro [Íris Zanetti]" title="Edna D'Oliveira, Dirce Thomaz e Lorena Pires Adão em cena de 'Conceição Evaristo: uma ópera escrevivência', em cartaz no Theatro São Pedro [Íris Zanetti]" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Não&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
+    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
+    &lt;div class="like btnLike"&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MDAiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIxNSIsImRpc2xpa2VzIjoiMCJ9?token=AzcOco-MfMvX7UzF7nBx6ZWO6LqE38pwnZBPwwa_Fy8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+    &lt;/div&gt;
+
+          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
+    &lt;/div&gt;
+
+&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 24 Nov 2026 09:28:02 +0000</pubDate>
+    <dc:creator>João Luiz Sampaio</dc:creator>
+    <guid isPermaLink="false">284800 at http://concerto.com.br</guid>
+    <comments>http://concerto.com.br/textos/critica/corpos-negros-no-teatro-de-opera#comments</comments>
     </item>
 <item>
   <title>Osusp e Coralusp interpretam o 'Réquiem' de Mozart </title>
@@ -146,10 +375,10 @@ Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&l
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ3OTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=3_G0x5eguzrn0maakAEhQGLCGE_m1L2IPjs0JcPRNYY?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ3OTkiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjIwIiwiZGlzbGlrZXMiOiIwIn0%3D?token=Nmj1ds0xEfsO2ZfLX_IbWs9tQm7REkAmrK6NCJJbPUA?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;20&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -224,10 +453,10 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjgiLCJkaXNsaWtlcyI6IjAifQ%3D%3D?token=xMEhK2e_Q-73ND-S_mGANEDPrb3_Mtpmrw43f4eJVLM?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ3OTgiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE3IiwiZGlzbGlrZXMiOiIwIn0%3D?token=Iw-UjOeY_gUKTNTYkXBSoGTlfkbXZCyP1gTbwKKMQnw?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;8&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;17&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -431,214 +660,6 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
   <pubDate>Mon, 23 Nov 2026 18:24:06 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
     <guid isPermaLink="false">284793 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra Sinfônica da Bahia</title>
-  <link>http://concerto.com.br/roteiros/orquestra-sinfonica-da-bahia-337</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra Sinfônica da Bahia&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 18:16&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Natal das estrelas. Osba em prol do Martagão. Carlos Prazeres - direção musical e regente. Luciano Calazans - direção musical e arranjos. Participação: Erika Ribeiro - piano, Ivete Sangalo - cantora e Coral Vozes da Vida. Programa: Leroy Anderson – A Christmas Festival; Gershiwn – Rhapsody in Blue; Carlos Gomes – Condor: Notturno; e Tchaikovsky – The Nutcracker: Suíte.&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;dia 20 às 20h, com outros convidados.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-19T20:00:00Z" class="datetime"&gt;sab, 19/12/2026 - 20:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1387" hreflang="pt-br"&gt;Salvador, BA&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/teatro-castro-alves" hreflang="und"&gt;Teatro Castro Alves (1554 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 100 a R$ 220. Vendas pela plataforma Sympla ou na bilheteria do teatro.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 23 Nov 2026 18:16:40 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284792 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra de Cordas Monte Cristo</title>
-  <link>http://concerto.com.br/roteiros/orquestra-de-cordas-monte-cristo-4</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Cordas Monte Cristo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 17:59&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Candlelight: Clássicos de Natal. Concertos à luz de velas. Programa: Tchaikovsky – Dança da Fada Açucarada; William Chatterton Dix – Greensleeves (What Child Is This); Mykola Leontovych – Carol of the Bells; Adolphe Adam – O Holy Night; Ernst Anschütz – O Christmas Tree; Arthur Warrell – We Wish You a Merry Christmas; Jule Styne – Let It Snow; José Feliciano – Feliz Navidad; James L. Pierpont – Jingle Bells; Brenda Lee – Rocking Around the Christmas Tree; Wet Wet Wet – Love Is All Around; Kristen Anderson-Lopez – Let It Go, de Frozen; Liz Callaway – Once Upon a December; Hans Zimmer – Maestro, de The Holiday; Michael Bublé – It's Beginning to Look a Lot Like Christmas; Wham! – Last Christmas; e Mariah Carey – All I Want for Christmas Is You.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-20T19:00:00Z" class="datetime"&gt;dom, 20/12/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 154 a R$ 220. Vendas: https://feverup.com/m/398480.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 23 Nov 2026 17:59:44 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284791 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Orquestra de Cordas Monte Cristo</title>
-  <link>http://concerto.com.br/roteiros/orquestra-de-cordas-monte-cristo-3</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orquestra de Cordas Monte Cristo&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;seg, 23/11/2026 - 17:58&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Candlelight: Clássicos de Natal. Concertos à luz de velas. Programa: Tchaikovsky – Dança da Fada Açucarada; William Chatterton Dix – Greensleeves (What Child Is This); Mykola Leontovych – Carol of the Bells; Adolphe Adam – O Holy Night; Ernst Anschütz – O Christmas Tree; Arthur Warrell – We Wish You a Merry Christmas; Jule Styne – Let It Snow; José Feliciano – Feliz Navidad; James L. Pierpont – Jingle Bells; Brenda Lee – Rocking Around the Christmas Tree; Wet Wet Wet – Love Is All Around; Kristen Anderson-Lopez – Let It Go, de Frozen; Liz Callaway – Once Upon a December; Hans Zimmer – Maestro, de The Holiday; Michael Bublé – It's Beginning to Look a Lot Like Christmas; Wham! – Last Christmas; e Mariah Carey – All I Want for Christmas Is You.&lt;br /&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-representations field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Reapresentações&lt;/div&gt;
-              &lt;div class="field__item"&gt;às 19h.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-20T17:00:00Z" class="datetime"&gt;dom, 20/12/2026 - 17:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/masp-auditorio-0" hreflang="pt-br"&gt;Masp Auditório (364 lugares)&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;R$ 154 a R$ 220. Vendas: https://feverup.com/m/398480.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Mon, 23 Nov 2026 17:58:59 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284790 at http://concerto.com.br</guid>
     </item>
 
   </channel>

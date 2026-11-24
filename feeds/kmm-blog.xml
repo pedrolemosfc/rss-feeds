@@ -12,7 +12,7 @@
 	<atom:link href="https://kmm.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kmm.com.br/blog/</link>
 	<description>Espelho do RSS nativo do blog KMM (WordPress /feed/). /blog/feed/ é só comentários; site feed cobre posts recentes do blog.</description>
-	<lastBuildDate>Tue, 24 Nov 2026 02:57:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Nov 2026 14:57:57 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Reforma Tributária no transporte de cargas: como o fim do PIS e da Cofins impacta os fretes?</title>
+		<link>https://kmm.com.br/blog/reforma-tributaria-no-transporte-de-cargas/</link>
+					<comments>https://kmm.com.br/blog/reforma-tributaria-no-transporte-de-cargas/#respond</comments>
+		
+		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 14:20:45 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://kmm.com.br/?p=21433</guid>
+
+					<description><![CDATA[<p>O dia 31 de dezembro de 2026 marca o encerramento da apuração regular do PIS/Pasep e da Cofins. A partir de 1º de janeiro de 2027, essas contribuições serão substituídas pela Contribuição sobre Bens e Serviços (CBS), trazendo mudanças importantes para as empresas brasileiras, inclusive para o setor de transporte rodoviário de cargas. Mas o [&#8230;]</p>
+<p>O post <a href="https://kmm.com.br/blog/reforma-tributaria-no-transporte-de-cargas/">Reforma Tributária no transporte de cargas: como o fim do PIS e da Cofins impacta os fretes?</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://kmm.com.br/blog/reforma-tributaria-no-transporte-de-cargas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Reforma Tributária no transporte: o que muda e como preparar sua transportadora?</title>
 		<link>https://kmm.com.br/blog/reforma-tributaria/</link>
 					<comments>https://kmm.com.br/blog/reforma-tributaria/#respond</comments>
@@ -199,26 +218,6 @@
 ]]></description>
 		
 					<wfw:commentRss>https://kmm.com.br/blog/logistica-omnichannel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Auditoria de frete: como reduzir custos e aumentar a eficiência na gestão do transporte</title>
-		<link>https://kmm.com.br/blog/auditoria-de-frete/</link>
-					<comments>https://kmm.com.br/blog/auditoria-de-frete/#respond</comments>
-		
-		<dc:creator><![CDATA[KMM TNS Inside]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 15:15:27 +0000</pubDate>
-				<category><![CDATA[ABC da Logística]]></category>
-		<category><![CDATA[Gestão]]></category>
-		<guid isPermaLink="false">https://kmm.com.br/?p=21011</guid>
-
-					<description><![CDATA[<p>A gestão de fretes envolve muito mais do que negociar valores e acompanhar entregas. Em operações logísticas cada vez mais complexas, garantir que todos os custos estejam corretos e alinhados ao que foi contratado tornou-se um desafio constante para transportadoras e embarcadores. Diferenças em tabelas de frete, cobranças indevidas, erros de faturamento e inconsistências nos [&#8230;]</p>
-<p>O post <a href="https://kmm.com.br/blog/auditoria-de-frete/">Auditoria de frete: como reduzir custos e aumentar a eficiência na gestão do transporte</a> apareceu primeiro em <a href="https://kmm.com.br">O Sistema Operacional da Transportadora - KMM</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://kmm.com.br/blog/auditoria-de-frete/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

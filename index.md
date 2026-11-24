@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-24 02:59 UTC
+Generated: 2026-11-24 15:01 UTC
 
 ## Native feeds (not scraped)
 
@@ -48,8 +48,8 @@ Generated: 2026-11-24 02:59 UTC
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
   notes: scraped 100 items
-- **qobuz-magazine-br** [OK] items=61 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
-  notes: scraped 61 items
+- **qobuz-magazine-br** [OK] items=62 → `out/qobuz-magazine-br.xml`  source: https://www.qobuz.com/br-pt/magazine  
+  notes: scraped 62 items
 - **noize** [OK] items=100 → `out/noize.xml`  source: https://www.noize.com.br/  
   notes: scraped 100 items
 - **treblezine** [FAIL] items=0 → `out/treblezine.xml`  source: https://www.treblezine.com/  
@@ -68,8 +68,8 @@ Generated: 2026-11-24 02:59 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=13 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 13 native items
+- **mis-sp** [OK] items=14 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 14 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -94,8 +94,8 @@ Generated: 2026-11-24 02:59 UTC
   notes: scraped 8 events
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **suhai-music-hall** [OK] items=11 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
-  notes: scraped 11 events
+- **suhai-music-hall** [OK] items=12 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: scraped 12 events
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=3 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
@@ -118,8 +118,8 @@ Generated: 2026-11-24 02:59 UTC
   notes: scraped 8 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=27 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 27 events
+- **audio-sp** [OK] items=26 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 26 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
 - **casa-de-francisca** [OK] items=39 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
@@ -132,8 +132,8 @@ Generated: 2026-11-24 02:59 UTC
   notes: scraped 11 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **rockambole-meaple** [OK] items=8 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
-  notes: scraped 8 events
+- **rockambole-meaple** [OK] items=10 → `feeds/rockambole-meaple.xml`  source: https://meaple.com.br/rockambole  
+  notes: scraped 10 events
 - **itau-cultural-agenda** [OK] items=50 → `feeds/itau-cultural-agenda.xml`  source: https://www.itaucultural.org.br/agenda  
   notes: scraped 50 events
 - **cine-joia** [OK] items=50 → `feeds/cine-joia.xml`  source: https://www.cinejoia.com.br/agenda/  
@@ -168,14 +168,14 @@ Generated: 2026-11-24 02:59 UTC
   notes: scraped 80 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=5 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 5 events
+- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 9 events
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>
-- **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
-  notes: scraped 40 events
-- **cly-blog** [OK] items=25 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 25 events
+- **sest-senat** [FAIL] items=0 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
+  notes: no event items found
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
