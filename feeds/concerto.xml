@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 25 Nov 2026 11:26:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:48:15 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc4MCIsImRpc2xpa2VzIjoiMCJ9?token=H4C7ux6stxHXhYpvpdgGMG_OWYgtVHSLjSy7MXNgcpE?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc4MiIsImRpc2xpa2VzIjoiMCJ9?token=PyTWxtJjDNvA-dPhbAGckXeuOoLdxwKJqhEXkvOGqug?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;780&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;782&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -82,138 +82,51 @@
     <guid isPermaLink="false">272981 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Centro Cultural da Vila Itororó</title>
-  <link>http://concerto.com.br/node/284818</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Centro Cultural da Vila Itororó&lt;/span&gt;
+  <title>Prezada leitora, prezado leitor,</title>
+  <link>http://concerto.com.br/node/284837</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prezada leitora, prezado leitor,&lt;/span&gt;
 
-  &lt;div class="field field--name-field-roteiro-address field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro Endereço&lt;/div&gt;
-              &lt;div class="field__item"&gt;Rua Maestro Cardim, 60 - Bela Vista - Tel. (11) 3253-0187 - https://vilaitororo.prefeitura.sp.gov.br/&lt;/div&gt;
-          &lt;/div&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 22:03&lt;/span&gt;
-
-  &lt;div class="field field--name-field-place-city field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;São Paulo, SP&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-places field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Tue, 24 Nov 2026 22:03:27 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284818 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>2ª Mostra do Coletivo de Música Popular de Câmara</title>
-  <link>http://concerto.com.br/roteiros/2a-mostra-do-coletivo-de-musica-popular-de-camara</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2ª Mostra do Coletivo de Música Popular de Câmara&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 22:02&lt;/span&gt;
-
-  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Descrição&lt;/div&gt;
-              &lt;div class="field__item"&gt;Vaisy Alencar - produção executiva. Mariana Rodrigues, Stephanie Borgani, Bruno Avoglia, Letícia Maia e Luca Frazão - idealização. Participação: Quarteto Mímica - duas vozes e dois saxofones; Duo Conversa Brasileira - clarone ou clarinete e acordeon ou piano; Brazú Quintê - guitarra, violino, violoncelo, piano e flauta; Quinteto de Radamés Gnattali, Quinteto de Léa Freire, jazz composicional, obras de Villa-Lobos e Camargo Guarnieri, Hermeto Pascoal e a criação contemporânea. &lt;br /&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="1 1 []"&gt;Dezembro é mês de Natal, e mês de Natal é mês de &lt;em&gt;O quebra--nozes&lt;/em&gt;! O fantástico conto natalino escrito por E. T. A. Hoffmann e transformado em balé com música de Tchaikovsky emociona plateias em todo o mundo. Assim também no Brasil, onde a obra será apresentada neste mês no Theatro Municipal do Rio de Janeiro, em São Paulo, em Belo Horizonte e em Piracicaba. Para a capa desta edição da Revista CONCERTO, a jornalista Amanda Queirós escreve a matéria “Reino encantado”, que recupera a história de &lt;em&gt;O quebra-nozes&lt;/em&gt; e fala das novas produções. &lt;/p&gt;
+&lt;p&gt;A entrevista do mês é com Ricardo Ballestero, refinado pianista que tem construído carreira em aclamadas colaborações com cantores. O jornalista Irineu Franco Perpetuo conversou com Ballestero, que, entre outros assuntos, contou sobre o recital que realiza no Theatro São Pedro de São Paulo com a soprano Carla Cottini e o clarinetista Bruno Ghirardi. &lt;/p&gt;
+&lt;p&gt;O pianista Leonardo Hilsdorf, que toca com a Ospa a &lt;em&gt;Rapsódia sobre um tema de Paganini&lt;/em&gt;, de Rachmaninov, é o artista que ocupa a seção &lt;em&gt;Fermata&lt;/em&gt; desta edição, em reportagem da jornalista Luciana Medeiros. Além de falar da obra, “uma das mais difíceis que já toquei”, Hilsdorf conta do Horizonte Musical, associação cultural sem fins lucrativos que criou em Lisboa, onde reside. &lt;/p&gt;
+&lt;p&gt;Outro destacado pianista brasileiro radicado na Europa, Luís Rabello, estará no Rio de Janeiro neste mês para solar, junto à Orquestra Petrobras Sinfônica, o &lt;em&gt;Concerto nº 2&lt;/em&gt; de Radamés Gnattali, como escreve o editor executivo João Luiz Sampaio na seção &lt;em&gt;Acontece&lt;/em&gt;. O genial Gnattali, que em 2026 completaria 120 anos, também terá um concerto especial da Orquestra Furiosa Portátil, na Casa do Choro. &lt;/p&gt;
+&lt;p&gt;Na seção &lt;em&gt;Repertório&lt;/em&gt;, a jornalista Ana Cursino Guariglia escreve sobre a &lt;em&gt;Sinfonia nº 9&lt;/em&gt; de Gustav Mahler, que encerra a temporada da Osesp na Sala São Paulo. &lt;/p&gt;
+&lt;p&gt;Como em todos os meses, publicamos os artigos dos colunistas Camila Fresca (“Para que serve a música?”), João Marcos Coelho (“Keith Jarrett”), Jorge Coli (“Música e art noveau”) e Júlio Medaglia (“Lobo de Mesquita e padre José Maurício”). Na seção &lt;em&gt;Temporadas 2027&lt;/em&gt;, seguimos com a divulgação das novas programações já anunciadas para o ano que vem, agora da série infantojuvenil da Tucca, Aprendiz de Maestro, da Orquestra Sinfônica da USP e da Orquestra de Câmara da USP. &lt;/p&gt;
+&lt;p&gt;Consulte, ainda, o &lt;em&gt;Roteiro Musical&lt;/em&gt; ilustrado da Revista CONCERTO, com dezenas de atrações em diversas cidades do país, e participe com a gente da temporada musical.  &lt;/p&gt;
+&lt;p&gt;Desejamos a todos boas festas, paz e muita música! &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nelson Rubens Kunze&lt;/strong&gt; &lt;br /&gt;
+&lt;em&gt;diretor-editor&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-date field--type-datetime field--label-above"&gt;
-    &lt;div class="field__label"&gt;Data&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;time datetime="2026-11-26T19:00:00Z" class="datetime"&gt;qui, 26/11/2026 - 19:00&lt;/time&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-city field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Cidade&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/taxonomy/term/1380" hreflang="pt-br"&gt;São Paulo, SP&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-is-special field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Roteiro especial&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-roteiro field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-place field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Local&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/node/284818" hreflang="pt-br"&gt;Centro Cultural da Vila Itororó&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="clearfix text-formatted field field--name-field-ingressos field--type-text-long field--label-above"&gt;
-    &lt;div class="field__label"&gt;Ingressos&lt;/div&gt;
-              &lt;div class="field__item"&gt;Entrada franca.&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 24 Nov 2026 22:02:07 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284819 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Theatro Municipal realiza montagem de 'Os pescadores de pérolas', de Bizet</title>
-  <link>http://concerto.com.br/noticias/opera/theatro-municipal-realiza-montagem-de-os-pescadores-de-perolas-de-bizet</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Theatro Municipal realiza montagem de 'Os pescadores de pérolas', de Bizet&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Na sexta-feira, 27, o Theatro Municipal de São Paulo estreia a produção de &lt;em&gt;Os pescadores de pérolas&lt;/em&gt;, de Bizet, com regência de Roberto Minczuk e direção cênica de João Malatian. Ludmilla Bauerfeldt e Maria Carla Pino vivem Leila, Jesús León e Vitorio Scarpi interpretam Nadir e Johnny França e Michel de Souza vivem Zurga. Andrey Mira é Nourabad.&lt;/p&gt;
-&lt;p&gt;A ópera de 1863 narra um conflito amoroso e religioso. No Ceilão, atual Sri Lanka, os amigos Nadir e Zurga se apaixonam pela sacerdotisa Leila, que jurou a castidade e a proteção dos pescadores de pérolas. Um ano depois, os protagonistas se reencontram, mas o romance que ocorre entre Leila e Nadir desperta ameaças da aldeia.&lt;/p&gt;
-&lt;p&gt;“Bizet usa motivos recorrentes para dar unidade à partitura: o tema de Leila, enunciado no início do Prelúdio; ou o do dueto Au fond du temple saint (Zurga-Nadir), que volta sempre que se fala da amizade que os une. Mas essas melodias ainda não têm a força elementar e a maleabilidade que um motivo recorrente precisa ter para adaptar-se a vários contextos diferentes. Isso, contudo, não impede a ópera de ter vários momentos de melodismo cativante, onde já está claramente prefigurada a força que Bizet atingirá na maturidade.”, descreve Lauro Machado Coelho em texto publicado na edição de setembro de 2005 da Revista CONCERTO [Clique &lt;a href="https://www.concerto.com.br/noticias/arquivo/acervo-concerto-os-pescadores-de-perolas-de-bizet"&gt;&lt;span style="color:null;"&gt;&lt;u&gt;aqui&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;; Acesso exclusivo para assinantes].&lt;/p&gt;
-&lt;p&gt;A produção recupera montagens anteriores, mas incorpora novas concepções cênicas. O elenco vestirá os figurinos assinados por Naum Alves de Souza, desenvolvidos para a montagem de 1995. O artista também marcou presença nas montagens da produção realizadas nos anos de 2005 e 2017, na primeira como cenógrafo e figurinista e, na segunda, como homenageado, após seu falecimento. O ineditismo fica a cargo da cenografia de Giorgia Massetani e na direção cênica de João Malatian, que dedicou-se a ampliar a presença da dança na produção.&lt;/p&gt;
-&lt;p&gt;Veja&lt;a href="https://www.concerto.com.br/roteiros/2026-11-27" tabindex="-1"&gt; &lt;span style="color:#7f0000;"&gt;&lt;u&gt;mais detalhes&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-operas-da-semana-0" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e óperas da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/uniopera-encena-bodas-de-figaro-de-mozart-no-teatro-bradesco" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/festival-de-opera-de-obidos-promove-audicoes-para-cantores-solistas" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Ópera de Óbidos promove audições para cantores solistas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="'Os pescadores de pérolas' [Divulgação/ Larissa Paz]" data-entity-type="file" data-entity-uuid="0f524bec-c77d-41fd-98c8-20164df1e0c8" src="http://concerto.com.br/sites/default/files/inline-images/w-perolas.jpg" /&gt;
-&lt;figcaption&gt;'Os pescadores de pérolas' [Divulgação/ Larissa Paz]&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 21:58&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-perolas.jpg" width="900" height="600" alt="'Os pescadores de pérolas' [Divulgação/ Larissa Paz]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15347" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nelson Rubens Kunze&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 23:16&lt;/span&gt;
 
   &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/opera" hreflang="pt-br"&gt;Ópera&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/editorial" hreflang="pt-br"&gt;Editorial&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Imagemdedestaque_33.jpg" width="307" height="169" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-magazine-cover field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Foto de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-fotodedestaque_33.jpg" width="1900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Editorial&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
@@ -225,75 +138,91 @@ Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MTciLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjE1IiwiZGlzbGlrZXMiOiIwIn0%3D?token=Rhc7c7lB3DCtLGhbzI0266sfWnvZw46juKGgHxGhmXs?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;15&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
 </description>
-  <pubDate>Tue, 24 Nov 2026 21:58:09 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284817 at http://concerto.com.br</guid>
+  <pubDate>Tue, 01 Dec 2026 23:16:35 +0000</pubDate>
+    <dc:creator>Nelson Rubens Kunze</dc:creator>
+    <guid isPermaLink="false">284837 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Fundação de Educação Artística homenageia Eladio Pérez-Gonzales com exposição e concertos</title>
-  <link>http://concerto.com.br/noticias/musica-classica/fundacao-de-educacao-artistica-homenageia-eladio-perez-gonzales-com</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fundação de Educação Artística homenageia Eladio Pérez-Gonzales com exposição e concertos&lt;/span&gt;
+  <title>Notícias do mundo musical</title>
+  <link>http://concerto.com.br/node/284850</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Notícias do mundo musical&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;A partir da sexta-feira, 27, a Fundação de Educação Artística celebra o centenário do barítono Eladio Pérez-Gonzales, em Belo Horizonte. O evento segue até domingo e conta com exposição na Fundação de Educação Artística (FEA) e com três concertos na Sala Sérgio Magnani. &lt;/p&gt;
-&lt;p&gt;Eladio Pérez-Gonzales foi um dos incentivadores da música em Minas Gerais. Nascido em Assunção, no Paraguai, o cantor deu os primeiros passos na carreira ao lado do irmão, com quem formou um conjunto dedicado à música latino-americana. A partir da segunda metade dos anos 40, deu continuidade a seus estudos no exterior, passando pelo Conservatório de Boston e por escolas e mestres na Alemanha e na França. &lt;/p&gt;
-&lt;p&gt;O contato do barítono com a cena musical do estado ocorreu em 1970. Naquele ano, foi convidado a integrar o corpo de professores da 4ª edição do Festival de Inverno de Ouro Preto, organizado pela Universidade Federal de Minas Gerais. Ao preparar o Coro Ars Nova, que tradicionalmente interpretava obras do cânone europeu, incentivou a prática e a encomenda de peças de compositores brasileiros e latino-americanos, que se tornaram parte do repertório do festival. Desde então, passou a lecionar na Fundação de Educação Artística e a promover, entre os anos 1990 e 2000, os Encontros de Compositores e Intérpretes de Música Latino-Americana em Belo Horizonte. Pérez-Gonzales faleceu em 2020, aos 94 anos. &lt;/p&gt;
-&lt;p&gt;As apresentações musicais começam na sexta-feira, com obras de Schubert e Debussy. Do compositor austríaco, o recital abre com &lt;em&gt;An die musik D. 547&lt;/em&gt;, com Berenice Menegale ao piano, com quem Pérez formava um duo. De Debussy, o programa traz &lt;em&gt;Six épigraphes antiques&lt;/em&gt;, para piano a quatro mãos, com os pianistas Celina Szrvinsk e Miguel Rosselini e o &lt;em&gt;Quarteto de cordas em sol menor op. 10&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;No sábado, 28, o grupo Ars Antiqua assume o palco. O conjunto é formado por regentes e cantores que participaram do Ars Nova. O repertório traz obras de Carlos Alberto Pinto Fonseca, Franco Prinsloo, Ernani Aguiar, Villa-Lobos, Rossini e outros. A regência é de Ângela Pinto Coelho e o piano fica a cargo de Mauro Chantal. &lt;/p&gt;
-&lt;p&gt;O evento encerra no domingo, 29, com o Duo Quattus e o Grupo de Percussão da UFMG. Os músicos estreiam obras de Tato Taborda e Roberto Victorio dedicadas ao barítono. O programa traz também peças de Tonia Ko, Eduardo G. Álvarez e Osvaldo Lacerda.&lt;/p&gt;
-&lt;p&gt;Veja&lt;a href="https://www.concerto.com.br/roteiros/2026-11-27" tabindex="-1"&gt; &lt;u&gt;&lt;span style="color:#7f0000;"&gt;mais detalhes&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; no Roteiro do Site CONCERTO&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-operas-da-semana-0" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e óperas da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/uniopera-encena-bodas-de-figaro-de-mozart-no-teatro-bradesco" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;a href="https://concerto.com.br/noticias/opera/festival-de-opera-de-obidos-promove-audicoes-para-cantores-solistas" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Ópera de Óbidos promove audições para cantores solistas&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br" tabindex="-1"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Ospa lança concurso internacional de composição&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A Orquestra Sinfônica de Porto Alegre lançou a primeira edição do Prêmio Internacional de Composição Ospa-Banrisul. A competição é destinada a compositores de mais de 18 anos e vai premiar uma obra orquestral com US$ 10 mil e a apresentação em concerto da orquestra. Para participar, é preciso enviar uma obra sinfônica inédita, com duração de 25 a 30 minutos. As inscrições são gratuitas e estão abertas até o dia 4 de janeiro de 2027.  &lt;/p&gt;
+&lt;p&gt;O prêmio é promovido em uma cooperação entre a Fundação Cultural Pablo Komlós, a Fundação Ospa e o Banrisul. “Estimular a criação artística é parte da missão institucional da Fospa”, afirma Gilberto Schwartsmann, presidente da Ospa. Já Fernando Lemos, presidente do Banrisul, diz: “Essa iniciativa coloca Porto Alegre e o Rio Grande do Sul no circuito internacional da composição sinfônica e amplia a projeção da cultura produzida no Estado”. &lt;/p&gt;
+&lt;p&gt;As composições, além da duração entre 25 e 30 minutos, devem ser estruturadas em pelo menos três movimentos contrastantes e respeitar a instrumentação sinfônica especificada no regulamento. &lt;/p&gt;
+&lt;p&gt;O material inscrito será avaliado “por uma comissão de seleção formada por três maestros ou maestras de notório saber, que não terão acesso aos nomes dos compositores, apenas às obras que também não serão identificadas”. Realizada entre 9 de janeiro e 10 de fevereiro de 2027, a análise “levará em conta o mérito artístico, a viabilidade técnica e a conformidade das composições às regras do edital”. O resultado final será divulgado no dia 11 de fevereiro. [Leia mais detalhes na seção &lt;em&gt;Outros Eventos&lt;/em&gt;.] &lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Eládio Pérez e Berenice Menegale [Divulgação/ Gui Machala]" data-entity-type="file" data-entity-uuid="edc9aaca-76cb-4414-befa-806d96ffc06d" src="http://concerto.com.br/sites/default/files/inline-images/w-Perez.jpg" /&gt;
-&lt;figcaption&gt;Eladio Pérez e Berenice Menegale [Divulgação/ Gui Machala]&lt;/figcaption&gt;
+&lt;img alt="(divulgação, Vinícius Angel)" data-entity-type="file" data-entity-uuid="23df8c9b-fbc3-407d-a17e-ab76ee2ad489" src="http://concerto.com.br/sites/default/files/inline-images/w-OSPA-div-Viniicius-Angeli---2026.jpg" /&gt;
+&lt;figcaption&gt;(divulgação, Vinícius Angel)&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color:#7f0000;"&gt;Leia no &lt;/span&gt;&lt;a href="http://www.concerto.com.br/" target="_blank" title="link site"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;Site CONCERTO &lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/strong&gt; &lt;br /&gt;
+Sob regência de Thomas Blunt, grupo fez a estreia de &lt;em&gt;Cânticos da Casa do Sol&lt;/em&gt;, de Leonardo Martinelli. Por Irineu Franco Perpetuo &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: Festival do Espírito Santo recupera ópera &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Helena&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, de João Gomes de Araújo &lt;/strong&gt; &lt;br /&gt;
+Escrita em 1906 e apresentada agora em Vitória, obra é cantada em português. Por Nelson Rubens Kunze &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: Em &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Resistance&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, Igor Levit mostra que a música é um gesto político&lt;/strong&gt; &lt;br /&gt;
+Álbum de transcrições do pianista explora as reações de Beethoven e Schoenberg ao autoritarismo. Por João Marcos Coelho &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: Leonardo Martinelli compõe notável trilha sonora para o filme &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Limite&lt;/strong&gt;&lt;/em&gt; &lt;br /&gt;
+Compositor constitui uma leitura musical criativa e coerente com o universo poético de Mário Peixoto. Por Nelson Rubens Kunze &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Reportagem&lt;/u&gt;: ECA Ópera Day, da história ao mercado atual &lt;/strong&gt; &lt;br /&gt;
+Mesas reuniram profissionais para a discussão sobre o estado atual da produção e os desafios do gênero. Por Clara Zamboni &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Dança em Diálogo&lt;/u&gt;: Criação negra e experiência performativa&lt;/strong&gt; &lt;br /&gt;
+As performatividades negras articulam conhecimentos próprios sobre o movimento que organizam saberes em uma proposta estética para a cena. Por Luiz Anastácio &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Crítica&lt;/u&gt;: Fabio Mechetti estreia com &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Réquiem&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; de Verdi na direção artística do Theatro Municipal&lt;/strong&gt; &lt;br /&gt;
+Novo diretor artístico da casa deu à obra uma interpretação musicalmente muito consistente. Por Nelson Rubens Kunze &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sul-coreano vence Concurso de Genebra; brasileiro Rafael Marino Arcaro fica em segundo&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O compositor sul-coreano Hanurij Lee, de apenas 20 anos, foi o vencedor da competição de composição da 80ª edição do Concurso Internacional de Música de Genebra, um dos mais tradicionais certames de música de concerto do mundo, e receberá um prêmio no valor de 15 mil francos suíços. O brasileiro Rafael Marino Arcaro, de 36 anos, conquistou o Segundo Prêmio, no valor de 10 mil francos suíços. A compositora Sing-Yat Chen, de Hong Kong, 25 anos, recebeu o Terceiro Prêmio, acompanhado de 5 mil francos suíços. O resultado foi anunciado após a etapa final realizada em Genebra, no último dia 11 de novembro, na qual os três finalistas apresentaram obras para orquestra sinfônica executadas pela Orchestre de la Suisse Romande.  &lt;/p&gt;
+&lt;p&gt;Os três finalistas haviam sido selecionados entre 188 candidatos de 46 países por um júri internacional presidido pela compositora sul-coreana Unsuk Chin e formado também por Toshio Hosokawa, Magnus Lindberg, Augusta Read Thomas e Katharina Rosenberger. &lt;/p&gt;
+&lt;p&gt;Nascido em Limeira, Rafael Marino Arcaro estudou na Royal Academy of Music e no King’s College, em Londres, e tem recebido distinções relevantes nos últimos anos. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sala Cecília Meireles anuncia novo prêmio nacional de música&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A Sala Cecília Meireles, no Rio de Janeiro, anunciou a criação do Prêmio de Música Sala Cecília Meireles 2026, voltado ao reconhecimento de artistas em início de carreira, grupos de câmara, educadores musicais e projetos dedicados à formação e à difusão da música de concerto no Brasil (inscrições já encerradas). Promovido pela Associação dos Amigos da Sala Cecília Meireles, o certame está dividido em cinco categorias e prevê prêmios em dinheiro, além de troféu e certificado. Os vencedores das categorias Artista revelação e Grupo de câmara serão convidados a integrar a temporada artística de 2027 da Sala Cecília Meireles.  &lt;/p&gt;
+&lt;p&gt;Os finalistas serão anunciados em 3 de dezembro. A partir dessa data até o dia 11 de dezembro, ficará aberta uma votação online que escolherá o vencedor do Prêmio do público entre os finalistas das categorias Artista revelação e Grupo de câmara. &lt;/p&gt;
+&lt;p&gt;A cerimônia de premiação está marcada para 17 de dezembro de 2026, na Sala Cecília Meireles, com transmissão pelo canal da instituição no YouTube. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação)" data-entity-type="file" data-entity-uuid="c209fed3-38c6-4f97-9845-b22debb17ac5" src="http://concerto.com.br/sites/default/files/inline-images/w-SalaCeciliaMeireles_fachada_div_0.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Câmara dos Vereadores analisa situação da Escola de Música de Piracicaba&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A Câmara dos Vereadores de Piracicaba aprovou um requerimento apresentado pela vereadora Silvia Morales, que solicita informações ao Executivo municipal e ao Codepac (Conselho de Defesa do Patrimônio Cultural de Piracicaba) sobre a situação do patrimônio da Escola de Música de Piracicaba (Empem). O documento formula 23 questionamentos relativos à existência de processos de tombamento, inventários de bens, condições de preservação do acervo, eventual retirada ou comercialização de instrumentos e documentos e possíveis providências para impedir a dispersão desse patrimônio.  &lt;/p&gt;
+&lt;p&gt;A questão voltou à tona após a Rede Metodista, proprietária da Empem, intimidar a jornalista Beatriz Vicentini, que em sua página do Facebook alertou sobre a venda de instrumentos que eventualmente tivessem sido adquiridos por meio da Lei Rouanet e sobre o acervo de 17 mil partituras da escola. &lt;/p&gt;
+&lt;p&gt;Em declaração à Revista CONCERTO, a Rede Metodista informou que as partituras foram destinadas a FOP/Unicamp e que não tem conhecimento de impedimento legal à comercialização de instrumentos adquiridos com recursos da Lei Rouanet. Leia mais sobre o desmonte da Escola de Música de Piracicaba no Site CONCERTO. &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação, Wikimedia Commons, Fábio Mendes)" data-entity-type="file" data-entity-uuid="d6f01526-0d2e-47ec-a989-62147f434a16" src="http://concerto.com.br/sites/default/files/inline-images/w-Empem_Liquidacao_Piracicaba_FaabioMendes.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação, Wikimedia Commons, Fábio Mendes)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Loja CLÁSSICOS tem lançamento de partituras de Mignone&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A série Encontros CLÁSSICOS promove, no dia 5, o lançamento de &lt;em&gt;Zequinha de Abreu e Francisco Mignone – Peças para dois pianos&lt;/em&gt;, caderno de partituras editado pela Mignone Songs. O volume traz peças de Zequinha de Abreu para as quais, por sugestão do pianista Jacques Klein, Mignone escreveu a parte de um segundo piano, como já havia feito com Ernesto Nazareth. Ao todo, são 11 peças, datadas do final da década de 1970, que atestam a riqueza do diálogo entre dois grandes da música brasileira. &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 21:29&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Perez.jpg" width="900" height="600" alt="Eladio Pérez e Berenice Menegale [Divulgação/ Gui Machala]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 17:57&lt;/span&gt;
 
   &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-OSPA-div-Viniicius-Angeli---2026.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Contraponto&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
@@ -303,98 +232,336 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-news field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-
-  &lt;div class="field field--name-field-curtir-news field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MTYiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6IjI0IiwiZGlzbGlrZXMiOiIwIn0%3D?token=-uIy5SI_ksWiom2iUW5j6NMz44OvGaegZpm4hC4zldQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;24&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 24 Nov 2026 21:29:37 +0000</pubDate>
+  <pubDate>Tue, 01 Dec 2026 17:57:46 +0000</pubDate>
     <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">284816 at http://concerto.com.br</guid>
+    <guid isPermaLink="false">284850 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Confira as principais temporadas de 2027 de todo o país</title>
-  <link>http://concerto.com.br/node/282845</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Confira as principais temporadas de 2027 de todo o país&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 20:00&lt;/span&gt;
+  <title>Aprendiz de Maestro terá oito espetáculos </title>
+  <link>http://concerto.com.br/node/284849</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Aprendiz de Maestro terá oito espetáculos &lt;/span&gt;
 
-  &lt;div class="field field--name-field-imagem-do-banner field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem do banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/TemporadasCard-27-3.jpg" width="900" height="504" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-link field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://concerto.com.br/subhomes/temporadas-2027&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-banners field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Tue, 24 Nov 2026 20:00:28 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">282845 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Combinação original de obras em grande concerto da Osesp</title>
-  <link>http://concerto.com.br/textos/critica/combinacao-original-de-obras-em-grande-concerto-da-osesp</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Combinação original de obras em grande concerto da Osesp&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Sob regência do maestro David Roberts e com a pianista Orli Shaham, orquestra apresentou peças de Bellini, Chopin e John Adams&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As aberturas de ópera tornaram-se raras nas salas de concerto. Há exceções ilustres, entre elas as de Wagner, Mozart, Verdi, Rossini e, no Brasil, Carlos Gomes. Bellini, cuja orquestração é “de uma simplicidade desconcertante” e para quem “a harmonia [...] não existe”, como queria Otto Maria Carpeaux, não seduz regentes ávidos por complexidades a vencer. &lt;/p&gt;
-&lt;p&gt;No entanto, o maestro David Robertson escolheu a abertura, ou “sinfonia”, como era nomeada no século XIX, da ópera &lt;em&gt;Il pirata&lt;/em&gt;, de Bellini, para iniciar o programa com a Orquestra Sinfônica do Estado de São Paulo, no último sábado, dia 21, na Sala São Paulo. Evidenciou o quanto uma obra aparentemente simples pode ser complexa nas suas exigências de nuances e de intenções diversas.&lt;/p&gt;
-&lt;p&gt;Lembro-me da tirada que se conta a respeito de Mitropoulos: ele teria dito que não precisava de partitura para reger &lt;em&gt;Wozzeck&lt;/em&gt;, mas não prescindia de uma quando se tratava de &lt;em&gt;La Traviata&lt;/em&gt;. Saber cada entrada de cor em &lt;em&gt;Wozzeck&lt;/em&gt; é uma coisa; dominar a trama de pequenos gestos que Verdi, ou Bellini, exige para que não se caia no sentimentalismo ou na banalidade é outra.&lt;/p&gt;
-&lt;p&gt;Robertson expôs a beleza, tocante e arrebatada, exigente no fraseado, daquela peça de Bellini. Foi um excelente primeiro passo nesse programa de músicas pseudossentimentais ou ingênuas.&lt;/p&gt;
-&lt;p&gt;Inda mais que Bellini, graças à suprema aristocracia de sua invenção melódica, era um dos compositores favoritos de Chopin, o autor da segunda obra apresentada. &lt;/p&gt;
-&lt;p&gt;O &lt;em&gt;Concerto nº 2 para piano e orquestra&lt;/em&gt; de Frédéric Chopin contou com a pianista Orli Shaham, esposa do maestro David Robertson. Foi uma interpretação de altíssima categoria. A pianista tem uma sonoridade marmórea, por assim dizer, o que combina com um controle absoluto da partitura. Possui também algo de apolíneo, mesmo de frieza em algumas passagens, que se alterna com momentos comoventes de poesia.&lt;/p&gt;
-&lt;p&gt;Esse concerto de Chopin é desdenhado por alguns como uma “sonata para piano com acompanhamento”, mas novamente Robertson provou que a inteligência musical compreende os sentidos mais sutis e mais poderosos da orquestração: bastariam os efeitos que ele obteve das cordas durante o recitativo do sublime segundo movimento para assinalar os poderes dessa admirável partitura. O bis concedido foi a &lt;em&gt;Mazurka op. 17, nº 4&lt;/em&gt;, de Chopin, em que se confirmaram os mesmos dons de poesia e de controle.&lt;/p&gt;
-&lt;p&gt;Robertson é um paladino da música composta por John Adams e ele escolheu, para finalizar o concerto, a &lt;em&gt;Naive and Sentimental Music&lt;/em&gt;, obra em três movimentos escrita no final dos anos de 1990, longa, de 45 minutos, e que exige uma orquestra muito numerosa. Na sua gênese, Adams reuniu declaradamente Schiller, Busoni, Bruckner e o litoral de Sonoma. Talvez tenha sido a primeira apresentação dessa obra no Brasil; não achei outro registro que precedesse este recente concerto.&lt;/p&gt;
-&lt;p&gt;Partitura inspirada, beneficiou-se dos gestos largos, precisos de Robertson e do seu sentido ao mesmo tempo dúctil e cuidadoso nos detalhes. O primeiro movimento desenrolou longos fios melódicos que conduziram o ouvido de um início sussurrante até um apogeu estrondoso. O segundo movimento, poético, onírico, era tecido por sons que, por vezes, sugeriam uma estranha berceuse estratosférica. O último movimento, veemente, agitado, forte e poderoso, concluiu essa obra sinfônica excepcional. Ela não é nada fácil para a orquestra, mas a Sinfônica do Estado se mostrou perfeitamente capaz de enfrentar com brilho todas as suas dificuldades. &lt;/p&gt;
-&lt;p&gt;Em suma, uma combinação original de obras para um programa excelente com grandes intérpretes que mereceu todos os aplausos calorosos e os bravos do público. &lt;/p&gt;
-&lt;p&gt;Apenas um ponto: é difícil alinhar palavras mais surradas do que as contidas no título do concerto: Do ícone do bel canto a um gênio do minimalismo... Para que títulos definindo uma apresentação sinfônica? Em todo caso, entre o que encontraram e nenhum, nenhum é muito melhor.&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="1 1 []"&gt;&lt;strong&gt;Projeto da Tucca Música pela Cura vai receber convidados em espetáculos que abordam da ópera e do balé até a música armorial e o circo&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Uma das mais bem-sucedidas e longevas iniciativas musicais voltadas ao público infantil no país, a série Aprendiz de Maestro, da Tucca Música pela Cura, terá oito espetáculos em sua temporada 2027, todos na Sala São Paulo. &lt;/p&gt;
+&lt;p&gt;O projeto entra em seu 26º ano mantendo sua essência: a cada nova produção, um tema ou compositor (clássico ou popular) é proposto e trabalhado dramaturgicamente, resultando numa história que pode ser inédita ou uma adaptação de contos infantis, apresentada mesclando linguagens como teatro, circo, dança e ópera. &lt;/p&gt;
+&lt;p&gt;Paulo Rogério Lopes assina a direção geral e os textos e, nos espetáculos, o maestro João Maurício Galindo comanda a Sinfonia Tucca Fortissima. Cada novo programa traz convidados – atores, músicos, bailarinos ou cantores líricos.  &lt;/p&gt;
+&lt;p&gt;A programação de 2027 começa em março, no dia 27, com o espetáculo &lt;em&gt;O palhaço Benjamin&lt;/em&gt;, com a participação do ator Samuel de Assis. Em abril, a atração, no dia 10, é &lt;em&gt;A flauta mágica&lt;/em&gt;, que evoca o universo da ópera de Mozart e conta com a presença da atriz Luciana Carnielli.  &lt;/p&gt;
+&lt;p&gt;Em maio, no dia 8, retorna um dos mais celebrados espetáculos do projeto, &lt;em&gt;A orquestra do Sargento Pimenta&lt;/em&gt;, com o cantor e ator Claudio Lins. E, em 19 de junho, será a vez de visitar o universo do Movimento Armorial em &lt;em&gt;História Armorial para crianças&lt;/em&gt;, que terá a participação do ator e diretor Fernando Gomes. &lt;/p&gt;
+&lt;p&gt;O segundo semestre começa, no dia 21 de agosto, com &lt;em&gt;O lago dos cisnes&lt;/em&gt;, que integra o universo do balé à programação, com a participação do ator Bernardo Berro. &lt;em&gt;O expresso oriente&lt;/em&gt; é o espetáculo seguinte, no dia 18 de setembro, com o ator Milhem Cortaz.  &lt;/p&gt;
+&lt;p&gt;No dia 16 de outubro, a atriz Mel Lisboa, que viveu recentemente a cantora Rita Lee na TV e no teatro, atua em &lt;em&gt;Rita Lee e os animais musicais&lt;/em&gt;. E o encerramento do ano, no dia 27 de novembro, será com &lt;em&gt;O Natal de Ludovico&lt;/em&gt;, com a participação de Leonardo Pacheco. &lt;/p&gt;
+&lt;p&gt;É possível fazer assinaturas para a programação completa. A renda arrecadada com ingressos e assinaturas é integralmente revertida para o atendimento multidisciplinar de crianças e adolescentes com câncer acompanhados pela Tucca.  &lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="O maestro David Robertson durante concerto com a Osesp na Sala São Paulo [Divulgação]" data-entity-type="file" data-entity-uuid="db2f16d4-0348-421b-a347-234dcc56ca2a" src="http://concerto.com.br/sites/default/files/inline-images/w-roberts_n.jpg" /&gt;
-&lt;figcaption&gt;O maestro David Robertson durante concerto com a Osesp na Sala São Paulo [Divulgação]&lt;/figcaption&gt;
+&lt;img alt="Espetáculo da série Aprendiz de Maestro na Sala São Paulo" data-entity-type="file" data-entity-uuid="375d66ec-2003-448e-b4fd-80bf7c96e255" src="http://concerto.com.br/sites/default/files/inline-images/w-aprendiz-de-maestro-orquestra-do-sargento-pimenta_1.jpg" /&gt;
+&lt;figcaption&gt;Espetáculo da série Aprendiz de Maestro na Sala São Paulo&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;ASSINATURAS aprendiz de maestro 2027&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
+nformações &lt;a href="https://www.tucca.org.br/" target="_blank" title="link site"&gt;&lt;span style="color:#7f0000;"&gt;&lt;u&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/u&gt;&lt;/span&gt;&lt;/a&gt; &lt;br /&gt;
+Assinaturas poderão ser feitas pelo WhatsApp: (11) 97567-5387  &lt;br /&gt;
+ou pelo e-mail: &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&lt;/a&gt;. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p data-pm-slice="1 1 []"&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Sinfônica de USP lança temporada 2027 &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Além do campus universitário, Osusp terá séries também na Sala São Paulo e no Teatro Cultura Artística&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;A Orquestra Sinfônica da USP (Osusp) apresentou sua temporada 2027, intitulada &lt;em&gt;Cartografia dos Sons&lt;/em&gt;. Elaborada pelo diretor artístico e maestro Ricardo Bologna, a orquestra apresentará, além de seus concertos no campus universitário, uma série na Sala São Paulo, intitulada Osusp na Sala, e no Teatro Cultura Artística, denominada Domingo tem Osusp. &lt;/p&gt;
+&lt;p&gt;Segundo Bologna, a temporada foi pensada como um percurso sonoro capaz de conectar épocas, geografias e diferentes perspectivas estéticas. A orquestra “amplia seu território dentro e fora da universidade, renova a forma como escolhe quem a conduz e abre as portas para artistas de diferentes continentes”. &lt;/p&gt;
+&lt;p&gt;O ano será marcado pelas comemorações dos 200 anos da morte de Ludwig van Beethoven, reunindo obras como, entre outras, as &lt;em&gt;Sinfonias nº 4&lt;/em&gt;, &lt;em&gt;nº 6&lt;/em&gt; (&lt;em&gt;Pastoral&lt;/em&gt;), &lt;em&gt;nº 8&lt;/em&gt; e &lt;em&gt;nº 9 &lt;/em&gt;(com o Coral Paulistano e os solistas Edna d’Oliveria, Edinéia de Oliveira, Eric Herrero e Andrey Mira, sob direção de Bologna), a abertura &lt;em&gt;Fidelio&lt;/em&gt;, o balé &lt;em&gt;As criaturas de Prometeu&lt;/em&gt; e a cantata &lt;em&gt;Calmaria e viagem próspera&lt;/em&gt;. A abertura da temporada, em março, contará com Richard Kogima como pianista e regente, interpretando o &lt;em&gt;Concerto para piano nº 3&lt;/em&gt; e a &lt;em&gt;Sinfonia nº 6&lt;/em&gt; do mestre alemão. &lt;/p&gt;
+&lt;p&gt;A temporada também dará destaque à música brasileira. Estão previstas a Semana Camargo Guarnieri, em setembro, e a Semana Dinorá de Carvalho, em outubro, além de obras de compositores como Radamés Gnattali, Carlos Gomes, Lina Pires de Campos, Denise Garcia e Gilberto Mendes. Em fevereiro, a Osusp realizará ainda uma gravação dedicada ao repertório de Camargo Guarnieri, com Bologna regendo e a participação do Coral Paulistano e da soprano Flavia Albano. &lt;/p&gt;
+&lt;p&gt;Outros pontos altos da programação serão as estreias de duas encomendas, uma de André Mehmari, em celebração aos seus 50 anos, e uma de Rodrigo Lima para sopros e percussão. Além dessas, a Osusp ainda fará estreias de obras de Alexandre Miranda e Clarice Assad. &lt;/p&gt;
+&lt;p&gt;A agenda reúne importantes regentes e solistas do Brasil e do exterior. Entre os convidados estão os maestros Natalia Salinas (com obras de Caroline Shaw, Mouquet e Schumann), Enrique Diemecke (Mehmari, Rachmaninov e Tchaikovsky), Simone Menezes (Carlos Gomes, Shostakovich e Schubert), Carlos Prazeres (Guarnieri, Schumann e David Chesky), Johannes Schlaefli (Boulanger, Schumann, Tchaikovsky e Johan Halvorsen), Cintia Aliretti (Beethoven, Fauré, Alexandre Miranda e Denise Garcia), Alexandra Arrieche (Dinorá de Carvalho, Robert Pinos, Ignacio Feijó, Piazzolla e Mendelssohn), Luis Gorelick (Bacewicz, Mahler e Tchaikovsky), Neil Thomson (Beethoven, Prokofiev e Ruth Crawford Seeger), Evandro Matté (Radamés Gnattali) e Kenneth Kiesler (que interpreta Mozart, Saint-Saëns, Shostakovich e Prokofiev). Como solistas, participarão artistas como os pianistas Olga Pashchenko, Fábio Martino e Paulo Álvares, o trompista Hervé Joulain, o violoncelista Kim Bak Dinitzen e os violinistas Aysha Syed, Elisa Fukuda e Guido Sant’Anna. &lt;/p&gt;
+&lt;p&gt;A orquestra também se apresentará em outras cidades do estado de São Paulo, como Bauru, Ribeirão Preto, São Carlos e Piracicaba, e participará do Festival de Música Nova Gilberto Mendes e do Festival Internacional de Inverno de Campos do Jordão. &lt;/p&gt;
+&lt;p&gt;Será dada continuidade às ações de formação e inclusão da Osusp, com os concertos Didáticos na Sala, voltados a estudantes, e a série 60+ O que é uma Sinfonia?, direcionada ao público idoso. A temporada inclui ainda apresentações ao ar livre, na Praça do Relógio da USP, com os cantores Jão e Vanessa da Mata. &lt;/p&gt;
+&lt;p&gt;Encerrando o ano, em dezembro, a Osusp se une à Ocam para apresentar, sob regência do maestro Ricardo Bologna, na Sala São Paulo, &lt;em&gt;A sagração da primavera&lt;/em&gt;, de Igor Stravinsky, precedida por &lt;em&gt;Renewal&lt;/em&gt;, do compositor vietnamita-americano Viet Cuong. O último concerto da temporada será o tradicional Natal Solidário, que celebrará os 60 anos do CoralUSP e terá o maestro William Coelho como regente.  &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Ricardo Bologna (divulgação, Rodrigo Rosenthal)" data-entity-type="file" data-entity-uuid="56f9adf6-50b6-4698-bd9b-a84afad71eec" src="http://concerto.com.br/sites/default/files/inline-images/w-Ricardo_Bologna_Foto-Rodrigo-Rosenthal__0.jpg" /&gt;
+&lt;figcaption&gt;Ricardo Bologna (divulgação, Rodrigo Rosenthal)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;Ocam fará repertório histórico e atual &lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A Orquestra de Câmara da ECA-USP (Ocam) divulgou sua temporada 2027, intitulada Onde as vozes se encontram. Elaborada pelo diretor artístico e maestro Ricardo Bologna, a programação reunirá obras do repertório histórico e contemporâneo, estreias mundiais, produções operísticas e participações de solistas e regentes convidados.  &lt;/p&gt;
+&lt;p&gt;A temporada oficial abre em março, em concerto sob regência de Katherine Araújo, que inclui duas estreias mundiais, de Luigi A. Cancelier e Douglas Braga, além de obras de Carl Nielsen, Igor Stravinsky e Clarice Assad. Em abril, Ricardo Bologna rege o &lt;em&gt;Concerto para violino&lt;/em&gt; de Beethoven (solos de Winston Ramalho), ao lado de uma obra de Guilherme Ribeiro e da &lt;em&gt;Sinfonia nº 4&lt;/em&gt;, de Brahms.  &lt;/p&gt;
+&lt;p&gt;Ao longo do ano a Ocam trabalhará ainda com maestros como André Bachur, Linus Lerner e Alba Bomfim, e fará a estreia de obras de Eli-Eri Moura, de Paloma Pitaya e de três peças do Ateliê de Composição CMU-Ocam. A orquestra interpretará ainda criações dos brasileiros Paulo Costa Lima e Alexandre Lunsqui, além de obras de Kaija Saariaho, Joachim Horsley, Samuel Barber, Edward Green e Jessie Montgomery. &lt;/p&gt;
+&lt;p&gt;A atividade operística terá destaque em dois momentos. Em junho, a orquestra participa de uma montagem de &lt;em&gt;Candide&lt;/em&gt;, de Leonard Bernstein, em parceria com a Escola de Ópera da ECA. Uma outra produção lírica está prevista para outubro, ainda sem título definido.  &lt;/p&gt;
+&lt;p&gt;O encerramento da temporada ocorrerá em dezembro, quando Ocam e Osusp se reunirão na Sala São Paulo para interpretar &lt;em&gt;A sagração da primavera&lt;/em&gt;, de Stravinsky. A programação inclui ainda um concerto de Natal na Fundação Maria Luisa e Oscar Americano, com grupos corais convidados.  &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 16:50&lt;/span&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-aprendiz-de-maestro-orquestra-do-sargento-pimenta_2.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Temporadas 2027&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2026 16:50:20 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284849 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>De Lobo de Mesquita a José Maurício </title>
+  <link>http://concerto.com.br/node/284848</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;De Lobo de Mesquita a José Maurício &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Dois dos maiores músicos da história nacional conviveram na Igreja do Carmo, no Rio de Janeiro&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Quando estudava com o professor Koellreutter nos seminários de música da Universidade da Bahia, tive a oportunidade de conhecer o dr. Francisco Curt Lange, musicólogo alemão/uruguaio/brasileiro que, após criar uma orquestra para a Rádio Sodre de Montevideo, veio conhecer nosso país. Ao ver os monumentais templos religiosos barrocos, Lange concluiu que, por aqui, deveria ter-se escrito música com as mesmas grandeza e qualidade artística. Resolveu aventurar-se nas profundezas do sertão brasileiro em busca de uma possível música clássica escrita por negros escravizados e ex-escravizados. Queria encontrar, como dizia, os “Aleijadinhos musicais”. Logo de início, foi contestadíssimo por músicos, críticos e jornalistas do Rio de Janeiro, segundo os quais por aqui nem uma única colcheia havia sido grafada até o século XIX.  &lt;/p&gt;
+&lt;p&gt;Quando, por meio de reportagens e informações vagas, acreditou-se que, de fato, uma música clássica brasileira de alto nível teria sido composta em Minas, ele chegou a ser questionado e depois ameaçado por instituições cariocas, por possível “sequestro” de materiais histórico-culturais brasileiros por ele adquiridos com recursos próprios – em fundos de quintais de famílias que vendiam aquela papelada velha para fazer rojão em épocas juninas. Diante disso, convidei o professor Lange para se hospedar em minha casa na Lapa paulista e para trazer todo aquele acervo adquirido para São Paulo, para um armário que minha mãe havia nos disponibilizado.   &lt;/p&gt;
+&lt;p&gt;Procurei, então, o maior historiador brasileiro da época, o professor Sérgio Buarque de Holanda, e o grande especialista em barroco nacional, o professor Lourival Gomes Machado, para que conhecessem o trabalho de Lange e referendassem a seriedade de suas pesquisas – o que veio a ocorrer. Ao mesmo tempo, convenci o professor Olivier Toni a criar um coral para sua excelente Orquestra de Câmara de São Paulo e realizar as primeiras audições dessa música na cidade sob minha regência. Escrevi também um artigo de página inteira no Estadão: &lt;em&gt;O milagre musical do barroco mulato&lt;/em&gt;. A partir de então, não se questionou mais a veracidade e valor daquela descoberta. &lt;/p&gt;
+&lt;p&gt;Ao manusear alguns daqueles manuscritos em minha casa, tive a oportunidade de conhecer um documento, um “auto de arrematação de músicos”, que me impressionou sobremaneira. Ele pertencia a uma “confraria de homens de cor” da região de Diamantina, com dados de contratações de mais de 2 mil músicos de todas as naturezas. Naquele momento, pude vislumbrar as dimensões do verdadeiro surto musical mineiro, onde, apenas em uma região, havia provavelmente mais profissionais em atividade que na própria capital da província, o Rio de Janeiro.  &lt;/p&gt;
+&lt;p&gt;Relatei alguns fatos dessa epopeia pois outro dado daquela pesquisa, que havia chegado às mãos de Curt Lange e a que tive acesso, me chamou ainda mais a atenção. Tratava-se de um velho e carcomido caderno de anotações da Igreja do Carmo, no Rio de Janeiro, onde constava a contratação de José Joaquim Emerico Lobo de Mesquita para atuar como organista nas solenidades.  &lt;/p&gt;
+&lt;p&gt;Assim sendo, aquele mineiro da região de Diamantina terminou seus dias no Rio como profissional organista da igreja. E o mais importante: na mesma época em que José Maurício Nunes Garcia iniciava sua atividade profissional como organista da mesma igreja. Ou seja, é possível constatar que o grande &lt;em&gt;know-how&lt;/em&gt; composicional e técnico de Lobo de Mesquita teria sido transferido inicialmente a Nunes Garcia.  &lt;/p&gt;
+&lt;p&gt;Quando da chegada de d. João VI ao Brasil, em 1808, uma de suas primeiras missões foi conhecer as solenidades religiosas na Catedral da Sé. Ele teve a oportunidade de ouvir ali um &lt;em&gt;Te Deum&lt;/em&gt; de autoria de José Maurício. Impressionado com a riqueza de sua música e da solenidade, o príncipe-regente o nomeou diretor musical da Catedral da Sé, que, por sua vez, tornou-se a Capela Real.  &lt;/p&gt;
+&lt;p&gt;Com o impulso dado por d. João VI ao trabalho de José Maurício, filho de ex-escravizados, sua produção cresceu não só em volume, mas em qualidade excepcional. Mesmo porque foram trazidos da Europa inúmeros músicos da melhor qualidade, além de alguns &lt;em&gt;castrati&lt;/em&gt;, que cantavam as frases mais agudas das obras, pois, segundo códigos religiosos da época, nas igrejas as mulheres deveriam ficar caladas… Sempre interessado por música, como todos daquela corte portuguesa, d. João fez trazer também de Lisboa a maior biblioteca musical do país, a chamada Biblioteca da Ajuda, com centenas de obras de grandes mestres da música europeia.   &lt;/p&gt;
+&lt;p&gt;Nos 29 últimos anos de trabalhos composicionais de José Maurício, foram escritas 35 missas. A mais festejada continua sendo sua última, a de Santa Cecília, escrita por encomenda da irmandade que leva seu nome e pelo fato de a santa ser considerada a padroeira dos músicos. Obra monumental, de uma hora e meia de duração, com 278 páginas manuscritas para grande orquestra, solistas e coro.  &lt;/p&gt;
+&lt;p&gt;Se importantes músicos compositores brasileiros foram condenados ao esquecimento por não terem suas obras editadas ou reeditadas, José Maurício teve o privilégio de ter as suas restauradas e impressas há pouco, colocadas gratuitamente na internet com elevados padrões editoriais. Isso graças ao trabalho heroico do Musica Brasilis, instituição criada e dirigida pela grande musicista, pesquisadora e empresária Rosana Lanzelotte.  &lt;/p&gt;
+&lt;p&gt;Agora que se comemoram os duzentos anos da criação da &lt;em&gt;Missa de Santa Cecília&lt;/em&gt;, não deixa de ser curioso lembrar que aquele que Curt Lang considerava o maior músico das Américas no fim do século XVIII, Lobo de Mesquita, dedilhou por algum tempo as mesmas teclas do órgão daquele que foi apontado como o maior compositor das Américas no início do século XIX.   &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Padre José Maurício Nunes Garcia (1767-1830) (reprodução)" data-entity-type="file" data-entity-uuid="f6e422d6-3bc7-4772-8050-df110b628612" src="http://concerto.com.br/sites/default/files/inline-images/w-padre_jose_mauricio.jpg" /&gt;
+&lt;figcaption&gt;Padre José Maurício Nunes Garcia (1767-1830) (reprodução)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14856" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Júlio Medaglia&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 14:47&lt;/span&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-padre_jose_mauricio.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Atrás da Pauta&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2026 14:47:45 +0000</pubDate>
+    <dc:creator>Júlio Medaglia</dc:creator>
+    <guid isPermaLink="false">284848 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Para que serve a música? </title>
+  <link>http://concerto.com.br/node/284847</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Para que serve a música? &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Pesquisa recente aponta constâncias universais na música vocal das mais diferentes culturas &lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Acredita-se que a música seja tão antiga quanto a linguagem. Segundo algumas teorias, ela nasceu a partir da reprodução dos sons da natureza; como uma forma de se comunicar, de expressar emoções; ou ainda como maneira de conquistar potenciais parceiros.  &lt;/p&gt;
+&lt;p&gt;Embora todas as sociedades humanas pratiquem música, o debate sobre sua utilidade segue. Seja por meio de testes de laboratório, seja por análises das culturas musicais de todo o mundo, sabe-se que o cérebro humano reage de maneira especial a combinações de notas cujas frequências estão em proporções simples, sendo a mais simples possível 2:1 (o que equivale à oitava). Mais recentemente, inclusive, pesquisadores descobriram neurônios humanos que respondiam exclusivamente ao canto, não à fala ou a músicas executadas em instrumentos. Uma corrente da ciência, no entanto, defende que a música é uma invenção cultural e não representa necessariamente uma vantagem evolutiva.  &lt;/p&gt;
+&lt;p&gt;Uma pesquisa divulgada em 2024 trouxe mais um dado relevante à discussão ao procurar comparar semelhanças e diferenças entre o canto, a fala e a música instrumental de diferentes partes do mundo. A equipe responsável, composta por 75 pesquisadores musicólogos, psicólogos, linguistas, biólogos e músicos profissionais, gravou canções em 55 idiomas – sim, os próprios pesquisadores apresentaram canções tradicionais de suas culturas. Essa parte da pesquisa resultou em trezentas gravações de áudio que incluíam: a gravação da canção tradicional (ou seja, a voz solo entoada); a letra da canção recitada, sem melodia (para controlar as diferenças entre as palavras na fala natural e as estruturas rítmicas usadas na música. O resultado, no entanto, poderia ser mais análogo à declamação de poesia que à fala natural); uma explicação sobre o conteúdo da canção (no qual se tem uma fala mais coloquial, “naturalista”); e uma versão puramente instrumental da melodia da canção (segundo os pesquisadores, “para capturar todo o espectro músico-linguístico”). Além disso, foi utilizado outro conjunto, com 418 gravações previamente publicadas de cantos e falas dirigidos a adultos, provenientes de 209 indivíduos que falavam 16 idiomas. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A música cantada em coro, compartilhando ritmos e melodias, pode ter sido um fator importante para melhorar a coesão de um grupo, aproximando as pessoas, seja numa celebração, seja até mesmo como preparação para uma batalha&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Em cada gravação, foram observados seis parâmetros, incluindo altura e andamento. Em comparação com a fala, o canto apresentou uma altura mais estável e mais elevada (ou seja, notas mais agudas) e um ritmo mais lento. Por sua vez, tanto o canto quanto a fala apresentaram semelhanças quanto ao tamanho dos intervalos tonais e o brilho do timbre. De forma geral, os pesquisadores descobriram que, independentemente da cultura, as canções compartilham diversas características – e que essas não são encontradas na fala.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CANÇÕES&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;As canções apresentam características distintas provavelmente porque desempenham, na comunicação humana, um papel específico, diferente da fala. Um dos líderes da pesquisa, o musicólogo Yuto Ozaki, sugere que a música cantada em coro, compartilhando ritmos e melodias, pode ter sido um fator importante para melhorar a coesão de um grupo, aproximando as pessoas, seja numa celebração, seja até mesmo como preparação para uma batalha.  &lt;/p&gt;
+&lt;p&gt;De qualquer forma, o mais interessante desse estudo, a meu ver, é que ele aponta para o fato de que existem “regularidades transculturais” na música cantada. O que exatamente isso poderia significar? Talvez, que há algo universal na forma de fazer música e que isso não se explica apenas pela cultura. Algo que estaria além (e, paradoxalmente, antes) da própria cultura. Se ainda não é possível responder com segurança à pergunta inicial deste artigo, cada vez mais a ciência desvenda mistérios e traz informações fascinantes sobre essa arte que acompanha a humanidade desde os primórdios.  &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Menino cantando com flauta, óleo de Frans Hals (1623) (reprodução)" data-entity-type="file" data-entity-uuid="5f0ed368-bb13-4aa6-8bf7-37766ac46529" src="http://concerto.com.br/sites/default/files/inline-images/w-Frans_Hals_-_Singing_Boy_with_Flute_-_Google_Art_Project.jpg" /&gt;
+&lt;figcaption&gt;Menino cantando com flauta, óleo de Frans Hals (1623) (reprodução)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14719" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Camila Fresca&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 13:44&lt;/span&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Frans_Hals_-_Singing_Boy_with_Flute_-_Google_Art_Project.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Horizontes&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2026 13:44:40 +0000</pubDate>
+    <dc:creator>Camila Fresca</dc:creator>
+    <guid isPermaLink="false">284847 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Conexões musicais </title>
+  <link>http://concerto.com.br/node/284846</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Conexões musicais &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Entrevista com o pianista Ricardo Ballestero &lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Um dos pianistas brasileiros mais identificados com a voz na atualidade é Ricardo Ballestero. Professor da Universidade de São Paulo desde 2005, ele coincilia a atividade acadêmica com uma carreira de colaboração com instrumentistas e cantores. &lt;/p&gt;
+&lt;p&gt;No mês passado, quando falou à Revista CONCERTO, estava no meio dos ensaios de um programa com o Coro da Osesp, sob regência de Thomas Blunt, que incluía &lt;em&gt;Les noces&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;de Stravinsky, e a estreia mundial de &lt;em&gt;Cânticos da Casa do sol&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;de Leonardo Martinelli. &lt;/p&gt;
+&lt;p&gt;Em dezembro, no Theatro São Pedro, ele faz, ao lado de Carla Cottini (soprano) e Bruno Ghirardi (clarinete), um programa que coloca em diálogo o repertório austríaco e o brasileiro. Com mestrado nos EUA, sob a orientação de Dalton Baldwin, e doutorado com outro consagrado nome do piano colaborativo, Martin Katz, Ballestero tem alguns compromissos importantes no ano que vem. No dia 11 de maio, na Estação Motiva Cultural, participa de um programa em torno do romance &lt;em&gt;Gertrud&lt;/em&gt;, de Hermann Hesse. Em 31 de outubro, na série de música de câmara da Osesp, ao lado de Sérgio Burgani (clarinete), Matthew Thorpe (violino), Maria Angélica Cameron (viola) e Heloísa Meirelles (violoncelo), atua em um concerto que inclui o &lt;em&gt;Trio para clarinete op. 114&lt;/em&gt;, a &lt;em&gt;Serenata para trio de cordas op. 10&lt;/em&gt;, de Ernö von Dohnányi, e o raríssimo &lt;em&gt;Quarteto nº 1 op. 9&lt;/em&gt;, de Louise Héritte-Viardot (1841-1918, filha mais velha de Pauline Viardot). Ainda em 2027, deve participar de uma execução de trechos da ópera &lt;em&gt;Alma&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;de Cláudio Santoro. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Como vai ser o concerto no Theatro São Pedro?&lt;/strong&gt; &lt;br /&gt;
+A ideia é sempre trabalhar a partir das canções, pois essa tem sido minha área de concentração, ainda que não a única. Eu tenho experimentado diversas formas. Por exemplo, canção com outras artes, como dança, com contação de histórias. Neste, há uma obra basilar do repertório para clarinete, que é o &lt;em&gt;Der Hirt auf dem Felsen &lt;/em&gt;(O pastor no rochedo), de Schubert. E outra obra importante que aparece nesse programa é a canção da &lt;em&gt;Sinfonia nº 4 &lt;/em&gt;de Mahler, em arranjo de Aaron Zimra para clarinete, canto e piano, que é a mesma formação de Schubert. A partir disso, fui trabalhando com a canção brasileira. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Como é sua pesquisa da canção brasileira?&lt;/strong&gt; &lt;br /&gt;
+Eu tenho pesquisado já há um tempo, por conta do acervo do Hermelindo Castelo Branco, que foi cantor e pianista e colecionou um acervo de 6 mil canções brasileiras. Esse acervo digital está no Instituto de Piano Brasileiro, aos cuidados de Alexandre Dias, e é compartilhado com um grupo de pesquisadores brasileiros. Além disso, minha paixão do momento, e acho que a da Carla Cottini também, é Helza Cameu. A primeira parte do programa é em torno dela. Teremos peças instrumentais e, depois, outro grupo de canções brasileiras com Eunice Katunda e Lorenzo Fernandez. Eu quis fazer esse entrelaçamento da canção brasileira com a canção alemã. O título é &lt;em&gt;Cantos do mar e do céu&lt;/em&gt;, como referência às paisagens.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quando você começou a se interessar pela música vocal?&lt;/strong&gt; &lt;br /&gt;
+Muito cedo. Comecei a estudar piano relativamente tarde e acho que, depois de uns quatro anos de estudos de piano, ou cinco, acabei conhecendo uma cantora lírica, meio que por sorte. Aí ela me levou para essa área do canto, mais especificamente das aulas de canto. Entrei nisso aos 16 anos, ou seja, muito cedo. É claro que eu não sabia quase nada – aliás, nada, absolutamente nada, nesse início –, mas fui construindo junto com a experiência. Quando terminei a graduação, que foi na USP mesmo, em piano, para mim já ficou bem claro que minha vocação era trabalhar com outros músicos e, em grande parte, com cantores. E aí, dentro disso, fui me aproximando da canção cada vez mais, por gosto mesmo. As pessoas com quem estudei nos Estados Unidos tinham muito a ver com canção, e depois fui me associando aqui no Brasil a cantoras e cantores de diversas gerações. Tento estimular as pessoas para a canção desde os 20 e poucos anos, sabendo que é um desafio. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Um eixo muito importante é o trabalho com voz, porque tem um novo universo que se apresenta, um universo linguístico com muitas camadas&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Você falou de sua formação nos EUA. Como foi seu contato com Dalton Baldwin?&lt;/strong&gt; &lt;br /&gt;
+Poucos nomes apareciam com certa frequência quando a gente ouvia a Rádio Cultura. A gente ia às lojas e via essas figuras tocando com Jessye Norman, Gérard Souzay, Elly Ameling. Aí eu falei: “Opa, eu gosto muito do jeito que esse cara toca”. Era Dalton Baldwin. Gilberto Tinetti, que foi meu professor, emprestou-me um CD ou uma fita cassete com Baldwin tocando uma canção de Poulenc. Fui ver onde ele dava aula. Escrevi para entrar em contato, fui fazer audição e comecei a estudar com ele. Era, de fato, um ambiente muito mergulhado na canção. Não só por ele, mas pelos professores. Então, foi uma imersão. Eu estava com 24, 26 anos. Baldwin foi quem me aprofundou no repertório francês, que era a área de maior afinidade dele. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E Martin Katz?&lt;/strong&gt; &lt;br /&gt;
+Eu queria ter uma experiência mais abrangente, trabalhar com ópera e música instrumental. Fui para a Universidade de Michigan, onde estava Martin Katz, que é um pianista também bastante conhecido. Um de meus professores dessa primeira escola, Westminster Choir College, tinha estudado com ele. Como tive contato com muitas pessoas que haviam estudado com ele nos Estados Unidos, Katz virou um ímã. Tinha magnetismo o nome dele. Sempre se falava dele como professor, tanto pela qualidade quanto pelo rigor. Ele era muito rigoroso. A gente ficava nervoso. E tinha vários processos bem específicos. Por exemplo, a gente ter a capacidade de cantar e tocar as canções. Ele queria que essa forma física do texto no corpo fosse experimentada pelo canto, pelo pianista. Então, a gente muitas vezes tinha que fazer a obra tocando piano, mas precisava cantar ao mesmo tempo. Eu acho que minha relação com Dalton Baldwin é pelo repertório, é pela estética, pelo estilo, mas o estudo aprofundado do fenômeno da colaboração, digamos assim, é fruto de meu trabalho com Katz, sem dúvida. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E agora é você quem leciona na USP. Fale um pouco das especificidades dessa atividade.&lt;/strong&gt; &lt;br /&gt;
+Na USP, dou aula para cantores. Há muitas disciplinas de preparo de repertório para cantores, sejam disciplinas mais individualizadas, sejam, às vezes, projetos que têm canção ou árias de ópera e um trabalho corporal. Também tenho aulas de fonética para o canto. Além disso, ocasionalmente, abro uma disciplina específica que chamei de colaboração pianística, ou colaboração musical, em que o foco é ter recursos para trabalhar com outros músicos em diversos contextos. Um eixo muito importante é o trabalho com voz, porque tem um novo universo que se apresenta, um universo linguístico com muitas camadas. Como músico, a gente não vai chegar à camada mais profunda em que o linguista penetra, mas vamos às sensibilidades, a como a sílaba se constitui, aos aspectos da prosódia ou até mesmo aos aspectos da semântica e o papel disso tudo na construção da interpretação. É uma leitura que articula o conteúdo linguístico com o musical. Outro lado importante, que acontece bastante com quem trabalha com canto ou instrumentos, é abordar um repertório que não é originalmente escrito pra piano e que, muitas vezes, vem sob o nome de “redução”. Nesse campo, nesses lugares mais constituídos da prática do pianista colaborador, é muito comum que cada pianista tenha uma única tradução própria daquele material. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Como funciona isso?&lt;/strong&gt; &lt;br /&gt;
+Você tem a grade, tem o que soa mais na orquestra e uma redução. Como lida com essas três fontes? Porque, na redução escrita, muitas vezes faltam coisas bem evidentes na orquestração, e você tem que acrescentar. Outras tantas vezes, a redução é tão cheia de coisas que a essência do que soa não está lá. E aí a gente trabalha em, digamos, adaptações, processos variados de adaptação, e cada pessoa cria de uma forma. O segundo eixo é agir como um tradutor de outro organismo. Outro eixo importante é o preparatório: quando as pessoas vão trabalhar com um regente, e estamos lá para prepará-las para isso. O foco, obviamente, é como tocar para ter bastante espaço na mente para ouvir o que está sendo feito pelo cantor. E ajudar e colaborar na construção. Havia alguns correpetidores bem antigos, que cheguei a conhecer nas décadas de 1980 e 1990. Eram muito hábeis e tocavam poucas notas. Sabiam exatamente tocar de determinado jeito certo número de notas e estimular os cantores a cantarem uma frase com estilo. E o quarto eixo é o repertório instrumental, tentar entender como o piano se articula com instrumentos de diversas naturezas. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Obrigado pela entrevista. &lt;/strong&gt; &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="(Divulgação)" data-entity-type="file" data-entity-uuid="399982af-42bd-44a9-ba31-832e860c5229" src="http://concerto.com.br/sites/default/files/inline-images/w-2015-11-12_Ballestero_196_High.jpg" /&gt;
+&lt;figcaption&gt;(Divulgação)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
+&lt;strong&gt;Além do palco – Cantos do mar e do céu &lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Carla Cottini&lt;/strong&gt; – soprano &lt;br /&gt;
+&lt;strong&gt;Bruno Ghirardi&lt;/strong&gt; – clarinete &lt;br /&gt;
+&lt;strong&gt;Ricardo Ballestero&lt;/strong&gt; – piano &lt;br /&gt;
+Dia 6, Theatro São Pedro, São Paulo  &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/14829" typeof="schema:Person" property="schema:name" datatype="" content="irineup@hotmail.com" xml:lang=""&gt;Irineu Franco Perpetuo&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 12:38&lt;/span&gt;
+
+  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-2015-11-12_Ballestero_196_High.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Em conversa&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
+              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2026 12:38:32 +0000</pubDate>
+    <dc:creator>Irineu Franco Perpetuo</dc:creator>
+    <guid isPermaLink="false">284846 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Meandros </title>
+  <link>http://concerto.com.br/node/284845</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Meandros &lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Uma reflexão sobre música e art noveau inspirada por um concerto em Piracicaba&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Outro dia fui ouvir o &lt;em&gt;Concerto nº 4 &lt;/em&gt;de Beethoven com Fábio Martino e a Orquestra Sinfônica de Piracicaba regida pelo maestro Knut Andreas. Foi no sábado 31 de outubro no Teatro Municipal Dr. Losso Netto daquela cidade, que é excelente em termos de acústica e do conforto que proporciona. &lt;/p&gt;
+&lt;p&gt;Fábio Martino, Knut Andreas e os músicos da orquestra estavam em perfeita sintonia. Maravilhoso ouvir o equilíbrio de dinâmicas, a exata correspondência dos ralentandos e a fusão harmoniosa do solista e do maestro. &lt;/p&gt;
+&lt;p&gt;Ouvi de olhos fechados, e foi me surgindo a ideia de que se tratava de uma interpretação art nouveau. Pode parecer bobagem empregar uma denominação própria às artes plásticas no universo musical. Mas, para mim, faz sentido. &lt;/p&gt;
+&lt;p&gt;O art nouveau&lt;em&gt; &lt;/em&gt;baseou-se na plasticidade orgânica das linhas largas e firmes, na flexibilidade vegetal de cipós ou raízes, na delicadeza preciosa dos ornamentos. Isso afirma, com liberdade, com dilatações e refluxos, a estrutura visual. Está no oposto do impressionismo, com dissolução dos contornos e imersão numa ótica atmosférica. &lt;/p&gt;
+&lt;p&gt;Ora, essas características podem ser transportadas para as partituras ou para as interpretações. Firme traçado melódico, com liberdade controlada ao acelerar ou retardar, ao ondular, ao se ramificar.  &lt;/p&gt;
+&lt;p&gt;Pensei numa passagem de Proust que está em &lt;em&gt;Um amor de Swann&lt;/em&gt;.&lt;em&gt; &lt;/em&gt;É sobre Chopin, não Beethoven, mas exemplifica em perfeição o sentido da metáfora. Proust é, ele próprio, por várias razões e em particular pelas frases longas que ondulam, um escritor “art nouveau”. Vejam como descreve a arte de Chopin ressoando no espírito de uma ouvinte: “Ela havia aprendido em sua juventude a acariciar as frases, com longo colo sinuoso e desmedido, de Chopin, tão livres, tão flexíveis, tão táteis, que começam buscando e experimentando seu lugar fora e bem longe da direção de sua partida, bem longe do ponto onde se poderia esperar que seu toque alcançasse, e que só se entregam a esse desvio de fantasia para vir mais deliberadamente – num retorno mais premeditado, com mais precisão, como sobre um cristal que ressoaria até fazer gritar – a golpear-nos no coração”. Aqui, o art nouveau&lt;em&gt; &lt;/em&gt;fez-se literatura para transfigurar também a música. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Fábio Martino, Knut Andreas e os músicos da orquestra estavam em perfeita sintonia. Maravilhoso ouvir o equilíbrio de dinâmicas, a exata correspondência dos ralentandos e a fusão harmoniosa do solista e do maestro&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Proust assinala que essa dilatação controlada se fundamenta em rigor, “num retorno mais premeditado, com mais precisão”. Isso ilumina a liberdade do art nouveau que desabrocha em parâmetros exatos. &lt;/p&gt;
+&lt;p&gt;Está claro que Chopin pode ser interpretado de muitas outras maneiras. Maurizio Pollini afirma as estruturas claras, o ritmo exato, para nos oferecer uma arquitetura severa. Martha Argerich assume energias, impulsos: suas interpretações possuem algo de convulsivo. Como nos esboços de Delacroix, como na fúria expressionista das pinceladas de Soutine. Arthur Rubinstein, ao contrário, dá um Chopin que parece água de fonte, natural, transparente, sem ostentação. &lt;/p&gt;
+&lt;p&gt;Resta o fato de que Chopin se ajusta bem a uma interpretação art nouveau. Outro compositor art nouveau, mas &lt;em&gt;avant la lettre&lt;/em&gt;, é Brahms. Sua morfologia é arqueada por frases que vão e vêm, expandem-se e contraem-se, numa respiração ondeada, por vezes espasmódica: ouçam o terceiro movimento da &lt;em&gt;Sinfonia nº 3&lt;/em&gt;. Não digo que Brahms o seja em sua gênese; digo que suas obras se mostram assim. Um art nouveau&lt;em&gt; &lt;/em&gt;de grandes arquiteturas e grandes estruturas. &lt;/p&gt;
+&lt;p&gt;É verdade que o início do &lt;em&gt;Concerto nº 4&lt;/em&gt; de Beethoven, em que o piano começa, sozinho, oferecendo frases delicadas num sussurro de confidência, sugere algo muito diferente da pompa heroica, de um neoclassicismo “empire”, que está no &lt;em&gt;Concerto nº 5&lt;/em&gt;, justamente chamado de “Imperador”. Mas Beethoven não é um compositor que se possa facilmente envolver numa visão art nouveau.&lt;em&gt; &lt;/em&gt;Ao contrário, sua estrutura tão dramática, em temas breves, jogando com reiterações, expectativas, silêncios, introduz o drama titânico na música sinfônica.  &lt;/p&gt;
+&lt;p&gt;Razão a mais para que aquela interpretação de Martino e Knut Andreas soasse tão excepcional, revelando possibilidades musicais e estilísticas, ressaltando a delicadeza flexível das linhas e a continuidade orgânica entre o piano e a orquestra. &lt;/p&gt;
+&lt;p&gt;Outro ponto. A excelente Orquestra Sinfônica de Piracicaba precisa de uma harpa. Custa R$ 60 mil. Para adquiri-la, está fazendo uma vaquinha: “OSP – Uma harpa para chamar de nossa”. Quem puder ajudar, ajude. Mas, cá entre nós, que espanto ser preciso recorrer a essa vaquinha numa cidade tão rica, que abriga gigantes empresariais, para quem esse montante é troco de bala.  &lt;/p&gt;
+&lt;figure role="group" class="caption caption-img"&gt;
+&lt;img alt="Fábio Martino (divulgação)" data-entity-type="file" data-entity-uuid="d6d70f01-f26f-4462-a306-794468975917" src="http://concerto.com.br/sites/default/files/inline-images/w-Fabio_Martino.jpg" /&gt;
+&lt;figcaption&gt;Fábio Martino (divulgação)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;
       &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15068" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Jorge Coli&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 19:13&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-roberts_n.jpg" width="900" height="572" alt="O maestro David Robertson durante concerto com a Osesp na Sala São Paulo [Divulgação]" title="O maestro David Robertson durante concerto com a Osesp na Sala São Paulo [Divulgação]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 11:35&lt;/span&gt;
 
   &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-Fabio_Martino.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -402,110 +569,68 @@ Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Notas Soltas&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MTMiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIyMiIsImRpc2xpa2VzIjoiMCJ9?token=3d-tvFknklr6reaxqAtIoZIiybNOYC3TXpNJShzMHFQ?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;22&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 24 Nov 2026 19:13:03 +0000</pubDate>
+  <pubDate>Tue, 01 Dec 2026 11:35:14 +0000</pubDate>
     <dc:creator>Jorge Coli</dc:creator>
-    <guid isPermaLink="false">284813 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/textos/critica/combinacao-original-de-obras-em-grande-concerto-da-osesp#comments</comments>
+    <guid isPermaLink="false">284845 at http://concerto.com.br</guid>
     </item>
 <item>
-  <title>Ouvinte Crítico</title>
-  <link>http://concerto.com.br/node/264612</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ouvinte Crítico&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 19:00&lt;/span&gt;
+  <title>Um concerto, sete décadas depois </title>
+  <link>http://concerto.com.br/node/284844</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Um concerto, sete décadas depois &lt;/span&gt;
 
-  &lt;div class="field field--name-field-imagem-do-banner field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem do banner&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-card_ouvinte_307_168_3.jpg" width="307" height="168" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-link field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Link&lt;/div&gt;
-              &lt;div class="field__item"&gt;https://www.concerto.com.br/ouvinte-critico&lt;/div&gt;
-          &lt;/div&gt;
-&lt;section class="field field--name-comment-node-banners field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
-</description>
-  <pubDate>Tue, 24 Nov 2026 19:00:37 +0000</pubDate>
-    <dc:creator>Redação CONCERTO</dc:creator>
-    <guid isPermaLink="false">264612 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Qualidade sonora marca recital das irmãs Labèque no Cultura Artística</title>
-  <link>http://concerto.com.br/textos/critica/qualidade-sonora-marca-recital-das-irmas-labeque-no-cultura-artistica</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Qualidade sonora marca recital das irmãs Labèque no Cultura Artística&lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Na interpretação do repertório pianístico sempre impressionam dois cuidados principais: o cuidado com a dinâmica e o cuidado com o timbre. O recital das Labèque ganhou nos dois quesitos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Quando entrevistei Katia Labèque para a edição de novembro da CONCERTO, ela e Marielle, sua irmã, planejavam fazer um recital enxuto em São Paulo. Elas acabaram mudando de ideia e reorganizaram toda a primeira parte do programa: optaram por executar obras de compositoras, fugiram da mesmice do repertório tarimbado para quatro mãos e incluíram mais obras para dois pianos. Qualidade sonora ímpar e clareza técnica fizeram a moldura geral da seleção, que foi despojada e interessante. Grata surpresa e ótima ideia, não fosse o público irrequieto do Teatro Cultura Artística na noite de segunda, 23.&lt;/p&gt;
-&lt;p&gt;Duas obras de Fanny Mendelssohn, a &lt;em&gt;Melodia op. 4 nº 2&lt;/em&gt; e a &lt;em&gt;Canção sem palavras op. 8 nº 1&lt;/em&gt;, abriram os trabalhos e foram sucedidas por composições da francesa Marie Jaëll e da polonesa Grazyna Bacewicz. Um dos pontos altos de virtuosismo técnico foi o &lt;em&gt;Estudo nº4 &lt;/em&gt;de Bacewicz, solo executado por Marielle e de quem as irmãs também interpretaram a &lt;em&gt;Peça característica nº 1&lt;/em&gt;. Mas o virtuosismo também tem parentesco com a virtude, esta definida menos pela exuberância do que pelo equilíbrio: como no caso da &lt;em&gt;Valsa op. 8 &lt;/em&gt;de Jaëll, em que a dupla manteve estática a balança do toque que colore a melodia e do toque que coloca o pulso do acompanhamento em marcha discreta e consistente, quase uma barcarola. Uma pena que a interpretação delicada das Labèque tenha sido atrapalhada não só por ruidoso toque de celular, mas também por um entra e sai que acabou distraindo de todo o etéreo que a peça propunha. Deixemos a chuva e o caos de São Paulo, de fato atípicos na noite de segunda, como principais culpados.&lt;/p&gt;
-&lt;p&gt;O público se acalmou somente após os retumbantes glissandi da coda de &lt;em&gt;Le jardin féerique&lt;/em&gt;, de Ravel, acrescentada de última hora no programa. E os motivos delicados e pentatônicos de &lt;em&gt;The song of Abayi&lt;/em&gt;, obra da compositora etíope Emahoy Tsege Mariam Gebru, foram mais uma surpresa do repertório. A música de Gebru, que faleceu aos 99 anos em 2023, foi descoberta por Francis Falceto, musicólogo responsável por uma série de álbuns chamada &lt;em&gt;Éthiopiques&lt;/em&gt;: são mais de 20 volumes que reúnem composições inéditas. Vale a pena conferir ao menos a série dedicada à compositora, lançada em 2006.&lt;/p&gt;
-&lt;p&gt;Após Gebru as irmãs Labèque executaram uma bela versão de &lt;em&gt;Wild is the wind&lt;/em&gt;, canção imortalizada por Nina Simone. O arranjo para dois pianos foi composto por Michael Blasky especialmente para o box comemorativo dos 55 anos de carreira das irmãs, lançado este ano pela Deutsche Grammphon. É lá que está boa parte do programa executado no Cultura Artística.&lt;/p&gt;
-&lt;p&gt;Com o início da intrigante &lt;em&gt;How to dance&lt;/em&gt;, de Bryce Dessner, via-se que as irmãs haviam planejado um programa sempre crescente. Dessner também é conhecido como um dos líderes da banda The National e faz colaborações com vários artistas, como Steve Reich e Terry Riley. Difícil acreditar que os mesmos dois pianos que fizeram soar os agudos delicados mostrados nas passagens de Bacewicz e Gebru também pudessem ser capazes dos ferozes ataques na dança pós-moderna de Dessner. Claro que os Steinways ajudam, mas o mérito mesmo vai para as Labèque.&lt;/p&gt;
-&lt;p&gt;Após o intervalo o duo finalizou com &lt;em&gt;Les enfants terribles&lt;/em&gt;, de Philip Glass. A obra é originalmente uma ópera de câmara e foi adaptada para dois pianos por Michael Riesman, como parte de um projeto que homenageou Jean Cocteau (mais sobre a obra escrevi na matéria da CONCERTO). As repetições hipnóticas dos temas de cada parte da obra fizeram os mais de 40 minutos de música voarem. A interpretação das Labèque foi testemunho do que a própria Katia descreveu a respeito dessas repetições glassianas (que, permita o trocadilho, foram cristalinas): longe de qualquer execução mecânica, vimos os pianos virarem os personagens sonoros que representam Paul e Elisabeth, os irmãos que protagonizam o libreto da ópera sobre o qual o arranjo se debruça. Como bons personagens complexos, oscilavam, contrastavam, procuravam tocar os limites da própria repetição. Ali o Teatro Cultura Artística finalmente mergulhou no silêncio entre os sons.&lt;/p&gt;
-&lt;p&gt;Na interpretação do repertório pianístico sempre impressionam dois cuidados principais: o cuidado com a dinâmica e o cuidado com o timbre. O recital das Labèque ganhou nos dois quesitos.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leia também&lt;br /&gt;
-Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/musica-classica/prepare-se-destaques-da-programacao-de-concertos-e-operas-da-semana-0" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Prepare-se: destaques da programação de concertos e óperas da semana&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/uniopera-encena-bodas-de-figaro-de-mozart-no-teatro-bradesco" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Uniopera encena ‘As bodas de Fígaro’, de Mozart, no Teatro Bradesco&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://concerto.com.br/noticias/opera/festival-de-opera-de-obidos-promove-audicoes-para-cantores-solistas" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Festival de Ópera de Óbidos promove audições para cantores solistas&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/opera/conceicao-evaristo-uma-opera-escrevivencia-estreia-no-theatro-sao-pedro" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;‘Conceição Evaristo: uma ópera escrevivência’ estreia no Theatro São Pedro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/musica-classica/orquestra-furiosa-portatil-homenageia-cristovao-bastos" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Orquestra Furiosa Portátil homenageia Cristóvão Bastos&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;strong&gt;Notícias&lt;span style="color:#7f0000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/noticias/entrevista/gelo-e-paixao-na-musica-de-puccini-e-o-futuro-do-theatro-municipal-do-rio-de" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Gelo e paixão na música de Puccini. E o futuro do Theatro Municipal do Rio de Janeiro&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Luciana Medeiros&lt;br /&gt;
-&lt;strong&gt;Crítica &lt;/strong&gt;&lt;u&gt;&lt;a href="https://www.concerto.com.br/textos/critica/maldicao-gozo-e-devocao-em-concerto-do-coro-da-osesp" hreflang="pt-br"&gt;&lt;span style="color:#7f0000;"&gt;Maldição, gozo e devoção em concerto do Coro da Osesp&lt;/span&gt;&lt;/a&gt;&lt;/u&gt;, por Irineu Franco Perpetuo&lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Luís Rabello, que se dedica a resgatar a obra de Radamés Gnattali para piano, interpreta o &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Concerto nº 2&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; do compositor com a Orquestra Petrobras Sinfônica&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Luís Rabello soube desde cedo o que queria fazer. Bem pequeno, já erguia os braços para reger os LPs que o pai tinha no escritório; aos 7 anos, sentou-se ao piano; e, na adolescência, tudo parecia claro: queria ser músico profissional, “tocar Beethoven e Liszt”.  &lt;/p&gt;
+&lt;p&gt;Assim foi. Rabello estudou com Sonia Goulart, Mordehay Simoni e Myrian Dauelsberg no Rio de Janeiro. Foi aluno de Andrei Pisarev no Conservatório Tchaikovsky, em Moscou. E, em Roterdã, teve aulas com Aquiles Delle Vigne, ex-aluno de Claudio Arrau e György Cziffra. &lt;/p&gt;
+&lt;p&gt;Radicou-se na Holanda, onde hoje atua como professor no Conservatório de Roterdã – e de onde parte para concertos e recitais mundo afora, nos quais os antigos preferidos Beethoven e Liszt ganharam companheiros como Chopin, Rachmaninov, Prokofiev e Villa-Lobos. &lt;/p&gt;
+&lt;p&gt;Mas isso é parte da história. Se voltarmos às salas da infância, encontraremos personagens importantes. Os pais e sua relação com as artes. A irmã, Julia, bailarina. Os tios, o violonista Raphael Rabello e a cavaquinista Luciana Rabello. E a avó, Amélia, que abrigava em sua casa saraus com os músicos da família e amigos, gente como Tom Jobim e Paco de Lucía. &lt;/p&gt;
+&lt;p&gt;Havia também outro nome que vira e mexe aparecia na conversa: o do compositor Radamés Gnattali. Raphael e Luciana, ainda novinhos, chegaram a se apresentar e fazer gravações com ele. E a tia falava ao sobrinho: dá uma olhada na música dele para piano.  &lt;/p&gt;
+&lt;p&gt;Foi o que Rabello fez. “Isso foi em 2004, 2005, eu já estava vivendo entre Europa e Brasil e comecei a escutar algumas coisas de Radamés. Fiquei impressionado, eram muito interessantes”, ele lembra. A tia o apresentou a Roberto Gnattali, sobrinho do compositor. E desse encontro veio a primeira gravação da &lt;em&gt;Sonata para piano nº 1&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PEN DRIVE&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Quando o disco ficou pronto, Rabello enviou um exemplar a Nelly Gnattali, viúva de Radamés, que havia gentilmente ajudado o pianista a separar outras peças do compositor para completar o álbum. Ouviu dela que ele tocava como Radamés gostaria que as obras dele fossem interpretadas. Mas não saiu da conversa apenas com esse baita elogio. “Naquele momento, estavam fazendo um trabalho de digitalização dos manuscritos dele, e ela me perguntou: você tem um pen drive? Então vai ali naquele computador e copia o que você quiser.” Ela precisava sair, ele só tinha 15 minutos. Foi direto na pasta “piano”, claro. E copiou tudo o que conseguiu.  &lt;/p&gt;
+&lt;p&gt;A partir desses arquivos, ele faria as primeiras gravações de peças como o &lt;em&gt;Estudo em choro&lt;/em&gt;, os &lt;em&gt;Três prelúdios para piano&lt;/em&gt;, o &lt;em&gt;Poema para violino e piano&lt;/em&gt;. Também levaria ao palco o &lt;em&gt;Concertino nº 1 para cordas e flauta&lt;/em&gt;, a &lt;em&gt;Sonata para violoncelo e piano&lt;/em&gt;, o quinteto batizado de &lt;em&gt;Divertimento&lt;/em&gt;, um quarteto de cordas. “Quanto mais eu investigava, mais impressionado ficava. E, para além do piano solo, comecei a me interessar pelo que ele tinha escrito para piano e orquestra. Nesse sentido, havia muitos tesouros.” &lt;/p&gt;
+&lt;p&gt;Um deles foi o &lt;em&gt;Concerto para piano e orquestra nº 2&lt;/em&gt;. “É uma história extraordinária. Ele foi estreado no Rio, em 1937, por Arnaldo Estrella. Nos anos 1940, Estrella viajou com a peça para tocar em uma turnê nos Estados Unidos, com a Orquestra da Filadélfia, sob regência do Eugene Ormandy. A partitura que eles usaram era a manuscrita, que depois foi devolvida para Radamés, mas veio com um recado escrito por Ormandy: ‘Ao sr. Gnattali, com a admiração pelo seu excelente concerto para piano’. Veja o significado disso. Ormandy gravou os concertos de Rachmaninov com o próprio compositor ao piano, trabalhava com os maiores pianistas do mundo e ficou louco com o concerto do Radamés!” &lt;/p&gt;
+&lt;p&gt;A peça seria tocada mais uma vez, nos anos 1950, em duas apresentações em Montevidéu, com Nise Obino, professora de Nelson Freire, como solista. Depois disso, nunca mais. Uma ausência que chega ao fim neste mês, no dia 13, quando Rabello vai tocá-la com a Orquestra Petrobras Sinfônica, na Sala Cecília Meireles, no Rio de Janeiro.  &lt;/p&gt;
+&lt;p&gt;“É um concerto muito desafiador, um dos mais desafiadores que já toquei. É uma obra densa. O primeiro movimento é muito pianístico, rítmico. O segundo movimento, por sua vez, tem harmonias bem jazzísticas, mas sem perder a densidade e até algo melancólico. E tem a orquestra densa, bonita, colorida, sempre com a digital de Radamés, que é forte. Ele estava ali no auge de sua capacidade como pianista, e a peça puxa muito para o lado ‘erudito’ dele, é de um período em que ele considerava a vida como concertista, antes da carreira dele dar uma guinada em direção ao trabalho como compositor e arranjador.”  &lt;/p&gt;
+&lt;p&gt;Depois de anos tentando levar o concerto ao palco, a apresentação deste mês soa para Rabello como um ponto de chegada, ainda mais por celebrar os 120 anos do compositor. Mas é, na verdade, apenas um começo. Ele já identificou cerca de três dezenas de obras para piano com orquestra – e, entre elas, está o ciclo dos cinco concertos. “Se você olha para as obras, elas têm tudo. Você quer um pianismo exuberante? Tem. Harmonias exóticas, impressionistas, brasileiras? Tem. Algo jazzístico? Tem. Expressão? Tem. O que falta é corrermos atrás do tempo perdido e trazer essas obras à vida.” &lt;/p&gt;
+&lt;p&gt;O sonho agora é fazer os cinco concertos. Ele diz saber que é um plano ousado. “Mas por que não?”  &lt;/p&gt;
 &lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Irmãs Labèque em recital no Teatro Cultura Artística [Ana Cursino Guariglia]" data-entity-type="file" data-entity-uuid="a7d5a5e2-517e-4af4-85a9-ccc9f1745894" src="http://concerto.com.br/sites/default/files/inline-images/w-labeque_0.jpeg" /&gt;
-&lt;figcaption&gt;Irmãs Labèque em recital no Teatro Cultura Artística [Ana Cursino Guariglia]&lt;/figcaption&gt;
+&lt;img alt="Luís Rabello (divulgação)" data-entity-type="file" data-entity-uuid="54fc5ea5-04d7-4c91-aa77-f772cb42ace4" src="http://concerto.com.br/sites/default/files/inline-images/w-luis_rabello.jpg" /&gt;
+&lt;figcaption&gt;Luís Rabello (divulgação)&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
+&lt;strong&gt;Orquestra Petrobras Sinfônica&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Luís Rabello&lt;/strong&gt; – piano &lt;br /&gt;
+Dia 13, Sala Cecília Meireles, Rio de Janeiro &lt;/p&gt;
 &lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/8166" typeof="schema:Person" property="schema:name" datatype="" content="cursino.ana@gmail.com" xml:lang=""&gt;Ana Cursino Guariglia&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 24/11/2026 - 18:40&lt;/span&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-labeque_0.jpeg" width="900" height="506" alt="Irmãs Labèque em recital no Teatro Cultura Artística [Ana Cursino Guariglia]" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15017" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;João Luiz Sampaio&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 10:31&lt;/span&gt;
 
   &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
     &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/critica" hreflang="pt-br"&gt;Crítica&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-luis_rabello.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
@@ -513,40 +638,24 @@ Notícias&lt;span style="color:#7f0000;"&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&l
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
+              &lt;div class="field__item"&gt;Acontece&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
-&lt;section class="field field--name-comment-node-concerto-texts field--type-comment field--label-hidden comment-wrapper"&gt;
-  
-  
-
-  
-&lt;/section&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Não&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-curtir-texts field--type-like-dislike field--label-above"&gt;
-    &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
-    &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyODQ4MTIiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX3RleHRzIiwibGlrZXMiOiIyNSIsImRpc2xpa2VzIjoiMCJ9?token=uhdtXA8uZ0zKYQot1u0h5QJCTOerurLEpcscAt49aU4?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
-    &lt;/div&gt;
-
-          &lt;span id="like" class="spanLike"&gt;25&lt;/span&gt;
-    &lt;/div&gt;
-
-&lt;div id="like_dislike_status"&gt;&lt;/div&gt;
-&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
           &lt;/div&gt;
 </description>
-  <pubDate>Tue, 24 Nov 2026 18:40:10 +0000</pubDate>
-    <dc:creator>Ana Cursino Guariglia</dc:creator>
-    <guid isPermaLink="false">284812 at http://concerto.com.br</guid>
-    <comments>http://concerto.com.br/textos/critica/qualidade-sonora-marca-recital-das-irmas-labeque-no-cultura-artistica#comments</comments>
+  <pubDate>Tue, 01 Dec 2026 10:31:33 +0000</pubDate>
+    <dc:creator>João Luiz Sampaio</dc:creator>
+    <guid isPermaLink="false">284844 at http://concerto.com.br</guid>
     </item>
 
   </channel>

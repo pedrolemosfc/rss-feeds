@@ -6,13 +6,20 @@
 <link>https://suhaimusichall.com.br/eventos/</link>
 <description>Eventos do Suhai Music Hall</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 25 Nov 2026 11:26:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:48:26 +0000</lastBuildDate>
 <item>
 <title>Criolo</title>
 <link>https://suhaimusichall.com.br/evento/criolo/</link>
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/criolo/</guid>
 <pubDate>Sat, 08 May 2027 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 08 maio</description>
+</item>
+<item>
+<title>Deep Purple</title>
+<link>https://suhaimusichall.com.br/evento/deep-purple/</link>
+<guid isPermaLink="true">https://suhaimusichall.com.br/evento/deep-purple/</guid>
+<pubDate>Sat, 17 Apr 2027 12:00:00 +0000</pubDate>
+<description>Suhai Music Hall · 17 abr</description>
 </item>
 <item>
 <title>Europe</title>
@@ -34,6 +41,13 @@
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/placebo/</guid>
 <pubDate>Sat, 20 Feb 2027 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 20 fev</description>
+</item>
+<item>
+<title>Summer Reggae</title>
+<link>https://suhaimusichall.com.br/evento/summer-reggae/</link>
+<guid isPermaLink="true">https://suhaimusichall.com.br/evento/summer-reggae/</guid>
+<pubDate>Sun, 31 Jan 2027 12:00:00 +0000</pubDate>
+<description>Suhai Music Hall · 31 jan</description>
 </item>
 <item>
 <title>Victor &amp; Leo</title>
@@ -83,12 +97,6 @@
 <guid isPermaLink="true">https://suhaimusichall.com.br/evento/a-perfect-circle/</guid>
 <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
 <description>Suhai Music Hall · 27 nov</description>
-</item>
-<item>
-<title>Deep Purple</title>
-<link>https://suhaimusichall.com.br/evento/deep-purple/</link>
-<guid isPermaLink="true">https://suhaimusichall.com.br/evento/deep-purple/</guid>
-<description>Suhai Music Hall</description>
 </item>
 </channel>
 </rss>

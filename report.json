@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 16,
+    "items": 24,
     "ok": true,
-    "notes": "mirrored 16 native items",
+    "notes": "mirrored 24 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,18 +306,18 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 34,
+    "items": 36,
     "ok": true,
-    "notes": "scraped 34 events",
+    "notes": "scraped 36 events",
     "kind": "venue-scrape"
   },
   {
     "name": "vibra-sp",
     "source_url": "https://sites.opusentretenimento.com/api/vibra/events",
     "output": "feeds/vibra-sp.xml",
-    "items": 16,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -342,9 +342,9 @@
     "name": "suhai-music-hall",
     "source_url": "https://suhaimusichall.com.br/eventos/",
     "output": "feeds/suhai-music-hall.xml",
-    "items": 12,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -360,9 +360,9 @@
     "name": "arena-b3",
     "source_url": "https://site.bileto.sympla.com.br/arenab3/",
     "output": "feeds/arena-b3.xml",
-    "items": 3,
+    "items": 5,
     "ok": true,
-    "notes": "scraped 3 events",
+    "notes": "scraped 5 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,9 +423,9 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 13,
+    "items": 14,
     "ok": true,
-    "notes": "scraped 13 events",
+    "notes": "scraped 14 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 26,
+    "items": 28,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 28 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,18 +468,18 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 39,
+    "items": 52,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 52 events",
     "kind": "venue-scrape"
   },
   {
     "name": "jazz-b",
     "source_url": "https://www.jazzb.com.br/shows",
     "output": "feeds/jazz-b.xml",
-    "items": 8,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "colossus",
     "source_url": "https://colossus.com/",
     "output": "feeds/colossus.xml",
-    "items": 40,
+    "items": 80,
     "ok": true,
-    "notes": "scraped 40 events",
+    "notes": "scraped 80 events",
     "kind": "venue-scrape"
   },
   {
