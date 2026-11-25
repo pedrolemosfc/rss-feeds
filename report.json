@@ -35,9 +35,9 @@
     "name": "guia-shows",
     "source_url": "https://guia.folha.uol.com.br/shows/",
     "output": "out/guia-shows.xml",
-    "items": 89,
+    "items": 90,
     "ok": true,
-    "notes": "scraped 89 items"
+    "notes": "scraped 90 items"
   },
   {
     "name": "estadao-sergio-martins",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 180,
+    "items": 181,
     "ok": true,
-    "notes": "merged 2 feeds -> 180 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 181 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 14,
+    "items": 17,
     "ok": true,
-    "notes": "mirrored 14 native items",
+    "notes": "mirrored 17 native items",
     "kind": "native-mirror"
   },
   {
@@ -306,9 +306,9 @@
     "name": "teatro-bradesco",
     "source_url": "https://sites.opusentretenimento.com/api/tbsp/events",
     "output": "feeds/teatro-bradesco.xml",
-    "items": 32,
+    "items": 34,
     "ok": true,
-    "notes": "scraped 32 events",
+    "notes": "scraped 34 events",
     "kind": "venue-scrape"
   },
   {
@@ -369,9 +369,9 @@
     "name": "bourbon-street",
     "source_url": "https://site.bileto.sympla.com.br/bourbonstreet/",
     "output": "feeds/bourbon-street.xml",
-    "items": 15,
+    "items": 17,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 17 events",
     "kind": "venue-scrape"
   },
   {
@@ -405,9 +405,9 @@
     "name": "carioca-club",
     "source_url": "https://www.clubedoingresso.com/cariocaclub",
     "output": "feeds/carioca-club.xml",
-    "items": 20,
+    "items": 19,
     "ok": true,
-    "notes": "scraped 20 events",
+    "notes": "scraped 19 events",
     "kind": "venue-scrape"
   },
   {
@@ -423,18 +423,18 @@
     "name": "komplexo-tempo",
     "source_url": "https://komplexotempo.com.br/agenda-de-eventos/",
     "output": "feeds/komplexo-tempo.xml",
-    "items": 15,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 15 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
     "name": "btg-pactual-hall",
     "source_url": "https://btgpactualhall.com.br/programacao/",
     "output": "feeds/btg-pactual-hall.xml",
-    "items": 8,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 8 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 26,
+    "items": 27,
     "ok": true,
-    "notes": "scraped 26 events",
+    "notes": "scraped 27 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 39,
+    "items": 41,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 41 events",
     "kind": "venue-scrape"
   },
   {
@@ -486,9 +486,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 13,
+    "items": 12,
     "ok": true,
-    "notes": "scraped 13 events",
+    "notes": "scraped 12 events",
     "kind": "venue-scrape"
   },
   {
@@ -693,18 +693,18 @@
     "name": "sest-senat",
     "source_url": "https://www.sestsenat.org.br/noticias",
     "output": "feeds/sest-senat.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 40,
+    "ok": true,
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "no event items found",
+    "items": 25,
+    "ok": true,
+    "notes": "scraped 25 events",
     "kind": "venue-scrape"
   },
   {
@@ -720,9 +720,9 @@
     "name": "cnt-noticias",
     "source_url": "https://www.cnt.org.br/",
     "output": "feeds/cnt-noticias.xml",
-    "items": 39,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 39 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
@@ -756,9 +756,9 @@
     "name": "hangar-110",
     "source_url": "https://www.hangar110.com.br/agenda/",
     "output": "feeds/hangar-110.xml",
-    "items": 16,
+    "items": 15,
     "ok": true,
-    "notes": "scraped 16 events",
+    "notes": "scraped 15 events",
     "kind": "venue-scrape"
   }
 ]

@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Tue, 24 Nov 2026 14:58:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Nov 2026 00:51:26 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Confraria do Pasmado</title>
+		<link>https://casanaturamusical.com.br/eventos/confraria-do-pasmado-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=confraria-do-pasmado-2</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 21:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17372</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rodrigo Alarcon apresenta Bloco do Desamor</title>
+		<link>https://casanaturamusical.com.br/eventos/rodrigo-alarcon-apresenta-bloco-do-desamor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rodrigo-alarcon-apresenta-bloco-do-desamor</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17366</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Majis</title>
 		<link>https://casanaturamusical.com.br/eventos/majis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=majis</link>
 		
@@ -139,34 +167,6 @@
 
 
 <p class="wp-block-paragraph"></p><p>The post <a href="https://casanaturamusical.com.br/eventos/fbc/">FBC</a> first appeared on <a href="https://casanaturamusical.com.br">Casa Natura Musical</a>.</p>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Vanessa Moreno Visita Djavan</title>
-		<link>https://casanaturamusical.com.br/eventos/vanessa-moreno-visita-djavan-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vanessa-moreno-visita-djavan-2</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17237</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Pedro Mizutani + Alan Bernardes</title>
-		<link>https://casanaturamusical.com.br/eventos/pedro-mizutani-alan-bernardes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pedro-mizutani-alan-bernardes</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 15:18:36 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17231</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

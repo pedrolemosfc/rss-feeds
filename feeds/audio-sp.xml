@@ -6,7 +6,7 @@
 <link>https://audiosp.com.br/programacao</link>
 <description>Shows do Audio SP (AJAX programacao_load.php)</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 24 Nov 2026 14:58:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:52:11 +0000</lastBuildDate>
 <item>
 <title>Matanza Ritual Fest</title>
 <link>https://audiosp.com.br/1493-matanza-ritual-fest</link>
@@ -185,6 +185,12 @@
 <title>Lifehouse 13 Março 2027</title>
 <link>https://audiosp.com.br/1474-lifehouse</link>
 <guid isPermaLink="true">https://audiosp.com.br/1474-lifehouse</guid>
+<description>Audio SP</description>
+</item>
+<item>
+<title>Cavalera Conspiracy 10 Março 2027</title>
+<link>https://audiosp.com.br/1495-cavalera-conspiracy</link>
+<guid isPermaLink="true">https://audiosp.com.br/1495-cavalera-conspiracy</guid>
 <description>Audio SP</description>
 </item>
 </channel>

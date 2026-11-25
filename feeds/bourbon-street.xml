@@ -6,7 +6,7 @@
 <link>https://site.bileto.sympla.com.br/bourbonstreet/</link>
 <description>Eventos Bourbon Street via iframe Sympla/Bileto</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 24 Nov 2026 14:58:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:51:49 +0000</lastBuildDate>
 <item>
 <title>Evento 86018</title>
 <link>https://bileto.sympla.com.br/event/86018</link>
@@ -21,6 +21,12 @@
 </item>
 <item>
 <title>Duca Belintani</title>
+<link>https://bileto.sympla.com.br/event/116994</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/116994</guid>
+<description>Bourbon Street</description>
+</item>
+<item>
+<title>HUGO RAFAEL</title>
 <link>https://bileto.sympla.com.br/event/123516</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/123516</guid>
 <description>Bourbon Street</description>
@@ -95,6 +101,12 @@
 <title>Frank Zappa -The Central Scrut...</title>
 <link>https://bileto.sympla.com.br/event/78408</link>
 <guid isPermaLink="true">https://bileto.sympla.com.br/event/78408</guid>
+<description>Bourbon Street</description>
+</item>
+<item>
+<title>REVEILLON 2027 - All inclusive...</title>
+<link>https://bileto.sympla.com.br/event/70806</link>
+<guid isPermaLink="true">https://bileto.sympla.com.br/event/70806</guid>
 <description>Bourbon Street</description>
 </item>
 </channel>
