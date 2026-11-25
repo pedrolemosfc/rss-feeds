@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-25 00:54 UTC
+Generated: 2026-11-25 11:30 UTC
 
 ## Native feeds (not scraped)
 
@@ -68,8 +68,8 @@ Generated: 2026-11-25 00:54 UTC
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
   notes: mirrored 10 native items
-- **mis-sp** [OK] items=17 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
-  notes: mirrored 17 native items
+- **mis-sp** [OK] items=16 → `feeds/mis-sp.xml`  source: https://mis-sp.org.br/eventos/feed/  
+  notes: mirrored 16 native items
 - **teatro-b32** [OK] items=1 → `feeds/teatro-b32.xml`  source: https://teatrob32.com.br/feed/  
   notes: mirrored 1 native items
 - **tokio-marine-hall** [OK] items=10 → `feeds/tokio-marine-hall.xml`  source: https://www.tokiomarinehall.com.br/feed/  
@@ -118,12 +118,12 @@ Generated: 2026-11-25 00:54 UTC
   notes: scraped 13 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=27 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 27 events
+- **audio-sp** [OK] items=26 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 26 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
-- **casa-de-francisca** [OK] items=41 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 41 events
+- **casa-de-francisca** [OK] items=39 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 39 events
 - **jazz-b** [OK] items=8 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 8 events
 - **cavern-club-sp** [OK] items=12 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -141,7 +141,7 @@ Generated: 2026-11-25 00:54 UTC
 - **porta-shotgun** [FAIL] items=0 → `feeds/porta-shotgun.xml`  source: https://shotgun.live/pt-br/venues/p-o-r-t-a  
   notes: fetch failed: HTTPError: HTTP Error 429: Too Many Requests
 - **cultura-artistica** [FAIL] items=0 → `feeds/cultura-artistica.xml`  source: https://culturaartistica.org/eventos/  
-  notes: fetch failed: RemoteDisconnected: Remote end closed connection without response
+  notes: no event items found
 - **bona-casa-musica** [FAIL] items=0 → `feeds/bona-casa-musica.xml`  source: https://www.eventim.com.br/artist/bona-casa-musica/  
   notes: fetch failed: TimeoutError: The read operation timed out
 - **farol-conde-arena** [OK] items=3 → `feeds/farol-conde-arena.xml`  source: https://farmacondearena.com.br/agenda  
@@ -164,18 +164,18 @@ Generated: 2026-11-25 00:54 UTC
   notes: scraped 20 events
 - **cnseg-noticias** [FAIL] items=0 → `feeds/cnseg-noticias.xml`  source: https://cnseg.org.br/noticias  
   notes: no event items found
-- **colossus** [OK] items=80 → `feeds/colossus.xml`  source: https://colossus.com/  
-  notes: scraped 80 events
+- **colossus** [OK] items=40 → `feeds/colossus.xml`  source: https://colossus.com/  
+  notes: scraped 40 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [OK] items=9 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: scraped 9 events
+- **antt-cargas-rodoviarias** [FAIL] items=0 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: no event items found
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
   notes: fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=25 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 25 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  

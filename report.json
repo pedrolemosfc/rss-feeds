@@ -225,9 +225,9 @@
     "name": "mis-sp",
     "source_url": "https://mis-sp.org.br/eventos/feed/",
     "output": "feeds/mis-sp.xml",
-    "items": 17,
+    "items": 16,
     "ok": true,
-    "notes": "mirrored 17 native items",
+    "notes": "mirrored 16 native items",
     "kind": "native-mirror"
   },
   {
@@ -450,9 +450,9 @@
     "name": "audio-sp",
     "source_url": "https://audiosp.com.br/programacao",
     "output": "feeds/audio-sp.xml",
-    "items": 27,
+    "items": 26,
     "ok": true,
-    "notes": "scraped 27 events",
+    "notes": "scraped 26 events",
     "kind": "venue-scrape"
   },
   {
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 41,
+    "items": 39,
     "ok": true,
-    "notes": "scraped 41 events",
+    "notes": "scraped 39 events",
     "kind": "venue-scrape"
   },
   {
@@ -551,7 +551,7 @@
     "output": "feeds/cultura-artistica.xml",
     "items": 0,
     "ok": false,
-    "notes": "fetch failed: RemoteDisconnected: Remote end closed connection without response",
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -657,9 +657,9 @@
     "name": "colossus",
     "source_url": "https://colossus.com/",
     "output": "feeds/colossus.xml",
-    "items": 80,
+    "items": 40,
     "ok": true,
-    "notes": "scraped 80 events",
+    "notes": "scraped 40 events",
     "kind": "venue-scrape"
   },
   {
@@ -675,9 +675,9 @@
     "name": "antt-cargas-rodoviarias",
     "source_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230",
     "output": "feeds/antt-cargas-rodoviarias.xml",
-    "items": 9,
-    "ok": true,
-    "notes": "scraped 9 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 25,
-    "ok": true,
-    "notes": "scraped 25 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {
