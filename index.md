@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-25 21:50 UTC
+Generated: 2026-11-26 04:15 UTC
 
 ## Native feeds (not scraped)
 
@@ -22,10 +22,10 @@ Generated: 2026-11-25 21:50 UTC
   notes: scraped 81 items
 - **folha-criticas-de-musica** [OK] items=48 → `out/folha-criticas-de-musica.xml`  source: https://www1.folha.uol.com.br/folha-topicos/criticas-de-musica/  
   notes: scraped 48 items
-- **folha-show** [OK] items=47 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
-  notes: scraped 47 items
-- **guia-restaurantes** [OK] items=91 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 91 items
+- **folha-show** [OK] items=48 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
+  notes: scraped 48 items
+- **guia-restaurantes** [OK] items=90 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 90 items
 - **guia-shows** [OK] items=90 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 90 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -42,8 +42,8 @@ Generated: 2026-11-25 21:50 UTC
   notes: scraped 93 items
 - **claude-blog** [FAIL] items=0 → `out/claude-blog.xml`  source: https://claude.com/blog  
   notes: no article items found (empty or unparseable HTML)
-- **espaco-unimed-agenda** [OK] items=23 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
-  notes: scraped 23 items
+- **espaco-unimed-agenda** [OK] items=22 → `out/espaco-unimed-agenda.xml`  source: https://www.espacounimed.com.br/agenda-de-shows/  
+  notes: scraped 22 items
 - **page9-artes** [OK] items=20 → `out/page9-artes.xml`  source: https://page9.com/artes  
   notes: scraped 20 items
 - **musicalidade** [OK] items=100 → `out/musicalidade.xml`  source: https://musicalidade.com/  
@@ -86,8 +86,8 @@ Generated: 2026-11-25 21:50 UTC
   notes: mirrored 10 native items
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
   notes: scraped 10 events
-- **teatro-bradesco** [OK] items=36 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
-  notes: scraped 36 events
+- **teatro-bradesco** [OK] items=37 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
+  notes: scraped 37 events
 - **vibra-sp** [OK] items=17 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 17 events
 - **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
@@ -100,8 +100,8 @@ Generated: 2026-11-25 21:50 UTC
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
   notes: scraped 5 events
-- **bourbon-street** [OK] items=17 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
-  notes: scraped 17 events
+- **bourbon-street** [OK] items=21 → `feeds/bourbon-street.xml`  source: https://site.bileto.sympla.com.br/bourbonstreet/  
+  notes: scraped 21 events
 - **songkick-pacaembu** [OK] items=7 → `feeds/songkick-pacaembu.xml`  source: https://www.songkick.com/venues/494316-mercado-livre-arena-pacaembu  
   notes: scraped 7 events
 - **fabrique-club** [FAIL] items=0 → `feeds/fabrique-club.xml`  source: https://www.bandsintown.com/pt/v/10077222-fabrique-club  
@@ -118,12 +118,12 @@ Generated: 2026-11-25 21:50 UTC
   notes: scraped 13 events
 - **sala-sao-paulo** [OK] items=40 → `feeds/sala-sao-paulo.xml`  source: https://salasaopaulo.art.br/salasp/pt/programacao-ingressos  
   notes: scraped 40 events
-- **audio-sp** [OK] items=28 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
-  notes: scraped 28 events
+- **audio-sp** [OK] items=27 → `feeds/audio-sp.xml`  source: https://audiosp.com.br/programacao  
+  notes: scraped 27 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
-- **casa-de-francisca** [OK] items=52 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 52 events
+- **casa-de-francisca** [OK] items=48 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 48 events
 - **jazz-b** [OK] items=13 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 13 events
 - **cavern-club-sp** [OK] items=12 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
@@ -178,8 +178,8 @@ Generated: 2026-11-25 21:50 UTC
   notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=40 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 40 events
+- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: scraped 39 events
 - **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
   notes: scraped 36 events
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
@@ -191,7 +191,7 @@ Generated: 2026-11-25 21:50 UTC
 
 ## Combined feeds
 
-- **folha-musica-topicos** [OK] items=174 → `out/folha-musica-topicos.xml`  
-  notes: merged 3 feeds -> 174 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=181 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 181 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **folha-musica-topicos** [OK] items=175 → `out/folha-musica-topicos.xml`  
+  notes: merged 3 feeds -> 175 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
+- **guia-folha-restaurantes-shows** [OK] items=180 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 180 unique items (from ['guia-restaurantes', 'guia-shows'])

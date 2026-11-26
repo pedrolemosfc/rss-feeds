@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Wed, 25 Nov 2026 21:48:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 04:13:00 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc4MiIsImRpc2xpa2VzIjoiMCJ9?token=PyTWxtJjDNvA-dPhbAGckXeuOoLdxwKJqhEXkvOGqug?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc4NiIsImRpc2xpa2VzIjoiMCJ9?token=sOyy8Dvmf2cqYGC1UdTM5rTkzgB1HzQJdcO4CigE7yo?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;782&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;786&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -86,7 +86,7 @@
   <link>http://concerto.com.br/node/284837</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Prezada leitora, prezado leitor,&lt;/span&gt;
 
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="1 1 []"&gt;Dezembro é mês de Natal, e mês de Natal é mês de &lt;em&gt;O quebra--nozes&lt;/em&gt;! O fantástico conto natalino escrito por E. T. A. Hoffmann e transformado em balé com música de Tchaikovsky emociona plateias em todo o mundo. Assim também no Brasil, onde a obra será apresentada neste mês no Theatro Municipal do Rio de Janeiro, em São Paulo, em Belo Horizonte e em Piracicaba. Para a capa desta edição da Revista CONCERTO, a jornalista Amanda Queirós escreve a matéria “Reino encantado”, que recupera a história de &lt;em&gt;O quebra-nozes&lt;/em&gt; e fala das novas produções. &lt;/p&gt;
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="1 1 []"&gt;Dezembro é mês de Natal, e mês de Natal é mês de &lt;em&gt;O quebra-nozes&lt;/em&gt;! O fantástico conto natalino escrito por E. T. A. Hoffmann e transformado em balé com música de Tchaikovsky emociona plateias em todo o mundo. Assim também no Brasil, onde a obra será apresentada neste mês no Theatro Municipal do Rio de Janeiro, em São Paulo, em Belo Horizonte e em Piracicaba. Para a capa desta edição da Revista CONCERTO, a jornalista Amanda Queirós escreve a matéria “Reino encantado”, que recupera a história de &lt;em&gt;O quebra-nozes&lt;/em&gt; e fala das novas produções. &lt;/p&gt;
 &lt;p&gt;A entrevista do mês é com Ricardo Ballestero, refinado pianista que tem construído carreira em aclamadas colaborações com cantores. O jornalista Irineu Franco Perpetuo conversou com Ballestero, que, entre outros assuntos, contou sobre o recital que realiza no Theatro São Pedro de São Paulo com a soprano Carla Cottini e o clarinetista Bruno Ghirardi. &lt;/p&gt;
 &lt;p&gt;O pianista Leonardo Hilsdorf, que toca com a Ospa a &lt;em&gt;Rapsódia sobre um tema de Paganini&lt;/em&gt;, de Rachmaninov, é o artista que ocupa a seção &lt;em&gt;Fermata&lt;/em&gt; desta edição, em reportagem da jornalista Luciana Medeiros. Além de falar da obra, “uma das mais difíceis que já toquei”, Hilsdorf conta do Horizonte Musical, associação cultural sem fins lucrativos que criou em Lisboa, onde reside. &lt;/p&gt;
 &lt;p&gt;Outro destacado pianista brasileiro radicado na Europa, Luís Rabello, estará no Rio de Janeiro neste mês para solar, junto à Orquestra Petrobras Sinfônica, o &lt;em&gt;Concerto nº 2&lt;/em&gt; de Radamés Gnattali, como escreve o editor executivo João Luiz Sampaio na seção &lt;em&gt;Acontece&lt;/em&gt;. O genial Gnattali, que em 2026 completaria 120 anos, também terá um concerto especial da Orquestra Furiosa Portátil, na Casa do Choro. &lt;/p&gt;
