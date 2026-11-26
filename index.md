@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-26 04:15 UTC
+Generated: 2026-11-26 14:02 UTC
 
 ## Native feeds (not scraped)
 
@@ -34,10 +34,10 @@ Generated: 2026-11-26 04:15 UTC
   notes: scraped 30 items
 - **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
   notes: scraped 10 items
-- **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
-  notes: scraped 20 items
-- **asil-insights** [OK] items=20 → `out/asil-insights.xml`  source: https://asil.org/insights/  
-  notes: scraped 20 items
+- **billboard-br-sergio-martins** [FAIL] items=0 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **xai-news** [OK] items=93 → `out/xai-news.xml`  source: https://x.ai/news  
   notes: scraped 93 items
 - **claude-blog** [FAIL] items=0 → `out/claude-blog.xml`  source: https://claude.com/blog  
@@ -62,8 +62,8 @@ Generated: 2026-11-26 04:15 UTC
   notes: mirrored 10 native items
 - **ens-acontece** [OK] items=10 → `feeds/ens-acontece.xml`  source: https://acontece.ens.edu.br/feed/  
   notes: mirrored 10 native items
-- **kmm-blog** [OK] items=10 → `feeds/kmm-blog.xml`  source: https://kmm.com.br/feed/  
-  notes: mirrored 10 native items
+- **kmm-blog** [FAIL] items=0 → `feeds/kmm-blog.xml`  source: https://kmm.com.br/feed/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **nubank-parque-shows** [OK] items=10 → `feeds/nubank-parque-shows.xml`  source: https://nubankparque.com/category/agenda/shows/feed/  
   notes: mirrored 10 native items
 - **terra-sp** [OK] items=10 → `feeds/terra-sp.xml`  source: https://terrasp.com/feed/  
@@ -82,20 +82,20 @@ Generated: 2026-11-26 04:15 UTC
   notes: mirrored 10 native items
 - **abti** [OK] items=10 → `feeds/abti.xml`  source: https://www.abti.org.br/feed/  
   notes: mirrored 10 native items
-- **buonny-blog** [OK] items=10 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
-  notes: mirrored 10 native items
+- **buonny-blog** [FAIL] items=0 → `feeds/buonny-blog.xml`  source: https://buonny.com.br/feed/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **tecnologistica** [OK] items=10 → `feeds/tecnologistica.xml`  source: https://www.tecnologistica.com.br/noticias/  
   notes: scraped 10 events
 - **teatro-bradesco** [OK] items=37 → `feeds/teatro-bradesco.xml`  source: https://sites.opusentretenimento.com/api/tbsp/events  
   notes: scraped 37 events
 - **vibra-sp** [OK] items=17 → `feeds/vibra-sp.xml`  source: https://sites.opusentretenimento.com/api/vibra/events  
   notes: scraped 17 events
-- **theatro-municipal** [OK] items=8 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
-  notes: scraped 8 events
+- **theatro-municipal** [FAIL] items=0 → `feeds/theatro-municipal.xml`  source: https://theatromunicipal.org.br/programacao/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **multi-arena-campinas** [FAIL] items=0 → `feeds/multi-arena-campinas.xml`  source: https://multiarenacampinas.com.br/programacao/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
-- **suhai-music-hall** [OK] items=13 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
-  notes: scraped 13 events
+- **suhai-music-hall** [FAIL] items=0 → `feeds/suhai-music-hall.xml`  source: https://suhaimusichall.com.br/eventos/  
+  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **blue-note-sp** [OK] items=50 → `feeds/blue-note-sp.xml`  source: https://bluenotesp.com/shows/  
   notes: scraped 50 events
 - **arena-b3** [OK] items=5 → `feeds/arena-b3.xml`  source: https://site.bileto.sympla.com.br/arenab3/  
@@ -168,20 +168,20 @@ Generated: 2026-11-26 04:15 UTC
   notes: scraped 80 events
 - **antt-ementario** [OK] items=50 → `feeds/antt-ementario.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 50 events
-- **antt-cargas-rodoviarias** [FAIL] items=0 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
-  notes: no event items found
+- **antt-cargas-rodoviarias** [OK] items=4 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
+  notes: scraped 4 events
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
-  notes: fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>
+  notes: no event items found
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: no event items found
+- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: scraped 50 events
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
-- **cnt-noticias** [OK] items=39 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
-  notes: scraped 39 events
-- **cnt-pesquisas** [OK] items=36 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
-  notes: scraped 36 events
+- **cnt-noticias** [FAIL] items=0 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
+  notes: no event items found
+- **cnt-pesquisas** [FAIL] items=0 → `feeds/cnt-pesquisas.xml`  source: https://www.cnt.org.br/pesquisas  
+  notes: no event items found
 - **cafe-com-tony** [OK] items=15 → `feeds/cafe-com-tony.xml`  source: https://www.youtube.com/@cafecomtony/videos  
   notes: scraped 15 events
 - **instituto-care-programacao** [OK] items=50 → `feeds/instituto-care-programacao.xml`  source: https://institutocare.org.br/programacao/  
