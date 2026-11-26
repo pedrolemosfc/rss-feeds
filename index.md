@@ -1,6 +1,6 @@
 # RSS feeds index
 
-Generated: 2026-11-26 14:02 UTC
+Generated: 2026-11-26 23:06 UTC
 
 ## Native feeds (not scraped)
 
@@ -24,8 +24,8 @@ Generated: 2026-11-26 14:02 UTC
   notes: scraped 48 items
 - **folha-show** [OK] items=48 → `out/folha-show.xml`  source: https://www1.folha.uol.com.br/folha-topicos/show/  
   notes: scraped 48 items
-- **guia-restaurantes** [OK] items=90 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
-  notes: scraped 90 items
+- **guia-restaurantes** [OK] items=91 → `out/guia-restaurantes.xml`  source: https://guia.folha.uol.com.br/restaurantes/  
+  notes: scraped 91 items
 - **guia-shows** [OK] items=90 → `out/guia-shows.xml`  source: https://guia.folha.uol.com.br/shows/  
   notes: scraped 90 items
 - **estadao-sergio-martins** [OK] items=5 → `out/estadao-sergio-martins.xml`  source: https://www.estadao.com.br/cultura/sergio-martins/  
@@ -34,8 +34,8 @@ Generated: 2026-11-26 14:02 UTC
   notes: scraped 30 items
 - **correio-irlam-rocha-lima** [OK] items=10 → `out/correio-irlam-rocha-lima.xml`  source: https://www.correiobraziliense.com.br/autor/irlam-rocha-lima/page/1/  
   notes: scraped 10 items
-- **billboard-br-sergio-martins** [FAIL] items=0 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
-  notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
+- **billboard-br-sergio-martins** [OK] items=20 → `out/billboard-br-sergio-martins.xml`  source: https://billboard.com.br/author/sergio-martins/  
+  notes: scraped 20 items
 - **asil-insights** [FAIL] items=0 → `out/asil-insights.xml`  source: https://asil.org/insights/  
   notes: fetch failed: HTTPError: HTTP Error 403: Forbidden
 - **xai-news** [OK] items=93 → `out/xai-news.xml`  source: https://x.ai/news  
@@ -122,12 +122,12 @@ Generated: 2026-11-26 14:02 UTC
   notes: scraped 27 events
 - **teatro-das-artes-sp** [OK] items=2 → `feeds/teatro-das-artes-sp.xml`  source: https://teatrodasartessp.com.br/programacao/  
   notes: scraped 2 events
-- **casa-de-francisca** [OK] items=48 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
-  notes: scraped 48 events
+- **casa-de-francisca** [OK] items=51 → `feeds/casa-de-francisca.xml`  source: https://casadefrancisca.art.br/novo/programacao  
+  notes: scraped 51 events
 - **jazz-b** [OK] items=13 → `feeds/jazz-b.xml`  source: https://www.jazzb.com.br/shows  
   notes: scraped 13 events
-- **cavern-club-sp** [OK] items=12 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
-  notes: scraped 12 events
+- **cavern-club-sp** [OK] items=13 → `feeds/cavern-club-sp.xml`  source: https://thecavernclubsp.com.br/agenda/  
+  notes: scraped 13 events
 - **manifesto-bar** [OK] items=11 → `feeds/manifesto-bar.xml`  source: https://manifestobar.com.br/bar/programacao/  
   notes: scraped 11 events
 - **multiplan-hall-sc** [FAIL] items=0 → `feeds/multiplan-hall-sc.xml`  source: https://www.ticketmaster.com.br/venue/multiplan-hall-sc  
@@ -171,11 +171,11 @@ Generated: 2026-11-26 14:02 UTC
 - **antt-cargas-rodoviarias** [OK] items=4 → `feeds/antt-cargas-rodoviarias.xml`  source: https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirEmentarioANTT&cod_modulo=623&cod_menu=9230  
   notes: scraped 4 events
 - **antt-noticias** [FAIL] items=0 → `feeds/antt-noticias.xml`  source: https://www.gov.br/antt/pt-br/assuntos/noticias-defeso-eleitoral  
-  notes: no event items found
+  notes: fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>
 - **sest-senat** [OK] items=40 → `feeds/sest-senat.xml`  source: https://www.sestsenat.org.br/noticias  
   notes: scraped 40 events
-- **cly-blog** [OK] items=50 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
-  notes: scraped 50 events
+- **cly-blog** [FAIL] items=0 → `feeds/cly-blog.xml`  source: https://cly-blog.blogspot.com/  
+  notes: no event items found
 - **itl-noticias** [OK] items=50 → `feeds/itl-noticias.xml`  source: https://itl.org.br/noticias/  
   notes: scraped 50 events
 - **cnt-noticias** [FAIL] items=0 → `feeds/cnt-noticias.xml`  source: https://www.cnt.org.br/  
@@ -193,5 +193,5 @@ Generated: 2026-11-26 14:02 UTC
 
 - **folha-musica-topicos** [OK] items=175 → `out/folha-musica-topicos.xml`  
   notes: merged 3 feeds -> 175 unique items (from ['folha-jazz', 'folha-criticas-de-musica', 'folha-show'])
-- **guia-folha-restaurantes-shows** [OK] items=180 → `out/guia-folha-restaurantes-shows.xml`  
-  notes: merged 2 feeds -> 180 unique items (from ['guia-restaurantes', 'guia-shows'])
+- **guia-folha-restaurantes-shows** [OK] items=181 → `out/guia-folha-restaurantes-shows.xml`  
+  notes: merged 2 feeds -> 181 unique items (from ['guia-restaurantes', 'guia-shows'])

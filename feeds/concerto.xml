@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://concerto.com.br/">
   <channel>
-<lastBuildDate>Thu, 26 Nov 2026 14:00:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:04:24 +0000</lastBuildDate>
     <title>Concerto (revista) — RSS</title>
     <link>https://concerto.com.br/</link>
     <description/>
@@ -67,10 +67,10 @@
     &lt;div class="field__label"&gt;Curtir&lt;/div&gt;
               &lt;div class="field__item"&gt;&lt;div class="like_dislike"&gt;
     &lt;div class="like btnLike"&gt;
-        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc4OSIsImRpc2xpa2VzIjoiMCJ9?token=o5tbtWBDOywSt10fmvDzwvpCQbyTM47EIMChlSTUlb8?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
+        &lt;a class="use-ajax" href="http://concerto.com.br/like-dislike/like/eyJlbnRpdHlfdHlwZSI6Im5vZGUiLCJlbnRpdHlfaWQiOiIyNzI5ODEiLCJmaWVsZF9uYW1lIjoiZmllbGRfY3VydGlyX25ld3MiLCJsaWtlcyI6Ijc5MCIsImRpc2xpa2VzIjoiMCJ9?token=38dXNPtZfxkmHTtyHlherlDy_GHrfDrU_ik6ghxZbQg?like-dislike-redirect=http://concerto.com.br/rss.xml"&gt;Curtir&lt;/a&gt;
     &lt;/div&gt;
 
-          &lt;span id="like" class="spanLike"&gt;789&lt;/span&gt;
+          &lt;span id="like" class="spanLike"&gt;790&lt;/span&gt;
     &lt;/div&gt;
 
 &lt;div id="like_dislike_status"&gt;&lt;/div&gt;
@@ -134,6 +134,11 @@
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Não&lt;/div&gt;
@@ -142,6 +147,48 @@
   <pubDate>Tue, 01 Dec 2026 23:16:35 +0000</pubDate>
     <dc:creator>Nelson Rubens Kunze</dc:creator>
     <guid isPermaLink="false">284837 at http://concerto.com.br</guid>
+    </item>
+<item>
+  <title>Dezembro 2026</title>
+  <link>http://concerto.com.br/content/dezembro-2026</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dezembro 2026&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Redação CONCERTO&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 19:12&lt;/span&gt;
+
+  &lt;div class="field field--name-field-cover field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Capa&lt;/div&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/12_2026.jpg" width="200" height="262" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista-pdf field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Arquivo Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="http://concerto.com.br/system/files/revistas/CardFlipbook-dez26.pdf" type="application/pdf; length=367132"&gt;CardFlipbook-dez26.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-publish-date field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Data de publicação&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2026-12-01T12:00:00Z" class="datetime"&gt;ter, 01/12/2026 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+&lt;section class="field field--name-comment-node-concerto-revista field--type-comment field--label-hidden comment-wrapper"&gt;
+  
+  
+
+  
+&lt;/section&gt;
+
+  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2026 19:12:39 +0000</pubDate>
+    <dc:creator>Redação CONCERTO</dc:creator>
+    <guid isPermaLink="false">284835 at http://concerto.com.br</guid>
     </item>
 <item>
   <title>Notícias do mundo musical</title>
@@ -230,6 +277,11 @@ Novo diretor artístico da casa deu à obra uma interpretação musicalmente mui
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -315,6 +367,11 @@ ou pelo e-mail: &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&l
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -377,6 +434,11 @@ ou pelo e-mail: &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&l
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -435,6 +497,11 @@ ou pelo e-mail: &lt;a href="mailto:vendas@tucca.org.br"&gt;vendas@tucca.org.br&l
   &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
@@ -514,6 +581,11 @@ Dia 6, Theatro São Pedro, São Paulo  &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -579,6 +651,11 @@ Dia 6, Theatro São Pedro, São Paulo  &lt;/p&gt;
               &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
           &lt;/div&gt;
 
+  &lt;div class="field field--name-field-revista field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Revista&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/content/dezembro-2026" hreflang="pt-br"&gt;Dezembro 2026&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
   &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
     &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
               &lt;div class="field__item"&gt;Sim&lt;/div&gt;
@@ -587,75 +664,6 @@ Dia 6, Theatro São Pedro, São Paulo  &lt;/p&gt;
   <pubDate>Tue, 01 Dec 2026 11:35:14 +0000</pubDate>
     <dc:creator>Jorge Coli</dc:creator>
     <guid isPermaLink="false">284845 at http://concerto.com.br</guid>
-    </item>
-<item>
-  <title>Um concerto, sete décadas depois </title>
-  <link>http://concerto.com.br/node/284844</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Um concerto, sete décadas depois &lt;/span&gt;
-
-            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p data-pm-slice="0 0 []"&gt;&lt;strong&gt;Luís Rabello, que se dedica a resgatar a obra de Radamés Gnattali para piano, interpreta o &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;Concerto nº 2&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; do compositor com a Orquestra Petrobras Sinfônica&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Luís Rabello soube desde cedo o que queria fazer. Bem pequeno, já erguia os braços para reger os LPs que o pai tinha no escritório; aos 7 anos, sentou-se ao piano; e, na adolescência, tudo parecia claro: queria ser músico profissional, “tocar Beethoven e Liszt”.  &lt;/p&gt;
-&lt;p&gt;Assim foi. Rabello estudou com Sonia Goulart, Mordehay Simoni e Myrian Dauelsberg no Rio de Janeiro. Foi aluno de Andrei Pisarev no Conservatório Tchaikovsky, em Moscou. E, em Roterdã, teve aulas com Aquiles Delle Vigne, ex-aluno de Claudio Arrau e György Cziffra. &lt;/p&gt;
-&lt;p&gt;Radicou-se na Holanda, onde hoje atua como professor no Conservatório de Roterdã – e de onde parte para concertos e recitais mundo afora, nos quais os antigos preferidos Beethoven e Liszt ganharam companheiros como Chopin, Rachmaninov, Prokofiev e Villa-Lobos. &lt;/p&gt;
-&lt;p&gt;Mas isso é parte da história. Se voltarmos às salas da infância, encontraremos personagens importantes. Os pais e sua relação com as artes. A irmã, Julia, bailarina. Os tios, o violonista Raphael Rabello e a cavaquinista Luciana Rabello. E a avó, Amélia, que abrigava em sua casa saraus com os músicos da família e amigos, gente como Tom Jobim e Paco de Lucía. &lt;/p&gt;
-&lt;p&gt;Havia também outro nome que vira e mexe aparecia na conversa: o do compositor Radamés Gnattali. Raphael e Luciana, ainda novinhos, chegaram a se apresentar e fazer gravações com ele. E a tia falava ao sobrinho: dá uma olhada na música dele para piano.  &lt;/p&gt;
-&lt;p&gt;Foi o que Rabello fez. “Isso foi em 2004, 2005, eu já estava vivendo entre Europa e Brasil e comecei a escutar algumas coisas de Radamés. Fiquei impressionado, eram muito interessantes”, ele lembra. A tia o apresentou a Roberto Gnattali, sobrinho do compositor. E desse encontro veio a primeira gravação da &lt;em&gt;Sonata para piano nº 1&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PEN DRIVE&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;Quando o disco ficou pronto, Rabello enviou um exemplar a Nelly Gnattali, viúva de Radamés, que havia gentilmente ajudado o pianista a separar outras peças do compositor para completar o álbum. Ouviu dela que ele tocava como Radamés gostaria que as obras dele fossem interpretadas. Mas não saiu da conversa apenas com esse baita elogio. “Naquele momento, estavam fazendo um trabalho de digitalização dos manuscritos dele, e ela me perguntou: você tem um pen drive? Então vai ali naquele computador e copia o que você quiser.” Ela precisava sair, ele só tinha 15 minutos. Foi direto na pasta “piano”, claro. E copiou tudo o que conseguiu.  &lt;/p&gt;
-&lt;p&gt;A partir desses arquivos, ele faria as primeiras gravações de peças como o &lt;em&gt;Estudo em choro&lt;/em&gt;, os &lt;em&gt;Três prelúdios para piano&lt;/em&gt;, o &lt;em&gt;Poema para violino e piano&lt;/em&gt;. Também levaria ao palco o &lt;em&gt;Concertino nº 1 para cordas e flauta&lt;/em&gt;, a &lt;em&gt;Sonata para violoncelo e piano&lt;/em&gt;, o quinteto batizado de &lt;em&gt;Divertimento&lt;/em&gt;, um quarteto de cordas. “Quanto mais eu investigava, mais impressionado ficava. E, para além do piano solo, comecei a me interessar pelo que ele tinha escrito para piano e orquestra. Nesse sentido, havia muitos tesouros.” &lt;/p&gt;
-&lt;p&gt;Um deles foi o &lt;em&gt;Concerto para piano e orquestra nº 2&lt;/em&gt;. “É uma história extraordinária. Ele foi estreado no Rio, em 1937, por Arnaldo Estrella. Nos anos 1940, Estrella viajou com a peça para tocar em uma turnê nos Estados Unidos, com a Orquestra da Filadélfia, sob regência do Eugene Ormandy. A partitura que eles usaram era a manuscrita, que depois foi devolvida para Radamés, mas veio com um recado escrito por Ormandy: ‘Ao sr. Gnattali, com a admiração pelo seu excelente concerto para piano’. Veja o significado disso. Ormandy gravou os concertos de Rachmaninov com o próprio compositor ao piano, trabalhava com os maiores pianistas do mundo e ficou louco com o concerto do Radamés!” &lt;/p&gt;
-&lt;p&gt;A peça seria tocada mais uma vez, nos anos 1950, em duas apresentações em Montevidéu, com Nise Obino, professora de Nelson Freire, como solista. Depois disso, nunca mais. Uma ausência que chega ao fim neste mês, no dia 13, quando Rabello vai tocá-la com a Orquestra Petrobras Sinfônica, na Sala Cecília Meireles, no Rio de Janeiro.  &lt;/p&gt;
-&lt;p&gt;“É um concerto muito desafiador, um dos mais desafiadores que já toquei. É uma obra densa. O primeiro movimento é muito pianístico, rítmico. O segundo movimento, por sua vez, tem harmonias bem jazzísticas, mas sem perder a densidade e até algo melancólico. E tem a orquestra densa, bonita, colorida, sempre com a digital de Radamés, que é forte. Ele estava ali no auge de sua capacidade como pianista, e a peça puxa muito para o lado ‘erudito’ dele, é de um período em que ele considerava a vida como concertista, antes da carreira dele dar uma guinada em direção ao trabalho como compositor e arranjador.”  &lt;/p&gt;
-&lt;p&gt;Depois de anos tentando levar o concerto ao palco, a apresentação deste mês soa para Rabello como um ponto de chegada, ainda mais por celebrar os 120 anos do compositor. Mas é, na verdade, apenas um começo. Ele já identificou cerca de três dezenas de obras para piano com orquestra – e, entre elas, está o ciclo dos cinco concertos. “Se você olha para as obras, elas têm tudo. Você quer um pianismo exuberante? Tem. Harmonias exóticas, impressionistas, brasileiras? Tem. Algo jazzístico? Tem. Expressão? Tem. O que falta é corrermos atrás do tempo perdido e trazer essas obras à vida.” &lt;/p&gt;
-&lt;p&gt;O sonho agora é fazer os cinco concertos. Ele diz saber que é um plano ousado. “Mas por que não?”  &lt;/p&gt;
-&lt;figure role="group" class="caption caption-img"&gt;
-&lt;img alt="Luís Rabello (divulgação)" data-entity-type="file" data-entity-uuid="54fc5ea5-04d7-4c91-aa77-f772cb42ace4" src="http://concerto.com.br/sites/default/files/inline-images/w-luis_rabello.jpg" /&gt;
-&lt;figcaption&gt;Luís Rabello (divulgação)&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span style="color:#7f0000;"&gt;&lt;strong&gt;AGENDA&lt;/strong&gt; &lt;/span&gt;&lt;br /&gt;
-&lt;strong&gt;Orquestra Petrobras Sinfônica&lt;/strong&gt; &lt;br /&gt;
-&lt;strong&gt;Luís Rabello&lt;/strong&gt; – piano &lt;br /&gt;
-Dia 13, Sala Cecília Meireles, Rio de Janeiro &lt;/p&gt;
-&lt;/div&gt;
-      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://concerto.com.br/user/15017" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;João Luiz Sampaio&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ter, 01/12/2026 - 10:31&lt;/span&gt;
-
-  &lt;div class="field field--name-field-category field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Categoria&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://concerto.com.br/categorias/musica-classica" hreflang="pt-br"&gt;Música Clássica&lt;/a&gt;&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured-image field--type-image field--label-above"&gt;
-    &lt;div class="field__label"&gt;Imagem de destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;  &lt;img src="http://concerto.com.br/sites/default/files/w-luis_rabello.jpg" width="900" height="600" alt="" typeof="foaf:Image" /&gt;
-
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-featured field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Marcar como destaque&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-hat field--type-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Chapéu&lt;/div&gt;
-              &lt;div class="field__item"&gt;Acontece&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-subhome-exclusive field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo da Subhome&lt;/div&gt;
-              &lt;div class="field__item"&gt;Desliga&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;div class="field field--name-field-exclusivo-assinantes field--type-boolean field--label-above"&gt;
-    &lt;div class="field__label"&gt;Exclusivo para Assinantes&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sim&lt;/div&gt;
-          &lt;/div&gt;
-</description>
-  <pubDate>Tue, 01 Dec 2026 10:31:33 +0000</pubDate>
-    <dc:creator>João Luiz Sampaio</dc:creator>
-    <guid isPermaLink="false">284844 at http://concerto.com.br</guid>
     </item>
 
   </channel>

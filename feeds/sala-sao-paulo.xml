@@ -6,7 +6,7 @@
 <link>https://salasaopaulo.art.br/salasp/pt/programacao-ingressos</link>
 <description>Concertos da Sala São Paulo</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 26 Nov 2026 14:00:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:04:49 +0000</lastBuildDate>
 <item>
 <title>Concerto 1769</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1769?date=2026-11-27T13:00:00.000Z</link>
@@ -53,6 +53,12 @@
 <title>Concerto 1990</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1990?date=2026-12-03T01:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1990?date=2026-12-03T01:00:00.000Z</guid>
+<description>Sala São Paulo</description>
+</item>
+<item>
+<title>Concerto 2029</title>
+<link>https://salasaopaulo.art.br/salasp/pt/concerto/2029?date=2026-12-04T22:30:00.000Z</link>
+<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/2029?date=2026-12-04T22:30:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 <item>
@@ -239,12 +245,6 @@
 <title>Concerto 1949</title>
 <link>https://salasaopaulo.art.br/salasp/pt/concerto/1949?date=2027-04-02T23:00:00.000Z</link>
 <guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1949?date=2027-04-02T23:00:00.000Z</guid>
-<description>Sala São Paulo</description>
-</item>
-<item>
-<title>Concerto 1949</title>
-<link>https://salasaopaulo.art.br/salasp/pt/concerto/1949?date=2027-04-03T19:30:00.000Z</link>
-<guid isPermaLink="true">https://salasaopaulo.art.br/salasp/pt/concerto/1949?date=2027-04-03T19:30:00.000Z</guid>
 <description>Sala São Paulo</description>
 </item>
 </channel>

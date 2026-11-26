@@ -27,9 +27,9 @@
     "name": "guia-restaurantes",
     "source_url": "https://guia.folha.uol.com.br/restaurantes/",
     "output": "out/guia-restaurantes.xml",
-    "items": 90,
+    "items": 91,
     "ok": true,
-    "notes": "scraped 90 items"
+    "notes": "scraped 91 items"
   },
   {
     "name": "guia-shows",
@@ -67,9 +67,9 @@
     "name": "billboard-br-sergio-martins",
     "source_url": "https://billboard.com.br/author/sergio-martins/",
     "output": "out/billboard-br-sergio-martins.xml",
-    "items": 0,
-    "ok": false,
-    "notes": "fetch failed: HTTPError: HTTP Error 403: Forbidden"
+    "items": 20,
+    "ok": true,
+    "notes": "scraped 20 items"
   },
   {
     "name": "asil-insights",
@@ -163,9 +163,9 @@
     "name": "guia-folha-restaurantes-shows",
     "source_url": "https://guia.folha.uol.com.br/",
     "output": "out/guia-folha-restaurantes-shows.xml",
-    "items": 180,
+    "items": 181,
     "ok": true,
-    "notes": "merged 2 feeds -> 180 unique items (from ['guia-restaurantes', 'guia-shows'])"
+    "notes": "merged 2 feeds -> 181 unique items (from ['guia-restaurantes', 'guia-shows'])"
   },
   {
     "name": "aida-noticias-do-dia",
@@ -468,9 +468,9 @@
     "name": "casa-de-francisca",
     "source_url": "https://casadefrancisca.art.br/novo/programacao",
     "output": "feeds/casa-de-francisca.xml",
-    "items": 48,
+    "items": 51,
     "ok": true,
-    "notes": "scraped 48 events",
+    "notes": "scraped 51 events",
     "kind": "venue-scrape"
   },
   {
@@ -486,9 +486,9 @@
     "name": "cavern-club-sp",
     "source_url": "https://thecavernclubsp.com.br/agenda/",
     "output": "feeds/cavern-club-sp.xml",
-    "items": 12,
+    "items": 13,
     "ok": true,
-    "notes": "scraped 12 events",
+    "notes": "scraped 13 events",
     "kind": "venue-scrape"
   },
   {
@@ -686,7 +686,7 @@
     "output": "feeds/antt-noticias.xml",
     "items": 0,
     "ok": false,
-    "notes": "no event items found",
+    "notes": "fetch failed: URLError: <urlopen error [Errno 104] Connection reset by peer>",
     "kind": "venue-scrape"
   },
   {
@@ -702,9 +702,9 @@
     "name": "cly-blog",
     "source_url": "https://cly-blog.blogspot.com/",
     "output": "feeds/cly-blog.xml",
-    "items": 50,
-    "ok": true,
-    "notes": "scraped 50 events",
+    "items": 0,
+    "ok": false,
+    "notes": "no event items found",
     "kind": "venue-scrape"
   },
   {

@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Thu, 26 Nov 2026 14:00:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Nov 2026 23:04:23 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bloco Pagu  </title>
+		<link>https://casanaturamusical.com.br/eventos/bloco-pagu-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloco-pagu-3</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2026 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17390</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Venere Vai Venus</title>
 		<link>https://casanaturamusical.com.br/eventos/venere-vai-venus/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=venere-vai-venus</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Tue, 17 Nov 2026 20:59:13 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17341</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gaby Amarantos</title>
-		<link>https://casanaturamusical.com.br/eventos/gaby-amarantos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gaby-amarantos</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17333</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
