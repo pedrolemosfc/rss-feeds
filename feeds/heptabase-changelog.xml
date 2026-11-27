@@ -6,13 +6,27 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:47:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 19:33:02 +0000</lastBuildDate>
+<item>
+<title>v1.118.2</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11182</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11182</guid>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<description>Heptabase changelog</description>
+</item>
 <item>
 <title>Mobile app v1.43.1</title>
 <link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1431</link>
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1431</guid>
 <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 <description>Mobile App: Voice input in Quick Capture and AI Agent</description>
+</item>
+<item>
+<title>v1.118.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#v11181</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v11181</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<description>Image viewer: Scroll to move around a zoomed-in image.; Fix an issue where the desktop app could turn white after a Readwise sync in large spaces.; Fix an issue where the selection box and zoom to fit left out part of an elbow connection.</description>
 </item>
 <item>
 <title>v1.118.0</title>
@@ -552,20 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1354</guid>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <description>Fix the issue where Android highlights are automatically deselected.; Fix the issue where contact support widget cannot be opened.; Fix the issue where Android area highlights clip to the wrong position.</description>
-</item>
-<item>
-<title>v1.93.0</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1930</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1930</guid>
-<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-<description>Heptabase CLI 0.2.0: Whiteboard commands (Please ask your agent to update/install the Official Heptabase CLI Skills ) and use heptabase whiteboard -h to learn new commands.</description>
-</item>
-<item>
-<title>Mobile app v1.35.3</title>
-<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1353</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1353</guid>
-<pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-<description>Mobile App: PDF highlight and annotation</description>
 </item>
 </channel>
 </rss>

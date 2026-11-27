@@ -12,7 +12,7 @@
 	<atom:link href="https://casanaturamusical.com.br/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://casanaturamusical.com.br/eventos/</link>
 	<description>Espelho do RSS nativo de eventos da Casa Natura Musical</description>
-	<lastBuildDate>Fri, 27 Nov 2026 08:45:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Nov 2026 19:31:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Baile do Magal</title>
+		<link>https://casanaturamusical.com.br/eventos/baile-do-magal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=baile-do-magal</link>
+		
+		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17395</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Bloco Pagu  </title>
 		<link>https://casanaturamusical.com.br/eventos/bloco-pagu-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloco-pagu-3</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
 		<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
 				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17346</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ilú Obá de Min part. MC Tha</title>
-		<link>https://casanaturamusical.com.br/eventos/ilu-oba-de-min-part-mc-tha/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ilu-oba-de-min-part-mc-tha</link>
-		
-		<dc:creator><![CDATA[Douglas Silva]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 20:59:13 +0000</pubDate>
-				<guid isPermaLink="false">https://casanaturamusical.com.br/?post_type=eventos&#038;p=17341</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
