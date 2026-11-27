@@ -6,7 +6,14 @@
 <link>https://wiki.heptabase.com/changelog</link>
 <description>Heptabase version release notes (per version)</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:05:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:47:35 +0000</lastBuildDate>
+<item>
+<title>Mobile app v1.43.1</title>
+<link>https://wiki.heptabase.com/changelog/changelog#mobile-app-v1431</link>
+<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1431</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<description>Mobile App: Voice input in Quick Capture and AI Agent</description>
+</item>
 <item>
 <title>v1.118.0</title>
 <link>https://wiki.heptabase.com/changelog/changelog#v11180</link>
@@ -559,13 +566,6 @@
 <guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#mobile-app-v1353</guid>
 <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 <description>Mobile App: PDF highlight and annotation</description>
-</item>
-<item>
-<title>v1.92.1</title>
-<link>https://wiki.heptabase.com/changelog/changelog#v1921</link>
-<guid isPermaLink="true">https://wiki.heptabase.com/changelog/changelog#v1921</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<description>App: Live public link for cards</description>
 </item>
 </channel>
 </rss>
